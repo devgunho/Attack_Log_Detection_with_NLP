@@ -6,3 +6,5 @@
   - Online Judge ( RUET OJ) Server Log Dataset
   - https://www.kaggle.com/shawon10/web-log-dataset
 
+- Loghub: https://github.com/logpai/loghub
+  - Loghub maintains a collection of system logs, which are freely accessible for research purposes.
