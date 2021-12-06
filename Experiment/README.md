@@ -11,6 +11,8 @@ Input sentence: she is willing and able
 Decoded sentence: 'exists x1.(_able(x1) & _willing(x1))'
 ```
 
+<br/>
+
 ### Models
 
 1. Plain LSTM

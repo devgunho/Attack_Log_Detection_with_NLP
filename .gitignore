@@ -1,1 +1,6 @@
 .DS_Store
+
+# Experiment
+.ipynb_checkpoints/
+clean/
+trans/
