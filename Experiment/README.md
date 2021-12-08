@@ -1,4 +1,9 @@
-## Neural Machine Translation (seq2seq): English => Predicate Logic
+## Neural Machine Translation (seq2seq): English → Predicate Logic
+
+Predicate logic, first-order logic or quantified logic is a formal language in which propositions are expressed in terms of predicates, variables and quantifiers.
+It is different from propositional logic which lacks quantifiers.
+
+It should be viewed as an extension to propositional logic, in which the notions of truth values, logical connectives, etc still apply but propositional letters(which used to be atomic elements), will be replaced by a newer notion of proposition involving predicates and quantifiers.
 
 ```
 Input sentence: every cat likes fish
