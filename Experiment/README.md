@@ -30,5 +30,11 @@ Decoded sentence: 'exists x1.(_able(x1) & _willing(x1))'
 ## Experiment Env.
 
 ```
-conda
+# Make python packagelist.txt
+conda list --export > packagelist.txt
+
+# Using packagelist.txt file
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: osx-arm64
 ```
