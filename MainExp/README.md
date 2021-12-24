@@ -60,7 +60,6 @@ Clean data (N = 40000) ratio: 100.0%
 ### Model Info.
 
 ```
-__________________________________________________________________________________________________
  Layer (type)                   Output Shape         Param #     Connected to                     
 ==================================================================================================
  input_19 (InputLayer)          [(None, None, 37)]   0           []                               
@@ -88,7 +87,6 @@ ________________________________________________________________________________
 Total params: 99,573
 Trainable params: 99,573
 Non-trainable params: 0
-__________________________________________________________________________________________________
 ```
 
 ### Train
@@ -111,7 +109,10 @@ Epoch 28: early stopping
 ### Recognition
 
 ```
-
+TP : 1990
+TN : 10
+FP :
+FN :
 ```
 
 <br/>
@@ -123,20 +124,30 @@ Epoch 28: early stopping
 ### Data Info.
 
 ```
-
-```
-
-### Model Info.
-
-```
-
+Stats:
+------------------------
+------------------------
+N(X) == N(y) == 40000
+errs: 0
+Clean data (N = 40000) ratio: 100.0%
+------------------------
 ```
 
 ### Train
 
 ```
+accuracy
+	training         	 (min:    0.913, max:    0.987, cur:    0.987)
+	validation       	 (min:    0.975, max:    0.987, cur:    0.987)
+Loss
+	training         	 (min:    0.033, max:    0.333, cur:    0.033)
+	validation       	 (min:    0.032, max:    0.093, cur:    0.032)
 
+Epoch 30: val_loss did not improve from 0.03206
+563/563 [==============================] - 308s 548ms/step - loss: 0.0328 - accuracy: 0.9873 - val_loss: 0.0322 - val_accuracy: 0.9873
 ```
+
+![image-20221214090220787](./README.assets/image-20221214090220787.png)
 
 ### Recognition
 
@@ -151,12 +162,6 @@ Epoch 28: early stopping
 ## Hadoop
 
 ### Data Info.
-
-```
-
-```
-
-### Model Info.
 
 ```
 
