@@ -43,21 +43,7 @@ conda list --export > packagelist.txt
 
 <br/>
 
-## Windows
-
-### Data Info.
-
-```
-Stats:
-------------------------
-------------------------
-N(X) == N(y) == 40000
-errs: 0
-Clean data (N = 40000) ratio: 100.0%
-------------------------
-```
-
-### Model Info.
+## Model Description
 
 ```
  Layer (type)                   Output Shape         Param #     Connected to                     
@@ -89,6 +75,22 @@ Trainable params: 99,573
 Non-trainable params: 0
 ```
 
+<br/>
+
+## Windows
+
+### Data Info.
+
+```
+Stats:
+------------------------
+------------------------
+N(X) == N(y) == 40000
+errs: 0
+Clean data (N = 40000) ratio: 100.0%
+------------------------
+```
+
 ### Train
 
 ```
@@ -109,10 +111,13 @@ Epoch 28: early stopping
 ### Recognition
 
 ```
+# windows 2000
 TP : 1990
-TN : 10
-FP :
-FN :
+FN : 10
+
+# linux 2000 + hadoop 2000 + hdfs 2000 + spark 2000
+TN : 2645 
+FP : 2
 ```
 
 <br/>
@@ -147,12 +152,18 @@ Epoch 30: val_loss did not improve from 0.03206
 563/563 [==============================] - 308s 548ms/step - loss: 0.0328 - accuracy: 0.9873 - val_loss: 0.0322 - val_accuracy: 0.9873
 ```
 
-![image-20221214090220787](./README.assets/image-20221214090220787.png)
+![image-20221214090220787](./README.assets/linux-train.png)
 
 ### Recognition
 
 ```
+# linux 2000
+TP : 1895
+FN : 4
 
+# windows 2000 + hadoop 2000 + hdfs 2000 + spark 2000
+TN :  
+FP : 
 ```
 
 <br/>
@@ -170,8 +181,18 @@ Epoch 30: val_loss did not improve from 0.03206
 ### Train
 
 ```
+accuracy
+	training         	 (min:    0.891, max:    0.983, cur:    0.983)
+	validation       	 (min:    0.964, max:    0.983, cur:    0.983)
+Loss
+	training         	 (min:    0.046, max:    0.402, cur:    0.046)
+	validation       	 (min:    0.046, max:    0.128, cur:    0.046)
 
+Epoch 30: val_loss did not improve from 0.04569
+563/563 [==============================] - 4105s 7s/step - loss: 0.0463 - accuracy: 0.9831 - val_loss: 0.0457 - val_accuracy: 0.9832
 ```
+
+![image-20221220194946017](./README.assets/hadoop-train.png)
 
 ### Recognition
 
