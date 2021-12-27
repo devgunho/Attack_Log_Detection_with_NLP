@@ -1,13 +1,3 @@
-2015 10 18 18 04 09 096 info containerlauncher 9 org apache hadoop mapreduce v2 app launcher containerlauncherimpl processing the event eventtype container remote launch for container container 1445144423722 0020 01 000011 taskattempt attempt 1445144423722 0020 m 000009 0
-2015 10 18 18 04 09 096 info containerlauncher 9 org apache hadoop mapreduce v2 app launcher containerlauncherimpl launching attempt 1445144423722 0020 m 000009 0
-2015 10 18 18 04 09 096 info containerlauncher 9 org apache hadoop yarn client api impl containermanagementprotocolproxy opening proxy msra sa 39 fareast corp microsoft com 28345
-2015 10 18 18 04 09 268 info containerlauncher 9 org apache hadoop mapreduce v2 app launcher containerlauncherimpl shuffle port returned by containermanager for attempt 1445144423722 0020 m 000009 0 13562
-2015 10 18 18 04 09 268 info asyncdispatcher event handler org apache hadoop mapreduce v2 app job impl taskattemptimpl taskattempt attempt 1445144423722 0020 m 000009 0 using containerid container 1445144423722 0020 01 000011 on nm msra sa 39 fareast corp microsoft com 28345 
-2015 10 18 18 04 09 268 info asyncdispatcher event handler org apache hadoop mapreduce v2 app job impl taskattemptimpl attempt 1445144423722 0020 m 000009 0 taskattempt transitioned from assigned to running
-2015 10 18 18 04 09 268 info asyncdispatcher event handler org apache hadoop mapreduce v2 app speculate defaultspeculator attempt start task 1445144423722 0020 m 000009
-2015 10 18 18 04 09 268 info asyncdispatcher event handler org apache hadoop mapreduce v2 app job impl taskimpl task 1445144423722 0020 m 000009 task transitioned from scheduled to running
-2015 10 18 18 04 09 955 info ipc server handler 27 on 62270 org apache hadoop mapred taskattemptlistenerimpl progress of taskattempt attempt 1445144423722 0020 m 000001 0 is 0 27776006
-2015 10 18 18 04 10 002 info rmcommunicator allocator org apache hadoop mapreduce v2 app rm rmcontainerrequestor getresources for application 1445144423722 0020 ask 4 release 0 newcontainers 1 finishedcontainers 0 resourcelimit memory 0 vcores 27 knownnms 4
 2015 10 18 18 04 10 002 info rmcommunicator allocator org apache hadoop mapreduce v2 app rm rmcontainerallocator got allocated containers 1
 2015 10 18 18 04 10 002 info rmcommunicator allocator org apache hadoop mapreduce v2 app rm rmcontainerallocator cannot assign container container containerid container 1445144423722 0020 01 000012 nodeid msra sa 39 fareast corp microsoft com 28345 nodehttpaddress msra sa 39 fareast corp microsoft com 8042 resource memory 1024 vcores 1 priority 20 token token kind containertoken service 172 22 149 145 28345 for a map as either container memory less than required memory 1024 vcores 1 or no pending map tasks maps isempty true
 2015 10 18 18 04 10 002 info rmcommunicator allocator org apache hadoop mapreduce v2 app rm rmcontainerallocator recalculating schedule headroom memory 0 vcores 27 
@@ -3351,3 +3341,2003 @@
 081111 101804 26494 info dfs datanode dataxceiver receiving block blk 295306975763175640 src 10 250 9 207 53270 dest 10 250 9 207 50010
 081111 101954 26414 info dfs datanode packetresponder packetresponder 0 for block blk 5225719677049010638 terminating
 081111 102017 26347 info dfs datanode dataxceiver receiving block blk 4343207286455274569 src 10 250 9 207 59759 dest 10 250 9 207 50010
+17 06 09 20 10 40 info executor coarsegrainedexecutorbackend registered signal handlers for term hup int 
+17 06 09 20 10 40 info spark securitymanager changing view acls to yarn curi
+17 06 09 20 10 40 info spark securitymanager changing modify acls to yarn curi
+17 06 09 20 10 40 info spark securitymanager securitymanager authentication disabled ui acls disabled users with view permissions set yarn curi users with modify permissions set yarn curi 
+17 06 09 20 10 41 info spark securitymanager changing view acls to yarn curi
+17 06 09 20 10 41 info spark securitymanager changing modify acls to yarn curi
+17 06 09 20 10 41 info spark securitymanager securitymanager authentication disabled ui acls disabled users with view permissions set yarn curi users with modify permissions set yarn curi 
+17 06 09 20 10 41 info slf4j slf4jlogger slf4jlogger started
+17 06 09 20 10 41 info remoting starting remoting
+17 06 09 20 10 41 info remoting remoting started listening on addresses akka tcp sparkexecutoractorsystem mesos slave 07 55904 
+17 06 09 20 10 41 info util utils successfully started service sparkexecutoractorsystem on port 55904 
+17 06 09 20 10 41 info storage diskblockmanager created local directory at opt hdfs nodemanager usercache curi appcache application 1485248649253 0147 blockmgr 70293f72 844a 4b39 9ad6 fb0ad7e364e4
+17 06 09 20 10 41 info storage memorystore memorystore started with capacity 17 7 gb
+17 06 09 20 10 42 info executor coarsegrainedexecutorbackend connecting to driver spark coarsegrainedscheduler 10 10 34 11 48069
+17 06 09 20 10 42 info executor coarsegrainedexecutorbackend successfully registered with driver
+17 06 09 20 10 42 info executor executor starting executor id 5 on host mesos slave 07
+17 06 09 20 10 42 info util utils successfully started service org apache spark network netty nettyblocktransferservice on port 40984 
+17 06 09 20 10 42 info netty nettyblocktransferservice server created on 40984
+17 06 09 20 10 42 info storage blockmanagermaster trying to register blockmanager
+17 06 09 20 10 42 info storage blockmanagermaster registered blockmanager
+17 06 09 20 10 45 info executor coarsegrainedexecutorbackend got assigned task 0
+17 06 09 20 10 45 info executor coarsegrainedexecutorbackend got assigned task 1
+17 06 09 20 10 45 info executor coarsegrainedexecutorbackend got assigned task 2
+17 06 09 20 10 45 info executor coarsegrainedexecutorbackend got assigned task 3
+17 06 09 20 10 45 info executor executor running task 0 0 in stage 0 0 tid 0 
+17 06 09 20 10 45 info executor executor running task 2 0 in stage 0 0 tid 2 
+17 06 09 20 10 45 info executor executor running task 1 0 in stage 0 0 tid 1 
+17 06 09 20 10 45 info executor executor running task 3 0 in stage 0 0 tid 3 
+17 06 09 20 10 45 info executor coarsegrainedexecutorbackend got assigned task 4
+17 06 09 20 10 45 info executor executor running task 4 0 in stage 0 0 tid 4 
+17 06 09 20 10 45 info broadcast torrentbroadcast started reading broadcast variable 9
+17 06 09 20 10 45 info storage memorystore block broadcast 9 piece0 stored as bytes in memory estimated size 5 2 kb free 5 2 kb 
+17 06 09 20 10 45 info broadcast torrentbroadcast reading broadcast variable 9 took 160 ms
+17 06 09 20 10 46 info storage memorystore block broadcast 9 stored as values in memory estimated size 8 8 kb free 14 0 kb 
+17 06 09 20 10 46 info spark cachemanager partition rdd 2 1 not found computing it
+17 06 09 20 10 46 info spark cachemanager partition rdd 2 3 not found computing it
+17 06 09 20 10 46 info spark cachemanager partition rdd 2 0 not found computing it
+17 06 09 20 10 46 info spark cachemanager partition rdd 2 2 not found computing it
+17 06 09 20 10 46 info spark cachemanager partition rdd 2 4 not found computing it
+17 06 09 20 10 46 info rdd hadooprdd input split hdfs 10 10 34 11 9000 pjhe logs 2ksosp log 21876 7292
+17 06 09 20 10 46 info rdd hadooprdd input split hdfs 10 10 34 11 9000 pjhe logs 2ksosp log 14584 7292
+17 06 09 20 10 46 info rdd hadooprdd input split hdfs 10 10 34 11 9000 pjhe logs 2ksosp log 0 7292
+17 06 09 20 10 46 info rdd hadooprdd input split hdfs 10 10 34 11 9000 pjhe logs 2ksosp log 7292 7292
+17 06 09 20 10 46 info rdd hadooprdd input split hdfs 10 10 34 11 9000 pjhe logs 2ksosp log 29168 7292
+17 06 09 20 10 46 info broadcast torrentbroadcast started reading broadcast variable 8
+17 06 09 20 10 46 info storage memorystore block broadcast 8 piece0 stored as bytes in memory estimated size 21 4 kb free 35 4 kb 
+17 06 09 20 10 46 info broadcast torrentbroadcast reading broadcast variable 8 took 19 ms
+17 06 09 20 10 46 info storage memorystore block broadcast 8 stored as values in memory estimated size 281 6 kb free 317 0 kb 
+17 06 09 20 10 47 info configuration deprecation mapred tip id is deprecated instead use mapreduce task id
+17 06 09 20 10 47 info configuration deprecation mapred task id is deprecated instead use mapreduce task attempt id
+17 06 09 20 10 47 info configuration deprecation mapred task is map is deprecated instead use mapreduce task ismap
+17 06 09 20 10 47 info configuration deprecation mapred job id is deprecated instead use mapreduce job id
+17 06 09 20 10 47 info configuration deprecation mapred task partition is deprecated instead use mapreduce task partition
+17 06 09 20 10 48 info broadcast torrentbroadcast started reading broadcast variable 0
+17 06 09 20 10 48 info storage memorystore block broadcast 0 piece0 stored as bytes in memory estimated size 93 0 b free 317 1 kb 
+17 06 09 20 10 48 info broadcast torrentbroadcast reading broadcast variable 0 took 21 ms
+17 06 09 20 10 48 info storage memorystore block broadcast 0 stored as values in memory estimated size 384 0 b free 317 5 kb 
+17 06 09 20 10 48 info broadcast torrentbroadcast started reading broadcast variable 4
+17 06 09 20 10 48 info storage memorystore block broadcast 4 piece0 stored as bytes in memory estimated size 95 0 b free 317 6 kb 
+17 06 09 20 10 48 info broadcast torrentbroadcast reading broadcast variable 4 took 18 ms
+17 06 09 20 10 48 info storage memorystore block broadcast 4 stored as values in memory estimated size 384 0 b free 318 0 kb 
+17 06 09 20 10 48 info broadcast torrentbroadcast started reading broadcast variable 3
+17 06 09 20 10 48 info storage memorystore block broadcast 3 piece0 stored as bytes in memory estimated size 152 0 b free 318 1 kb 
+17 06 09 20 10 48 info broadcast torrentbroadcast reading broadcast variable 3 took 17 ms
+17 06 09 20 10 48 info storage memorystore block broadcast 3 stored as values in memory estimated size 384 0 b free 318 5 kb 
+17 06 09 20 10 48 info broadcast torrentbroadcast started reading broadcast variable 1
+17 06 09 20 10 48 info storage memorystore block broadcast 1 piece0 stored as bytes in memory estimated size 107 0 b free 318 6 kb 
+17 06 09 20 10 48 info broadcast torrentbroadcast reading broadcast variable 1 took 16 ms
+17 06 09 20 10 48 info storage memorystore block broadcast 1 stored as values in memory estimated size 384 0 b free 319 0 kb 
+17 06 09 20 10 48 info broadcast torrentbroadcast started reading broadcast variable 2
+17 06 09 20 10 48 info storage memorystore block broadcast 2 piece0 stored as bytes in memory estimated size 93 0 b free 319 0 kb 
+17 06 09 20 10 48 info broadcast torrentbroadcast reading broadcast variable 2 took 16 ms
+17 06 09 20 10 48 info storage memorystore block broadcast 2 stored as values in memory estimated size 384 0 b free 319 4 kb 
+17 06 09 20 10 48 info python pythonrunner times total 1072 boot 856 init 210 finish 6
+17 06 09 20 10 48 info python pythonrunner times total 1114 boot 885 init 223 finish 6
+17 06 09 20 10 48 info python pythonrunner times total 1074 boot 869 init 199 finish 6
+17 06 09 20 10 48 info python pythonrunner times total 1078 boot 851 init 219 finish 8
+17 06 09 20 10 48 info python pythonrunner times total 1077 boot 865 init 206 finish 6
+17 06 09 20 10 48 info storage memorystore block rdd 2 2 stored as bytes in memory estimated size 850 0 b free 320 3 kb 
+17 06 09 20 10 48 info storage memorystore block rdd 2 3 stored as bytes in memory estimated size 930 0 b free 321 2 kb 
+17 06 09 20 10 48 info storage memorystore block rdd 2 1 stored as bytes in memory estimated size 935 0 b free 322 1 kb 
+17 06 09 20 10 48 info storage memorystore block rdd 2 0 stored as bytes in memory estimated size 913 0 b free 323 0 kb 
+17 06 09 20 10 48 info storage memorystore block rdd 2 4 stored as bytes in memory estimated size 890 0 b free 323 8 kb 
+17 06 09 20 10 48 info python pythonrunner times total 38 boot 11 init 27 finish 0
+17 06 09 20 10 48 info python pythonrunner times total 42 boot 12 init 30 finish 0
+17 06 09 20 10 48 info python pythonrunner times total 41 boot 15 init 26 finish 0
+17 06 09 20 10 48 info python pythonrunner times total 40 boot 7 init 33 finish 0
+17 06 09 20 10 48 info python pythonrunner times total 42 boot 13 init 28 finish 1
+17 06 09 20 10 48 info executor executor finished task 3 0 in stage 0 0 tid 3 2703 bytes result sent to driver
+17 06 09 20 10 48 info executor executor finished task 1 0 in stage 0 0 tid 1 2703 bytes result sent to driver
+17 06 09 20 10 48 info executor executor finished task 2 0 in stage 0 0 tid 2 2703 bytes result sent to driver
+17 06 09 20 10 48 info executor executor finished task 4 0 in stage 0 0 tid 4 2703 bytes result sent to driver
+17 06 09 20 10 48 info executor executor finished task 0 0 in stage 0 0 tid 0 2703 bytes result sent to driver
+17 06 09 20 10 52 info executor coarsegrainedexecutorbackend got assigned task 42
+17 06 09 20 10 52 info executor executor running task 0 0 in stage 1 0 tid 42 
+17 06 09 20 10 52 info executor coarsegrainedexecutorbackend got assigned task 56
+17 06 09 20 10 52 info executor executor running task 1 0 in stage 1 0 tid 56 
+17 06 09 20 10 52 info executor coarsegrainedexecutorbackend got assigned task 69
+17 06 09 20 10 52 info broadcast torrentbroadcast started reading broadcast variable 10
+17 06 09 20 10 52 info executor executor running task 2 0 in stage 1 0 tid 69 
+17 06 09 20 10 52 info executor coarsegrainedexecutorbackend got assigned task 78
+17 06 09 20 10 52 info executor executor running task 3 0 in stage 1 0 tid 78 
+17 06 09 20 10 52 info executor coarsegrainedexecutorbackend got assigned task 79
+17 06 09 20 10 52 info executor executor running task 4 0 in stage 1 0 tid 79 
+17 06 09 20 10 52 info storage memorystore block broadcast 10 piece0 stored as bytes in memory estimated size 5 8 kb free 329 6 kb 
+17 06 09 20 10 52 info broadcast torrentbroadcast reading broadcast variable 10 took 17 ms
+17 06 09 20 10 52 info storage memorystore block broadcast 10 stored as values in memory estimated size 9 6 kb free 339 2 kb 
+17 06 09 20 10 52 info storage blockmanager found block rdd 2 0 locally
+17 06 09 20 10 52 info storage blockmanager found block rdd 2 3 locally
+17 06 09 20 10 52 info storage blockmanager found block rdd 2 4 locally
+17 06 09 20 10 52 info storage blockmanager found block rdd 2 2 locally
+17 06 09 20 10 52 info storage blockmanager found block rdd 2 1 locally
+17 06 09 20 10 52 info python pythonrunner times total 42 boot 4131 init 4172 finish 1
+17 06 09 20 10 52 info python pythonrunner times total 41 boot 4122 init 4162 finish 1
+17 06 09 20 10 52 info python pythonrunner times total 42 boot 4121 init 4162 finish 1
+17 06 09 20 10 52 info python pythonrunner times total 42 boot 4138 init 4179 finish 1
+17 06 09 20 10 52 info python pythonrunner times total 42 boot 4134 init 4175 finish 1
+17 06 09 20 10 52 info executor executor finished task 4 0 in stage 1 0 tid 79 2685 bytes result sent to driver
+17 06 09 20 10 52 info executor executor finished task 1 0 in stage 1 0 tid 56 2428 bytes result sent to driver
+17 06 09 20 10 52 info executor executor finished task 0 0 in stage 1 0 tid 42 2474 bytes result sent to driver
+17 06 09 20 10 52 info executor executor finished task 3 0 in stage 1 0 tid 78 2651 bytes result sent to driver
+17 06 09 20 10 52 info executor executor finished task 2 0 in stage 1 0 tid 69 2523 bytes result sent to driver
+17 06 09 20 10 52 info executor coarsegrainedexecutorbackend got assigned task 87
+17 06 09 20 10 52 info executor executor running task 0 0 in stage 2 0 tid 87 
+17 06 09 20 10 52 info executor coarsegrainedexecutorbackend got assigned task 101
+17 06 09 20 10 52 info executor executor running task 1 0 in stage 2 0 tid 101 
+17 06 09 20 10 52 info executor coarsegrainedexecutorbackend got assigned task 112
+17 06 09 20 10 52 info executor executor running task 2 0 in stage 2 0 tid 112 
+17 06 09 20 10 52 info executor coarsegrainedexecutorbackend got assigned task 118
+17 06 09 20 10 52 info executor executor running task 3 0 in stage 2 0 tid 118 
+17 06 09 20 10 52 info broadcast torrentbroadcast started reading broadcast variable 11
+17 06 09 20 10 52 info executor coarsegrainedexecutorbackend got assigned task 119
+17 06 09 20 10 52 info executor executor running task 4 0 in stage 2 0 tid 119 
+17 06 09 20 10 52 info storage memorystore block broadcast 11 piece0 stored as bytes in memory estimated size 5 4 kb free 344 7 kb 
+17 06 09 20 10 52 info broadcast torrentbroadcast reading broadcast variable 11 took 15 ms
+17 06 09 20 10 52 info storage memorystore block broadcast 11 stored as values in memory estimated size 9 2 kb free 353 9 kb 
+17 06 09 20 10 52 info storage blockmanager found block rdd 2 4 locally
+17 06 09 20 10 52 info storage blockmanager found block rdd 2 3 locally
+17 06 09 20 10 52 info storage blockmanager found block rdd 2 2 locally
+17 06 09 20 10 52 info storage blockmanager found block rdd 2 0 locally
+17 06 09 20 10 52 info storage blockmanager found block rdd 2 1 locally
+17 06 09 20 10 52 info python pythonrunner times total 39 boot 147 init 186 finish 0
+17 06 09 20 10 52 info python pythonrunner times total 39 boot 147 init 186 finish 0
+17 06 09 20 10 52 info python pythonrunner times total 41 boot 139 init 179 finish 1
+17 06 09 20 10 52 info python pythonrunner times total 38 boot 156 init 194 finish 0
+17 06 09 20 10 52 info python pythonrunner times total 39 boot 159 init 198 finish 0
+17 06 09 20 10 52 info executor executor finished task 4 0 in stage 2 0 tid 119 2087 bytes result sent to driver
+17 06 09 20 10 52 info executor executor finished task 2 0 in stage 2 0 tid 112 2087 bytes result sent to driver
+17 06 09 20 10 52 info executor executor finished task 3 0 in stage 2 0 tid 118 2087 bytes result sent to driver
+17 06 09 20 10 52 info executor executor finished task 1 0 in stage 2 0 tid 101 2087 bytes result sent to driver
+17 06 09 20 10 52 info executor executor finished task 0 0 in stage 2 0 tid 87 2087 bytes result sent to driver
+17 06 09 20 10 53 info executor coarsegrainedexecutorbackend got assigned task 122
+17 06 09 20 10 53 info executor executor running task 0 0 in stage 3 0 tid 122 
+17 06 09 20 10 53 info executor coarsegrainedexecutorbackend got assigned task 136
+17 06 09 20 10 53 info executor executor running task 1 0 in stage 3 0 tid 136 
+17 06 09 20 10 53 info executor coarsegrainedexecutorbackend got assigned task 150
+17 06 09 20 10 53 info executor executor running task 2 0 in stage 3 0 tid 150 
+17 06 09 20 10 53 info executor coarsegrainedexecutorbackend got assigned task 158
+17 06 09 20 10 53 info executor executor running task 3 0 in stage 3 0 tid 158 
+17 06 09 20 10 53 info broadcast torrentbroadcast started reading broadcast variable 12
+17 06 09 20 10 53 info executor coarsegrainedexecutorbackend got assigned task 159
+17 06 09 20 10 53 info executor executor running task 4 0 in stage 3 0 tid 159 
+17 06 09 20 10 53 info storage memorystore block broadcast 12 piece0 stored as bytes in memory estimated size 5 6 kb free 359 4 kb 
+17 06 09 20 10 53 info broadcast torrentbroadcast reading broadcast variable 12 took 30 ms
+17 06 09 20 10 53 info storage memorystore block broadcast 12 stored as values in memory estimated size 9 8 kb free 369 3 kb 
+17 06 09 20 10 53 info spark cachemanager partition rdd 6 4 not found computing it
+17 06 09 20 10 53 info spark cachemanager partition rdd 6 3 not found computing it
+17 06 09 20 10 53 info spark cachemanager partition rdd 6 0 not found computing it
+17 06 09 20 10 53 info spark cachemanager partition rdd 6 1 not found computing it
+17 06 09 20 10 53 info spark cachemanager partition rdd 6 2 not found computing it
+17 06 09 20 10 53 info storage blockmanager found block rdd 2 4 locally
+17 06 09 20 10 53 info storage blockmanager found block rdd 2 3 locally
+17 06 09 20 10 53 info storage blockmanager found block rdd 2 1 locally
+17 06 09 20 10 53 info storage blockmanager found block rdd 2 0 locally
+17 06 09 20 10 53 info storage blockmanager found block rdd 2 2 locally
+17 06 09 20 10 53 info python pythonrunner times total 38 boot 170 init 208 finish 0
+17 06 09 20 10 53 info python pythonrunner times total 41 boot 171 init 212 finish 0
+17 06 09 20 10 53 info python pythonrunner times total 41 boot 160 init 200 finish 1
+17 06 09 20 10 53 info python pythonrunner times total 38 boot 172 init 210 finish 0
+17 06 09 20 10 53 info python pythonrunner times total 40 boot 173 init 213 finish 0
+17 06 09 20 10 53 info storage memorystore block rdd 6 4 stored as bytes in memory estimated size 287 0 b free 369 5 kb 
+17 06 09 20 10 53 info storage memorystore block rdd 6 3 stored as bytes in memory estimated size 344 0 b free 369 9 kb 
+17 06 09 20 10 53 info storage memorystore block rdd 6 1 stored as bytes in memory estimated size 330 0 b free 370 2 kb 
+17 06 09 20 10 53 info storage memorystore block rdd 6 2 stored as bytes in memory estimated size 252 0 b free 370 4 kb 
+17 06 09 20 10 53 info storage memorystore block rdd 6 0 stored as bytes in memory estimated size 265 0 b free 370 7 kb 
+17 06 09 20 10 53 info python pythonrunner times total 38 boot 14 init 24 finish 0
+17 06 09 20 10 53 info python pythonrunner times total 38 boot 12 init 26 finish 0
+17 06 09 20 10 53 info python pythonrunner times total 41 boot 19 init 22 finish 0
+17 06 09 20 10 53 info executor executor finished task 4 0 in stage 3 0 tid 159 2667 bytes result sent to driver
+17 06 09 20 10 53 info python pythonrunner times total 41 boot 16 init 25 finish 0
+17 06 09 20 10 53 info executor executor finished task 3 0 in stage 3 0 tid 158 2667 bytes result sent to driver
+17 06 09 20 10 53 info python pythonrunner times total 40 boot 5 init 35 finish 0
+17 06 09 20 10 53 info executor executor finished task 1 0 in stage 3 0 tid 136 2667 bytes result sent to driver
+17 06 09 20 10 53 info executor executor finished task 2 0 in stage 3 0 tid 150 2667 bytes result sent to driver
+17 06 09 20 10 53 info executor executor finished task 0 0 in stage 3 0 tid 122 2667 bytes result sent to driver
+17 06 09 20 10 53 info executor coarsegrainedexecutorbackend got assigned task 171
+17 06 09 20 10 53 info executor executor running task 0 0 in stage 4 0 tid 171 
+17 06 09 20 10 53 info executor coarsegrainedexecutorbackend got assigned task 185
+17 06 09 20 10 53 info executor executor running task 1 0 in stage 4 0 tid 185 
+17 06 09 20 10 53 info broadcast torrentbroadcast started reading broadcast variable 13
+17 06 09 20 10 53 info executor coarsegrainedexecutorbackend got assigned task 195
+17 06 09 20 10 53 info executor executor running task 2 0 in stage 4 0 tid 195 
+17 06 09 20 10 53 info executor coarsegrainedexecutorbackend got assigned task 198
+17 06 09 20 10 53 info executor executor running task 3 0 in stage 4 0 tid 198 
+17 06 09 20 10 53 info executor coarsegrainedexecutorbackend got assigned task 199
+17 06 09 20 10 53 info executor executor running task 4 0 in stage 4 0 tid 199 
+17 06 09 20 10 53 info storage memorystore block broadcast 13 piece0 stored as bytes in memory estimated size 5 7 kb free 376 4 kb 
+17 06 09 20 10 53 info broadcast torrentbroadcast reading broadcast variable 13 took 41 ms
+17 06 09 20 10 53 info storage memorystore block broadcast 13 stored as values in memory estimated size 10 1 kb free 386 5 kb 
+17 06 09 20 10 53 info storage blockmanager found block rdd 6 0 locally
+17 06 09 20 10 53 info storage blockmanager found block rdd 6 4 locally
+17 06 09 20 10 53 info storage blockmanager found block rdd 6 3 locally
+17 06 09 20 10 53 info storage blockmanager found block rdd 6 2 locally
+17 06 09 20 10 53 info storage blockmanager found block rdd 6 1 locally
+17 06 09 20 10 53 info python pythonrunner times total 39 boot 141 init 180 finish 0
+17 06 09 20 10 53 info python pythonrunner times total 40 boot 129 init 169 finish 0
+17 06 09 20 10 53 info python pythonrunner times total 41 boot 134 init 175 finish 0
+17 06 09 20 10 53 info python pythonrunner times total 39 boot 123 init 162 finish 0
+17 06 09 20 10 53 info python pythonrunner times total 42 boot 125 init 166 finish 1
+17 06 09 20 10 53 info executor executor finished task 0 0 in stage 4 0 tid 171 2099 bytes result sent to driver
+17 06 09 20 10 53 info executor executor finished task 1 0 in stage 4 0 tid 185 2099 bytes result sent to driver
+17 06 09 20 10 53 info executor executor finished task 2 0 in stage 4 0 tid 195 2138 bytes result sent to driver
+17 06 09 20 10 53 info executor executor finished task 3 0 in stage 4 0 tid 198 2099 bytes result sent to driver
+17 06 09 20 10 53 info executor executor finished task 4 0 in stage 4 0 tid 199 2138 bytes result sent to driver
+17 06 09 20 10 53 info executor coarsegrainedexecutorbackend got assigned task 206
+17 06 09 20 10 53 info executor executor running task 0 0 in stage 5 0 tid 206 
+17 06 09 20 10 53 info executor coarsegrainedexecutorbackend got assigned task 220
+17 06 09 20 10 53 info executor executor running task 1 0 in stage 5 0 tid 220 
+17 06 09 20 10 53 info executor coarsegrainedexecutorbackend got assigned task 231
+17 06 09 20 10 53 info executor executor running task 2 0 in stage 5 0 tid 231 
+17 06 09 20 10 53 info broadcast torrentbroadcast started reading broadcast variable 14
+17 06 09 20 10 53 info executor coarsegrainedexecutorbackend got assigned task 238
+17 06 09 20 10 53 info executor executor running task 3 0 in stage 5 0 tid 238 
+17 06 09 20 10 53 info executor coarsegrainedexecutorbackend got assigned task 239
+17 06 09 20 10 53 info executor executor running task 4 0 in stage 5 0 tid 239 
+17 06 09 20 10 53 info storage memorystore block broadcast 14 piece0 stored as bytes in memory estimated size 5 8 kb free 392 3 kb 
+17 06 09 20 10 53 info broadcast torrentbroadcast reading broadcast variable 14 took 12 ms
+17 06 09 20 10 53 info storage memorystore block broadcast 14 stored as values in memory estimated size 9 6 kb free 401 9 kb 
+17 06 09 20 10 53 info storage blockmanager found block rdd 2 0 locally
+17 06 09 20 10 53 info storage blockmanager found block rdd 2 4 locally
+17 06 09 20 10 53 info storage blockmanager found block rdd 2 3 locally
+17 06 09 20 10 53 info storage blockmanager found block rdd 2 2 locally
+17 06 09 20 10 53 info storage blockmanager found block rdd 2 1 locally
+17 06 09 20 10 53 info python pythonrunner times total 39 boot 85 init 123 finish 1
+17 06 09 20 10 53 info python pythonrunner times total 40 boot 77 init 117 finish 0
+17 06 09 20 10 53 info python pythonrunner times total 39 boot 81 init 119 finish 1
+17 06 09 20 10 53 info python pythonrunner times total 40 boot 78 init 117 finish 1
+17 06 09 20 10 53 info python pythonrunner times total 42 boot 79 init 120 finish 1
+17 06 09 20 10 53 info executor executor finished task 0 0 in stage 5 0 tid 206 2198 bytes result sent to driver
+17 06 09 20 10 53 info executor executor finished task 3 0 in stage 5 0 tid 238 2198 bytes result sent to driver
+17 06 09 20 10 53 info executor executor finished task 2 0 in stage 5 0 tid 231 2198 bytes result sent to driver
+17 06 09 20 10 53 info executor executor finished task 4 0 in stage 5 0 tid 239 2198 bytes result sent to driver
+17 06 09 20 10 53 info executor executor finished task 1 0 in stage 5 0 tid 220 2272 bytes result sent to driver
+17 06 09 20 10 53 info executor coarsegrainedexecutorbackend got assigned task 247
+17 06 09 20 10 53 info executor executor running task 0 0 in stage 6 0 tid 247 
+17 06 09 20 10 53 info executor coarsegrainedexecutorbackend got assigned task 261
+17 06 09 20 10 53 info executor executor running task 1 0 in stage 6 0 tid 261 
+17 06 09 20 10 53 info executor coarsegrainedexecutorbackend got assigned task 273
+17 06 09 20 10 53 info executor executor running task 2 0 in stage 6 0 tid 273 
+17 06 09 20 10 53 info broadcast torrentbroadcast started reading broadcast variable 15
+17 06 09 20 10 53 info executor coarsegrainedexecutorbackend got assigned task 278
+17 06 09 20 10 53 info executor executor running task 3 0 in stage 6 0 tid 278 
+17 06 09 20 10 53 info executor coarsegrainedexecutorbackend got assigned task 279
+17 06 09 20 10 53 info executor executor running task 4 0 in stage 6 0 tid 279 
+17 06 09 20 10 53 info storage memorystore block broadcast 15 piece0 stored as bytes in memory estimated size 5 4 kb free 407 4 kb 
+17 06 09 20 10 53 info broadcast torrentbroadcast reading broadcast variable 15 took 15 ms
+17 06 09 20 10 53 info storage memorystore block broadcast 15 stored as values in memory estimated size 9 2 kb free 416 6 kb 
+17 06 09 20 10 53 info storage blockmanager found block rdd 2 0 locally
+17 06 09 20 10 53 info storage blockmanager found block rdd 2 4 locally
+17 06 09 20 10 53 info storage blockmanager found block rdd 2 3 locally
+17 06 09 20 10 53 info storage blockmanager found block rdd 2 2 locally
+17 06 09 20 10 53 info storage blockmanager found block rdd 2 1 locally
+17 06 09 20 10 53 info python pythonrunner times total 39 boot 107 init 146 finish 0
+17 06 09 20 10 53 info python pythonrunner times total 41 boot 100 init 141 finish 0
+17 06 09 20 10 53 info python pythonrunner times total 42 boot 99 init 141 finish 0
+17 06 09 20 10 53 info python pythonrunner times total 39 boot 103 init 142 finish 0
+17 06 09 20 10 53 info python pythonrunner times total 42 boot 101 init 143 finish 0
+17 06 09 20 10 53 info executor executor finished task 0 0 in stage 6 0 tid 247 2087 bytes result sent to driver
+17 06 09 20 10 53 info executor executor finished task 3 0 in stage 6 0 tid 278 2087 bytes result sent to driver
+17 06 09 20 10 53 info executor executor finished task 2 0 in stage 6 0 tid 273 2087 bytes result sent to driver
+17 06 09 20 10 53 info executor executor finished task 4 0 in stage 6 0 tid 279 2087 bytes result sent to driver
+17 06 09 20 10 53 info executor executor finished task 1 0 in stage 6 0 tid 261 2087 bytes result sent to driver
+17 06 09 20 10 53 info executor coarsegrainedexecutorbackend got assigned task 285
+17 06 09 20 10 53 info executor executor running task 0 0 in stage 7 0 tid 285 
+17 06 09 20 10 53 info executor coarsegrainedexecutorbackend got assigned task 299
+17 06 09 20 10 53 info executor executor running task 1 0 in stage 7 0 tid 299 
+17 06 09 20 10 53 info executor coarsegrainedexecutorbackend got assigned task 312
+17 06 09 20 10 53 info executor executor running task 2 0 in stage 7 0 tid 312 
+17 06 09 20 10 53 info executor coarsegrainedexecutorbackend got assigned task 318
+17 06 09 20 10 53 info executor executor running task 3 0 in stage 7 0 tid 318 
+17 06 09 20 10 53 info broadcast torrentbroadcast started reading broadcast variable 16
+17 06 09 20 10 53 info executor coarsegrainedexecutorbackend got assigned task 319
+17 06 09 20 10 53 info executor executor running task 4 0 in stage 7 0 tid 319 
+17 06 09 20 10 53 info storage memorystore block broadcast 16 piece0 stored as bytes in memory estimated size 5 6 kb free 422 1 kb 
+17 06 09 20 10 53 info broadcast torrentbroadcast reading broadcast variable 16 took 13 ms
+17 06 09 20 10 53 info storage memorystore block broadcast 16 stored as values in memory estimated size 9 8 kb free 432 0 kb 
+17 06 09 20 10 53 info spark cachemanager partition rdd 11 0 not found computing it
+17 06 09 20 10 53 info spark cachemanager partition rdd 11 4 not found computing it
+17 06 09 20 10 53 info spark cachemanager partition rdd 11 3 not found computing it
+17 06 09 20 10 53 info spark cachemanager partition rdd 11 2 not found computing it
+17 06 09 20 10 53 info spark cachemanager partition rdd 11 1 not found computing it
+17 06 09 20 10 53 info storage blockmanager found block rdd 2 0 locally
+17 06 09 20 10 53 info storage blockmanager found block rdd 2 4 locally
+17 06 09 20 10 53 info storage blockmanager found block rdd 2 3 locally
+17 06 09 20 10 53 info storage blockmanager found block rdd 2 2 locally
+17 06 09 20 10 53 info storage blockmanager found block rdd 2 1 locally
+17 06 09 20 10 53 info python pythonrunner times total 39 boot 110 init 149 finish 0
+17 06 09 20 10 53 info python pythonrunner times total 39 boot 105 init 144 finish 0
+17 06 09 20 10 53 info python pythonrunner times total 42 boot 103 init 144 finish 1
+17 06 09 20 10 53 info python pythonrunner times total 41 boot 107 init 148 finish 0
+17 06 09 20 10 53 info python pythonrunner times total 42 boot 107 init 148 finish 1
+17 06 09 20 10 53 info storage memorystore block rdd 11 0 stored as bytes in memory estimated size 152 0 b free 432 1 kb 
+17 06 09 20 10 53 info storage memorystore block rdd 11 3 stored as bytes in memory estimated size 157 0 b free 432 3 kb 
+17 06 09 20 10 53 info storage memorystore block rdd 11 4 stored as bytes in memory estimated size 145 0 b free 432 4 kb 
+17 06 09 20 10 53 info storage memorystore block rdd 11 2 stored as bytes in memory estimated size 199 0 b free 432 6 kb 
+17 06 09 20 10 53 info storage memorystore block rdd 11 1 stored as bytes in memory estimated size 160 0 b free 432 7 kb 
+17 06 09 20 10 54 info python pythonrunner times total 38 boot 17 init 21 finish 0
+17 06 09 20 10 54 info python pythonrunner times total 41 boot 28 init 13 finish 0
+17 06 09 20 10 54 info python pythonrunner times total 38 boot 18 init 20 finish 0
+17 06 09 20 10 54 info python pythonrunner times total 40 boot 19 init 21 finish 0
+17 06 09 20 10 54 info python pythonrunner times total 41 boot 17 init 24 finish 0
+17 06 09 20 10 54 info executor executor finished task 0 0 in stage 7 0 tid 285 2667 bytes result sent to driver
+17 06 09 20 10 54 info executor executor finished task 3 0 in stage 7 0 tid 318 2667 bytes result sent to driver
+17 06 09 20 10 54 info executor executor finished task 4 0 in stage 7 0 tid 319 2667 bytes result sent to driver
+17 06 09 20 10 54 info executor executor finished task 1 0 in stage 7 0 tid 299 2667 bytes result sent to driver
+17 06 09 20 10 54 info executor executor finished task 2 0 in stage 7 0 tid 312 2667 bytes result sent to driver
+17 06 09 20 10 54 info executor coarsegrainedexecutorbackend got assigned task 321
+17 06 09 20 10 54 info executor executor running task 0 0 in stage 8 0 tid 321 
+17 06 09 20 10 54 info executor coarsegrainedexecutorbackend got assigned task 335
+17 06 09 20 10 54 info executor executor running task 1 0 in stage 8 0 tid 335 
+17 06 09 20 10 54 info executor coarsegrainedexecutorbackend got assigned task 349
+17 06 09 20 10 54 info executor executor running task 2 0 in stage 8 0 tid 349 
+17 06 09 20 10 54 info broadcast torrentbroadcast started reading broadcast variable 17
+17 06 09 20 10 54 info executor coarsegrainedexecutorbackend got assigned task 358
+17 06 09 20 10 54 info executor executor running task 3 0 in stage 8 0 tid 358 
+17 06 09 20 10 54 info executor coarsegrainedexecutorbackend got assigned task 359
+17 06 09 20 10 54 info executor executor running task 4 0 in stage 8 0 tid 359 
+17 06 09 20 10 54 info storage memorystore block broadcast 17 piece0 stored as bytes in memory estimated size 5 7 kb free 438 5 kb 
+17 06 09 20 10 54 info broadcast torrentbroadcast reading broadcast variable 17 took 12 ms
+17 06 09 20 10 54 info storage memorystore block broadcast 17 stored as values in memory estimated size 10 1 kb free 448 6 kb 
+17 06 09 20 10 54 info storage blockmanager found block rdd 11 0 locally
+17 06 09 20 10 54 info storage blockmanager found block rdd 11 4 locally
+17 06 09 20 10 54 info storage blockmanager found block rdd 11 3 locally
+17 06 09 20 10 54 info storage blockmanager found block rdd 11 2 locally
+17 06 09 20 10 54 info storage blockmanager found block rdd 11 1 locally
+17 06 09 20 10 54 info python pythonrunner times total 39 boot 109 init 148 finish 0
+17 06 09 20 10 54 info python pythonrunner times total 41 boot 107 init 148 finish 0
+17 06 09 20 10 54 info python pythonrunner times total 39 boot 103 init 142 finish 0
+17 06 09 20 10 54 info python pythonrunner times total 41 boot 104 init 144 finish 1
+17 06 09 20 10 54 info python pythonrunner times total 42 boot 107 init 149 finish 0
+17 06 09 20 10 54 info executor executor finished task 0 0 in stage 8 0 tid 321 2141 bytes result sent to driver
+17 06 09 20 10 54 info executor executor finished task 2 0 in stage 8 0 tid 349 2141 bytes result sent to driver
+17 06 09 20 10 54 info executor executor finished task 4 0 in stage 8 0 tid 359 2141 bytes result sent to driver
+17 06 09 20 10 54 info executor executor finished task 3 0 in stage 8 0 tid 358 2141 bytes result sent to driver
+17 06 09 20 10 54 info executor executor finished task 1 0 in stage 8 0 tid 335 2111 bytes result sent to driver
+17 06 09 20 10 54 info executor coarsegrainedexecutorbackend got assigned task 360
+17 06 09 20 10 54 info executor executor running task 0 0 in stage 9 0 tid 360 
+17 06 09 20 10 54 info executor coarsegrainedexecutorbackend got assigned task 374
+17 06 09 20 10 54 info executor executor running task 1 0 in stage 9 0 tid 374 
+17 06 09 20 10 54 info executor coarsegrainedexecutorbackend got assigned task 388
+17 06 09 20 10 54 info executor executor running task 2 0 in stage 9 0 tid 388 
+17 06 09 20 10 54 info executor coarsegrainedexecutorbackend got assigned task 398
+17 06 09 20 10 54 info broadcast torrentbroadcast started reading broadcast variable 18
+17 06 09 20 10 54 info executor executor running task 3 0 in stage 9 0 tid 398 
+17 06 09 20 10 54 info executor coarsegrainedexecutorbackend got assigned task 399
+17 06 09 20 10 54 info executor executor running task 4 0 in stage 9 0 tid 399 
+17 06 09 20 10 54 info storage memorystore block broadcast 18 piece0 stored as bytes in memory estimated size 5 8 kb free 454 4 kb 
+17 06 09 20 10 54 info broadcast torrentbroadcast reading broadcast variable 18 took 12 ms
+17 06 09 20 10 54 info storage memorystore block broadcast 18 stored as values in memory estimated size 9 6 kb free 464 0 kb 
+17 06 09 20 10 54 info storage blockmanager found block rdd 2 0 locally
+17 06 09 20 10 54 info storage blockmanager found block rdd 2 4 locally
+17 06 09 20 10 54 info storage blockmanager found block rdd 2 3 locally
+17 06 09 20 10 54 info storage blockmanager found block rdd 2 2 locally
+17 06 09 20 10 54 info storage blockmanager found block rdd 2 1 locally
+17 06 09 20 10 54 info python pythonrunner times total 39 boot 73 init 111 finish 1
+17 06 09 20 10 54 info python pythonrunner times total 40 boot 75 init 114 finish 1
+17 06 09 20 10 54 info python pythonrunner times total 41 boot 75 init 115 finish 1
+17 06 09 20 10 54 info python pythonrunner times total 40 boot 75 init 114 finish 1
+17 06 09 20 10 54 info python pythonrunner times total 42 boot 67 init 108 finish 1
+17 06 09 20 10 54 info executor executor finished task 0 0 in stage 9 0 tid 360 2239 bytes result sent to driver
+17 06 09 20 10 54 info executor executor finished task 2 0 in stage 9 0 tid 388 2239 bytes result sent to driver
+17 06 09 20 10 54 info executor executor finished task 3 0 in stage 9 0 tid 398 2239 bytes result sent to driver
+17 06 09 20 10 54 info executor executor finished task 1 0 in stage 9 0 tid 374 2298 bytes result sent to driver
+17 06 09 20 10 54 info executor executor finished task 4 0 in stage 9 0 tid 399 2239 bytes result sent to driver
+17 06 09 20 10 54 info executor coarsegrainedexecutorbackend got assigned task 402
+17 06 09 20 10 54 info executor executor running task 0 0 in stage 10 0 tid 402 
+17 06 09 20 10 54 info executor coarsegrainedexecutorbackend got assigned task 416
+17 06 09 20 10 54 info executor executor running task 1 0 in stage 10 0 tid 416 
+17 06 09 20 10 54 info executor coarsegrainedexecutorbackend got assigned task 430
+17 06 09 20 10 54 info executor executor running task 2 0 in stage 10 0 tid 430 
+17 06 09 20 10 54 info executor coarsegrainedexecutorbackend got assigned task 438
+17 06 09 20 10 54 info executor executor running task 3 0 in stage 10 0 tid 438 
+17 06 09 20 10 54 info broadcast torrentbroadcast started reading broadcast variable 19
+17 06 09 20 10 54 info executor coarsegrainedexecutorbackend got assigned task 439
+17 06 09 20 10 54 info executor executor running task 4 0 in stage 10 0 tid 439 
+17 06 09 20 10 54 info storage memorystore block broadcast 19 piece0 stored as bytes in memory estimated size 5 4 kb free 469 4 kb 
+17 06 09 20 10 54 info broadcast torrentbroadcast reading broadcast variable 19 took 12 ms
+17 06 09 20 10 54 info storage memorystore block broadcast 19 stored as values in memory estimated size 9 2 kb free 478 6 kb 
+17 06 09 20 10 54 info storage blockmanager found block rdd 2 0 locally
+17 06 09 20 10 54 info storage blockmanager found block rdd 2 4 locally
+17 06 09 20 10 54 info storage blockmanager found block rdd 2 3 locally
+17 06 09 20 10 54 info storage blockmanager found block rdd 2 2 locally
+17 06 09 20 10 54 info storage blockmanager found block rdd 2 1 locally
+17 06 09 20 10 54 info python pythonrunner times total 39 boot 124 init 163 finish 0
+17 06 09 20 10 54 info python pythonrunner times total 38 boot 123 init 161 finish 0
+17 06 09 20 10 54 info python pythonrunner times total 41 boot 126 init 167 finish 0
+17 06 09 20 10 54 info python pythonrunner times total 40 boot 127 init 167 finish 0
+17 06 09 20 10 54 info python pythonrunner times total 41 boot 115 init 155 finish 1
+17 06 09 20 10 54 info executor executor finished task 3 0 in stage 10 0 tid 438 2087 bytes result sent to driver
+17 06 09 20 10 54 info executor executor finished task 0 0 in stage 10 0 tid 402 2087 bytes result sent to driver
+17 06 09 20 10 54 info executor executor finished task 4 0 in stage 10 0 tid 439 2087 bytes result sent to driver
+17 06 09 20 10 54 info executor executor finished task 2 0 in stage 10 0 tid 430 2087 bytes result sent to driver
+17 06 09 20 10 54 info executor executor finished task 1 0 in stage 10 0 tid 416 2087 bytes result sent to driver
+17 06 09 20 10 54 info executor coarsegrainedexecutorbackend got assigned task 450
+17 06 09 20 10 54 info executor executor running task 0 0 in stage 11 0 tid 450 
+17 06 09 20 10 54 info executor coarsegrainedexecutorbackend got assigned task 464
+17 06 09 20 10 54 info executor executor running task 1 0 in stage 11 0 tid 464 
+17 06 09 20 10 54 info executor coarsegrainedexecutorbackend got assigned task 475
+17 06 09 20 10 54 info executor executor running task 2 0 in stage 11 0 tid 475 
+17 06 09 20 10 54 info executor coarsegrainedexecutorbackend got assigned task 478
+17 06 09 20 10 54 info broadcast torrentbroadcast started reading broadcast variable 20
+17 06 09 20 10 54 info executor executor running task 3 0 in stage 11 0 tid 478 
+17 06 09 20 10 54 info executor coarsegrainedexecutorbackend got assigned task 479
+17 06 09 20 10 54 info executor executor running task 4 0 in stage 11 0 tid 479 
+17 06 09 20 10 54 info storage memorystore block broadcast 20 piece0 stored as bytes in memory estimated size 5 5 kb free 416 7 kb 
+17 06 09 20 10 54 info broadcast torrentbroadcast reading broadcast variable 20 took 15 ms
+17 06 09 20 10 54 info storage memorystore block broadcast 20 stored as values in memory estimated size 9 8 kb free 411 6 kb 
+17 06 09 20 10 54 info spark cachemanager partition rdd 16 0 not found computing it
+17 06 09 20 10 54 info spark cachemanager partition rdd 16 4 not found computing it
+17 06 09 20 10 54 info spark cachemanager partition rdd 16 3 not found computing it
+17 06 09 20 10 54 info spark cachemanager partition rdd 16 2 not found computing it
+17 06 09 20 10 54 info spark cachemanager partition rdd 16 1 not found computing it
+17 06 09 20 10 54 info storage blockmanager found block rdd 2 0 locally
+17 06 09 20 10 54 info storage blockmanager found block rdd 2 4 locally
+17 06 09 20 10 54 info storage blockmanager found block rdd 2 3 locally
+17 06 09 20 10 54 info storage blockmanager found block rdd 2 2 locally
+17 06 09 20 10 54 info storage blockmanager found block rdd 2 1 locally
+17 06 09 20 10 54 info python pythonrunner times total 40 boot 95 init 135 finish 0
+17 06 09 20 10 54 info python pythonrunner times total 39 boot 96 init 135 finish 0
+17 06 09 20 10 54 info python pythonrunner times total 42 boot 95 init 137 finish 0
+17 06 09 20 10 54 info python pythonrunner times total 42 boot 97 init 139 finish 0
+17 06 09 20 10 54 info python pythonrunner times total 43 boot 85 init 127 finish 1
+17 06 09 20 10 54 info storage memorystore block rdd 16 4 stored as bytes in memory estimated size 263 0 b free 386 4 kb 
+17 06 09 20 10 54 info storage memorystore block rdd 16 0 stored as bytes in memory estimated size 191 0 b free 386 6 kb 
+17 06 09 20 10 54 info storage memorystore block rdd 16 3 stored as bytes in memory estimated size 232 0 b free 386 8 kb 
+17 06 09 20 10 54 info storage memorystore block rdd 16 2 stored as bytes in memory estimated size 230 0 b free 387 0 kb 
+17 06 09 20 10 54 info storage memorystore block rdd 16 1 stored as bytes in memory estimated size 351 0 b free 387 4 kb 
+17 06 09 20 10 54 info python pythonrunner times total 39 boot 22 init 17 finish 0
+17 06 09 20 10 54 info python pythonrunner times total 41 boot 20 init 21 finish 0
+17 06 09 20 10 54 info python pythonrunner times total 40 boot 20 init 20 finish 0
+17 06 09 20 10 54 info executor executor finished task 4 0 in stage 11 0 tid 479 2667 bytes result sent to driver
+17 06 09 20 10 54 info python pythonrunner times total 41 boot 16 init 25 finish 0
+17 06 09 20 10 54 info python pythonrunner times total 40 boot 26 init 14 finish 0
+17 06 09 20 10 54 info executor executor finished task 0 0 in stage 11 0 tid 450 2667 bytes result sent to driver
+17 06 09 20 10 54 info executor executor finished task 3 0 in stage 11 0 tid 478 2667 bytes result sent to driver
+17 06 09 20 10 54 info executor executor finished task 2 0 in stage 11 0 tid 475 2667 bytes result sent to driver
+17 06 09 20 10 54 info executor executor finished task 1 0 in stage 11 0 tid 464 2667 bytes result sent to driver
+17 06 09 20 10 54 info executor coarsegrainedexecutorbackend got assigned task 480
+17 06 09 20 10 54 info executor executor running task 0 0 in stage 12 0 tid 480 
+17 06 09 20 10 54 info executor coarsegrainedexecutorbackend got assigned task 494
+17 06 09 20 10 54 info executor executor running task 1 0 in stage 12 0 tid 494 
+17 06 09 20 10 54 info executor coarsegrainedexecutorbackend got assigned task 508
+17 06 09 20 10 54 info broadcast torrentbroadcast started reading broadcast variable 21
+17 06 09 20 10 54 info executor executor running task 2 0 in stage 12 0 tid 508 
+17 06 09 20 10 54 info executor coarsegrainedexecutorbackend got assigned task 518
+17 06 09 20 10 54 info executor executor running task 3 0 in stage 12 0 tid 518 
+17 06 09 20 10 54 info executor coarsegrainedexecutorbackend got assigned task 519
+17 06 09 20 10 54 info executor executor running task 4 0 in stage 12 0 tid 519 
+17 06 09 20 10 54 info storage memorystore block broadcast 21 piece0 stored as bytes in memory estimated size 5 7 kb free 393 1 kb 
+17 06 09 20 10 54 info broadcast torrentbroadcast reading broadcast variable 21 took 11 ms
+17 06 09 20 10 54 info storage memorystore block broadcast 21 stored as values in memory estimated size 10 1 kb free 403 2 kb 
+17 06 09 20 10 54 info storage blockmanager found block rdd 16 0 locally
+17 06 09 20 10 54 info storage blockmanager found block rdd 16 4 locally
+17 06 09 20 10 54 info storage blockmanager found block rdd 16 3 locally
+17 06 09 20 10 54 info storage blockmanager found block rdd 16 2 locally
+17 06 09 20 10 54 info storage blockmanager found block rdd 16 1 locally
+17 06 09 20 10 55 info python pythonrunner times total 37 boot 162 init 199 finish 0
+17 06 09 20 10 55 info python pythonrunner times total 40 boot 157 init 197 finish 0
+17 06 09 20 10 55 info python pythonrunner times total 39 boot 157 init 196 finish 0
+17 06 09 20 10 55 info python pythonrunner times total 38 boot 146 init 184 finish 0
+17 06 09 20 10 55 info python pythonrunner times total 40 boot 156 init 196 finish 0
+17 06 09 20 10 55 info executor executor finished task 0 0 in stage 12 0 tid 480 2155 bytes result sent to driver
+17 06 09 20 10 55 info executor executor finished task 3 0 in stage 12 0 tid 518 2155 bytes result sent to driver
+17 06 09 20 10 55 info executor executor finished task 4 0 in stage 12 0 tid 519 2155 bytes result sent to driver
+17 06 09 20 10 55 info executor executor finished task 1 0 in stage 12 0 tid 494 2105 bytes result sent to driver
+17 06 09 20 10 55 info executor executor finished task 2 0 in stage 12 0 tid 508 2155 bytes result sent to driver
+17 06 09 20 10 55 info executor coarsegrainedexecutorbackend got assigned task 528
+17 06 09 20 10 55 info executor executor running task 0 0 in stage 13 0 tid 528 
+17 06 09 20 10 55 info executor coarsegrainedexecutorbackend got assigned task 542
+17 06 09 20 10 55 info executor executor running task 1 0 in stage 13 0 tid 542 
+17 06 09 20 10 55 info executor coarsegrainedexecutorbackend got assigned task 553
+17 06 09 20 10 55 info executor executor running task 2 0 in stage 13 0 tid 553 
+17 06 09 20 10 55 info broadcast torrentbroadcast started reading broadcast variable 22
+17 06 09 20 10 55 info executor coarsegrainedexecutorbackend got assigned task 558
+17 06 09 20 10 55 info executor executor running task 3 0 in stage 13 0 tid 558 
+17 06 09 20 10 55 info executor coarsegrainedexecutorbackend got assigned task 559
+17 06 09 20 10 55 info executor executor running task 4 0 in stage 13 0 tid 559 
+17 06 09 20 10 55 info storage memorystore block broadcast 22 piece0 stored as bytes in memory estimated size 5 8 kb free 409 0 kb 
+17 06 09 20 10 55 info broadcast torrentbroadcast reading broadcast variable 22 took 11 ms
+17 06 09 20 10 55 info storage memorystore block broadcast 22 stored as values in memory estimated size 9 6 kb free 418 6 kb 
+17 06 09 20 10 55 info storage blockmanager found block rdd 2 0 locally
+17 06 09 20 10 55 info storage blockmanager found block rdd 2 4 locally
+17 06 09 20 10 55 info storage blockmanager found block rdd 2 3 locally
+17 06 09 20 10 55 info storage blockmanager found block rdd 2 2 locally
+17 06 09 20 10 55 info storage blockmanager found block rdd 2 1 locally
+17 06 09 20 10 55 info python pythonrunner times total 39 boot 76 init 114 finish 1
+17 06 09 20 10 55 info python pythonrunner times total 42 boot 73 init 114 finish 1
+17 06 09 20 10 55 info python pythonrunner times total 42 boot 73 init 114 finish 1
+17 06 09 20 10 55 info python pythonrunner times total 41 boot 67 init 107 finish 1
+17 06 09 20 10 55 info python pythonrunner times total 40 boot 74 init 113 finish 1
+17 06 09 20 10 55 info executor executor finished task 0 0 in stage 13 0 tid 528 2256 bytes result sent to driver
+17 06 09 20 10 55 info executor executor finished task 4 0 in stage 13 0 tid 559 2241 bytes result sent to driver
+17 06 09 20 10 55 info executor executor finished task 2 0 in stage 13 0 tid 553 2241 bytes result sent to driver
+17 06 09 20 10 55 info executor executor finished task 1 0 in stage 13 0 tid 542 2241 bytes result sent to driver
+17 06 09 20 10 55 info executor executor finished task 3 0 in stage 13 0 tid 558 2257 bytes result sent to driver
+17 06 09 20 10 55 info executor coarsegrainedexecutorbackend got assigned task 562
+17 06 09 20 10 55 info executor executor running task 0 0 in stage 14 0 tid 562 
+17 06 09 20 10 55 info executor coarsegrainedexecutorbackend got assigned task 576
+17 06 09 20 10 55 info executor executor running task 1 0 in stage 14 0 tid 576 
+17 06 09 20 10 55 info executor coarsegrainedexecutorbackend got assigned task 590
+17 06 09 20 10 55 info executor executor running task 2 0 in stage 14 0 tid 590 
+17 06 09 20 10 55 info broadcast torrentbroadcast started reading broadcast variable 23
+17 06 09 20 10 55 info executor coarsegrainedexecutorbackend got assigned task 598
+17 06 09 20 10 55 info executor executor running task 3 0 in stage 14 0 tid 598 
+17 06 09 20 10 55 info executor coarsegrainedexecutorbackend got assigned task 599
+17 06 09 20 10 55 info executor executor running task 4 0 in stage 14 0 tid 599 
+17 06 09 20 10 55 info storage memorystore block broadcast 23 piece0 stored as bytes in memory estimated size 5 4 kb free 378 2 kb 
+17 06 09 20 10 55 info broadcast torrentbroadcast reading broadcast variable 23 took 11 ms
+17 06 09 20 10 55 info storage memorystore block broadcast 23 stored as values in memory estimated size 9 2 kb free 387 4 kb 
+17 06 09 20 10 55 info storage blockmanager found block rdd 2 0 locally
+17 06 09 20 10 55 info storage blockmanager found block rdd 2 4 locally
+17 06 09 20 10 55 info storage blockmanager found block rdd 2 3 locally
+17 06 09 20 10 55 info storage blockmanager found block rdd 2 2 locally
+17 06 09 20 10 55 info storage blockmanager found block rdd 2 1 locally
+17 06 09 20 10 55 info python pythonrunner times total 39 boot 90 init 129 finish 0
+17 06 09 20 10 55 info python pythonrunner times total 40 boot 93 init 133 finish 0
+17 06 09 20 10 55 info python pythonrunner times total 39 boot 90 init 129 finish 0
+17 06 09 20 10 55 info python pythonrunner times total 38 boot 82 init 120 finish 0
+17 06 09 20 10 55 info python pythonrunner times total 42 boot 92 init 133 finish 1
+17 06 09 20 10 55 info executor executor finished task 3 0 in stage 14 0 tid 598 2087 bytes result sent to driver
+17 06 09 20 10 55 info executor executor finished task 2 0 in stage 14 0 tid 590 2087 bytes result sent to driver
+17 06 09 20 10 55 info executor executor finished task 0 0 in stage 14 0 tid 562 2087 bytes result sent to driver
+17 06 09 20 10 55 info executor executor finished task 4 0 in stage 14 0 tid 599 2087 bytes result sent to driver
+17 06 09 20 10 55 info executor executor finished task 1 0 in stage 14 0 tid 576 2087 bytes result sent to driver
+17 06 09 20 10 55 info executor coarsegrainedexecutorbackend got assigned task 612
+17 06 09 20 10 55 info executor executor running task 0 0 in stage 15 0 tid 612 
+17 06 09 20 10 55 info executor coarsegrainedexecutorbackend got assigned task 626
+17 06 09 20 10 55 info executor executor running task 1 0 in stage 15 0 tid 626 
+17 06 09 20 10 55 info executor coarsegrainedexecutorbackend got assigned task 636
+17 06 09 20 10 55 info executor executor running task 2 0 in stage 15 0 tid 636 
+17 06 09 20 10 55 info executor coarsegrainedexecutorbackend got assigned task 638
+17 06 09 20 10 55 info executor executor running task 3 0 in stage 15 0 tid 638 
+17 06 09 20 10 55 info executor coarsegrainedexecutorbackend got assigned task 639
+17 06 09 20 10 55 info executor executor running task 4 0 in stage 15 0 tid 639 
+17 06 09 20 10 55 info broadcast torrentbroadcast started reading broadcast variable 24
+17 06 09 20 10 55 info storage memorystore block broadcast 24 piece0 stored as bytes in memory estimated size 5 6 kb free 393 0 kb 
+17 06 09 20 10 55 info broadcast torrentbroadcast reading broadcast variable 24 took 10 ms
+17 06 09 20 10 55 info storage memorystore block broadcast 24 stored as values in memory estimated size 9 8 kb free 402 8 kb 
+17 06 09 20 10 55 info spark cachemanager partition rdd 21 1 not found computing it
+17 06 09 20 10 55 info spark cachemanager partition rdd 21 4 not found computing it
+17 06 09 20 10 55 info spark cachemanager partition rdd 21 3 not found computing it
+17 06 09 20 10 55 info spark cachemanager partition rdd 21 2 not found computing it
+17 06 09 20 10 55 info spark cachemanager partition rdd 21 0 not found computing it
+17 06 09 20 10 55 info storage blockmanager found block rdd 2 1 locally
+17 06 09 20 10 55 info storage blockmanager found block rdd 2 4 locally
+17 06 09 20 10 55 info storage blockmanager found block rdd 2 3 locally
+17 06 09 20 10 55 info storage blockmanager found block rdd 2 2 locally
+17 06 09 20 10 55 info storage blockmanager found block rdd 2 0 locally
+17 06 09 20 10 55 info python pythonrunner times total 40 boot 95 init 135 finish 0
+17 06 09 20 10 55 info python pythonrunner times total 39 boot 96 init 135 finish 0
+17 06 09 20 10 55 info python pythonrunner times total 41 boot 98 init 139 finish 0
+17 06 09 20 10 55 info python pythonrunner times total 40 boot 99 init 139 finish 0
+17 06 09 20 10 55 info python pythonrunner times total 40 boot 95 init 135 finish 0
+17 06 09 20 10 55 info storage memorystore block rdd 21 1 stored as bytes in memory estimated size 162 0 b free 403 0 kb 
+17 06 09 20 10 55 info storage memorystore block rdd 21 4 stored as bytes in memory estimated size 200 0 b free 403 2 kb 
+17 06 09 20 10 55 info storage memorystore block rdd 21 3 stored as bytes in memory estimated size 194 0 b free 403 4 kb 
+17 06 09 20 10 55 info storage memorystore block rdd 21 2 stored as bytes in memory estimated size 163 0 b free 403 5 kb 
+17 06 09 20 10 55 info storage memorystore block rdd 21 0 stored as bytes in memory estimated size 244 0 b free 403 8 kb 
+17 06 09 20 10 55 info python pythonrunner times total 38 boot 19 init 19 finish 0
+17 06 09 20 10 55 info python pythonrunner times total 39 boot 20 init 19 finish 0
+17 06 09 20 10 55 info python pythonrunner times total 38 boot 19 init 19 finish 0
+17 06 09 20 10 55 info python pythonrunner times total 40 boot 17 init 23 finish 0
+17 06 09 20 10 55 info executor executor finished task 1 0 in stage 15 0 tid 626 2667 bytes result sent to driver
+17 06 09 20 10 55 info python pythonrunner times total 42 boot 18 init 24 finish 0
+17 06 09 20 10 55 info executor executor finished task 3 0 in stage 15 0 tid 638 2667 bytes result sent to driver
+17 06 09 20 10 55 info executor executor finished task 4 0 in stage 15 0 tid 639 2667 bytes result sent to driver
+17 06 09 20 10 55 info executor executor finished task 2 0 in stage 15 0 tid 636 2667 bytes result sent to driver
+17 06 09 20 10 55 info executor executor finished task 0 0 in stage 15 0 tid 612 2667 bytes result sent to driver
+17 06 09 20 10 55 info executor coarsegrainedexecutorbackend got assigned task 643
+17 06 09 20 10 55 info executor executor running task 0 0 in stage 16 0 tid 643 
+17 06 09 20 10 55 info executor coarsegrainedexecutorbackend got assigned task 657
+17 06 09 20 10 55 info executor executor running task 1 0 in stage 16 0 tid 657 
+17 06 09 20 10 55 info executor coarsegrainedexecutorbackend got assigned task 671
+17 06 09 20 10 55 info executor executor running task 2 0 in stage 16 0 tid 671 
+17 06 09 20 10 55 info executor coarsegrainedexecutorbackend got assigned task 678
+17 06 09 20 10 55 info broadcast torrentbroadcast started reading broadcast variable 25
+17 06 09 20 10 55 info executor executor running task 3 0 in stage 16 0 tid 678 
+17 06 09 20 10 55 info executor coarsegrainedexecutorbackend got assigned task 679
+17 06 09 20 10 55 info executor executor running task 4 0 in stage 16 0 tid 679 
+17 06 09 20 10 55 info storage memorystore block broadcast 25 piece0 stored as bytes in memory estimated size 5 7 kb free 409 5 kb 
+17 06 09 20 10 55 info broadcast torrentbroadcast reading broadcast variable 25 took 11 ms
+17 06 09 20 10 55 info storage memorystore block broadcast 25 stored as values in memory estimated size 10 1 kb free 419 6 kb 
+17 06 09 20 10 55 info storage blockmanager found block rdd 21 0 locally
+17 06 09 20 10 55 info storage blockmanager found block rdd 21 4 locally
+17 06 09 20 10 55 info storage blockmanager found block rdd 21 3 locally
+17 06 09 20 10 55 info storage blockmanager found block rdd 21 2 locally
+17 06 09 20 10 55 info storage blockmanager found block rdd 21 1 locally
+17 06 09 20 10 55 info python pythonrunner times total 39 boot 104 init 143 finish 0
+17 06 09 20 10 55 info python pythonrunner times total 41 boot 104 init 145 finish 0
+17 06 09 20 10 55 info python pythonrunner times total 39 boot 106 init 145 finish 0
+17 06 09 20 10 55 info python pythonrunner times total 39 boot 106 init 145 finish 0
+17 06 09 20 10 55 info python pythonrunner times total 43 boot 104 init 146 finish 1
+17 06 09 20 10 55 info executor executor finished task 2 0 in stage 16 0 tid 671 2163 bytes result sent to driver
+17 06 09 20 10 55 info executor executor finished task 3 0 in stage 16 0 tid 678 2151 bytes result sent to driver
+17 06 09 20 10 55 info executor executor finished task 4 0 in stage 16 0 tid 679 2163 bytes result sent to driver
+17 06 09 20 10 55 info executor executor finished task 0 0 in stage 16 0 tid 643 2151 bytes result sent to driver
+17 06 09 20 10 55 info executor executor finished task 1 0 in stage 16 0 tid 657 2163 bytes result sent to driver
+17 06 09 20 10 55 info executor coarsegrainedexecutorbackend got assigned task 692
+17 06 09 20 10 55 info executor executor running task 0 0 in stage 17 0 tid 692 
+17 06 09 20 10 55 info executor coarsegrainedexecutorbackend got assigned task 706
+17 06 09 20 10 55 info executor executor running task 1 0 in stage 17 0 tid 706 
+17 06 09 20 10 55 info executor coarsegrainedexecutorbackend got assigned task 716
+17 06 09 20 10 55 info executor executor running task 2 0 in stage 17 0 tid 716 
+17 06 09 20 10 55 info executor coarsegrainedexecutorbackend got assigned task 718
+17 06 09 20 10 55 info broadcast torrentbroadcast started reading broadcast variable 26
+17 06 09 20 10 55 info executor executor running task 3 0 in stage 17 0 tid 718 
+17 06 09 20 10 55 info executor coarsegrainedexecutorbackend got assigned task 719
+17 06 09 20 10 55 info executor executor running task 4 0 in stage 17 0 tid 719 
+17 06 09 20 10 55 info storage memorystore block broadcast 26 piece0 stored as bytes in memory estimated size 5 8 kb free 379 9 kb 
+17 06 09 20 10 55 info broadcast torrentbroadcast reading broadcast variable 26 took 10 ms
+17 06 09 20 10 55 info storage memorystore block broadcast 26 stored as values in memory estimated size 9 7 kb free 389 6 kb 
+17 06 09 20 10 55 info storage blockmanager found block rdd 2 0 locally
+17 06 09 20 10 55 info storage blockmanager found block rdd 2 4 locally
+17 06 09 20 10 55 info storage blockmanager found block rdd 2 3 locally
+17 06 09 20 10 55 info storage blockmanager found block rdd 2 2 locally
+17 06 09 20 10 55 info storage blockmanager found block rdd 2 1 locally
+17 06 09 20 10 55 info python pythonrunner times total 42 boot 69 init 110 finish 1
+17 06 09 20 10 55 info python pythonrunner times total 40 boot 71 init 110 finish 1
+17 06 09 20 10 55 info python pythonrunner times total 39 boot 73 init 111 finish 1
+17 06 09 20 10 55 info python pythonrunner times total 44 boot 72 init 115 finish 1
+17 06 09 20 10 55 info python pythonrunner times total 42 boot 71 init 112 finish 1
+17 06 09 20 10 55 info executor executor finished task 4 0 in stage 17 0 tid 719 2156 bytes result sent to driver
+17 06 09 20 10 55 info executor executor finished task 0 0 in stage 17 0 tid 692 2156 bytes result sent to driver
+17 06 09 20 10 55 info executor executor finished task 2 0 in stage 17 0 tid 716 2156 bytes result sent to driver
+17 06 09 20 10 55 info executor executor finished task 3 0 in stage 17 0 tid 718 2156 bytes result sent to driver
+17 06 09 20 10 55 info executor executor finished task 1 0 in stage 17 0 tid 706 2156 bytes result sent to driver
+17 06 09 20 10 55 info executor coarsegrainedexecutorbackend got assigned task 722
+17 06 09 20 10 55 info executor executor running task 0 0 in stage 18 0 tid 722 
+17 06 09 20 10 55 info executor coarsegrainedexecutorbackend got assigned task 736
+17 06 09 20 10 55 info executor executor running task 1 0 in stage 18 0 tid 736 
+17 06 09 20 10 55 info executor coarsegrainedexecutorbackend got assigned task 750
+17 06 09 20 10 55 info executor executor running task 2 0 in stage 18 0 tid 750 
+17 06 09 20 10 55 info executor coarsegrainedexecutorbackend got assigned task 758
+17 06 09 20 10 55 info executor executor running task 3 0 in stage 18 0 tid 758 
+17 06 09 20 10 55 info broadcast torrentbroadcast started reading broadcast variable 27
+17 06 09 20 10 55 info executor coarsegrainedexecutorbackend got assigned task 759
+17 06 09 20 10 55 info executor executor running task 4 0 in stage 18 0 tid 759 
+17 06 09 20 10 55 info storage memorystore block broadcast 27 piece0 stored as bytes in memory estimated size 5 4 kb free 395 0 kb 
+17 06 09 20 10 55 info broadcast torrentbroadcast reading broadcast variable 27 took 10 ms
+17 06 09 20 10 55 info storage memorystore block broadcast 27 stored as values in memory estimated size 9 2 kb free 404 2 kb 
+17 06 09 20 10 55 info storage blockmanager found block rdd 2 0 locally
+17 06 09 20 10 55 info storage blockmanager found block rdd 2 4 locally
+17 06 09 20 10 55 info storage blockmanager found block rdd 2 3 locally
+17 06 09 20 10 55 info storage blockmanager found block rdd 2 2 locally
+17 06 09 20 10 55 info storage blockmanager found block rdd 2 1 locally
+17 06 09 20 10 56 info python pythonrunner times total 38 boot 77 init 115 finish 0
+17 06 09 20 10 56 info python pythonrunner times total 40 boot 76 init 115 finish 1
+17 06 09 20 10 56 info python pythonrunner times total 40 boot 75 init 115 finish 0
+17 06 09 20 10 56 info python pythonrunner times total 42 boot 74 init 115 finish 1
+17 06 09 20 10 56 info executor executor finished task 4 0 in stage 18 0 tid 759 2087 bytes result sent to driver
+17 06 09 20 10 56 info executor executor finished task 0 0 in stage 18 0 tid 722 2087 bytes result sent to driver
+17 06 09 20 10 56 info executor executor finished task 3 0 in stage 18 0 tid 758 2087 bytes result sent to driver
+17 06 09 20 10 56 info executor executor finished task 1 0 in stage 18 0 tid 736 2087 bytes result sent to driver
+17 06 09 20 10 56 info python pythonrunner times total 42 boot 74 init 115 finish 1
+17 06 09 20 10 56 info executor executor finished task 2 0 in stage 18 0 tid 750 2087 bytes result sent to driver
+17 06 09 20 10 56 info executor coarsegrainedexecutorbackend got assigned task 762
+17 06 09 20 10 56 info executor executor running task 0 0 in stage 19 0 tid 762 
+17 06 09 20 10 56 info executor coarsegrainedexecutorbackend got assigned task 776
+17 06 09 20 10 56 info executor executor running task 1 0 in stage 19 0 tid 776 
+17 06 09 20 10 56 info executor coarsegrainedexecutorbackend got assigned task 789
+17 06 09 20 10 56 info executor executor running task 2 0 in stage 19 0 tid 789 
+17 06 09 20 10 56 info executor coarsegrainedexecutorbackend got assigned task 798
+17 06 09 20 10 56 info executor executor running task 3 0 in stage 19 0 tid 798 
+17 06 09 20 10 56 info broadcast torrentbroadcast started reading broadcast variable 28
+17 06 09 20 10 56 info executor coarsegrainedexecutorbackend got assigned task 799
+17 06 09 20 10 56 info executor executor running task 4 0 in stage 19 0 tid 799 
+17 06 09 20 10 56 info storage memorystore block broadcast 28 piece0 stored as bytes in memory estimated size 5 6 kb free 409 8 kb 
+17 06 09 20 10 56 info broadcast torrentbroadcast reading broadcast variable 28 took 9 ms
+17 06 09 20 10 56 info storage memorystore block broadcast 28 stored as values in memory estimated size 9 8 kb free 419 6 kb 
+17 06 09 20 10 56 info spark cachemanager partition rdd 26 0 not found computing it
+17 06 09 20 10 56 info spark cachemanager partition rdd 26 4 not found computing it
+17 06 09 20 10 56 info spark cachemanager partition rdd 26 3 not found computing it
+17 06 09 20 10 56 info spark cachemanager partition rdd 26 2 not found computing it
+17 06 09 20 10 56 info spark cachemanager partition rdd 26 1 not found computing it
+17 06 09 20 10 56 info storage blockmanager found block rdd 2 0 locally
+17 06 09 20 10 56 info storage blockmanager found block rdd 2 4 locally
+17 06 09 20 10 56 info storage blockmanager found block rdd 2 3 locally
+17 06 09 20 10 56 info storage blockmanager found block rdd 2 2 locally
+17 06 09 20 10 56 info storage blockmanager found block rdd 2 1 locally
+17 06 09 20 10 56 info python pythonrunner times total 40 boot 79 init 119 finish 0
+17 06 09 20 10 56 info python pythonrunner times total 41 boot 82 init 123 finish 0
+17 06 09 20 10 56 info python pythonrunner times total 41 boot 82 init 123 finish 0
+17 06 09 20 10 56 info storage memorystore block rdd 26 0 stored as bytes in memory estimated size 16 0 b free 419 6 kb 
+17 06 09 20 10 56 info storage memorystore block rdd 26 3 stored as bytes in memory estimated size 16 0 b free 419 6 kb 
+17 06 09 20 10 56 info storage memorystore block rdd 26 4 stored as bytes in memory estimated size 16 0 b free 419 6 kb 
+17 06 09 20 10 56 info python pythonrunner times total 41 boot 67 init 107 finish 1
+17 06 09 20 10 56 info python pythonrunner times total 42 boot 66 init 107 finish 1
+17 06 09 20 10 56 info storage memorystore block rdd 26 2 stored as bytes in memory estimated size 16 0 b free 419 7 kb 
+17 06 09 20 10 56 info storage memorystore block rdd 26 1 stored as bytes in memory estimated size 16 0 b free 419 7 kb 
+17 06 09 20 10 56 info python pythonrunner times total 38 boot 23 init 15 finish 0
+17 06 09 20 10 56 info executor executor finished task 0 0 in stage 19 0 tid 762 2667 bytes result sent to driver
+17 06 09 20 10 56 info python pythonrunner times total 40 boot 20 init 20 finish 0
+17 06 09 20 10 56 info python pythonrunner times total 41 boot 23 init 18 finish 0
+17 06 09 20 10 56 info executor executor finished task 3 0 in stage 19 0 tid 798 2667 bytes result sent to driver
+17 06 09 20 10 56 info executor executor finished task 4 0 in stage 19 0 tid 799 2667 bytes result sent to driver
+17 06 09 20 10 56 info python pythonrunner times total 39 boot 18 init 21 finish 0
+17 06 09 20 10 56 info python pythonrunner times total 39 boot 18 init 21 finish 0
+17 06 09 20 10 56 info executor executor finished task 1 0 in stage 19 0 tid 776 2667 bytes result sent to driver
+17 06 09 20 10 56 info executor executor finished task 2 0 in stage 19 0 tid 789 2667 bytes result sent to driver
+17 06 09 20 10 56 info executor coarsegrainedexecutorbackend got assigned task 807
+17 06 09 20 10 56 info executor executor running task 0 0 in stage 20 0 tid 807 
+17 06 09 20 10 56 info executor coarsegrainedexecutorbackend got assigned task 821
+17 06 09 20 10 56 info executor executor running task 1 0 in stage 20 0 tid 821 
+17 06 09 20 10 56 info executor coarsegrainedexecutorbackend got assigned task 833
+17 06 09 20 10 56 info executor executor running task 2 0 in stage 20 0 tid 833 
+17 06 09 20 10 56 info executor coarsegrainedexecutorbackend got assigned task 838
+17 06 09 20 10 56 info broadcast torrentbroadcast started reading broadcast variable 29
+17 06 09 20 10 56 info executor executor running task 3 0 in stage 20 0 tid 838 
+17 06 09 20 10 56 info executor coarsegrainedexecutorbackend got assigned task 839
+17 06 09 20 10 56 info executor executor running task 4 0 in stage 20 0 tid 839 
+17 06 09 20 10 56 info storage memorystore block broadcast 29 piece0 stored as bytes in memory estimated size 5 7 kb free 379 5 kb 
+17 06 09 20 10 56 info broadcast torrentbroadcast reading broadcast variable 29 took 11 ms
+17 06 09 20 10 56 info storage memorystore block broadcast 29 stored as values in memory estimated size 10 1 kb free 374 2 kb 
+17 06 09 20 10 56 info storage blockmanager found block rdd 26 0 locally
+17 06 09 20 10 56 info storage blockmanager found block rdd 26 4 locally
+17 06 09 20 10 56 info storage blockmanager found block rdd 26 3 locally
+17 06 09 20 10 56 info storage blockmanager found block rdd 26 2 locally
+17 06 09 20 10 56 info storage blockmanager found block rdd 26 1 locally
+17 06 09 20 10 56 info python pythonrunner times total 38 boot 119 init 157 finish 0
+17 06 09 20 10 56 info python pythonrunner times total 38 boot 119 init 157 finish 0
+17 06 09 20 10 56 info python pythonrunner times total 39 boot 126 init 165 finish 0
+17 06 09 20 10 56 info python pythonrunner times total 40 boot 111 init 151 finish 0
+17 06 09 20 10 56 info python pythonrunner times total 41 boot 110 init 151 finish 0
+17 06 09 20 10 56 info executor executor finished task 4 0 in stage 20 0 tid 839 2076 bytes result sent to driver
+17 06 09 20 10 56 info executor executor finished task 3 0 in stage 20 0 tid 838 2076 bytes result sent to driver
+17 06 09 20 10 56 info executor executor finished task 0 0 in stage 20 0 tid 807 2076 bytes result sent to driver
+17 06 09 20 10 56 info executor executor finished task 1 0 in stage 20 0 tid 821 2076 bytes result sent to driver
+17 06 09 20 10 56 info executor executor finished task 2 0 in stage 20 0 tid 833 2076 bytes result sent to driver
+17 06 09 20 10 56 info executor coarsegrainedexecutorbackend got assigned task 853
+17 06 09 20 10 56 info executor executor running task 0 0 in stage 21 0 tid 853 
+17 06 09 20 10 56 info executor coarsegrainedexecutorbackend got assigned task 867
+17 06 09 20 10 56 info executor executor running task 1 0 in stage 21 0 tid 867 
+17 06 09 20 10 56 info executor coarsegrainedexecutorbackend got assigned task 877
+17 06 09 20 10 56 info executor executor running task 2 0 in stage 21 0 tid 877 
+17 06 09 20 10 56 info executor coarsegrainedexecutorbackend got assigned task 878
+17 06 09 20 10 56 info executor executor running task 3 0 in stage 21 0 tid 878 
+17 06 09 20 10 56 info broadcast torrentbroadcast started reading broadcast variable 30
+17 06 09 20 10 56 info executor coarsegrainedexecutorbackend got assigned task 879
+17 06 09 20 10 56 info executor executor running task 4 0 in stage 21 0 tid 879 
+17 06 09 20 10 56 info storage memorystore block broadcast 30 piece0 stored as bytes in memory estimated size 5 8 kb free 380 0 kb 
+17 06 09 20 10 56 info broadcast torrentbroadcast reading broadcast variable 30 took 8 ms
+17 06 09 20 10 56 info storage memorystore block broadcast 30 stored as values in memory estimated size 9 7 kb free 389 7 kb 
+17 06 09 20 10 56 info storage blockmanager found block rdd 2 0 locally
+17 06 09 20 10 56 info storage blockmanager found block rdd 2 4 locally
+17 06 09 20 10 56 info storage blockmanager found block rdd 2 3 locally
+17 06 09 20 10 56 info storage blockmanager found block rdd 2 2 locally
+17 06 09 20 10 56 info storage blockmanager found block rdd 2 1 locally
+17 06 09 20 10 56 info python pythonrunner times total 38 boot 59 init 96 finish 1
+17 06 09 20 10 56 info python pythonrunner times total 39 boot 59 init 98 finish 0
+17 06 09 20 10 56 info python pythonrunner times total 41 boot 59 init 100 finish 0
+17 06 09 20 10 56 info python pythonrunner times total 41 boot 59 init 99 finish 1
+17 06 09 20 10 56 info executor executor finished task 0 0 in stage 21 0 tid 853 2348 bytes result sent to driver
+17 06 09 20 10 56 info python pythonrunner times total 41 boot 58 init 98 finish 1
+17 06 09 20 10 56 info executor executor finished task 1 0 in stage 21 0 tid 867 2333 bytes result sent to driver
+17 06 09 20 10 56 info executor executor finished task 3 0 in stage 21 0 tid 878 2333 bytes result sent to driver
+17 06 09 20 10 56 info executor executor finished task 4 0 in stage 21 0 tid 879 2333 bytes result sent to driver
+17 06 09 20 10 56 info executor executor finished task 2 0 in stage 21 0 tid 877 2333 bytes result sent to driver
+17 06 09 20 10 56 info executor coarsegrainedexecutorbackend got assigned task 886
+17 06 09 20 10 56 info executor executor running task 0 0 in stage 22 0 tid 886 
+17 06 09 20 10 56 info executor coarsegrainedexecutorbackend got assigned task 900
+17 06 09 20 10 56 info executor executor running task 1 0 in stage 22 0 tid 900 
+17 06 09 20 10 56 info executor coarsegrainedexecutorbackend got assigned task 912
+17 06 09 20 10 56 info executor executor running task 2 0 in stage 22 0 tid 912 
+17 06 09 20 10 56 info executor coarsegrainedexecutorbackend got assigned task 918
+17 06 09 20 10 56 info executor executor running task 3 0 in stage 22 0 tid 918 
+17 06 09 20 10 56 info executor coarsegrainedexecutorbackend got assigned task 919
+17 06 09 20 10 56 info executor executor running task 4 0 in stage 22 0 tid 919 
+17 06 09 20 10 56 info broadcast torrentbroadcast started reading broadcast variable 31
+17 06 09 20 10 56 info storage memorystore block broadcast 31 piece0 stored as bytes in memory estimated size 5 6 kb free 395 3 kb 
+17 06 09 20 10 56 info broadcast torrentbroadcast reading broadcast variable 31 took 8 ms
+17 06 09 20 10 56 info storage memorystore block broadcast 31 stored as values in memory estimated size 9 8 kb free 405 1 kb 
+17 06 09 20 10 56 info spark cachemanager partition rdd 30 0 not found computing it
+17 06 09 20 10 56 info spark cachemanager partition rdd 30 4 not found computing it
+17 06 09 20 10 56 info spark cachemanager partition rdd 30 3 not found computing it
+17 06 09 20 10 56 info spark cachemanager partition rdd 30 2 not found computing it
+17 06 09 20 10 56 info spark cachemanager partition rdd 30 1 not found computing it
+17 06 09 20 10 56 info storage blockmanager found block rdd 2 0 locally
+17 06 09 20 10 56 info storage blockmanager found block rdd 2 4 locally
+17 06 09 20 10 56 info storage blockmanager found block rdd 2 3 locally
+17 06 09 20 10 56 info storage blockmanager found block rdd 2 2 locally
+17 06 09 20 10 56 info storage blockmanager found block rdd 2 1 locally
+17 06 09 20 10 56 info python pythonrunner times total 37 boot 88 init 125 finish 0
+17 06 09 20 10 56 info python pythonrunner times total 39 boot 86 init 125 finish 0
+17 06 09 20 10 56 info storage memorystore block rdd 30 0 stored as bytes in memory estimated size 324 0 b free 405 4 kb 
+17 06 09 20 10 56 info python pythonrunner times total 39 boot 86 init 125 finish 0
+17 06 09 20 10 56 info python pythonrunner times total 41 boot 84 init 125 finish 0
+17 06 09 20 10 56 info python pythonrunner times total 40 boot 85 init 125 finish 0
+17 06 09 20 10 56 info storage memorystore block rdd 30 1 stored as bytes in memory estimated size 165 0 b free 405 6 kb 
+17 06 09 20 10 56 info storage memorystore block rdd 30 2 stored as bytes in memory estimated size 250 0 b free 405 8 kb 
+17 06 09 20 10 56 info storage memorystore block rdd 30 4 stored as bytes in memory estimated size 226 0 b free 406 0 kb 
+17 06 09 20 10 56 info storage memorystore block rdd 30 3 stored as bytes in memory estimated size 251 0 b free 406 3 kb 
+17 06 09 20 10 56 info python pythonrunner times total 40 boot 19 init 21 finish 0
+17 06 09 20 10 56 info python pythonrunner times total 39 boot 20 init 19 finish 0
+17 06 09 20 10 56 info python pythonrunner times total 39 boot 21 init 18 finish 0
+17 06 09 20 10 56 info executor executor finished task 0 0 in stage 22 0 tid 886 2667 bytes result sent to driver
+17 06 09 20 10 56 info python pythonrunner times total 41 boot 18 init 23 finish 0
+17 06 09 20 10 56 info python pythonrunner times total 40 boot 18 init 22 finish 0
+17 06 09 20 10 56 info executor executor finished task 1 0 in stage 22 0 tid 900 2667 bytes result sent to driver
+17 06 09 20 10 56 info executor executor finished task 2 0 in stage 22 0 tid 912 2667 bytes result sent to driver
+17 06 09 20 10 56 info executor executor finished task 4 0 in stage 22 0 tid 919 2667 bytes result sent to driver
+17 06 09 20 10 56 info executor executor finished task 3 0 in stage 22 0 tid 918 2667 bytes result sent to driver
+17 06 09 20 10 56 info executor coarsegrainedexecutorbackend got assigned task 926
+17 06 09 20 10 56 info executor executor running task 0 0 in stage 23 0 tid 926 
+17 06 09 20 10 56 info executor coarsegrainedexecutorbackend got assigned task 940
+17 06 09 20 10 56 info executor executor running task 1 0 in stage 23 0 tid 940 
+17 06 09 20 10 56 info broadcast torrentbroadcast started reading broadcast variable 32
+17 06 09 20 10 56 info executor coarsegrainedexecutorbackend got assigned task 951
+17 06 09 20 10 56 info executor executor running task 2 0 in stage 23 0 tid 951 
+17 06 09 20 10 56 info executor coarsegrainedexecutorbackend got assigned task 958
+17 06 09 20 10 56 info executor executor running task 3 0 in stage 23 0 tid 958 
+17 06 09 20 10 56 info executor coarsegrainedexecutorbackend got assigned task 959
+17 06 09 20 10 56 info executor executor running task 4 0 in stage 23 0 tid 959 
+17 06 09 20 10 56 info storage memorystore block broadcast 32 piece0 stored as bytes in memory estimated size 5 7 kb free 406 3 kb 
+17 06 09 20 10 56 info broadcast torrentbroadcast reading broadcast variable 32 took 16 ms
+17 06 09 20 10 56 info storage memorystore block broadcast 32 stored as values in memory estimated size 10 1 kb free 400 4 kb 
+17 06 09 20 10 56 info storage blockmanager found block rdd 30 0 locally
+17 06 09 20 10 56 info storage blockmanager found block rdd 30 3 locally
+17 06 09 20 10 56 info storage blockmanager found block rdd 30 2 locally
+17 06 09 20 10 56 info storage blockmanager found block rdd 30 1 locally
+17 06 09 20 10 56 info storage blockmanager found block rdd 30 4 locally
+17 06 09 20 10 56 info python pythonrunner times total 39 boot 134 init 173 finish 0
+17 06 09 20 10 56 info python pythonrunner times total 40 boot 130 init 170 finish 0
+17 06 09 20 10 56 info python pythonrunner times total 40 boot 132 init 172 finish 0
+17 06 09 20 10 56 info python pythonrunner times total 42 boot 132 init 173 finish 1
+17 06 09 20 10 56 info python pythonrunner times total 40 boot 129 init 168 finish 1
+17 06 09 20 10 56 info executor executor finished task 0 0 in stage 23 0 tid 926 2211 bytes result sent to driver
+17 06 09 20 10 56 info executor executor finished task 2 0 in stage 23 0 tid 951 2223 bytes result sent to driver
+17 06 09 20 10 56 info executor executor finished task 3 0 in stage 23 0 tid 958 2223 bytes result sent to driver
+17 06 09 20 10 56 info executor executor finished task 4 0 in stage 23 0 tid 959 2223 bytes result sent to driver
+17 06 09 20 10 56 info executor executor finished task 1 0 in stage 23 0 tid 940 2223 bytes result sent to driver
+17 06 09 20 10 57 info executor coarsegrainedexecutorbackend got assigned task 970
+17 06 09 20 10 57 info executor executor running task 0 0 in stage 24 0 tid 970 
+17 06 09 20 10 57 info executor coarsegrainedexecutorbackend got assigned task 984
+17 06 09 20 10 57 info executor executor running task 1 0 in stage 24 0 tid 984 
+17 06 09 20 10 57 info executor coarsegrainedexecutorbackend got assigned task 998
+17 06 09 20 10 57 info executor executor running task 2 0 in stage 24 0 tid 998 
+17 06 09 20 10 57 info executor coarsegrainedexecutorbackend got assigned task 1012
+17 06 09 20 10 57 info executor executor running task 3 0 in stage 24 0 tid 1012 
+17 06 09 20 10 57 info executor coarsegrainedexecutorbackend got assigned task 1026
+17 06 09 20 10 57 info executor executor running task 4 0 in stage 24 0 tid 1026 
+17 06 09 20 10 57 info broadcast torrentbroadcast started reading broadcast variable 33
+17 06 09 20 10 57 info storage memorystore block broadcast 33 piece0 stored as bytes in memory estimated size 29 5 kb free 404 8 kb 
+17 06 09 20 10 57 info broadcast torrentbroadcast reading broadcast variable 33 took 9 ms
+17 06 09 20 10 57 info storage memorystore block broadcast 33 stored as values in memory estimated size 82 1 kb free 486 9 kb 
+17 06 09 20 10 57 info storage blockmanager found block rdd 6 4 locally
+17 06 09 20 10 57 info storage blockmanager found block rdd 6 3 locally
+17 06 09 20 10 57 info storage blockmanager found block rdd 6 2 locally
+17 06 09 20 10 57 info storage blockmanager found block rdd 6 1 locally
+17 06 09 20 10 57 info storage blockmanager found block rdd 6 0 locally
+17 06 09 20 10 57 info output fileoutputcommitter file output committer algorithm version is 1
+17 06 09 20 10 57 info output fileoutputcommitter file output committer algorithm version is 1
+17 06 09 20 10 57 info output fileoutputcommitter file output committer algorithm version is 1
+17 06 09 20 10 57 info output fileoutputcommitter file output committer algorithm version is 1
+17 06 09 20 10 57 info output fileoutputcommitter file output committer algorithm version is 1
+17 06 09 20 10 57 info python pythonrunner times total 40 boot 340 init 380 finish 0
+17 06 09 20 10 57 info python pythonrunner times total 40 boot 337 init 376 finish 1
+17 06 09 20 10 57 info python pythonrunner times total 42 boot 343 init 384 finish 1
+17 06 09 20 10 57 info python pythonrunner times total 39 boot 342 init 381 finish 0
+17 06 09 20 10 57 info python pythonrunner times total 41 boot 343 init 384 finish 0
+17 06 09 20 10 57 info output fileoutputcommitter saved output of task attempt 201706092018 0024 m 000003 1012 to hdfs 10 10 34 11 9000 pjhe test 1 temporary 0 task 201706092018 0024 m 000003
+17 06 09 20 10 57 info output fileoutputcommitter saved output of task attempt 201706092018 0024 m 000004 1026 to hdfs 10 10 34 11 9000 pjhe test 1 temporary 0 task 201706092018 0024 m 000004
+17 06 09 20 10 57 info output fileoutputcommitter saved output of task attempt 201706092018 0024 m 000002 998 to hdfs 10 10 34 11 9000 pjhe test 1 temporary 0 task 201706092018 0024 m 000002
+17 06 09 20 10 57 info output fileoutputcommitter saved output of task attempt 201706092018 0024 m 000000 970 to hdfs 10 10 34 11 9000 pjhe test 1 temporary 0 task 201706092018 0024 m 000000
+17 06 09 20 10 57 info output fileoutputcommitter saved output of task attempt 201706092018 0024 m 000001 984 to hdfs 10 10 34 11 9000 pjhe test 1 temporary 0 task 201706092018 0024 m 000001
+17 06 09 20 10 57 info mapred sparkhadoopmapredutil attempt 201706092018 0024 m 000004 1026 committed
+17 06 09 20 10 57 info mapred sparkhadoopmapredutil attempt 201706092018 0024 m 000002 998 committed
+17 06 09 20 10 57 info mapred sparkhadoopmapredutil attempt 201706092018 0024 m 000003 1012 committed
+17 06 09 20 10 57 info mapred sparkhadoopmapredutil attempt 201706092018 0024 m 000001 984 committed
+17 06 09 20 10 57 info mapred sparkhadoopmapredutil attempt 201706092018 0024 m 000000 970 committed
+17 06 09 20 10 57 info executor executor finished task 3 0 in stage 24 0 tid 1012 2364 bytes result sent to driver
+17 06 09 20 10 57 info executor executor finished task 4 0 in stage 24 0 tid 1026 2364 bytes result sent to driver
+17 06 09 20 10 57 info executor executor finished task 1 0 in stage 24 0 tid 984 2364 bytes result sent to driver
+17 06 09 20 10 57 info executor executor finished task 2 0 in stage 24 0 tid 998 2364 bytes result sent to driver
+17 06 09 20 10 57 info executor executor finished task 0 0 in stage 24 0 tid 970 2364 bytes result sent to driver
+17 06 09 20 10 57 info executor coarsegrainedexecutorbackend got assigned task 1125
+17 06 09 20 10 57 info executor executor running task 40 0 in stage 24 0 tid 1125 
+17 06 09 20 10 57 info executor coarsegrainedexecutorbackend got assigned task 1126
+17 06 09 20 10 57 info executor executor running task 41 0 in stage 24 0 tid 1126 
+17 06 09 20 10 57 info executor coarsegrainedexecutorbackend got assigned task 1127
+17 06 09 20 10 57 info executor executor running task 42 0 in stage 24 0 tid 1127 
+17 06 09 20 10 57 info executor coarsegrainedexecutorbackend got assigned task 1128
+17 06 09 20 10 57 info executor executor running task 43 0 in stage 24 0 tid 1128 
+17 06 09 20 10 57 info executor coarsegrainedexecutorbackend got assigned task 1129
+17 06 09 20 10 57 info executor executor running task 44 0 in stage 24 0 tid 1129 
+17 06 09 20 10 57 info storage blockmanager found block rdd 11 0 locally
+17 06 09 20 10 57 info storage blockmanager found block rdd 11 1 locally
+17 06 09 20 10 57 info storage blockmanager found block rdd 11 2 locally
+17 06 09 20 10 57 info storage blockmanager found block rdd 11 3 locally
+17 06 09 20 10 57 info storage blockmanager found block rdd 11 4 locally
+17 06 09 20 10 57 info output fileoutputcommitter file output committer algorithm version is 1
+17 06 09 20 10 57 info output fileoutputcommitter file output committer algorithm version is 1
+17 06 09 20 10 57 info output fileoutputcommitter file output committer algorithm version is 1
+17 06 09 20 10 57 info output fileoutputcommitter file output committer algorithm version is 1
+17 06 09 20 10 57 info output fileoutputcommitter file output committer algorithm version is 1
+17 06 09 20 10 57 info python pythonrunner times total 39 boot 397 init 436 finish 0
+17 06 09 20 10 57 info python pythonrunner times total 38 boot 405 init 443 finish 0
+17 06 09 20 10 57 info python pythonrunner times total 40 boot 400 init 440 finish 0
+17 06 09 20 10 57 info python pythonrunner times total 38 boot 390 init 428 finish 0
+17 06 09 20 10 57 info python pythonrunner times total 41 boot 398 init 439 finish 0
+17 06 09 20 10 57 info output fileoutputcommitter saved output of task attempt 201706092018 0024 m 000044 1129 to hdfs 10 10 34 11 9000 pjhe test 1 temporary 0 task 201706092018 0024 m 000044
+17 06 09 20 10 57 info mapred sparkhadoopmapredutil attempt 201706092018 0024 m 000044 1129 committed
+17 06 09 20 10 57 info output fileoutputcommitter saved output of task attempt 201706092018 0024 m 000043 1128 to hdfs 10 10 34 11 9000 pjhe test 1 temporary 0 task 201706092018 0024 m 000043
+17 06 09 20 10 57 info output fileoutputcommitter saved output of task attempt 201706092018 0024 m 000040 1125 to hdfs 10 10 34 11 9000 pjhe test 1 temporary 0 task 201706092018 0024 m 000040
+17 06 09 20 10 57 info mapred sparkhadoopmapredutil attempt 201706092018 0024 m 000043 1128 committed
+17 06 09 20 10 57 info mapred sparkhadoopmapredutil attempt 201706092018 0024 m 000040 1125 committed
+17 06 09 20 10 57 info output fileoutputcommitter saved output of task attempt 201706092018 0024 m 000042 1127 to hdfs 10 10 34 11 9000 pjhe test 1 temporary 0 task 201706092018 0024 m 000042
+17 06 09 20 10 57 info mapred sparkhadoopmapredutil attempt 201706092018 0024 m 000042 1127 committed
+17 06 09 20 10 57 info output fileoutputcommitter saved output of task attempt 201706092018 0024 m 000041 1126 to hdfs 10 10 34 11 9000 pjhe test 1 temporary 0 task 201706092018 0024 m 000041
+17 06 09 20 10 57 info mapred sparkhadoopmapredutil attempt 201706092018 0024 m 000041 1126 committed
+17 06 09 20 10 57 info executor executor finished task 44 0 in stage 24 0 tid 1129 2364 bytes result sent to driver
+17 06 09 20 10 57 info executor executor finished task 43 0 in stage 24 0 tid 1128 2364 bytes result sent to driver
+17 06 09 20 10 57 info executor executor finished task 40 0 in stage 24 0 tid 1125 2364 bytes result sent to driver
+17 06 09 20 10 57 info executor executor finished task 42 0 in stage 24 0 tid 1127 2364 bytes result sent to driver
+17 06 09 20 10 57 info executor executor finished task 41 0 in stage 24 0 tid 1126 2364 bytes result sent to driver
+17 06 09 20 10 57 info executor coarsegrainedexecutorbackend got assigned task 1135
+17 06 09 20 10 57 info executor executor running task 80 0 in stage 24 0 tid 1135 
+17 06 09 20 10 57 info executor coarsegrainedexecutorbackend got assigned task 1136
+17 06 09 20 10 57 info executor executor running task 81 0 in stage 24 0 tid 1136 
+17 06 09 20 10 57 info executor coarsegrainedexecutorbackend got assigned task 1137
+17 06 09 20 10 57 info executor executor running task 82 0 in stage 24 0 tid 1137 
+17 06 09 20 10 57 info executor coarsegrainedexecutorbackend got assigned task 1138
+17 06 09 20 10 57 info executor executor running task 83 0 in stage 24 0 tid 1138 
+17 06 09 20 10 57 info executor coarsegrainedexecutorbackend got assigned task 1141
+17 06 09 20 10 57 info executor executor running task 84 0 in stage 24 0 tid 1141 
+17 06 09 20 10 57 info storage blockmanager found block rdd 16 0 locally
+17 06 09 20 10 57 info storage blockmanager found block rdd 16 1 locally
+17 06 09 20 10 57 info storage blockmanager found block rdd 16 2 locally
+17 06 09 20 10 57 info storage blockmanager found block rdd 16 3 locally
+17 06 09 20 10 57 info storage blockmanager found block rdd 16 4 locally
+17 06 09 20 10 57 info output fileoutputcommitter file output committer algorithm version is 1
+17 06 09 20 10 57 info output fileoutputcommitter file output committer algorithm version is 1
+17 06 09 20 10 57 info output fileoutputcommitter file output committer algorithm version is 1
+17 06 09 20 10 57 info output fileoutputcommitter file output committer algorithm version is 1
+17 06 09 20 10 57 info output fileoutputcommitter file output committer algorithm version is 1
+17 06 09 20 10 57 info python pythonrunner times total 37 boot 87 init 124 finish 0
+17 06 09 20 10 57 info python pythonrunner times total 39 boot 79 init 118 finish 0
+17 06 09 20 10 57 info python pythonrunner times total 39 boot 86 init 125 finish 0
+17 06 09 20 10 57 info python pythonrunner times total 42 boot 81 init 122 finish 1
+17 06 09 20 10 57 info python pythonrunner times total 41 boot 83 init 123 finish 1
+17 06 09 20 10 58 info output fileoutputcommitter saved output of task attempt 201706092018 0024 m 000083 1138 to hdfs 10 10 34 11 9000 pjhe test 1 temporary 0 task 201706092018 0024 m 000083
+17 06 09 20 10 58 info mapred sparkhadoopmapredutil attempt 201706092018 0024 m 000083 1138 committed
+17 06 09 20 10 58 info output fileoutputcommitter saved output of task attempt 201706092018 0024 m 000084 1141 to hdfs 10 10 34 11 9000 pjhe test 1 temporary 0 task 201706092018 0024 m 000084
+17 06 09 20 10 58 info output fileoutputcommitter saved output of task attempt 201706092018 0024 m 000080 1135 to hdfs 10 10 34 11 9000 pjhe test 1 temporary 0 task 201706092018 0024 m 000080
+17 06 09 20 10 58 info mapred sparkhadoopmapredutil attempt 201706092018 0024 m 000084 1141 committed
+17 06 09 20 10 58 info mapred sparkhadoopmapredutil attempt 201706092018 0024 m 000080 1135 committed
+17 06 09 20 10 58 info output fileoutputcommitter saved output of task attempt 201706092018 0024 m 000082 1137 to hdfs 10 10 34 11 9000 pjhe test 1 temporary 0 task 201706092018 0024 m 000082
+17 06 09 20 10 58 info mapred sparkhadoopmapredutil attempt 201706092018 0024 m 000082 1137 committed
+17 06 09 20 10 58 info output fileoutputcommitter saved output of task attempt 201706092018 0024 m 000081 1136 to hdfs 10 10 34 11 9000 pjhe test 1 temporary 0 task 201706092018 0024 m 000081
+17 06 09 20 10 58 info mapred sparkhadoopmapredutil attempt 201706092018 0024 m 000081 1136 committed
+17 06 09 20 10 58 info executor executor finished task 83 0 in stage 24 0 tid 1138 2364 bytes result sent to driver
+17 06 09 20 10 58 info executor executor finished task 84 0 in stage 24 0 tid 1141 2364 bytes result sent to driver
+17 06 09 20 10 58 info executor executor finished task 80 0 in stage 24 0 tid 1135 2364 bytes result sent to driver
+17 06 09 20 10 58 info executor executor finished task 82 0 in stage 24 0 tid 1137 2364 bytes result sent to driver
+17 06 09 20 10 58 info executor executor finished task 81 0 in stage 24 0 tid 1136 2364 bytes result sent to driver
+17 06 09 20 10 58 info executor coarsegrainedexecutorbackend got assigned task 1145
+17 06 09 20 10 58 info executor executor running task 120 0 in stage 24 0 tid 1145 
+17 06 09 20 10 58 info executor coarsegrainedexecutorbackend got assigned task 1146
+17 06 09 20 10 58 info executor executor running task 121 0 in stage 24 0 tid 1146 
+17 06 09 20 10 58 info executor coarsegrainedexecutorbackend got assigned task 1147
+17 06 09 20 10 58 info executor executor running task 122 0 in stage 24 0 tid 1147 
+17 06 09 20 10 58 info executor coarsegrainedexecutorbackend got assigned task 1150
+17 06 09 20 10 58 info executor executor running task 123 0 in stage 24 0 tid 1150 
+17 06 09 20 10 58 info executor coarsegrainedexecutorbackend got assigned task 1151
+17 06 09 20 10 58 info executor executor running task 124 0 in stage 24 0 tid 1151 
+17 06 09 20 10 58 info storage blockmanager found block rdd 21 4 locally
+17 06 09 20 10 58 info storage blockmanager found block rdd 21 1 locally
+17 06 09 20 10 58 info storage blockmanager found block rdd 21 0 locally
+17 06 09 20 10 58 info storage blockmanager found block rdd 21 2 locally
+17 06 09 20 10 58 info storage blockmanager found block rdd 21 3 locally
+17 06 09 20 10 58 info output fileoutputcommitter file output committer algorithm version is 1
+17 06 09 20 10 58 info python pythonrunner times total 40 boot 82 init 122 finish 0
+17 06 09 20 10 58 info output fileoutputcommitter saved output of task attempt 201706092018 0024 m 000124 1151 to hdfs 10 10 34 11 9000 pjhe test 1 temporary 0 task 201706092018 0024 m 000124
+17 06 09 20 10 58 info mapred sparkhadoopmapredutil attempt 201706092018 0024 m 000124 1151 committed
+17 06 09 20 10 58 info executor executor finished task 124 0 in stage 24 0 tid 1151 2364 bytes result sent to driver
+17 06 09 20 10 58 info output fileoutputcommitter file output committer algorithm version is 1
+17 06 09 20 10 58 info output fileoutputcommitter file output committer algorithm version is 1
+17 06 09 20 10 58 info output fileoutputcommitter file output committer algorithm version is 1
+17 06 09 20 10 58 info output fileoutputcommitter file output committer algorithm version is 1
+17 06 09 20 10 58 info executor coarsegrainedexecutorbackend got assigned task 1155
+17 06 09 20 10 58 info executor executor running task 160 0 in stage 24 0 tid 1155 
+17 06 09 20 10 58 info python pythonrunner times total 39 boot 102 init 141 finish 0
+17 06 09 20 10 58 info python pythonrunner times total 38 boot 112 init 150 finish 0
+17 06 09 20 10 58 info python pythonrunner times total 40 boot 107 init 147 finish 0
+17 06 09 20 10 58 info python pythonrunner times total 40 boot 116 init 156 finish 0
+17 06 09 20 10 58 info output fileoutputcommitter saved output of task attempt 201706092018 0024 m 000120 1145 to hdfs 10 10 34 11 9000 pjhe test 1 temporary 0 task 201706092018 0024 m 000120
+17 06 09 20 10 58 info mapred sparkhadoopmapredutil attempt 201706092018 0024 m 000120 1145 committed
+17 06 09 20 10 58 info output fileoutputcommitter saved output of task attempt 201706092018 0024 m 000122 1147 to hdfs 10 10 34 11 9000 pjhe test 1 temporary 0 task 201706092018 0024 m 000122
+17 06 09 20 10 58 info output fileoutputcommitter saved output of task attempt 201706092018 0024 m 000121 1146 to hdfs 10 10 34 11 9000 pjhe test 1 temporary 0 task 201706092018 0024 m 000121
+17 06 09 20 10 58 info mapred sparkhadoopmapredutil attempt 201706092018 0024 m 000122 1147 committed
+17 06 09 20 10 58 info output fileoutputcommitter saved output of task attempt 201706092018 0024 m 000123 1150 to hdfs 10 10 34 11 9000 pjhe test 1 temporary 0 task 201706092018 0024 m 000123
+17 06 09 20 10 58 info mapred sparkhadoopmapredutil attempt 201706092018 0024 m 000121 1146 committed
+17 06 09 20 10 58 info mapred sparkhadoopmapredutil attempt 201706092018 0024 m 000123 1150 committed
+17 06 09 20 10 58 info executor executor finished task 120 0 in stage 24 0 tid 1145 2364 bytes result sent to driver
+17 06 09 20 10 58 info executor executor finished task 121 0 in stage 24 0 tid 1146 2364 bytes result sent to driver
+17 06 09 20 10 58 info executor executor finished task 122 0 in stage 24 0 tid 1147 2364 bytes result sent to driver
+17 06 09 20 10 58 info executor executor finished task 123 0 in stage 24 0 tid 1150 2364 bytes result sent to driver
+17 06 09 20 10 58 info executor coarsegrainedexecutorbackend got assigned task 1156
+17 06 09 20 10 58 info executor executor running task 161 0 in stage 24 0 tid 1156 
+17 06 09 20 10 58 info executor coarsegrainedexecutorbackend got assigned task 1157
+17 06 09 20 10 58 info executor coarsegrainedexecutorbackend got assigned task 1158
+17 06 09 20 10 58 info executor executor running task 162 0 in stage 24 0 tid 1157 
+17 06 09 20 10 58 info executor executor running task 163 0 in stage 24 0 tid 1158 
+17 06 09 20 10 58 info executor coarsegrainedexecutorbackend got assigned task 1159
+17 06 09 20 10 58 info executor executor running task 164 0 in stage 24 0 tid 1159 
+17 06 09 20 10 58 info storage blockmanager found block rdd 26 0 locally
+17 06 09 20 10 58 info storage blockmanager found block rdd 26 3 locally
+17 06 09 20 10 58 info storage blockmanager found block rdd 26 4 locally
+17 06 09 20 10 58 info storage blockmanager found block rdd 26 1 locally
+17 06 09 20 10 58 info storage blockmanager found block rdd 26 2 locally
+17 06 09 20 10 58 info python pythonrunner times total 38 boot 62 init 100 finish 0
+17 06 09 20 10 58 info output fileoutputcommitter file output committer algorithm version is 1
+17 06 09 20 10 58 info output fileoutputcommitter saved output of task attempt 201706092018 0024 m 000160 1155 to hdfs 10 10 34 11 9000 pjhe test 1 temporary 0 task 201706092018 0024 m 000160
+17 06 09 20 10 58 info mapred sparkhadoopmapredutil attempt 201706092018 0024 m 000160 1155 committed
+17 06 09 20 10 58 info executor executor finished task 160 0 in stage 24 0 tid 1155 2364 bytes result sent to driver
+17 06 09 20 10 58 info python pythonrunner times total 38 boot 45 init 83 finish 0
+17 06 09 20 10 58 info python pythonrunner times total 38 boot 37 init 75 finish 0
+17 06 09 20 10 58 info output fileoutputcommitter file output committer algorithm version is 1
+17 06 09 20 10 58 info output fileoutputcommitter file output committer algorithm version is 1
+17 06 09 20 10 58 info output fileoutputcommitter saved output of task attempt 201706092018 0024 m 000163 1158 to hdfs 10 10 34 11 9000 pjhe test 1 temporary 0 task 201706092018 0024 m 000163
+17 06 09 20 10 58 info mapred sparkhadoopmapredutil attempt 201706092018 0024 m 000163 1158 committed
+17 06 09 20 10 58 info output fileoutputcommitter saved output of task attempt 201706092018 0024 m 000164 1159 to hdfs 10 10 34 11 9000 pjhe test 1 temporary 0 task 201706092018 0024 m 000164
+17 06 09 20 10 58 info mapred sparkhadoopmapredutil attempt 201706092018 0024 m 000164 1159 committed
+17 06 09 20 10 58 info executor executor finished task 163 0 in stage 24 0 tid 1158 2364 bytes result sent to driver
+17 06 09 20 10 58 info executor executor finished task 164 0 in stage 24 0 tid 1159 2364 bytes result sent to driver
+17 06 09 20 10 58 info python pythonrunner times total 37 boot 54 init 91 finish 0
+17 06 09 20 10 58 info python pythonrunner times total 37 boot 62 init 99 finish 0
+17 06 09 20 10 58 info output fileoutputcommitter file output committer algorithm version is 1
+17 06 09 20 10 58 info output fileoutputcommitter file output committer algorithm version is 1
+17 06 09 20 10 58 info output fileoutputcommitter saved output of task attempt 201706092018 0024 m 000162 1157 to hdfs 10 10 34 11 9000 pjhe test 1 temporary 0 task 201706092018 0024 m 000162
+17 06 09 20 10 58 info mapred sparkhadoopmapredutil attempt 201706092018 0024 m 000162 1157 committed
+17 06 09 20 10 58 info output fileoutputcommitter saved output of task attempt 201706092018 0024 m 000161 1156 to hdfs 10 10 34 11 9000 pjhe test 1 temporary 0 task 201706092018 0024 m 000161
+17 06 09 20 10 58 info mapred sparkhadoopmapredutil attempt 201706092018 0024 m 000161 1156 committed
+17 06 09 20 10 58 info executor executor finished task 162 0 in stage 24 0 tid 1157 2364 bytes result sent to driver
+17 06 09 20 10 58 info executor executor finished task 161 0 in stage 24 0 tid 1156 2364 bytes result sent to driver
+17 06 09 20 10 58 info executor coarsegrainedexecutorbackend got assigned task 1166
+17 06 09 20 10 58 info executor coarsegrainedexecutorbackend got assigned task 1180
+17 06 09 20 10 58 info executor executor running task 0 0 in stage 25 0 tid 1166 
+17 06 09 20 10 58 info executor executor running task 1 0 in stage 25 0 tid 1180 
+17 06 09 20 10 58 info executor coarsegrainedexecutorbackend got assigned task 1194
+17 06 09 20 10 58 info executor executor running task 2 0 in stage 25 0 tid 1194 
+17 06 09 20 10 58 info executor coarsegrainedexecutorbackend got assigned task 1198
+17 06 09 20 10 58 info executor executor running task 3 0 in stage 25 0 tid 1198 
+17 06 09 20 10 58 info executor coarsegrainedexecutorbackend got assigned task 1199
+17 06 09 20 10 58 info executor executor running task 4 0 in stage 25 0 tid 1199 
+17 06 09 20 10 58 info broadcast torrentbroadcast started reading broadcast variable 34
+17 06 09 20 10 58 info storage memorystore block broadcast 34 piece0 stored as bytes in memory estimated size 28 8 kb free 515 7 kb 
+17 06 09 20 10 58 info broadcast torrentbroadcast reading broadcast variable 34 took 9 ms
+17 06 09 20 10 58 info storage memorystore block broadcast 34 stored as values in memory estimated size 77 4 kb free 593 1 kb 
+17 06 09 20 10 58 info storage blockmanager found block rdd 30 4 locally
+17 06 09 20 10 58 info storage blockmanager found block rdd 30 3 locally
+17 06 09 20 10 58 info storage blockmanager found block rdd 30 2 locally
+17 06 09 20 10 58 info storage blockmanager found block rdd 30 1 locally
+17 06 09 20 10 58 info storage blockmanager found block rdd 30 0 locally
+17 06 09 20 10 59 info output fileoutputcommitter file output committer algorithm version is 1
+17 06 09 20 10 59 info output fileoutputcommitter file output committer algorithm version is 1
+17 06 09 20 10 59 info output fileoutputcommitter file output committer algorithm version is 1
+17 06 09 20 10 59 info python pythonrunner times total 38 boot 727 init 765 finish 0
+17 06 09 20 10 59 info output fileoutputcommitter file output committer algorithm version is 1
+17 06 09 20 10 59 info output fileoutputcommitter file output committer algorithm version is 1
+17 06 09 20 10 59 info python pythonrunner times total 41 boot 707 init 748 finish 0
+17 06 09 20 10 59 info python pythonrunner times total 39 boot 700 init 739 finish 0
+17 06 09 20 10 59 info python pythonrunner times total 39 boot 690 init 729 finish 0
+17 06 09 20 10 59 info python pythonrunner times total 41 boot 699 init 740 finish 0
+17 06 09 20 10 59 info output fileoutputcommitter saved output of task attempt 201706092018 0025 m 000004 1199 to hdfs 10 10 34 11 9000 pjhe test 2 temporary 0 task 201706092018 0025 m 000004
+17 06 09 20 10 59 info mapred sparkhadoopmapredutil attempt 201706092018 0025 m 000004 1199 committed
+17 06 09 20 10 59 info executor executor finished task 4 0 in stage 25 0 tid 1199 2364 bytes result sent to driver
+17 06 09 20 10 59 info output fileoutputcommitter saved output of task attempt 201706092018 0025 m 000003 1198 to hdfs 10 10 34 11 9000 pjhe test 2 temporary 0 task 201706092018 0025 m 000003
+17 06 09 20 10 59 info mapred sparkhadoopmapredutil attempt 201706092018 0025 m 000003 1198 committed
+17 06 09 20 10 59 info output fileoutputcommitter saved output of task attempt 201706092018 0025 m 000000 1166 to hdfs 10 10 34 11 9000 pjhe test 2 temporary 0 task 201706092018 0025 m 000000
+17 06 09 20 10 59 info mapred sparkhadoopmapredutil attempt 201706092018 0025 m 000000 1166 committed
+17 06 09 20 10 59 info output fileoutputcommitter saved output of task attempt 201706092018 0025 m 000002 1194 to hdfs 10 10 34 11 9000 pjhe test 2 temporary 0 task 201706092018 0025 m 000002
+17 06 09 20 10 59 info output fileoutputcommitter saved output of task attempt 201706092018 0025 m 000001 1180 to hdfs 10 10 34 11 9000 pjhe test 2 temporary 0 task 201706092018 0025 m 000001
+17 06 09 20 10 59 info mapred sparkhadoopmapredutil attempt 201706092018 0025 m 000002 1194 committed
+17 06 09 20 10 59 info mapred sparkhadoopmapredutil attempt 201706092018 0025 m 000001 1180 committed
+17 06 09 20 10 59 info executor executor finished task 3 0 in stage 25 0 tid 1198 2364 bytes result sent to driver
+17 06 09 20 10 59 info executor executor finished task 0 0 in stage 25 0 tid 1166 2364 bytes result sent to driver
+17 06 09 20 10 59 info executor executor finished task 2 0 in stage 25 0 tid 1194 2364 bytes result sent to driver
+17 06 09 20 10 59 info executor executor finished task 1 0 in stage 25 0 tid 1180 2364 bytes result sent to driver
+17 06 09 20 11 07 info executor coarsegrainedexecutorbackend got assigned task 1200
+17 06 09 20 11 07 info executor coarsegrainedexecutorbackend got assigned task 1201
+17 06 09 20 11 07 info executor executor running task 0 0 in stage 26 0 tid 1200 
+17 06 09 20 11 07 info executor executor running task 1 0 in stage 26 0 tid 1201 
+17 06 09 20 11 07 info executor coarsegrainedexecutorbackend got assigned task 1202
+17 06 09 20 11 07 info executor executor running task 2 0 in stage 26 0 tid 1202 
+17 06 09 20 11 07 info executor coarsegrainedexecutorbackend got assigned task 1203
+17 06 09 20 11 07 info executor executor running task 3 0 in stage 26 0 tid 1203 
+17 06 09 20 11 07 info executor coarsegrainedexecutorbackend got assigned task 1204
+17 06 09 20 11 07 info executor executor running task 4 0 in stage 26 0 tid 1204 
+17 06 09 20 11 07 info broadcast torrentbroadcast started reading broadcast variable 37
+17 06 09 20 11 07 info storage memorystore block broadcast 37 piece0 stored as bytes in memory estimated size 5 2 kb free 569 5 kb 
+17 06 09 20 11 07 info broadcast torrentbroadcast reading broadcast variable 37 took 14 ms
+17 06 09 20 11 07 info storage memorystore block broadcast 37 stored as values in memory estimated size 8 8 kb free 500 9 kb 
+17 06 09 20 11 07 info spark cachemanager partition rdd 42 0 not found computing it
+17 06 09 20 11 07 info rdd hadooprdd input split hdfs 10 10 34 11 9000 pjhe logs 2ksosp log 0 7292
+17 06 09 20 11 07 info broadcast torrentbroadcast started reading broadcast variable 36
+17 06 09 20 11 07 info spark cachemanager partition rdd 42 4 not found computing it
+17 06 09 20 11 07 info rdd hadooprdd input split hdfs 10 10 34 11 9000 pjhe logs 2ksosp log 29168 7292
+17 06 09 20 11 07 info spark cachemanager partition rdd 42 3 not found computing it
+17 06 09 20 11 07 info rdd hadooprdd input split hdfs 10 10 34 11 9000 pjhe logs 2ksosp log 21876 7292
+17 06 09 20 11 07 info spark cachemanager partition rdd 42 2 not found computing it
+17 06 09 20 11 07 info rdd hadooprdd input split hdfs 10 10 34 11 9000 pjhe logs 2ksosp log 14584 7292
+17 06 09 20 11 07 info spark cachemanager partition rdd 42 1 not found computing it
+17 06 09 20 11 07 info rdd hadooprdd input split hdfs 10 10 34 11 9000 pjhe logs 2ksosp log 7292 7292
+17 06 09 20 11 07 info storage memorystore block broadcast 36 piece0 stored as bytes in memory estimated size 21 4 kb free 522 3 kb 
+17 06 09 20 11 07 info broadcast torrentbroadcast reading broadcast variable 36 took 11 ms
+17 06 09 20 11 07 info storage memorystore block broadcast 36 stored as values in memory estimated size 281 6 kb free 803 9 kb 
+17 06 09 20 11 07 info python pythonrunner times total 47 boot 8758 init 8800 finish 5
+17 06 09 20 11 07 info storage memorystore block rdd 42 0 stored as bytes in memory estimated size 913 0 b free 804 8 kb 
+17 06 09 20 11 07 info python pythonrunner times total 55 boot 8764 init 8814 finish 5
+17 06 09 20 11 07 info python pythonrunner times total 55 boot 8768 init 8818 finish 5
+17 06 09 20 11 07 info python pythonrunner times total 59 boot 8772 init 8826 finish 5
+17 06 09 20 11 07 info python pythonrunner times total 60 boot 8772 init 8827 finish 5
+17 06 09 20 11 07 info storage memorystore block rdd 42 4 stored as bytes in memory estimated size 890 0 b free 805 7 kb 
+17 06 09 20 11 07 info storage memorystore block rdd 42 2 stored as bytes in memory estimated size 850 0 b free 806 5 kb 
+17 06 09 20 11 07 info storage memorystore block rdd 42 1 stored as bytes in memory estimated size 935 0 b free 807 4 kb 
+17 06 09 20 11 07 info storage memorystore block rdd 42 3 stored as bytes in memory estimated size 930 0 b free 808 4 kb 
+17 06 09 20 11 07 info python pythonrunner times total 42 boot 25 init 16 finish 1
+17 06 09 20 11 07 info executor executor finished task 0 0 in stage 26 0 tid 1200 2703 bytes result sent to driver
+17 06 09 20 11 07 info executor coarsegrainedexecutorbackend got assigned task 1205
+17 06 09 20 11 07 info executor executor running task 5 0 in stage 26 0 tid 1205 
+17 06 09 20 11 07 info python pythonrunner times total 41 boot 21 init 20 finish 0
+17 06 09 20 11 07 info python pythonrunner times total 41 boot 20 init 20 finish 1
+17 06 09 20 11 07 info spark cachemanager partition rdd 42 5 not found computing it
+17 06 09 20 11 07 info rdd hadooprdd input split hdfs 10 10 34 11 9000 pjhe logs 2ksosp log 36460 7292
+17 06 09 20 11 07 info python pythonrunner times total 42 boot 23 init 19 finish 0
+17 06 09 20 11 07 info python pythonrunner times total 42 boot 20 init 21 finish 1
+17 06 09 20 11 07 info executor executor finished task 4 0 in stage 26 0 tid 1204 2703 bytes result sent to driver
+17 06 09 20 11 07 info executor executor finished task 2 0 in stage 26 0 tid 1202 2703 bytes result sent to driver
+17 06 09 20 11 07 info executor executor finished task 1 0 in stage 26 0 tid 1201 2703 bytes result sent to driver
+17 06 09 20 11 07 info executor executor finished task 3 0 in stage 26 0 tid 1203 2703 bytes result sent to driver
+17 06 09 20 11 07 info executor coarsegrainedexecutorbackend got assigned task 1206
+17 06 09 20 11 07 info executor executor running task 6 0 in stage 26 0 tid 1206 
+17 06 09 20 11 07 info executor coarsegrainedexecutorbackend got assigned task 1207
+17 06 09 20 11 07 info executor executor running task 7 0 in stage 26 0 tid 1207 
+17 06 09 20 11 07 info executor coarsegrainedexecutorbackend got assigned task 1208
+17 06 09 20 11 07 info executor executor running task 8 0 in stage 26 0 tid 1208 
+17 06 09 20 11 07 info executor coarsegrainedexecutorbackend got assigned task 1209
+17 06 09 20 11 07 info executor executor running task 9 0 in stage 26 0 tid 1209 
+17 06 09 20 11 07 info spark cachemanager partition rdd 42 6 not found computing it
+17 06 09 20 11 07 info rdd hadooprdd input split hdfs 10 10 34 11 9000 pjhe logs 2ksosp log 43752 7292
+17 06 09 20 11 07 info spark cachemanager partition rdd 42 7 not found computing it
+17 06 09 20 11 07 info rdd hadooprdd input split hdfs 10 10 34 11 9000 pjhe logs 2ksosp log 51044 7292
+17 06 09 20 11 07 info spark cachemanager partition rdd 42 8 not found computing it
+17 06 09 20 11 07 info rdd hadooprdd input split hdfs 10 10 34 11 9000 pjhe logs 2ksosp log 58336 7292
+17 06 09 20 11 07 info spark cachemanager partition rdd 42 9 not found computing it
+17 06 09 20 11 07 info rdd hadooprdd input split hdfs 10 10 34 11 9000 pjhe logs 2ksosp log 65628 7292
+17 06 09 20 11 08 info python pythonrunner times total 54 boot 21 init 28 finish 5
+17 06 09 20 11 08 info storage memorystore block rdd 42 5 stored as bytes in memory estimated size 930 0 b free 809 3 kb 
+17 06 09 20 11 08 info python pythonrunner times total 57 boot 11 init 41 finish 5
+17 06 09 20 11 08 info python pythonrunner times total 53 boot 7 init 41 finish 5
+17 06 09 20 11 08 info python pythonrunner times total 58 boot 7 init 46 finish 5
+17 06 09 20 11 08 info storage memorystore block rdd 42 6 stored as bytes in memory estimated size 559 0 b free 809 8 kb 
+17 06 09 20 11 08 info storage memorystore block rdd 42 9 stored as bytes in memory estimated size 950 0 b free 810 7 kb 
+17 06 09 20 11 08 info python pythonrunner times total 65 boot 10 init 45 finish 10
+17 06 09 20 11 08 info storage memorystore block rdd 42 8 stored as bytes in memory estimated size 869 0 b free 811 6 kb 
+17 06 09 20 11 08 info storage memorystore block rdd 42 7 stored as bytes in memory estimated size 640 0 b free 812 2 kb 
+17 06 09 20 11 08 info python pythonrunner times total 45 boot 19 init 26 finish 0
+17 06 09 20 11 08 info executor executor finished task 5 0 in stage 26 0 tid 1205 2705 bytes result sent to driver
+17 06 09 20 11 08 info executor coarsegrainedexecutorbackend got assigned task 1210
+17 06 09 20 11 08 info executor executor running task 10 0 in stage 26 0 tid 1210 
+17 06 09 20 11 08 info spark cachemanager partition rdd 42 10 not found computing it
+17 06 09 20 11 08 info rdd hadooprdd input split hdfs 10 10 34 11 9000 pjhe logs 2ksosp log 72920 7292
+17 06 09 20 11 08 info python pythonrunner times total 41 boot 24 init 17 finish 0
+17 06 09 20 11 08 info python pythonrunner times total 38 boot 18 init 20 finish 0
+17 06 09 20 11 08 info python pythonrunner times total 39 boot 18 init 21 finish 0
+17 06 09 20 11 08 info executor executor finished task 6 0 in stage 26 0 tid 1206 2697 bytes result sent to driver
+17 06 09 20 11 08 info executor executor finished task 9 0 in stage 26 0 tid 1209 2703 bytes result sent to driver
+17 06 09 20 11 08 info executor executor finished task 8 0 in stage 26 0 tid 1208 2703 bytes result sent to driver
+17 06 09 20 11 08 info python pythonrunner times total 42 boot 22 init 19 finish 1
+17 06 09 20 11 08 info executor coarsegrainedexecutorbackend got assigned task 1211
+17 06 09 20 11 08 info executor executor running task 11 0 in stage 26 0 tid 1211 
+17 06 09 20 11 08 info executor coarsegrainedexecutorbackend got assigned task 1212
+17 06 09 20 11 08 info executor executor running task 12 0 in stage 26 0 tid 1212 
+17 06 09 20 11 08 info executor executor finished task 7 0 in stage 26 0 tid 1207 2699 bytes result sent to driver
+17 06 09 20 11 08 info executor coarsegrainedexecutorbackend got assigned task 1213
+17 06 09 20 11 08 info executor executor running task 13 0 in stage 26 0 tid 1213 
+17 06 09 20 11 08 info spark cachemanager partition rdd 42 11 not found computing it
+17 06 09 20 11 08 info rdd hadooprdd input split hdfs 10 10 34 11 9000 pjhe logs 2ksosp log 80212 7292
+17 06 09 20 11 08 info executor coarsegrainedexecutorbackend got assigned task 1214
+17 06 09 20 11 08 info executor executor running task 14 0 in stage 26 0 tid 1214 
+17 06 09 20 11 08 info spark cachemanager partition rdd 42 12 not found computing it
+17 06 09 20 11 08 info rdd hadooprdd input split hdfs 10 10 34 11 9000 pjhe logs 2ksosp log 87504 7292
+17 06 09 20 11 08 info spark cachemanager partition rdd 42 13 not found computing it
+17 06 09 20 11 08 info rdd hadooprdd input split hdfs 10 10 34 11 9000 pjhe logs 2ksosp log 94796 7292
+17 06 09 20 11 08 info spark cachemanager partition rdd 42 14 not found computing it
+17 06 09 20 11 08 info rdd hadooprdd input split hdfs 10 10 34 11 9000 pjhe logs 2ksosp log 102088 7292
+17 06 09 20 11 08 info python pythonrunner times total 48 boot 8 init 35 finish 5
+17 06 09 20 11 08 info storage memorystore block rdd 42 10 stored as bytes in memory estimated size 948 0 b free 813 1 kb 
+17 06 09 20 11 08 info python pythonrunner times total 48 boot 10 init 33 finish 5
+17 06 09 20 11 08 info storage memorystore block rdd 42 11 stored as bytes in memory estimated size 920 0 b free 814 0 kb 
+17 06 09 20 11 08 info python pythonrunner times total 51 boot 3 init 43 finish 5
+17 06 09 20 11 08 info storage memorystore block rdd 42 13 stored as bytes in memory estimated size 912 0 b free 814 9 kb 
+17 06 09 20 11 08 info python pythonrunner times total 56 boot 10 init 40 finish 6
+17 06 09 20 11 08 info python pythonrunner times total 58 boot 13 init 40 finish 5
+17 06 09 20 11 08 info storage memorystore block rdd 42 12 stored as bytes in memory estimated size 852 0 b free 815 8 kb 
+17 06 09 20 11 08 info storage memorystore block rdd 42 14 stored as bytes in memory estimated size 834 0 b free 816 6 kb 
+17 06 09 20 11 08 info python pythonrunner times total 42 boot 17 init 24 finish 1
+17 06 09 20 11 08 info executor executor finished task 10 0 in stage 26 0 tid 1210 2703 bytes result sent to driver
+17 06 09 20 11 08 info executor coarsegrainedexecutorbackend got assigned task 1215
+17 06 09 20 11 08 info executor executor running task 15 0 in stage 26 0 tid 1215 
+17 06 09 20 11 08 info spark cachemanager partition rdd 42 15 not found computing it
+17 06 09 20 11 08 info rdd hadooprdd input split hdfs 10 10 34 11 9000 pjhe logs 2ksosp log 109380 7292
+17 06 09 20 11 08 info python pythonrunner times total 41 boot 21 init 20 finish 0
+17 06 09 20 11 08 info python pythonrunner times total 39 boot 20 init 18 finish 1
+17 06 09 20 11 08 info executor executor finished task 11 0 in stage 26 0 tid 1211 2703 bytes result sent to driver
+17 06 09 20 11 08 info executor executor finished task 13 0 in stage 26 0 tid 1213 2703 bytes result sent to driver
+17 06 09 20 11 08 info executor coarsegrainedexecutorbackend got assigned task 1216
+17 06 09 20 11 08 info executor executor running task 16 0 in stage 26 0 tid 1216 
+17 06 09 20 11 08 info python pythonrunner times total 40 boot 22 init 18 finish 0
+17 06 09 20 11 08 info executor coarsegrainedexecutorbackend got assigned task 1217
+17 06 09 20 11 08 info python pythonrunner times total 39 boot 24 init 14 finish 1
+17 06 09 20 11 08 info executor executor running task 17 0 in stage 26 0 tid 1217 
+17 06 09 20 11 08 info spark cachemanager partition rdd 42 16 not found computing it
+17 06 09 20 11 08 info rdd hadooprdd input split hdfs 10 10 34 11 9000 pjhe logs 2ksosp log 116672 7292
+17 06 09 20 11 08 info executor executor finished task 12 0 in stage 26 0 tid 1212 2703 bytes result sent to driver
+17 06 09 20 11 08 info executor executor finished task 14 0 in stage 26 0 tid 1214 2703 bytes result sent to driver
+17 06 09 20 11 08 info spark cachemanager partition rdd 42 17 not found computing it
+17 06 09 20 11 08 info rdd hadooprdd input split hdfs 10 10 34 11 9000 pjhe logs 2ksosp log 123964 7292
+17 06 09 20 11 08 info executor coarsegrainedexecutorbackend got assigned task 1218
+17 06 09 20 11 08 info executor executor running task 18 0 in stage 26 0 tid 1218 
+17 06 09 20 11 08 info executor coarsegrainedexecutorbackend got assigned task 1219
+17 06 09 20 11 08 info executor executor running task 19 0 in stage 26 0 tid 1219 
+17 06 09 20 11 08 info spark cachemanager partition rdd 42 18 not found computing it
+17 06 09 20 11 08 info rdd hadooprdd input split hdfs 10 10 34 11 9000 pjhe logs 2ksosp log 131256 7292
+17 06 09 20 11 08 info spark cachemanager partition rdd 42 19 not found computing it
+17 06 09 20 11 08 info rdd hadooprdd input split hdfs 10 10 34 11 9000 pjhe logs 2ksosp log 138548 7292
+17 06 09 20 11 08 info python pythonrunner times total 49 boot 16 init 28 finish 5
+17 06 09 20 11 08 info storage memorystore block rdd 42 15 stored as bytes in memory estimated size 913 0 b free 817 5 kb 
+17 06 09 20 11 08 info python pythonrunner times total 53 boot 14 init 34 finish 5
+17 06 09 20 11 08 info python pythonrunner times total 52 boot 13 init 34 finish 5
+17 06 09 20 11 08 info storage memorystore block rdd 42 16 stored as bytes in memory estimated size 748 0 b free 818 2 kb 
+17 06 09 20 11 08 info storage memorystore block rdd 42 17 stored as bytes in memory estimated size 836 0 b free 819 0 kb 
+17 06 09 20 11 08 info python pythonrunner times total 50 boot 7 init 38 finish 5
+17 06 09 20 11 08 info python pythonrunner times total 52 boot 2 init 45 finish 5
+17 06 09 20 11 08 info storage memorystore block rdd 42 19 stored as bytes in memory estimated size 920 0 b free 819 9 kb 
+17 06 09 20 11 08 info storage memorystore block rdd 42 18 stored as bytes in memory estimated size 955 0 b free 820 8 kb 
+17 06 09 20 11 08 info python pythonrunner times total 38 boot 16 init 22 finish 0
+17 06 09 20 11 08 info executor executor finished task 15 0 in stage 26 0 tid 1215 2705 bytes result sent to driver
+17 06 09 20 11 08 info executor coarsegrainedexecutorbackend got assigned task 1220
+17 06 09 20 11 08 info executor executor running task 20 0 in stage 26 0 tid 1220 
+17 06 09 20 11 08 info spark cachemanager partition rdd 42 20 not found computing it
+17 06 09 20 11 08 info rdd hadooprdd input split hdfs 10 10 34 11 9000 pjhe logs 2ksosp log 145840 7292
+17 06 09 20 11 08 info python pythonrunner times total 38 boot 24 init 14 finish 0
+17 06 09 20 11 08 info python pythonrunner times total 43 boot 23 init 19 finish 1
+17 06 09 20 11 08 info executor executor finished task 16 0 in stage 26 0 tid 1216 2701 bytes result sent to driver
+17 06 09 20 11 08 info executor executor finished task 17 0 in stage 26 0 tid 1217 2701 bytes result sent to driver
+17 06 09 20 11 08 info executor coarsegrainedexecutorbackend got assigned task 1221
+17 06 09 20 11 08 info executor executor running task 21 0 in stage 26 0 tid 1221 
+17 06 09 20 11 08 info executor coarsegrainedexecutorbackend got assigned task 1222
+17 06 09 20 11 08 info executor executor running task 22 0 in stage 26 0 tid 1222 
+17 06 09 20 11 08 info spark cachemanager partition rdd 42 21 not found computing it
+17 06 09 20 11 08 info rdd hadooprdd input split hdfs 10 10 34 11 9000 pjhe logs 2ksosp log 153132 7292
+17 06 09 20 11 08 info spark cachemanager partition rdd 42 22 not found computing it
+17 06 09 20 11 08 info rdd hadooprdd input split hdfs 10 10 34 11 9000 pjhe logs 2ksosp log 160424 7292
+17 06 09 20 11 08 info python pythonrunner times total 38 boot 20 init 18 finish 0
+17 06 09 20 11 08 info python pythonrunner times total 41 boot 20 init 21 finish 0
+17 06 09 20 11 08 info executor executor finished task 18 0 in stage 26 0 tid 1218 2703 bytes result sent to driver
+17 06 09 20 11 08 info executor executor finished task 19 0 in stage 26 0 tid 1219 2705 bytes result sent to driver
+17 06 09 20 11 08 info executor coarsegrainedexecutorbackend got assigned task 1223
+17 06 09 20 11 08 info executor executor running task 23 0 in stage 26 0 tid 1223 
+17 06 09 20 11 08 info executor coarsegrainedexecutorbackend got assigned task 1224
+17 06 09 20 11 08 info executor executor running task 24 0 in stage 26 0 tid 1224 
+17 06 09 20 11 08 info spark cachemanager partition rdd 42 23 not found computing it
+17 06 09 20 11 08 info rdd hadooprdd input split hdfs 10 10 34 11 9000 pjhe logs 2ksosp log 167716 7292
+17 06 09 20 11 08 info spark cachemanager partition rdd 42 24 not found computing it
+17 06 09 20 11 08 info rdd hadooprdd input split hdfs 10 10 34 11 9000 pjhe logs 2ksosp log 175008 7292
+17 06 09 20 11 08 info python pythonrunner times total 47 boot 5 init 37 finish 5
+17 06 09 20 11 08 info storage memorystore block rdd 42 20 stored as bytes in memory estimated size 917 0 b free 821 7 kb 
+17 06 09 20 11 08 info python pythonrunner times total 53 boot 15 init 33 finish 5
+17 06 09 20 11 08 info python pythonrunner times total 54 boot 17 init 32 finish 5
+17 06 09 20 11 08 info storage memorystore block rdd 42 22 stored as bytes in memory estimated size 737 0 b free 822 5 kb 
+17 06 09 20 11 08 info storage memorystore block rdd 42 21 stored as bytes in memory estimated size 922 0 b free 823 4 kb 
+17 06 09 20 11 08 info python pythonrunner times total 50 boot 4 init 41 finish 5
+17 06 09 20 11 08 info python pythonrunner times total 54 boot 8 init 41 finish 5
+17 06 09 20 11 08 info storage memorystore block rdd 42 24 stored as bytes in memory estimated size 858 0 b free 824 2 kb 
+17 06 09 20 11 08 info python pythonrunner times total 40 boot 13 init 26 finish 1
+17 06 09 20 11 08 info storage memorystore block rdd 42 23 stored as bytes in memory estimated size 914 0 b free 825 1 kb 
+17 06 09 20 11 08 info executor executor finished task 20 0 in stage 26 0 tid 1220 2703 bytes result sent to driver
+17 06 09 20 11 08 info executor coarsegrainedexecutorbackend got assigned task 1225
+17 06 09 20 11 08 info executor executor running task 25 0 in stage 26 0 tid 1225 
+17 06 09 20 11 08 info spark cachemanager partition rdd 42 25 not found computing it
+17 06 09 20 11 08 info rdd hadooprdd input split hdfs 10 10 34 11 9000 pjhe logs 2ksosp log 182300 7292
+17 06 09 20 11 08 info python pythonrunner times total 42 boot 26 init 16 finish 0
+17 06 09 20 11 08 info python pythonrunner times total 39 boot 23 init 16 finish 0
+17 06 09 20 11 08 info executor executor finished task 22 0 in stage 26 0 tid 1222 2703 bytes result sent to driver
+17 06 09 20 11 08 info executor executor finished task 21 0 in stage 26 0 tid 1221 2705 bytes result sent to driver
+17 06 09 20 11 08 info executor coarsegrainedexecutorbackend got assigned task 1226
+17 06 09 20 11 08 info executor executor running task 26 0 in stage 26 0 tid 1226 
+17 06 09 20 11 08 info executor coarsegrainedexecutorbackend got assigned task 1227
+17 06 09 20 11 08 info executor executor running task 27 0 in stage 26 0 tid 1227 
+17 06 09 20 11 08 info spark cachemanager partition rdd 42 26 not found computing it
+17 06 09 20 11 08 info rdd hadooprdd input split hdfs 10 10 34 11 9000 pjhe logs 2ksosp log 189592 7292
+17 06 09 20 11 08 info python pythonrunner times total 38 boot 21 init 17 finish 0
+17 06 09 20 11 08 info python pythonrunner times total 42 boot 20 init 22 finish 0
+17 06 09 20 11 08 info spark cachemanager partition rdd 42 27 not found computing it
+17 06 09 20 11 08 info rdd hadooprdd input split hdfs 10 10 34 11 9000 pjhe logs 2ksosp log 196884 7292
+17 06 09 20 11 08 info executor executor finished task 23 0 in stage 26 0 tid 1223 2703 bytes result sent to driver
+17 06 09 20 11 08 info executor executor finished task 24 0 in stage 26 0 tid 1224 2703 bytes result sent to driver
+17 06 09 20 11 08 info executor coarsegrainedexecutorbackend got assigned task 1228
+17 06 09 20 11 08 info executor executor running task 28 0 in stage 26 0 tid 1228 
+17 06 09 20 11 08 info executor coarsegrainedexecutorbackend got assigned task 1229
+17 06 09 20 11 08 info executor executor running task 29 0 in stage 26 0 tid 1229 
+17 06 09 20 11 08 info spark cachemanager partition rdd 42 28 not found computing it
+17 06 09 20 11 08 info rdd hadooprdd input split hdfs 10 10 34 11 9000 pjhe logs 2ksosp log 204176 7292
+17 06 09 20 11 08 info spark cachemanager partition rdd 42 29 not found computing it
+17 06 09 20 11 08 info rdd hadooprdd input split hdfs 10 10 34 11 9000 pjhe logs 2ksosp log 211468 7292
+17 06 09 20 11 08 info python pythonrunner times total 48 boot 5 init 38 finish 5
+17 06 09 20 11 08 info storage memorystore block rdd 42 25 stored as bytes in memory estimated size 950 0 b free 826 0 kb 
+17 06 09 20 11 08 info python pythonrunner times total 52 boot 7 init 40 finish 5
+17 06 09 20 11 08 info python pythonrunner times total 56 boot 7 init 44 finish 5
+17 06 09 20 11 08 info storage memorystore block rdd 42 27 stored as bytes in memory estimated size 790 0 b free 826 8 kb 
+17 06 09 20 11 08 info storage memorystore block rdd 42 26 stored as bytes in memory estimated size 872 0 b free 827 6 kb 
+17 06 09 20 11 08 info python pythonrunner times total 52 boot 7 init 40 finish 5
+17 06 09 20 11 08 info python pythonrunner times total 41 boot 16 init 25 finish 0
+17 06 09 20 11 08 info python pythonrunner times total 54 boot 5 init 41 finish 8
+17 06 09 20 11 08 info storage memorystore block rdd 42 28 stored as bytes in memory estimated size 901 0 b free 828 5 kb 
+17 06 09 20 11 08 info executor executor finished task 25 0 in stage 26 0 tid 1225 2705 bytes result sent to driver
+17 06 09 20 11 08 info storage memorystore block rdd 42 29 stored as bytes in memory estimated size 901 0 b free 829 4 kb 
+17 06 09 20 11 08 info executor coarsegrainedexecutorbackend got assigned task 1230
+17 06 09 20 11 08 info executor executor running task 30 0 in stage 26 0 tid 1230 
+17 06 09 20 11 08 info spark cachemanager partition rdd 42 30 not found computing it
+17 06 09 20 11 08 info rdd hadooprdd input split hdfs 10 10 34 11 9000 pjhe logs 2ksosp log 218760 7292
+17 06 09 20 11 08 info python pythonrunner times total 38 boot 34 init 4 finish 0
+17 06 09 20 11 08 info python pythonrunner times total 42 boot 24 init 17 finish 1
+17 06 09 20 11 08 info executor executor finished task 26 0 in stage 26 0 tid 1226 2705 bytes result sent to driver
+17 06 09 20 11 08 info executor executor finished task 27 0 in stage 26 0 tid 1227 2701 bytes result sent to driver
+17 06 09 20 11 08 info executor coarsegrainedexecutorbackend got assigned task 1231
+17 06 09 20 11 08 info executor executor running task 31 0 in stage 26 0 tid 1231 
+17 06 09 20 11 08 info executor coarsegrainedexecutorbackend got assigned task 1232
+17 06 09 20 11 08 info executor executor running task 32 0 in stage 26 0 tid 1232 
+17 06 09 20 11 08 info python pythonrunner times total 42 boot 22 init 19 finish 1
+17 06 09 20 11 08 info spark cachemanager partition rdd 42 31 not found computing it
+17 06 09 20 11 08 info rdd hadooprdd input split hdfs 10 10 34 11 9000 pjhe logs 2ksosp log 226052 7292
+17 06 09 20 11 08 info spark cachemanager partition rdd 42 32 not found computing it
+17 06 09 20 11 08 info rdd hadooprdd input split hdfs 10 10 34 11 9000 pjhe logs 2ksosp log 233344 7292
+17 06 09 20 11 08 info python pythonrunner times total 39 boot 20 init 18 finish 1
+17 06 09 20 11 08 info executor executor finished task 28 0 in stage 26 0 tid 1228 2705 bytes result sent to driver
+17 06 09 20 11 08 info executor executor finished task 29 0 in stage 26 0 tid 1229 2705 bytes result sent to driver
+17 06 09 20 11 08 info executor coarsegrainedexecutorbackend got assigned task 1233
+17 06 09 20 11 08 info executor executor running task 33 0 in stage 26 0 tid 1233 
+17 06 09 20 11 08 info executor coarsegrainedexecutorbackend got assigned task 1234
+17 06 09 20 11 08 info executor executor running task 34 0 in stage 26 0 tid 1234 
+17 06 09 20 11 08 info spark cachemanager partition rdd 42 34 not found computing it
+17 06 09 20 11 08 info rdd hadooprdd input split hdfs 10 10 34 11 9000 pjhe logs 2ksosp log 247928 7292
+17 06 09 20 11 08 info spark cachemanager partition rdd 42 33 not found computing it
+17 06 09 20 11 08 info rdd hadooprdd input split hdfs 10 10 34 11 9000 pjhe logs 2ksosp log 240636 7292
+17 06 09 20 11 08 info python pythonrunner times total 46 boot 16 init 25 finish 5
+17 06 09 20 11 08 info storage memorystore block rdd 42 30 stored as bytes in memory estimated size 906 0 b free 830 3 kb 
+17 06 09 20 11 08 info python pythonrunner times total 51 boot 12 init 34 finish 5
+17 06 09 20 11 08 info python pythonrunner times total 50 boot 3 init 42 finish 5
+17 06 09 20 11 08 info storage memorystore block rdd 42 31 stored as bytes in memory estimated size 827 0 b free 831 1 kb 
+17 06 09 20 11 08 info storage memorystore block rdd 42 32 stored as bytes in memory estimated size 993 0 b free 832 1 kb 
+17 06 09 20 11 08 info python pythonrunner times total 41 boot 18 init 23 finish 0
+17 06 09 20 11 08 info executor executor finished task 30 0 in stage 26 0 tid 1230 2703 bytes result sent to driver
+17 06 09 20 11 08 info python pythonrunner times total 50 boot 6 init 39 finish 5
+17 06 09 20 11 08 info executor coarsegrainedexecutorbackend got assigned task 1235
+17 06 09 20 11 08 info executor executor running task 35 0 in stage 26 0 tid 1235 
+17 06 09 20 11 08 info python pythonrunner times total 50 boot 2 init 43 finish 5
+17 06 09 20 11 08 info storage memorystore block rdd 42 34 stored as bytes in memory estimated size 842 0 b free 832 9 kb 
+17 06 09 20 11 08 info spark cachemanager partition rdd 42 35 not found computing it
+17 06 09 20 11 08 info rdd hadooprdd input split hdfs 10 10 34 11 9000 pjhe logs 2ksosp log 255220 7292
+17 06 09 20 11 08 info storage memorystore block rdd 42 33 stored as bytes in memory estimated size 869 0 b free 833 7 kb 
+17 06 09 20 11 08 info python pythonrunner times total 42 boot 24 init 18 finish 0
+17 06 09 20 11 08 info python pythonrunner times total 38 boot 23 init 15 finish 0
+17 06 09 20 11 08 info executor executor finished task 32 0 in stage 26 0 tid 1232 2703 bytes result sent to driver
+17 06 09 20 11 08 info executor executor finished task 31 0 in stage 26 0 tid 1231 2703 bytes result sent to driver
+17 06 09 20 11 08 info executor coarsegrainedexecutorbackend got assigned task 1236
+17 06 09 20 11 08 info executor executor running task 36 0 in stage 26 0 tid 1236 
+17 06 09 20 11 08 info executor coarsegrainedexecutorbackend got assigned task 1237
+17 06 09 20 11 08 info executor executor running task 37 0 in stage 26 0 tid 1237 
+17 06 09 20 11 08 info spark cachemanager partition rdd 42 36 not found computing it
+17 06 09 20 11 08 info rdd hadooprdd input split hdfs 10 10 34 11 9000 pjhe logs 2ksosp log 262512 7292
+17 06 09 20 11 08 info spark cachemanager partition rdd 42 37 not found computing it
+17 06 09 20 11 08 info python pythonrunner times total 43 boot 17 init 25 finish 1
+17 06 09 20 11 08 info rdd hadooprdd input split hdfs 10 10 34 11 9000 pjhe logs 2ksosp log 269804 7292
+17 06 09 20 11 08 info python pythonrunner times total 38 boot 12 init 26 finish 0
+17 06 09 20 11 08 info executor executor finished task 34 0 in stage 26 0 tid 1234 2703 bytes result sent to driver
+17 06 09 20 11 08 info executor executor finished task 33 0 in stage 26 0 tid 1233 2703 bytes result sent to driver
+17 06 09 20 11 08 info executor coarsegrainedexecutorbackend got assigned task 1238
+17 06 09 20 11 08 info executor executor running task 38 0 in stage 26 0 tid 1238 
+17 06 09 20 11 08 info executor coarsegrainedexecutorbackend got assigned task 1239
+17 06 09 20 11 08 info executor executor running task 39 0 in stage 26 0 tid 1239 
+17 06 09 20 11 08 info python pythonrunner times total 47 boot 17 init 23 finish 7
+17 06 09 20 11 08 info spark cachemanager partition rdd 42 38 not found computing it
+17 06 09 20 11 08 info rdd hadooprdd input split hdfs 10 10 34 11 9000 pjhe logs 2ksosp log 277096 7292
+17 06 09 20 11 08 info spark cachemanager partition rdd 42 39 not found computing it
+17 06 09 20 11 08 info rdd hadooprdd input split hdfs 10 10 34 11 9000 pjhe logs 2ksosp log 284388 7303
+17 06 09 20 11 08 info storage memorystore block rdd 42 35 stored as bytes in memory estimated size 917 0 b free 834 6 kb 
+17 06 09 20 11 08 info python pythonrunner times total 53 boot 8 init 40 finish 5
+17 06 09 20 11 08 info python pythonrunner times total 53 boot 12 init 36 finish 5
+17 06 09 20 11 08 info storage memorystore block rdd 42 37 stored as bytes in memory estimated size 939 0 b free 835 5 kb 
+17 06 09 20 11 08 info storage memorystore block rdd 42 36 stored as bytes in memory estimated size 912 0 b free 836 4 kb 
+17 06 09 20 11 08 info python pythonrunner times total 41 boot 9 init 31 finish 1
+17 06 09 20 11 08 info executor executor finished task 35 0 in stage 26 0 tid 1235 2705 bytes result sent to driver
+17 06 09 20 11 08 info python pythonrunner times total 48 boot 17 init 25 finish 6
+17 06 09 20 11 08 info python pythonrunner times total 51 boot 8 init 38 finish 5
+17 06 09 20 11 08 info storage memorystore block rdd 42 38 stored as bytes in memory estimated size 974 0 b free 837 4 kb 
+17 06 09 20 11 08 info storage memorystore block rdd 42 39 stored as bytes in memory estimated size 877 0 b free 838 2 kb 
+17 06 09 20 11 08 info python pythonrunner times total 40 boot 24 init 16 finish 0
+17 06 09 20 11 08 info python pythonrunner times total 42 boot 22 init 19 finish 1
+17 06 09 20 11 08 info executor executor finished task 36 0 in stage 26 0 tid 1236 2705 bytes result sent to driver
+17 06 09 20 11 08 info executor executor finished task 37 0 in stage 26 0 tid 1237 2705 bytes result sent to driver
+17 06 09 20 11 08 info python pythonrunner times total 40 boot 13 init 27 finish 0
+17 06 09 20 11 08 info python pythonrunner times total 38 boot 18 init 20 finish 0
+17 06 09 20 11 08 info executor executor finished task 38 0 in stage 26 0 tid 1238 2703 bytes result sent to driver
+17 06 09 20 11 08 info executor executor finished task 39 0 in stage 26 0 tid 1239 2703 bytes result sent to driver
+17 06 09 20 11 08 info executor coarsegrainedexecutorbackend got assigned task 1240
+17 06 09 20 11 08 info executor executor running task 0 0 in stage 27 0 tid 1240 
+17 06 09 20 11 08 info executor coarsegrainedexecutorbackend got assigned task 1241
+17 06 09 20 11 08 info executor executor running task 1 0 in stage 27 0 tid 1241 
+17 06 09 20 11 08 info executor coarsegrainedexecutorbackend got assigned task 1242
+17 06 09 20 11 08 info broadcast torrentbroadcast started reading broadcast variable 38
+17 06 09 20 11 08 info executor executor running task 2 0 in stage 27 0 tid 1242 
+17 06 09 20 11 08 info executor coarsegrainedexecutorbackend got assigned task 1243
+17 06 09 20 11 08 info executor executor running task 3 0 in stage 27 0 tid 1243 
+17 06 09 20 11 08 info executor coarsegrainedexecutorbackend got assigned task 1244
+17 06 09 20 11 08 info executor executor running task 4 0 in stage 27 0 tid 1244 
+17 06 09 20 11 08 info storage memorystore block broadcast 38 piece0 stored as bytes in memory estimated size 5 8 kb free 844 0 kb 
+17 06 09 20 11 08 info broadcast torrentbroadcast reading broadcast variable 38 took 11 ms
+17 06 09 20 11 08 info storage memorystore block broadcast 38 stored as values in memory estimated size 9 6 kb free 853 7 kb 
+17 06 09 20 11 08 info storage blockmanager found block rdd 42 0 locally
+17 06 09 20 11 08 info storage blockmanager found block rdd 42 4 locally
+17 06 09 20 11 08 info storage blockmanager found block rdd 42 2 locally
+17 06 09 20 11 08 info storage blockmanager found block rdd 42 3 locally
+17 06 09 20 11 08 info storage blockmanager found block rdd 42 1 locally
+17 06 09 20 11 08 info python pythonrunner times total 39 boot 108 init 146 finish 1
+17 06 09 20 11 08 info python pythonrunner times total 42 boot 77 init 118 finish 1
+17 06 09 20 11 08 info executor executor finished task 0 0 in stage 27 0 tid 1240 2474 bytes result sent to driver
+17 06 09 20 11 08 info python pythonrunner times total 41 boot 71 init 111 finish 1
+17 06 09 20 11 08 info python pythonrunner times total 39 boot 64 init 102 finish 1
+17 06 09 20 11 08 info executor executor finished task 4 0 in stage 27 0 tid 1244 2685 bytes result sent to driver
+17 06 09 20 11 08 info python pythonrunner times total 42 boot 66 init 107 finish 1
+17 06 09 20 11 08 info executor executor finished task 2 0 in stage 27 0 tid 1242 2523 bytes result sent to driver
+17 06 09 20 11 08 info executor coarsegrainedexecutorbackend got assigned task 1245
+17 06 09 20 11 08 info executor executor running task 5 0 in stage 27 0 tid 1245 
+17 06 09 20 11 08 info executor executor finished task 3 0 in stage 27 0 tid 1243 2651 bytes result sent to driver
+17 06 09 20 11 08 info executor coarsegrainedexecutorbackend got assigned task 1246
+17 06 09 20 11 08 info executor executor finished task 1 0 in stage 27 0 tid 1241 2428 bytes result sent to driver
+17 06 09 20 11 08 info executor executor running task 6 0 in stage 27 0 tid 1246 
+17 06 09 20 11 08 info executor coarsegrainedexecutorbackend got assigned task 1247
+17 06 09 20 11 08 info executor executor running task 7 0 in stage 27 0 tid 1247 
+17 06 09 20 11 08 info storage blockmanager found block rdd 42 5 locally
+17 06 09 20 11 08 info executor coarsegrainedexecutorbackend got assigned task 1248
+17 06 09 20 11 09 info executor executor running task 8 0 in stage 27 0 tid 1248 
+17 06 09 20 11 09 info executor coarsegrainedexecutorbackend got assigned task 1249
+17 06 09 20 11 09 info executor executor running task 9 0 in stage 27 0 tid 1249 
+17 06 09 20 11 09 info storage blockmanager found block rdd 42 7 locally
+17 06 09 20 11 09 info storage blockmanager found block rdd 42 6 locally
+17 06 09 20 11 09 info storage blockmanager found block rdd 42 8 locally
+17 06 09 20 11 09 info storage blockmanager found block rdd 42 9 locally
+17 06 09 20 11 09 info python pythonrunner times total 40 boot 26 init 13 finish 1
+17 06 09 20 11 09 info executor executor finished task 5 0 in stage 27 0 tid 1245 2721 bytes result sent to driver
+17 06 09 20 11 09 info python pythonrunner times total 42 boot 13 init 28 finish 1
+17 06 09 20 11 09 info python pythonrunner times total 40 boot 15 init 25 finish 0
+17 06 09 20 11 09 info python pythonrunner times total 42 boot 24 init 17 finish 1
+17 06 09 20 11 09 info executor coarsegrainedexecutorbackend got assigned task 1250
+17 06 09 20 11 09 info executor executor running task 10 0 in stage 27 0 tid 1250 
+17 06 09 20 11 09 info python pythonrunner times total 43 boot 13 init 29 finish 1
+17 06 09 20 11 09 info executor executor finished task 8 0 in stage 27 0 tid 1248 2263 bytes result sent to driver
+17 06 09 20 11 09 info executor executor finished task 6 0 in stage 27 0 tid 1246 2220 bytes result sent to driver
+17 06 09 20 11 09 info executor executor finished task 7 0 in stage 27 0 tid 1247 2171 bytes result sent to driver
+17 06 09 20 11 09 info storage blockmanager found block rdd 42 10 locally
+17 06 09 20 11 09 info executor executor finished task 9 0 in stage 27 0 tid 1249 2427 bytes result sent to driver
+17 06 09 20 11 09 info executor coarsegrainedexecutorbackend got assigned task 1251
+17 06 09 20 11 09 info executor executor running task 11 0 in stage 27 0 tid 1251 
+17 06 09 20 11 09 info executor coarsegrainedexecutorbackend got assigned task 1252
+17 06 09 20 11 09 info executor executor running task 12 0 in stage 27 0 tid 1252 
+17 06 09 20 11 09 info executor coarsegrainedexecutorbackend got assigned task 1253
+17 06 09 20 11 09 info executor executor running task 13 0 in stage 27 0 tid 1253 
+17 06 09 20 11 09 info executor coarsegrainedexecutorbackend got assigned task 1254
+17 06 09 20 11 09 info executor executor running task 14 0 in stage 27 0 tid 1254 
+17 06 09 20 11 09 info storage blockmanager found block rdd 42 11 locally
+17 06 09 20 11 09 info storage blockmanager found block rdd 42 12 locally
+17 06 09 20 11 09 info storage blockmanager found block rdd 42 13 locally
+17 06 09 20 11 09 info storage blockmanager found block rdd 42 14 locally
+17 06 09 20 11 09 info python pythonrunner times total 40 boot 14 init 25 finish 1
+17 06 09 20 11 09 info executor executor finished task 10 0 in stage 27 0 tid 1250 2667 bytes result sent to driver
+17 06 09 20 11 09 info executor coarsegrainedexecutorbackend got assigned task 1255
+17 06 09 20 11 09 info executor executor running task 15 0 in stage 27 0 tid 1255 
+17 06 09 20 11 09 info python pythonrunner times total 39 boot 12 init 26 finish 1
+17 06 09 20 11 09 info python pythonrunner times total 42 boot 13 init 28 finish 1
+17 06 09 20 11 09 info python pythonrunner times total 40 boot 10 init 29 finish 1
+17 06 09 20 11 09 info executor executor finished task 11 0 in stage 27 0 tid 1251 2402 bytes result sent to driver
+17 06 09 20 11 09 info executor executor finished task 12 0 in stage 27 0 tid 1252 2486 bytes result sent to driver
+17 06 09 20 11 09 info python pythonrunner times total 41 boot 11 init 29 finish 1
+17 06 09 20 11 09 info storage blockmanager found block rdd 42 15 locally
+17 06 09 20 11 09 info executor executor finished task 14 0 in stage 27 0 tid 1254 2404 bytes result sent to driver
+17 06 09 20 11 09 info executor coarsegrainedexecutorbackend got assigned task 1256
+17 06 09 20 11 09 info executor executor running task 16 0 in stage 27 0 tid 1256 
+17 06 09 20 11 09 info executor coarsegrainedexecutorbackend got assigned task 1257
+17 06 09 20 11 09 info executor executor finished task 13 0 in stage 27 0 tid 1253 2522 bytes result sent to driver
+17 06 09 20 11 09 info executor executor running task 17 0 in stage 27 0 tid 1257 
+17 06 09 20 11 09 info executor coarsegrainedexecutorbackend got assigned task 1258
+17 06 09 20 11 09 info executor executor running task 18 0 in stage 27 0 tid 1258 
+17 06 09 20 11 09 info executor coarsegrainedexecutorbackend got assigned task 1259
+17 06 09 20 11 09 info executor executor running task 19 0 in stage 27 0 tid 1259 
+17 06 09 20 11 09 info storage blockmanager found block rdd 42 16 locally
+17 06 09 20 11 09 info storage blockmanager found block rdd 42 17 locally
+17 06 09 20 11 09 info storage blockmanager found block rdd 42 19 locally
+17 06 09 20 11 09 info storage blockmanager found block rdd 42 18 locally
+17 06 09 20 11 09 info python pythonrunner times total 42 boot 19 init 22 finish 1
+17 06 09 20 11 09 info executor executor finished task 15 0 in stage 27 0 tid 1255 2523 bytes result sent to driver
+17 06 09 20 11 09 info python pythonrunner times total 39 boot 15 init 24 finish 0
+17 06 09 20 11 09 info executor coarsegrainedexecutorbackend got assigned task 1260
+17 06 09 20 11 09 info executor executor running task 20 0 in stage 27 0 tid 1260 
+17 06 09 20 11 09 info executor executor finished task 16 0 in stage 27 0 tid 1256 2171 bytes result sent to driver
+17 06 09 20 11 09 info python pythonrunner times total 40 boot 14 init 26 finish 0
+17 06 09 20 11 09 info python pythonrunner times total 39 boot 13 init 25 finish 1
+17 06 09 20 11 09 info storage blockmanager found block rdd 42 20 locally
+17 06 09 20 11 09 info executor coarsegrainedexecutorbackend got assigned task 1261
+17 06 09 20 11 09 info executor executor running task 21 0 in stage 27 0 tid 1261 
+17 06 09 20 11 09 info executor executor finished task 19 0 in stage 27 0 tid 1259 2517 bytes result sent to driver
+17 06 09 20 11 09 info executor executor finished task 17 0 in stage 27 0 tid 1257 2128 bytes result sent to driver
+17 06 09 20 11 09 info python pythonrunner times total 42 boot 16 init 25 finish 1
+17 06 09 20 11 09 info executor executor finished task 18 0 in stage 27 0 tid 1258 2349 bytes result sent to driver
+17 06 09 20 11 09 info executor coarsegrainedexecutorbackend got assigned task 1262
+17 06 09 20 11 09 info executor executor running task 22 0 in stage 27 0 tid 1262 
+17 06 09 20 11 09 info executor coarsegrainedexecutorbackend got assigned task 1263
+17 06 09 20 11 09 info storage blockmanager found block rdd 42 21 locally
+17 06 09 20 11 09 info executor executor running task 23 0 in stage 27 0 tid 1263 
+17 06 09 20 11 09 info executor coarsegrainedexecutorbackend got assigned task 1264
+17 06 09 20 11 09 info executor executor running task 24 0 in stage 27 0 tid 1264 
+17 06 09 20 11 09 info storage blockmanager found block rdd 42 22 locally
+17 06 09 20 11 09 info storage blockmanager found block rdd 42 24 locally
+17 06 09 20 11 09 info storage blockmanager found block rdd 42 23 locally
+17 06 09 20 11 09 info python pythonrunner times total 40 boot 17 init 22 finish 1
+17 06 09 20 11 09 info executor executor finished task 20 0 in stage 27 0 tid 1260 2355 bytes result sent to driver
+17 06 09 20 11 09 info python pythonrunner times total 41 boot 19 init 21 finish 1
+17 06 09 20 11 09 info executor coarsegrainedexecutorbackend got assigned task 1265
+17 06 09 20 11 09 info executor executor running task 25 0 in stage 27 0 tid 1265 
+17 06 09 20 11 09 info executor executor finished task 21 0 in stage 27 0 tid 1261 2486 bytes result sent to driver
+17 06 09 20 11 09 info python pythonrunner times total 41 boot 14 init 25 finish 2
+17 06 09 20 11 09 info python pythonrunner times total 41 boot 11 init 29 finish 1
+17 06 09 20 11 09 info executor coarsegrainedexecutorbackend got assigned task 1266
+17 06 09 20 11 09 info executor executor running task 26 0 in stage 27 0 tid 1266 
+17 06 09 20 11 09 info python pythonrunner times total 41 boot 19 init 21 finish 1
+17 06 09 20 11 09 info storage blockmanager found block rdd 42 25 locally
+17 06 09 20 11 09 info executor executor finished task 22 0 in stage 27 0 tid 1262 2171 bytes result sent to driver
+17 06 09 20 11 09 info executor executor finished task 24 0 in stage 27 0 tid 1264 2592 bytes result sent to driver
+17 06 09 20 11 09 info executor executor finished task 23 0 in stage 27 0 tid 1263 2385 bytes result sent to driver
+17 06 09 20 11 09 info storage blockmanager found block rdd 42 26 locally
+17 06 09 20 11 09 info executor coarsegrainedexecutorbackend got assigned task 1267
+17 06 09 20 11 09 info executor executor running task 27 0 in stage 27 0 tid 1267 
+17 06 09 20 11 09 info executor coarsegrainedexecutorbackend got assigned task 1268
+17 06 09 20 11 09 info executor executor running task 28 0 in stage 27 0 tid 1268 
+17 06 09 20 11 09 info executor coarsegrainedexecutorbackend got assigned task 1269
+17 06 09 20 11 09 info executor executor running task 29 0 in stage 27 0 tid 1269 
+17 06 09 20 11 09 info storage blockmanager found block rdd 42 27 locally
+17 06 09 20 11 09 info storage blockmanager found block rdd 42 28 locally
+17 06 09 20 11 09 info storage blockmanager found block rdd 42 29 locally
+17 06 09 20 11 09 info python pythonrunner times total 42 boot 14 init 27 finish 1
+17 06 09 20 11 09 info python pythonrunner times total 41 boot 35 init 5 finish 1
+17 06 09 20 11 09 info python pythonrunner times total 41 boot 34 init 6 finish 1
+17 06 09 20 11 09 info python pythonrunner times total 42 boot 34 init 7 finish 1
+17 06 09 20 11 09 info executor executor finished task 27 0 in stage 27 0 tid 1267 2182 bytes result sent to driver
+17 06 09 20 11 09 info executor executor finished task 28 0 in stage 27 0 tid 1268 2349 bytes result sent to driver
+17 06 09 20 11 09 info executor executor finished task 26 0 in stage 27 0 tid 1266 2267 bytes result sent to driver
+17 06 09 20 11 09 info executor executor finished task 25 0 in stage 27 0 tid 1265 2355 bytes result sent to driver
+17 06 09 20 11 09 info executor coarsegrainedexecutorbackend got assigned task 1270
+17 06 09 20 11 09 info executor executor running task 30 0 in stage 27 0 tid 1270 
+17 06 09 20 11 09 info executor coarsegrainedexecutorbackend got assigned task 1271
+17 06 09 20 11 09 info executor executor running task 31 0 in stage 27 0 tid 1271 
+17 06 09 20 11 09 info executor coarsegrainedexecutorbackend got assigned task 1272
+17 06 09 20 11 09 info executor executor running task 32 0 in stage 27 0 tid 1272 
+17 06 09 20 11 09 info executor coarsegrainedexecutorbackend got assigned task 1273
+17 06 09 20 11 09 info executor executor running task 33 0 in stage 27 0 tid 1273 
+17 06 09 20 11 09 info storage blockmanager found block rdd 42 31 locally
+17 06 09 20 11 09 info storage blockmanager found block rdd 42 32 locally
+17 06 09 20 11 09 info storage blockmanager found block rdd 42 33 locally
+17 06 09 20 11 09 info storage blockmanager found block rdd 42 30 locally
+17 06 09 20 11 09 info python pythonrunner times total 108 boot 28 init 79 finish 1
+17 06 09 20 11 09 info executor executor finished task 29 0 in stage 27 0 tid 1269 2349 bytes result sent to driver
+17 06 09 20 11 09 info executor coarsegrainedexecutorbackend got assigned task 1274
+17 06 09 20 11 09 info executor executor running task 34 0 in stage 27 0 tid 1274 
+17 06 09 20 11 09 info storage blockmanager found block rdd 42 34 locally
+17 06 09 20 11 09 info python pythonrunner times total 40 boot 27 init 66 finish 1
+17 06 09 20 11 09 info executor executor finished task 31 0 in stage 27 0 tid 1271 2128 bytes result sent to driver
+17 06 09 20 11 09 info python pythonrunner times total 42 boot 28 init 69 finish 1
+17 06 09 20 11 09 info python pythonrunner times total 41 boot 24 init 64 finish 1
+17 06 09 20 11 09 info python pythonrunner times total 41 boot 15 init 55 finish 1
+17 06 09 20 11 09 info executor executor finished task 32 0 in stage 27 0 tid 1272 2801 bytes result sent to driver
+17 06 09 20 11 09 info executor executor finished task 33 0 in stage 27 0 tid 1273 2592 bytes result sent to driver
+17 06 09 20 11 09 info executor coarsegrainedexecutorbackend got assigned task 1275
+17 06 09 20 11 09 info executor executor running task 35 0 in stage 27 0 tid 1275 
+17 06 09 20 11 09 info executor executor finished task 30 0 in stage 27 0 tid 1270 2859 bytes result sent to driver
+17 06 09 20 11 09 info executor coarsegrainedexecutorbackend got assigned task 1276
+17 06 09 20 11 09 info executor executor running task 36 0 in stage 27 0 tid 1276 
+17 06 09 20 11 09 info executor coarsegrainedexecutorbackend got assigned task 1277
+17 06 09 20 11 09 info executor executor running task 37 0 in stage 27 0 tid 1277 
+17 06 09 20 11 09 info executor coarsegrainedexecutorbackend got assigned task 1278
+17 06 09 20 11 09 info executor executor running task 38 0 in stage 27 0 tid 1278 
+17 06 09 20 11 09 info storage blockmanager found block rdd 42 35 locally
+17 06 09 20 11 09 info storage blockmanager found block rdd 42 37 locally
+17 06 09 20 11 09 info storage blockmanager found block rdd 42 38 locally
+17 06 09 20 11 09 info storage blockmanager found block rdd 42 36 locally
+17 06 09 20 11 09 info python pythonrunner times total 41 boot 11 init 29 finish 1
+17 06 09 20 11 09 info executor executor finished task 34 0 in stage 27 0 tid 1274 2128 bytes result sent to driver
+17 06 09 20 11 09 info executor coarsegrainedexecutorbackend got assigned task 1279
+17 06 09 20 11 09 info executor executor running task 39 0 in stage 27 0 tid 1279 
+17 06 09 20 11 09 info storage blockmanager found block rdd 42 39 locally
+17 06 09 20 11 09 info python pythonrunner times total 41 boot 31 init 9 finish 1
+17 06 09 20 11 09 info python pythonrunner times total 39 boot 27 init 11 finish 1
+17 06 09 20 11 09 info executor executor finished task 35 0 in stage 27 0 tid 1275 2430 bytes result sent to driver
+17 06 09 20 11 09 info python pythonrunner times total 40 boot 20 init 19 finish 1
+17 06 09 20 11 09 info executor executor finished task 38 0 in stage 27 0 tid 1278 2882 bytes result sent to driver
+17 06 09 20 11 09 info python pythonrunner times total 42 boot 27 init 14 finish 1
+17 06 09 20 11 09 info executor executor finished task 37 0 in stage 27 0 tid 1277 2349 bytes result sent to driver
+17 06 09 20 11 09 info executor executor finished task 36 0 in stage 27 0 tid 1276 2673 bytes result sent to driver
+17 06 09 20 11 09 info python pythonrunner times total 39 boot 17 init 21 finish 1
+17 06 09 20 11 09 info executor executor finished task 39 0 in stage 27 0 tid 1279 2267 bytes result sent to driver
+17 06 09 20 11 09 info executor coarsegrainedexecutorbackend got assigned task 1280
+17 06 09 20 11 09 info executor executor running task 0 0 in stage 28 0 tid 1280 
+17 06 09 20 11 09 info executor coarsegrainedexecutorbackend got assigned task 1281
+17 06 09 20 11 09 info executor executor running task 1 0 in stage 28 0 tid 1281 
+17 06 09 20 11 09 info executor coarsegrainedexecutorbackend got assigned task 1282
+17 06 09 20 11 09 info executor executor running task 2 0 in stage 28 0 tid 1282 
+17 06 09 20 11 09 info executor coarsegrainedexecutorbackend got assigned task 1283
+17 06 09 20 11 09 info executor executor running task 3 0 in stage 28 0 tid 1283 
+17 06 09 20 11 09 info executor coarsegrainedexecutorbackend got assigned task 1284
+17 06 09 20 11 09 info executor executor running task 4 0 in stage 28 0 tid 1284 
+17 06 09 20 11 09 info broadcast torrentbroadcast started reading broadcast variable 39
+17 06 09 20 11 09 info storage memorystore block broadcast 39 piece0 stored as bytes in memory estimated size 5 4 kb free 859 1 kb 
+17 06 09 20 11 10 info broadcast torrentbroadcast reading broadcast variable 39 took 716 ms
+17 06 09 20 11 10 info storage memorystore block broadcast 39 stored as values in memory estimated size 9 2 kb free 868 3 kb 
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 1 locally
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 4 locally
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 3 locally
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 2 locally
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 0 locally
+17 06 09 20 11 10 info python pythonrunner times total 39 boot 790 init 829 finish 0
+17 06 09 20 11 10 info python pythonrunner times total 38 boot 784 init 822 finish 0
+17 06 09 20 11 10 info python pythonrunner times total 39 boot 784 init 823 finish 0
+17 06 09 20 11 10 info executor executor finished task 4 0 in stage 28 0 tid 1284 2087 bytes result sent to driver
+17 06 09 20 11 10 info python pythonrunner times total 41 boot 768 init 809 finish 0
+17 06 09 20 11 10 info executor executor finished task 2 0 in stage 28 0 tid 1282 2087 bytes result sent to driver
+17 06 09 20 11 10 info executor executor finished task 3 0 in stage 28 0 tid 1283 2087 bytes result sent to driver
+17 06 09 20 11 10 info python pythonrunner times total 49 boot 793 init 841 finish 1
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1285
+17 06 09 20 11 10 info executor executor running task 5 0 in stage 28 0 tid 1285 
+17 06 09 20 11 10 info executor executor finished task 0 0 in stage 28 0 tid 1280 2087 bytes result sent to driver
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1286
+17 06 09 20 11 10 info executor executor running task 6 0 in stage 28 0 tid 1286 
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1287
+17 06 09 20 11 10 info executor executor finished task 1 0 in stage 28 0 tid 1281 2087 bytes result sent to driver
+17 06 09 20 11 10 info executor executor running task 7 0 in stage 28 0 tid 1287 
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1288
+17 06 09 20 11 10 info executor executor running task 8 0 in stage 28 0 tid 1288 
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 5 locally
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 6 locally
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1289
+17 06 09 20 11 10 info executor executor running task 9 0 in stage 28 0 tid 1289 
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 7 locally
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 8 locally
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 9 locally
+17 06 09 20 11 10 info python pythonrunner times total 38 boot 23 init 15 finish 0
+17 06 09 20 11 10 info python pythonrunner times total 40 boot 16 init 24 finish 0
+17 06 09 20 11 10 info executor executor finished task 6 0 in stage 28 0 tid 1286 2087 bytes result sent to driver
+17 06 09 20 11 10 info python pythonrunner times total 42 boot 13 init 28 finish 1
+17 06 09 20 11 10 info executor executor finished task 5 0 in stage 28 0 tid 1285 2087 bytes result sent to driver
+17 06 09 20 11 10 info python pythonrunner times total 39 boot 23 init 16 finish 0
+17 06 09 20 11 10 info python pythonrunner times total 42 boot 13 init 29 finish 0
+17 06 09 20 11 10 info executor executor finished task 7 0 in stage 28 0 tid 1287 2087 bytes result sent to driver
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1290
+17 06 09 20 11 10 info executor executor running task 10 0 in stage 28 0 tid 1290 
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1291
+17 06 09 20 11 10 info executor executor running task 11 0 in stage 28 0 tid 1291 
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1292
+17 06 09 20 11 10 info executor executor finished task 9 0 in stage 28 0 tid 1289 2087 bytes result sent to driver
+17 06 09 20 11 10 info executor executor finished task 8 0 in stage 28 0 tid 1288 2087 bytes result sent to driver
+17 06 09 20 11 10 info executor executor running task 12 0 in stage 28 0 tid 1292 
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 10 locally
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1293
+17 06 09 20 11 10 info executor executor running task 13 0 in stage 28 0 tid 1293 
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 11 locally
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1294
+17 06 09 20 11 10 info executor executor running task 14 0 in stage 28 0 tid 1294 
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 12 locally
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 13 locally
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 14 locally
+17 06 09 20 11 10 info python pythonrunner times total 40 boot 21 init 19 finish 0
+17 06 09 20 11 10 info python pythonrunner times total 39 boot 19 init 20 finish 0
+17 06 09 20 11 10 info python pythonrunner times total 41 boot 17 init 24 finish 0
+17 06 09 20 11 10 info executor executor finished task 10 0 in stage 28 0 tid 1290 2087 bytes result sent to driver
+17 06 09 20 11 10 info executor executor finished task 12 0 in stage 28 0 tid 1292 2087 bytes result sent to driver
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1295
+17 06 09 20 11 10 info executor executor running task 15 0 in stage 28 0 tid 1295 
+17 06 09 20 11 10 info executor executor finished task 11 0 in stage 28 0 tid 1291 2087 bytes result sent to driver
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1296
+17 06 09 20 11 10 info executor executor running task 16 0 in stage 28 0 tid 1296 
+17 06 09 20 11 10 info python pythonrunner times total 41 boot 12 init 28 finish 1
+17 06 09 20 11 10 info python pythonrunner times total 42 boot 17 init 24 finish 1
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1297
+17 06 09 20 11 10 info executor executor running task 17 0 in stage 28 0 tid 1297 
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 15 locally
+17 06 09 20 11 10 info executor executor finished task 14 0 in stage 28 0 tid 1294 2087 bytes result sent to driver
+17 06 09 20 11 10 info executor executor finished task 13 0 in stage 28 0 tid 1293 2087 bytes result sent to driver
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 17 locally
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1298
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 16 locally
+17 06 09 20 11 10 info executor executor running task 18 0 in stage 28 0 tid 1298 
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1299
+17 06 09 20 11 10 info executor executor running task 19 0 in stage 28 0 tid 1299 
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 18 locally
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 19 locally
+17 06 09 20 11 10 info python pythonrunner times total 40 boot 19 init 21 finish 0
+17 06 09 20 11 10 info python pythonrunner times total 40 boot 20 init 20 finish 0
+17 06 09 20 11 10 info python pythonrunner times total 39 boot 15 init 24 finish 0
+17 06 09 20 11 10 info executor executor finished task 15 0 in stage 28 0 tid 1295 2087 bytes result sent to driver
+17 06 09 20 11 10 info executor executor finished task 16 0 in stage 28 0 tid 1296 2087 bytes result sent to driver
+17 06 09 20 11 10 info executor executor finished task 17 0 in stage 28 0 tid 1297 2087 bytes result sent to driver
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1300
+17 06 09 20 11 10 info executor executor running task 20 0 in stage 28 0 tid 1300 
+17 06 09 20 11 10 info python pythonrunner times total 40 boot 15 init 25 finish 0
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1301
+17 06 09 20 11 10 info python pythonrunner times total 42 boot 16 init 25 finish 1
+17 06 09 20 11 10 info executor executor running task 21 0 in stage 28 0 tid 1301 
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1302
+17 06 09 20 11 10 info executor executor running task 22 0 in stage 28 0 tid 1302 
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 20 locally
+17 06 09 20 11 10 info executor executor finished task 18 0 in stage 28 0 tid 1298 2087 bytes result sent to driver
+17 06 09 20 11 10 info executor executor finished task 19 0 in stage 28 0 tid 1299 2087 bytes result sent to driver
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1303
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 21 locally
+17 06 09 20 11 10 info executor executor running task 23 0 in stage 28 0 tid 1303 
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 22 locally
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1304
+17 06 09 20 11 10 info executor executor running task 24 0 in stage 28 0 tid 1304 
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 24 locally
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 23 locally
+17 06 09 20 11 10 info python pythonrunner times total 42 boot 22 init 19 finish 1
+17 06 09 20 11 10 info python pythonrunner times total 38 boot 18 init 20 finish 0
+17 06 09 20 11 10 info executor executor finished task 20 0 in stage 28 0 tid 1300 2087 bytes result sent to driver
+17 06 09 20 11 10 info executor executor finished task 21 0 in stage 28 0 tid 1301 2087 bytes result sent to driver
+17 06 09 20 11 10 info python pythonrunner times total 42 boot 14 init 28 finish 0
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1305
+17 06 09 20 11 10 info executor executor running task 25 0 in stage 28 0 tid 1305 
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1306
+17 06 09 20 11 10 info executor executor finished task 22 0 in stage 28 0 tid 1302 2087 bytes result sent to driver
+17 06 09 20 11 10 info executor executor running task 26 0 in stage 28 0 tid 1306 
+17 06 09 20 11 10 info python pythonrunner times total 39 boot 15 init 23 finish 1
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 25 locally
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1307
+17 06 09 20 11 10 info executor executor running task 27 0 in stage 28 0 tid 1307 
+17 06 09 20 11 10 info executor executor finished task 24 0 in stage 28 0 tid 1304 2087 bytes result sent to driver
+17 06 09 20 11 10 info python pythonrunner times total 43 boot 15 init 27 finish 1
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 26 locally
+17 06 09 20 11 10 info executor executor finished task 23 0 in stage 28 0 tid 1303 2087 bytes result sent to driver
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1308
+17 06 09 20 11 10 info executor executor running task 28 0 in stage 28 0 tid 1308 
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 27 locally
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1309
+17 06 09 20 11 10 info executor executor running task 29 0 in stage 28 0 tid 1309 
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 28 locally
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 29 locally
+17 06 09 20 11 10 info python pythonrunner times total 41 boot 17 init 23 finish 1
+17 06 09 20 11 10 info python pythonrunner times total 41 boot 17 init 24 finish 0
+17 06 09 20 11 10 info executor executor finished task 25 0 in stage 28 0 tid 1305 2087 bytes result sent to driver
+17 06 09 20 11 10 info executor executor finished task 26 0 in stage 28 0 tid 1306 2087 bytes result sent to driver
+17 06 09 20 11 10 info python pythonrunner times total 40 boot 27 init 13 finish 0
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1310
+17 06 09 20 11 10 info executor executor running task 30 0 in stage 28 0 tid 1310 
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1311
+17 06 09 20 11 10 info executor executor running task 31 0 in stage 28 0 tid 1311 
+17 06 09 20 11 10 info python pythonrunner times total 40 boot 26 init 14 finish 0
+17 06 09 20 11 10 info executor executor finished task 27 0 in stage 28 0 tid 1307 2087 bytes result sent to driver
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 30 locally
+17 06 09 20 11 10 info executor executor finished task 28 0 in stage 28 0 tid 1308 2087 bytes result sent to driver
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1312
+17 06 09 20 11 10 info python pythonrunner times total 42 boot 16 init 25 finish 1
+17 06 09 20 11 10 info executor executor running task 32 0 in stage 28 0 tid 1312 
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 31 locally
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1313
+17 06 09 20 11 10 info executor executor running task 33 0 in stage 28 0 tid 1313 
+17 06 09 20 11 10 info executor executor finished task 29 0 in stage 28 0 tid 1309 2087 bytes result sent to driver
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 32 locally
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1314
+17 06 09 20 11 10 info executor executor running task 34 0 in stage 28 0 tid 1314 
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 33 locally
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 34 locally
+17 06 09 20 11 10 info python pythonrunner times total 40 boot 18 init 22 finish 0
+17 06 09 20 11 10 info python pythonrunner times total 41 boot 19 init 22 finish 0
+17 06 09 20 11 10 info executor executor finished task 30 0 in stage 28 0 tid 1310 2087 bytes result sent to driver
+17 06 09 20 11 10 info executor executor finished task 31 0 in stage 28 0 tid 1311 2087 bytes result sent to driver
+17 06 09 20 11 10 info python pythonrunner times total 40 boot 15 init 25 finish 0
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1315
+17 06 09 20 11 10 info executor executor running task 35 0 in stage 28 0 tid 1315 
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1316
+17 06 09 20 11 10 info executor executor running task 36 0 in stage 28 0 tid 1316 
+17 06 09 20 11 10 info executor executor finished task 32 0 in stage 28 0 tid 1312 2087 bytes result sent to driver
+17 06 09 20 11 10 info python pythonrunner times total 42 boot 16 init 25 finish 1
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 35 locally
+17 06 09 20 11 10 info executor executor finished task 33 0 in stage 28 0 tid 1313 2087 bytes result sent to driver
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1317
+17 06 09 20 11 10 info executor executor running task 37 0 in stage 28 0 tid 1317 
+17 06 09 20 11 10 info python pythonrunner times total 40 boot 14 init 25 finish 1
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 36 locally
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1318
+17 06 09 20 11 10 info executor executor finished task 34 0 in stage 28 0 tid 1314 2087 bytes result sent to driver
+17 06 09 20 11 10 info executor executor running task 38 0 in stage 28 0 tid 1318 
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 37 locally
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1319
+17 06 09 20 11 10 info executor executor running task 39 0 in stage 28 0 tid 1319 
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 38 locally
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 39 locally
+17 06 09 20 11 10 info python pythonrunner times total 41 boot 23 init 18 finish 0
+17 06 09 20 11 10 info python pythonrunner times total 41 boot 19 init 22 finish 0
+17 06 09 20 11 10 info executor executor finished task 35 0 in stage 28 0 tid 1315 2087 bytes result sent to driver
+17 06 09 20 11 10 info executor executor finished task 36 0 in stage 28 0 tid 1316 2087 bytes result sent to driver
+17 06 09 20 11 10 info python pythonrunner times total 38 boot 14 init 24 finish 0
+17 06 09 20 11 10 info executor executor finished task 37 0 in stage 28 0 tid 1317 2087 bytes result sent to driver
+17 06 09 20 11 10 info python pythonrunner times total 42 boot 19 init 22 finish 1
+17 06 09 20 11 10 info python pythonrunner times total 40 boot 14 init 26 finish 0
+17 06 09 20 11 10 info executor executor finished task 38 0 in stage 28 0 tid 1318 2087 bytes result sent to driver
+17 06 09 20 11 10 info executor executor finished task 39 0 in stage 28 0 tid 1319 2087 bytes result sent to driver
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1320
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1321
+17 06 09 20 11 10 info executor executor running task 0 0 in stage 29 0 tid 1320 
+17 06 09 20 11 10 info executor executor running task 1 0 in stage 29 0 tid 1321 
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1322
+17 06 09 20 11 10 info executor executor running task 2 0 in stage 29 0 tid 1322 
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1323
+17 06 09 20 11 10 info executor executor running task 3 0 in stage 29 0 tid 1323 
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1324
+17 06 09 20 11 10 info executor executor running task 4 0 in stage 29 0 tid 1324 
+17 06 09 20 11 10 info broadcast torrentbroadcast started reading broadcast variable 40
+17 06 09 20 11 10 info storage memorystore block broadcast 40 piece0 stored as bytes in memory estimated size 6 0 kb free 874 3 kb 
+17 06 09 20 11 10 info broadcast torrentbroadcast reading broadcast variable 40 took 10 ms
+17 06 09 20 11 10 info storage memorystore block broadcast 40 stored as values in memory estimated size 9 9 kb free 884 2 kb 
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 0 locally
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 4 locally
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 3 locally
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 2 locally
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 1 locally
+17 06 09 20 11 10 info python pythonrunner times total 40 boot 79 init 118 finish 1
+17 06 09 20 11 10 info python pythonrunner times total 39 boot 75 init 113 finish 1
+17 06 09 20 11 10 info python pythonrunner times total 40 boot 80 init 119 finish 1
+17 06 09 20 11 10 info python pythonrunner times total 41 boot 85 init 125 finish 1
+17 06 09 20 11 10 info executor executor finished task 3 0 in stage 29 0 tid 1323 2128 bytes result sent to driver
+17 06 09 20 11 10 info python pythonrunner times total 42 boot 74 init 115 finish 1
+17 06 09 20 11 10 info executor executor finished task 4 0 in stage 29 0 tid 1324 2128 bytes result sent to driver
+17 06 09 20 11 10 info executor executor finished task 0 0 in stage 29 0 tid 1320 2128 bytes result sent to driver
+17 06 09 20 11 10 info executor executor finished task 2 0 in stage 29 0 tid 1322 2128 bytes result sent to driver
+17 06 09 20 11 10 info executor executor finished task 1 0 in stage 29 0 tid 1321 2171 bytes result sent to driver
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1325
+17 06 09 20 11 10 info executor executor running task 5 0 in stage 29 0 tid 1325 
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1326
+17 06 09 20 11 10 info executor executor running task 6 0 in stage 29 0 tid 1326 
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1327
+17 06 09 20 11 10 info executor executor running task 7 0 in stage 29 0 tid 1327 
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1328
+17 06 09 20 11 10 info executor executor running task 8 0 in stage 29 0 tid 1328 
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1329
+17 06 09 20 11 10 info executor executor running task 9 0 in stage 29 0 tid 1329 
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 5 locally
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 7 locally
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 8 locally
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 6 locally
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 9 locally
+17 06 09 20 11 10 info python pythonrunner times total 39 boot 18 init 20 finish 1
+17 06 09 20 11 10 info python pythonrunner times total 41 boot 16 init 24 finish 1
+17 06 09 20 11 10 info python pythonrunner times total 43 boot 25 init 17 finish 1
+17 06 09 20 11 10 info python pythonrunner times total 41 boot 19 init 21 finish 1
+17 06 09 20 11 10 info python pythonrunner times total 42 boot 24 init 17 finish 1
+17 06 09 20 11 10 info executor executor finished task 7 0 in stage 29 0 tid 1327 2171 bytes result sent to driver
+17 06 09 20 11 10 info executor executor finished task 5 0 in stage 29 0 tid 1325 2171 bytes result sent to driver
+17 06 09 20 11 10 info executor executor finished task 8 0 in stage 29 0 tid 1328 2128 bytes result sent to driver
+17 06 09 20 11 10 info executor executor finished task 9 0 in stage 29 0 tid 1329 2128 bytes result sent to driver
+17 06 09 20 11 10 info executor executor finished task 6 0 in stage 29 0 tid 1326 2171 bytes result sent to driver
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1330
+17 06 09 20 11 10 info executor executor running task 10 0 in stage 29 0 tid 1330 
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1331
+17 06 09 20 11 10 info executor executor running task 11 0 in stage 29 0 tid 1331 
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1332
+17 06 09 20 11 10 info executor executor running task 12 0 in stage 29 0 tid 1332 
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1333
+17 06 09 20 11 10 info executor executor running task 13 0 in stage 29 0 tid 1333 
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 10 locally
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1334
+17 06 09 20 11 10 info executor executor running task 14 0 in stage 29 0 tid 1334 
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 11 locally
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 12 locally
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 14 locally
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 13 locally
+17 06 09 20 11 10 info python pythonrunner times total 39 boot 19 init 19 finish 1
+17 06 09 20 11 10 info python pythonrunner times total 41 boot 21 init 19 finish 1
+17 06 09 20 11 10 info executor executor finished task 11 0 in stage 29 0 tid 1331 2128 bytes result sent to driver
+17 06 09 20 11 10 info python pythonrunner times total 39 boot 15 init 23 finish 1
+17 06 09 20 11 10 info python pythonrunner times total 42 boot 18 init 23 finish 1
+17 06 09 20 11 10 info executor executor finished task 10 0 in stage 29 0 tid 1330 2128 bytes result sent to driver
+17 06 09 20 11 10 info python pythonrunner times total 43 boot 15 init 27 finish 1
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1335
+17 06 09 20 11 10 info executor executor running task 15 0 in stage 29 0 tid 1335 
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1336
+17 06 09 20 11 10 info executor executor finished task 14 0 in stage 29 0 tid 1334 2128 bytes result sent to driver
+17 06 09 20 11 10 info executor executor finished task 12 0 in stage 29 0 tid 1332 2128 bytes result sent to driver
+17 06 09 20 11 10 info executor executor running task 16 0 in stage 29 0 tid 1336 
+17 06 09 20 11 10 info executor executor finished task 13 0 in stage 29 0 tid 1333 2171 bytes result sent to driver
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1337
+17 06 09 20 11 10 info executor executor running task 17 0 in stage 29 0 tid 1337 
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1338
+17 06 09 20 11 10 info executor executor running task 18 0 in stage 29 0 tid 1338 
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 16 locally
+17 06 09 20 11 10 info executor coarsegrainedexecutorbackend got assigned task 1339
+17 06 09 20 11 10 info executor executor running task 19 0 in stage 29 0 tid 1339 
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 15 locally
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 17 locally
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 18 locally
+17 06 09 20 11 10 info storage blockmanager found block rdd 42 19 locally
+17 06 09 20 11 11 info python pythonrunner times total 40 boot 20 init 19 finish 1
+17 06 09 20 11 11 info python pythonrunner times total 40 boot 20 init 19 finish 1
+17 06 09 20 11 11 info python pythonrunner times total 39 boot 18 init 20 finish 1
+17 06 09 20 11 11 info python pythonrunner times total 41 boot 27 init 14 finish 0
+17 06 09 20 11 11 info executor executor finished task 15 0 in stage 29 0 tid 1335 2171 bytes result sent to driver
+17 06 09 20 11 11 info executor executor finished task 16 0 in stage 29 0 tid 1336 2171 bytes result sent to driver
+17 06 09 20 11 11 info executor executor finished task 18 0 in stage 29 0 tid 1338 2128 bytes result sent to driver
+17 06 09 20 11 11 info python pythonrunner times total 41 boot 15 init 25 finish 1
+17 06 09 20 11 11 info executor executor finished task 17 0 in stage 29 0 tid 1337 2128 bytes result sent to driver
+17 06 09 20 11 11 info executor coarsegrainedexecutorbackend got assigned task 1340
+17 06 09 20 11 11 info executor executor running task 20 0 in stage 29 0 tid 1340 
+17 06 09 20 11 11 info executor coarsegrainedexecutorbackend got assigned task 1341
+17 06 09 20 11 11 info executor executor running task 21 0 in stage 29 0 tid 1341 
+17 06 09 20 11 11 info executor executor finished task 19 0 in stage 29 0 tid 1339 2128 bytes result sent to driver
+17 06 09 20 11 11 info executor coarsegrainedexecutorbackend got assigned task 1342
+17 06 09 20 11 11 info executor executor running task 22 0 in stage 29 0 tid 1342 
+17 06 09 20 11 11 info executor coarsegrainedexecutorbackend got assigned task 1343
+17 06 09 20 11 11 info executor executor running task 23 0 in stage 29 0 tid 1343 
+17 06 09 20 11 11 info executor coarsegrainedexecutorbackend got assigned task 1344
+17 06 09 20 11 11 info storage blockmanager found block rdd 42 21 locally
+17 06 09 20 11 11 info executor executor running task 24 0 in stage 29 0 tid 1344 
+17 06 09 20 11 11 info storage blockmanager found block rdd 42 20 locally
+17 06 09 20 11 11 info storage blockmanager found block rdd 42 22 locally
+17 06 09 20 11 11 info storage blockmanager found block rdd 42 23 locally
+17 06 09 20 11 11 info storage blockmanager found block rdd 42 24 locally
+17 06 09 20 11 11 info python pythonrunner times total 39 boot 16 init 22 finish 1
+17 06 09 20 11 11 info python pythonrunner times total 41 boot 18 init 22 finish 1
+17 06 09 20 11 11 info python pythonrunner times total 42 boot 20 init 21 finish 1
+17 06 09 20 11 11 info executor executor finished task 21 0 in stage 29 0 tid 1341 2128 bytes result sent to driver
+17 06 09 20 11 11 info python pythonrunner times total 43 boot 15 init 27 finish 1
+17 06 09 20 11 11 info executor executor finished task 22 0 in stage 29 0 tid 1342 2171 bytes result sent to driver
+17 06 09 20 11 11 info executor executor finished task 23 0 in stage 29 0 tid 1343 2171 bytes result sent to driver
+17 06 09 20 11 11 info python pythonrunner times total 41 boot 15 init 25 finish 1
+17 06 09 20 11 11 info executor coarsegrainedexecutorbackend got assigned task 1345
+17 06 09 20 11 11 info executor executor running task 25 0 in stage 29 0 tid 1345 
+17 06 09 20 11 11 info executor executor finished task 20 0 in stage 29 0 tid 1340 2128 bytes result sent to driver
+17 06 09 20 11 11 info executor executor finished task 24 0 in stage 29 0 tid 1344 2128 bytes result sent to driver
+17 06 09 20 11 11 info executor coarsegrainedexecutorbackend got assigned task 1346
+17 06 09 20 11 11 info executor executor running task 26 0 in stage 29 0 tid 1346 
+17 06 09 20 11 11 info executor coarsegrainedexecutorbackend got assigned task 1347
+17 06 09 20 11 11 info executor executor running task 27 0 in stage 29 0 tid 1347 
+17 06 09 20 11 11 info executor coarsegrainedexecutorbackend got assigned task 1348
+17 06 09 20 11 11 info storage blockmanager found block rdd 42 25 locally
+17 06 09 20 11 11 info executor executor running task 28 0 in stage 29 0 tid 1348 
+17 06 09 20 11 11 info executor coarsegrainedexecutorbackend got assigned task 1349
+17 06 09 20 11 11 info executor executor running task 29 0 in stage 29 0 tid 1349 
+17 06 09 20 11 11 info storage blockmanager found block rdd 42 26 locally
+17 06 09 20 11 11 info storage blockmanager found block rdd 42 28 locally
+17 06 09 20 11 11 info storage blockmanager found block rdd 42 27 locally
+17 06 09 20 11 11 info storage blockmanager found block rdd 42 29 locally
+17 06 09 20 11 11 info python pythonrunner times total 41 boot 23 init 17 finish 1
+17 06 09 20 11 11 info python pythonrunner times total 38 boot 18 init 20 finish 0
+17 06 09 20 11 11 info python pythonrunner times total 42 boot 18 init 23 finish 1
+17 06 09 20 11 11 info python pythonrunner times total 39 boot 18 init 20 finish 1
+17 06 09 20 11 11 info executor executor finished task 25 0 in stage 29 0 tid 1345 2128 bytes result sent to driver
+17 06 09 20 11 11 info executor executor finished task 28 0 in stage 29 0 tid 1348 2128 bytes result sent to driver
+17 06 09 20 11 11 info executor executor finished task 27 0 in stage 29 0 tid 1347 2128 bytes result sent to driver
+17 06 09 20 11 11 info executor executor finished task 26 0 in stage 29 0 tid 1346 2128 bytes result sent to driver
+17 06 09 20 11 11 info executor coarsegrainedexecutorbackend got assigned task 1350
+17 06 09 20 11 11 info executor executor running task 30 0 in stage 29 0 tid 1350 
+17 06 09 20 11 11 info python pythonrunner times total 43 boot 14 init 28 finish 1
+17 06 09 20 11 11 info executor coarsegrainedexecutorbackend got assigned task 1351
+17 06 09 20 11 11 info executor executor running task 31 0 in stage 29 0 tid 1351 
+17 06 09 20 11 11 info executor coarsegrainedexecutorbackend got assigned task 1352
+17 06 09 20 11 11 info executor executor running task 32 0 in stage 29 0 tid 1352 
+17 06 09 20 11 11 info executor coarsegrainedexecutorbackend got assigned task 1353
+17 06 09 20 11 11 info executor executor running task 33 0 in stage 29 0 tid 1353 
+17 06 09 20 11 11 info storage blockmanager found block rdd 42 30 locally
+17 06 09 20 11 11 info executor executor finished task 29 0 in stage 29 0 tid 1349 2128 bytes result sent to driver
+17 06 09 20 11 11 info executor coarsegrainedexecutorbackend got assigned task 1354
+17 06 09 20 11 11 info executor executor running task 34 0 in stage 29 0 tid 1354 
+17 06 09 20 11 11 info storage blockmanager found block rdd 42 32 locally

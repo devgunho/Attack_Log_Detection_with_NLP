@@ -1,0 +1,1 @@
+FALSE 1 : 2015 10 18 18 04 10 002 info rmcommunicator allocator org apache hadoop mapreduce v2 app rm rmcontainerallocator got allocated containers 1  >>>  (False, "'exists x1.(_package(x1) & exists x2.(_package(x2) & (x1 = x2)))'")
