@@ -116,8 +116,8 @@ TP : 1990
 FN : 10
 
 # linux 2000 + hadoop 2000 + hdfs 2000 + spark 2000
-TN : 2645 
-FP : 2
+TN : 7981
+FP : 19
 ```
 
 <br/>
@@ -197,7 +197,13 @@ Epoch 30: val_loss did not improve from 0.04569
 ### Recognition
 
 ```
+# hadoop 2000
+TP : 
+FN : 
 
+# windows 2000 + linux 2000 + hdfs 2000 + spark 2000
+TN :  
+FP : 
 ```
 
 ### Detection
@@ -233,7 +239,13 @@ Epoch 30: val_loss did not improve from 0.04569
 ### Recognition
 
 ```
+# hdfs 2000
+TP : 
+FN : 
 
+# windows 2000 + linux 2000 + hadoop 2000 + spark 2000
+TN :  
+FP :
 ```
 
 ### Detection
