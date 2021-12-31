@@ -2000,4 +2000,6 @@ TRUE 1997 : 081111 101954 26414 info dfs datanode packetresponder packetresponde
 TRUE 1998 : 081111 102017 26347 info dfs datanode dataxceiver receiving block blk 4343207286455274569 src 10 250 9 207 59759 dest 10 250 9 207 50010  >>>  (True, "'exists x1.(_block(x1) & exists x2.(_src(x2) & (x1 = x2)))'")
 
 ---
-TRUE: 1998FALSE: 1ERROR: 1
+TRUE: 1998
+FALSE: 1
+ERROR: 1

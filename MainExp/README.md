@@ -158,8 +158,8 @@ Epoch 30: val_loss did not improve from 0.03206
 
 ```
 # linux 2000
-TP : 1895
-FN : 4
+TP :
+FN : 
 
 # windows 2000 + hadoop 2000 + hdfs 2000 + spark 2000
 TN :  
@@ -198,18 +198,22 @@ Epoch 30: val_loss did not improve from 0.04569
 
 ```
 # hadoop 2000
-TP : 
-FN : 
+TP : 1724
+FN : 276
 
 # windows 2000 + linux 2000 + hdfs 2000 + spark 2000
-TN :  
-FP : 
+TN : 8000
+FP : 0
 ```
 
 ### Detection
 
 ```
-
+# anomaly 4209 (10000)
+TP : 
+FN : 
+TN : 
+FP : 
 ```
 
 <br/>
@@ -240,16 +244,25 @@ FP :
 
 ```
 # hdfs 2000
-TP : 
-FN : 
+TP : 1998
+FN : 2
 
 # windows 2000 + linux 2000 + hadoop 2000 + spark 2000
-TN :  
-FP :
+TN : 7999 
+FP : 1
 ```
 
 ### Detection
 
 ```
-
+# anomaly 423 (10000)
+TP : 
+FN :
+TN :
+FP :
 ```
+
+<br/>
+
+<br/>
+
