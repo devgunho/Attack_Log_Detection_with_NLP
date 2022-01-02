@@ -12,14 +12,15 @@ import os
 
 class Config:
     PROJECT_DIR = os.environ["PWD"]
-    DATA_DIR = os.getenv("DATA_DIR", "dat/")
+    DATA_DIR = os.getenv("DATA_DIR", "data/")
     RESULTS_DIR = os.getenv("RESULTS_DIR", "results/")
     MODELS_DIR = os.getenv("MODELS_DIR", "models/")
     CHECKPOINT_DIR = os.getenv("CHECKPOINT_DIR", "models/checkpoint/")
     LOGS_DIR = os.getenv("LOGS_DIR", "logs/")
 
 
-TARGET_FILE = "../../clean_text/Windows_FALSE_8k.txt"
+TRUE_TARGET_FILE = "../clean_data_sample/Windows_2k.log_clean.txt"
+FALSE_TARGET_FILE = "../clean_data_sample/Windows_FALSE_8k.txt"
 
 
 def print_stats(X, y, num_s, num_e, ratio):
@@ -749,6 +750,43 @@ def test_true_func(line):
             return False, dec_line
 
 
+def true_test():
+    file = open(TRUE_TARGET_FILE, "r")
+    lines = file.readlines()
+    result_file = open("result_true.txt", "w")
+
+    true_cnt = 0
+    false_cnt = 0
+    error_cnt = 0
+    line_cnt = 0
+
+    for line in lines:
+        line_cnt += 1
+        print("Line No. :", line_cnt)
+        target_line = line.strip()
+        func_res = test_false_func(target_line)
+
+        if func_res[0] == "ERROR":
+            error_cnt += 1
+            result_file.write(f"ERROR " + str(error_cnt) + " : ")
+            result_file.write(target_line + "  >>>  " + str(func_res) + "\n")
+
+        elif func_res[0]:
+            true_cnt += 1
+            result_file.write(f"TRUE " + str(true_cnt) + " : ")
+            result_file.write(target_line + "  >>>  " + str(func_res) + "\n")
+
+        else:
+            false_cnt += 1
+            result_file.write(f"FALSE " + str(false_cnt) + " : ")
+            result_file.write(target_line + "  >>>  " + str(func_res) + "\n")
+
+    result_file.write("\n---\n" + "TRUE: " + str(true_cnt))
+    result_file.write("FALSE: " + str(false_cnt))
+    result_file.write("ERROR: " + str(error_cnt))
+    result_file.close()
+
+
 def test_false_func(line):
     X_test = [line]
 
@@ -797,10 +835,10 @@ def test_false_func(line):
             return False, dec_line
 
 
-def windows_false_test():
-    file = open(TARGET_FILE, "r")
+def false_test():
+    file = open(FALSE_TARGET_FILE, "r")
     lines = file.readlines()
-    result_file = open("result.txt", "w")
+    result_file = open("result_false.txt", "w")
 
     true_cnt = 0
     false_cnt = 0
@@ -828,10 +866,11 @@ def windows_false_test():
             result_file.write(f"FALSE " + str(false_cnt) + " : ")
             result_file.write(target_line + "  >>>  " + str(func_res) + "\n")
 
-    result_file.write("\n---\n" + "TRUE: " + str(true_cnt))
-    result_file.write("FALSE: " + str(false_cnt))
-    result_file.write("ERROR: " + str(error_cnt))
+    result_file.write("\n---\n" + "TRUE: " + str(true_cnt) + "\n")
+    result_file.write("FALSE: " + str(false_cnt) + "\n")
+    result_file.write("ERROR: " + str(error_cnt) + "\n")
     result_file.close()
 
 
-windows_false_test()
+true_test()
+false_test()

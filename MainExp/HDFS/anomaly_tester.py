@@ -12,15 +12,15 @@ import os
 
 class Config:
     PROJECT_DIR = os.environ["PWD"]
-    DATA_DIR = os.getenv("DATA_DIR", "dat/")
+    DATA_DIR = os.getenv("DATA_DIR", "data/")
     RESULTS_DIR = os.getenv("RESULTS_DIR", "results/")
     MODELS_DIR = os.getenv("MODELS_DIR", "models/")
     CHECKPOINT_DIR = os.getenv("CHECKPOINT_DIR", "models/checkpoint/")
     LOGS_DIR = os.getenv("LOGS_DIR", "logs/")
 
 
-TRUE_TARGET_FILE = "../../clean_anomaly_data_sample/HDFS_Anomaly_10k.log_clean.txt"
-FALSE_TARGET_FILE = "../../clean_anomaly_data_sample/HDFS_Anomaly_10k.log_clean.txt"
+TRUE_TARGET_FILE = "data/anomaly/HDFS_Anomaly_10k.log_clean.txt"
+FALSE_TARGET_FILE = "data/anomaly/HDFS_Anomaly_10k.log_clean.txt"
 
 
 def print_stats(X, y, num_s, num_e, ratio):
