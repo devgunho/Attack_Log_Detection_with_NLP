@@ -10000,4 +10000,6 @@ TRUE 9985 : 081109 203705 27 info dfs fsnamesystem block namesystem addstoredblo
 TRUE 9986 : 081109 203705 27 info dfs fsnamesystem block namesystem addstoredblock blockmap updated 10 251 202 134 50010 is added to blk 7340860866556817481 size 67108864  >>>  (True, "'exists x1.(_blockmap(x1) & exists x2.(_addstoredblock(x2) & (x1 = x2)))'")
 
 ---
-TRUE: 9986FALSE: 8ERROR: 6
+TRUE: 9986
+FALSE: 8
+ERROR: 6
