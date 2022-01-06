@@ -228,12 +228,6 @@ FP :
 
 ```
 
-### Model Info.
-
-```
-
-```
-
 ### Train
 
 ```
@@ -266,3 +260,36 @@ FP :
 
 <br/>
 
+## OpenStack
+
+### Data Info.
+
+```
+Stats:
+------------------------
+------------------------
+N(X) == N(y) == 40000
+errs: 0
+Clean data (N = 40000) ratio: 100.0%
+------------------------
+```
+
+### Train
+
+```
+accuracy
+	training         	 (min:    0.878, max:    0.986, cur:    0.986)
+	validation       	 (min:    0.952, max:    0.986, cur:    0.986)
+Loss
+	training         	 (min:    0.042, max:    0.469, cur:    0.042)
+	validation       	 (min:    0.041, max:    0.188, cur:    0.041)
+
+Epoch 30: val_loss improved from 0.04132 to 0.04121, saving model to models/checkpoint/weights-bilstm-N(30000)-44.best.hdf5
+563/563 [==============================] - 602s 1s/step - loss: 0.0417 - accuracy: 0.9861 - val_loss: 0.0412 - val_accuracy: 0.9863
+```
+
+![image-20221227035424852](./README.assets/openstack-train.png)
+
+### Recognition
+
+### Detection
