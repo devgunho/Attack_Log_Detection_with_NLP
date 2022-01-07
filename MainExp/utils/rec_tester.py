@@ -1,26 +1,19 @@
+import os
 import tensorflow as tf
-
-tf.test.is_gpu_available()
-
 
 import numpy as np
 import pandas as pd
 
-
-import os
+target_list = ["Windows", "Linux", "Hadoop", "HDFS", "OpenStack"]
+now_target = target_list[4]
 
 
 class Config:
-    PROJECT_DIR = os.environ["PWD"]
+    TARGET_PLATFORM = os.getenv("TARGET_DIR", f"../{now_target}/")
     DATA_DIR = os.getenv("DATA_DIR", "data/")
-    RESULTS_DIR = os.getenv("RESULTS_DIR", "results/")
     MODELS_DIR = os.getenv("MODELS_DIR", "models/")
     CHECKPOINT_DIR = os.getenv("CHECKPOINT_DIR", "models/checkpoint/")
     LOGS_DIR = os.getenv("LOGS_DIR", "logs/")
-
-
-# TRUE_TARGET_FILE = "../clean_data_sample/Linux_2k.log_clean.txt"
-# FALSE_TARGET_FILE = "../clean_data_sample/Linux_FALSE_8k.txt"
 
 
 def print_stats(X, y, num_s, num_e, ratio):
@@ -35,9 +28,9 @@ def print_stats(X, y, num_s, num_e, ratio):
 
 config = Config()
 
-X_train_dir = f"{config.DATA_DIR}clean/"
-y_train_dir = f"{config.DATA_DIR}trans/"
-X_test_dir = f"{config.DATA_DIR}test/"
+X_train_dir = f"{config.TARGET_PLATFORM}/{config.DATA_DIR}clean/"
+y_train_dir = f"{config.TARGET_PLATFORM}/{config.DATA_DIR}trans/"
+X_test_dir = f"{config.TARGET_PLATFORM}/{config.DATA_DIR}test/"
 
 # Will notify if these values change
 max_encoder_seq_length = 81
@@ -509,16 +502,6 @@ reverse_target_char_index = dict((i, char) for char, i in target_token_index.ite
 def decode_sequence_bigru_attn(
     encoder_model, decoder_model, test_X_seq, num_encoder_tokens, num_decoder_tokens
 ):
-    """
-    Infer logic
-    :param encoder_model: keras.Model
-    :param decoder_model: keras.Model
-    :param test_X_seq: sequence of word ids
-    :param num_encoder_tokens: int
-    :param num_decoder_tokens: int
-    :return:
-    """
-
     # Generate empty target sequence of length 1.
     target_seq = np.zeros((1, 1, num_decoder_tokens))
     # Populate the first character of target sequence with the start character.
@@ -645,7 +628,7 @@ def decode_sequence_lstm(input_seq):
 latent_dim = 44
 
 full_model.load_weights(
-    f"{config.CHECKPOINT_DIR}weights-{simple_name}-N({len(X_train)})-{latent_dim}.best.hdf5"
+    f"{config.TARGET_PLATFORM}/{config.CHECKPOINT_DIR}weights-{simple_name}-N({len(X_train)})-{latent_dim}.best.hdf5"
 )
 loaded_model = full_model
 
@@ -704,8 +687,10 @@ decoder_model = Model(
 
 import sys
 
+TRUE_TARGET_FILE = f"../clean_data_sample/{now_target}_2k.log_clean.txt"
 
-def test_true_func(line):
+
+def test_true_or_func(line):
     X_test = [line]
 
     encoder_test_data = np.zeros(
@@ -753,7 +738,7 @@ def test_true_func(line):
 def true_test():
     file = open(TRUE_TARGET_FILE, "r")
     lines = file.readlines()
-    result_file = open("result_true.txt", "w")
+    result_file = open(f"{now_target}_rec_true_or.txt", "w")
 
     true_cnt = 0
     false_cnt = 0
@@ -764,7 +749,7 @@ def true_test():
         line_cnt += 1
         print("Line No. :", line_cnt)
         target_line = line.strip()
-        func_res = test_false_func(target_line)
+        func_res = test_true_or_func(target_line)
 
         if func_res[0] == "ERROR":
             error_cnt += 1
@@ -781,13 +766,13 @@ def true_test():
             result_file.write(f"FALSE " + str(false_cnt) + " : ")
             result_file.write(target_line + "  >>>  " + str(func_res) + "\n")
 
-    result_file.write("\n---\n" + "TRUE: " + str(true_cnt))
-    result_file.write("FALSE: " + str(false_cnt))
-    result_file.write("ERROR: " + str(error_cnt))
+    result_file.write("\n---\n" + "TRUE: " + str(true_cnt) + "\n")
+    result_file.write("FALSE: " + str(false_cnt) + "\n")
+    result_file.write("ERROR: " + str(error_cnt) + "\n")
     result_file.close()
 
 
-def test_false_func(line):
+def test_false_and_func(line):
     X_test = [line]
 
     encoder_test_data = np.zeros(
@@ -835,10 +820,10 @@ def test_false_func(line):
             return False, dec_line
 
 
-def false_test():
+def false_test(false_target, FALSE_TARGET_FILE):
     file = open(FALSE_TARGET_FILE, "r")
     lines = file.readlines()
-    result_file = open("result_false.txt", "w")
+    result_file = open(f"{now_target}-{false_target}_rec_false_and.txt", "w")
 
     true_cnt = 0
     false_cnt = 0
@@ -849,7 +834,7 @@ def false_test():
         line_cnt += 1
         print("Line No. :", line_cnt)
         target_line = line.strip()
-        func_res = test_false_func(target_line)
+        func_res = test_false_and_func(target_line)
 
         if func_res[0] == "ERROR":
             error_cnt += 1
@@ -872,5 +857,11 @@ def false_test():
     result_file.close()
 
 
+FALSE_TARGET_FILE = "../clean_data_sample/Linux_FALSE_8k.txt"
+
 true_test()
-false_test()
+
+for false_target in target_list:
+    if false_target != now_target:
+        FALSE_TARGET_FILE = f"../clean_data_sample/{false_target}_2k.log_clean.txt"
+        false_test(false_target, FALSE_TARGET_FILE)
