@@ -1,13 +1,10 @@
+import numpy as np
+import os
+import pandas as pd
 import tensorflow as tf
 
-tf.test.is_gpu_available()
 
-
-import numpy as np
-import pandas as pd
-
-
-import os
+now_target = "OpenStack"
 
 
 class Config:
@@ -240,7 +237,6 @@ decoder_target_data = np.zeros(
 )
 
 
-import sys
 
 np.set_printoptions(threshold=10)
 
@@ -261,7 +257,6 @@ for i, (input_text, target_text) in enumerate(zip(X_train, y_train)):
 encoder_input_data[0]
 
 
-import os
 from tensorflow.keras.layers import Layer
 from tensorflow.keras import backend as K
 
@@ -705,16 +700,19 @@ decoder_model = Model(
 import sys
 
 
-def test_true_func(line):
+def test_true_or_func(line):
     X_test = [line]
 
     encoder_test_data = np.zeros(
         (len(X_test), max_encoder_seq_length, num_encoder_tokens), dtype="float32"
     )
-    for i, x in enumerate(X_test):
-        for t, char in enumerate(x):
-            encoder_test_data[i, t, input_token_index[char]] = 1.0
-        encoder_test_data[i, t + 1 :, input_token_index[" "]] = 1.0
+    try:
+        for i, x in enumerate(X_test):
+            for t, char in enumerate(x):
+                encoder_test_data[i, t, input_token_index[char]] = 1.0
+            encoder_test_data[i, t + 1 :, input_token_index[" "]] = 1.0
+    except:
+        pass
 
     correct = 0
     checked = 0
@@ -753,7 +751,7 @@ def test_true_func(line):
 def true_test():
     file = open(TRUE_TARGET_FILE, "r")
     lines = file.readlines()
-    result_file = open("result_true.txt", "w")
+    result_file = open(f"{now_target}_det_true_or.txt", "w")
 
     true_cnt = 0
     false_cnt = 0
@@ -764,7 +762,7 @@ def true_test():
         line_cnt += 1
         print("Line No. :", line_cnt)
         target_line = line.strip()
-        func_res = test_false_func(target_line)
+        func_res = test_true_or_func(target_line)
 
         if func_res[0] == "ERROR":
             error_cnt += 1
@@ -781,13 +779,13 @@ def true_test():
             result_file.write(f"FALSE " + str(false_cnt) + " : ")
             result_file.write(target_line + "  >>>  " + str(func_res) + "\n")
 
-    result_file.write("\n---\n" + "TRUE: " + str(true_cnt))
-    result_file.write("FALSE: " + str(false_cnt))
-    result_file.write("ERROR: " + str(error_cnt))
+    result_file.write("\n---\n" + "TRUE: " + str(true_cnt) + "\n")
+    result_file.write("FALSE: " + str(false_cnt) + "\n")
+    result_file.write("ERROR: " + str(error_cnt) + "\n")
     result_file.close()
 
 
-def test_false_func(line):
+def test_false_and_func(line):
     X_test = [line]
 
     encoder_test_data = np.zeros(
@@ -838,7 +836,7 @@ def test_false_func(line):
 def false_test():
     file = open(FALSE_TARGET_FILE, "r")
     lines = file.readlines()
-    result_file = open("result_false.txt", "w")
+    result_file = open(f"{now_target}_det_false_and.txt", "w")
 
     true_cnt = 0
     false_cnt = 0
@@ -849,7 +847,7 @@ def false_test():
         line_cnt += 1
         print("Line No. :", line_cnt)
         target_line = line.strip()
-        func_res = test_false_func(target_line)
+        func_res = test_false_and_func(target_line)
 
         if func_res[0] == "ERROR":
             error_cnt += 1
