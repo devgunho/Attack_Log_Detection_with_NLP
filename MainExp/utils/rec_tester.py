@@ -2,10 +2,9 @@ import os
 import tensorflow as tf
 
 import numpy as np
-import pandas as pd
 
-target_list = ["Windows", "Linux", "Hadoop", "HDFS", "OpenStack"]
-now_target = target_list[4]
+target_list = ["Windows", "Linux", "HDFS", "Hadoop", "Spark", "OpenStack"]
+now_target = target_list[5]
 
 
 class Config:
