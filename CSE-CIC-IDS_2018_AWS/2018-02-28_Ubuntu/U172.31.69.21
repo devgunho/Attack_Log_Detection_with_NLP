@@ -1,0 +1,858 @@
+Feb 28 06:49:13 ip-172-31-69-21 dhclient[925]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0x7a64cf63)
+Feb 28 06:49:13 ip-172-31-69-21 dhclient[925]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 28 06:49:13 ip-172-31-69-21 dhclient[925]: bound to 172.31.69.21 -- renewal in 1545 seconds.
+Feb 28 07:14:58 ip-172-31-69-21 dhclient[925]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0x7a64cf63)
+Feb 28 07:14:58 ip-172-31-69-21 dhclient[925]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 28 07:14:58 ip-172-31-69-21 dhclient[925]: bound to 172.31.69.21 -- renewal in 1789 seconds.
+Feb 28 07:17:01 ip-172-31-69-21 CRON[2557]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 28 07:44:47 ip-172-31-69-21 dhclient[925]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0x7a64cf63)
+Feb 28 07:44:47 ip-172-31-69-21 dhclient[925]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 28 07:44:47 ip-172-31-69-21 dhclient[925]: bound to 172.31.69.21 -- renewal in 1367 seconds.
+Feb 28 08:07:34 ip-172-31-69-21 dhclient[925]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0x7a64cf63)
+Feb 28 08:07:34 ip-172-31-69-21 dhclient[925]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 28 08:07:34 ip-172-31-69-21 dhclient[925]: bound to 172.31.69.21 -- renewal in 1407 seconds.
+Feb 28 08:17:01 ip-172-31-69-21 CRON[2593]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 28 08:21:09 ip-172-31-69-21 systemd[1]: Received SIGINT.
+Feb 28 08:21:09 ip-172-31-69-21 systemd[1]: Stopping User Manager for UID 1000...
+Feb 28 08:21:09 ip-172-31-69-21 systemd[1310]: Reached target Shutdown.
+Feb 28 08:21:09 ip-172-31-69-21 systemd[1310]: Starting Exit the Session...
+Feb 28 08:21:09 ip-172-31-69-21 systemd[1310]: Stopped target Default.
+Feb 28 08:21:09 ip-172-31-69-21 systemd[1310]: Stopped target Basic System.
+Feb 28 08:21:09 ip-172-31-69-21 systemd[1310]: Stopped target Paths.
+Feb 28 08:21:09 ip-172-31-69-21 systemd[1310]: Stopped target Sockets.
+Feb 28 08:21:09 ip-172-31-69-21 systemd[1310]: Stopped target Timers.
+Feb 28 08:21:09 ip-172-31-69-21 systemd[1310]: Received SIGRTMIN+24 from PID 2596 (kill).
+Feb 28 08:21:09 ip-172-31-69-21 systemd[1]: Stopping ACPI event daemon...
+Feb 28 08:21:09 ip-172-31-69-21 systemd[1]: Stopped target Timers.
+Feb 28 08:21:09 ip-172-31-69-21 systemd[1]: Closed Load/Save RF Kill Switch Status /dev/rfkill Watch.
+Feb 28 08:21:09 ip-172-31-69-21 systemd[1]: Stopped target Cloud-init target.
+Feb 28 08:21:09 ip-172-31-69-21 systemd[1]: Stopping Session 1 of user ubuntu.
+Feb 28 08:21:09 ip-172-31-69-21 kernel: [86551.154323] device eth0 left promiscuous mode
+Feb 28 08:21:09 ip-172-31-69-21 systemd[1]: Stopped Timer to automatically refresh installed snaps.
+Feb 28 08:21:09 ip-172-31-69-21 systemd[1]: Stopped Execute cloud user/final scripts.
+Feb 28 08:21:09 ip-172-31-69-21 systemd[1]: Stopped Apply the settings specified in cloud-config.
+Feb 28 08:21:09 ip-172-31-69-21 systemd[1]: Stopped target Graphical Interface.
+Feb 28 08:21:09 ip-172-31-69-21 systemd[1]: Stopped target Multi-User System.
+Feb 28 08:21:09 ip-172-31-69-21 systemd[1]: Stopping LSB: Set the CPU Frequency Scaling governor to "ondemand"...
+Feb 28 08:21:09 ip-172-31-69-21 rsyslogd: [origin software="rsyslogd" swVersion="8.16.0" x-pid="1141" x-info="http://www.rsyslog.com"] exiting on signal 15.
+Feb 28 08:21:44 ip-172-31-69-21 rsyslogd: [origin software="rsyslogd" swVersion="8.16.0" x-pid="1157" x-info="http://www.rsyslog.com"] start
+Feb 28 08:21:44 ip-172-31-69-21 rsyslogd-2222: command 'KLogPermitNonKernelFacility' is currently not permitted - did you already set it via a RainerScript command (v6+ config)? [v8.16.0 try http://www.rsyslog.com/e/2222 ]
+Feb 28 08:21:44 ip-172-31-69-21 rsyslogd: rsyslogd's groupid changed to 108
+Feb 28 08:21:44 ip-172-31-69-21 rsyslogd: rsyslogd's userid changed to 104
+Feb 28 08:21:44 ip-172-31-69-21 rsyslogd-2039: Could not open output pipe '/dev/xconsole':: No such file or directory [v8.16.0 try http://www.rsyslog.com/e/2039 ]
+Feb 28 08:21:44 ip-172-31-69-21 rsyslogd-2007: action 'action 11' suspended, next retry is Wed Feb 28 08:22:14 2018 [v8.16.0 try http://www.rsyslog.com/e/2007 ]
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] Initializing cgroup subsys cpuset
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] Initializing cgroup subsys cpu
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] Initializing cgroup subsys cpuacct
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] Linux version 4.4.0-1052-aws (buildd@lgw01-amd64-031) (gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.9) ) #61-Ubuntu SMP Mon Feb 12 23:05:58 UTC 2018 (Ubuntu 4.4.0-1052.61-aws 4.4.98)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] Command line: BOOT_IMAGE=/boot/vmlinuz-4.4.0-1052-aws root=UUID=ccee1a8d-0785-4b3a-a578-812d59f5d3e1 ro console=tty1 console=ttyS0 nvme.io_timeout=4294967295
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] KERNEL supported cpus:
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000]   Intel GenuineIntel
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000]   AMD AuthenticAMD
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000]   Centaur CentaurHauls
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] x86/fpu: xstate_offset[2]:  576, xstate_sizes[2]:  256
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] x86/fpu: Supporting XSAVE feature 0x01: 'x87 floating point registers'
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] x86/fpu: Supporting XSAVE feature 0x02: 'SSE registers'
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] x86/fpu: Supporting XSAVE feature 0x04: 'AVX registers'
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] x86/fpu: Enabled xstate features 0x7, context size is 832 bytes, using 'standard' format.
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] x86/fpu: Using 'eager' FPU context switches.
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] e820: BIOS-provided physical RAM map:
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] BIOS-e820: [mem 0x0000000000000000-0x000000000009dfff] usable
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] BIOS-e820: [mem 0x000000000009e000-0x000000000009ffff] reserved
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] BIOS-e820: [mem 0x00000000000e0000-0x00000000000fffff] reserved
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] BIOS-e820: [mem 0x0000000000100000-0x000000003fffffff] usable
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] BIOS-e820: [mem 0x00000000fc000000-0x00000000ffffffff] reserved
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] NX (Execute Disable) protection: active
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] SMBIOS 2.7 present.
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] DMI: Xen HVM domU, BIOS 4.2.amazon 08/24/2006
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] Hypervisor detected: Xen
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] Xen version 4.2.
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] Xen Platform PCI: I/O protocol version 1
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] Netfront and the Xen platform PCI driver have been compiled for this kernel: unplug emulated NICs.
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] Blkfront and the Xen platform PCI driver have been compiled for this kernel: unplug emulated disks.
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] You might have to change the root device
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] from /dev/hd[a-d] to /dev/xvd[a-d]
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] in your root= kernel command line option
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] HVMOP_pagetable_dying not supported
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] e820: update [mem 0x00000000-0x00000fff] usable ==> reserved
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] e820: remove [mem 0x000a0000-0x000fffff] usable
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] e820: last_pfn = 0x40000 max_arch_pfn = 0x400000000
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] MTRR default type: write-back
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] MTRR fixed ranges enabled:
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000]   00000-9FFFF write-back
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000]   A0000-BFFFF write-combining
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000]   C0000-FFFFF write-back
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] MTRR variable ranges enabled:
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000]   0 base 0000F0000000 mask 3FFFF8000000 uncachable
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000]   1 base 0000F8000000 mask 3FFFFC000000 uncachable
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000]   2 disabled
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000]   3 disabled
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000]   4 disabled
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000]   5 disabled
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000]   6 disabled
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000]   7 disabled
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] x86/PAT: Configuration [0-7]: WB  WC  UC- UC  WB  WC  UC- WT  
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] found SMP MP-table at [mem 0x000fbc20-0x000fbc2f] mapped at [ffff8800000fbc20]
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] Scanning 1 areas for low memory corruption
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] Base memory trampoline at [ffff880000098000] 98000 size 24576
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] BRK [0x021fd000, 0x021fdfff] PGTABLE
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] BRK [0x021fe000, 0x021fefff] PGTABLE
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] BRK [0x021ff000, 0x021fffff] PGTABLE
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] RAMDISK: [mem 0x367d8000-0x373e3fff]
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] ACPI: Early table checksum verification disabled
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] ACPI: RSDP 0x00000000000EA020 000024 (v02 Xen   )
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] ACPI: XSDT 0x00000000FC00DDC0 000054 (v01 Xen    HVM      00000000 HVML 00000000)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] ACPI: FACP 0x00000000FC00DA80 0000F4 (v04 Xen    HVM      00000000 HVML 00000000)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] ACPI: DSDT 0x00000000FC001CE0 00BD19 (v02 Xen    HVM      00000000 INTL 20090123)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] ACPI: FACS 0x00000000FC001CA0 000040
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] ACPI: FACS 0x00000000FC001CA0 000040
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] ACPI: APIC 0x00000000FC00DB80 0000D8 (v02 Xen    HVM      00000000 HVML 00000000)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] ACPI: HPET 0x00000000FC00DCD0 000038 (v01 Xen    HVM      00000000 HVML 00000000)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] ACPI: WAET 0x00000000FC00DD10 000028 (v01 Xen    HVM      00000000 HVML 00000000)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] ACPI: SSDT 0x00000000FC00DD40 000031 (v02 Xen    HVM      00000000 INTL 20090123)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] ACPI: SSDT 0x00000000FC00DD80 000031 (v02 Xen    HVM      00000000 INTL 20090123)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] No NUMA configuration found
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] Faking a node at [mem 0x0000000000000000-0x000000003fffffff]
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] NODE_DATA(0) allocated [mem 0x3fffb000-0x3fffffff]
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] Zone ranges:
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000]   DMA      [mem 0x0000000000001000-0x0000000000ffffff]
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000]   DMA32    [mem 0x0000000001000000-0x000000003fffffff]
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000]   Normal   empty
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000]   Device   empty
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] Movable zone start for each node
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] Early memory node ranges
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000]   node   0: [mem 0x0000000000001000-0x000000000009dfff]
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000]   node   0: [mem 0x0000000000100000-0x000000003fffffff]
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] Initmem setup node 0 [mem 0x0000000000001000-0x000000003fffffff]
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] On node 0 totalpages: 262045
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000]   DMA zone: 64 pages used for memmap
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000]   DMA zone: 21 pages reserved
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000]   DMA zone: 3997 pages, LIFO batch:0
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000]   DMA32 zone: 4032 pages used for memmap
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000]   DMA32 zone: 258048 pages, LIFO batch:31
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] ACPI: PM-Timer IO Port: 0xb008
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] IOAPIC[0]: apic_id 1, version 17, address 0xfec00000, GSI 0-47
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 5 global_irq 5 low level)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 10 global_irq 10 low level)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 11 global_irq 11 low level)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] ACPI: IRQ0 used by override.
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] ACPI: IRQ5 used by override.
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] ACPI: IRQ9 used by override.
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] ACPI: IRQ10 used by override.
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] ACPI: IRQ11 used by override.
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] Using ACPI (MADT) for SMP configuration information
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] ACPI: HPET id: 0x8086a201 base: 0xfed00000
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] smpboot: Allowing 15 CPUs, 14 hotplug CPUs
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] PM: Registered nosave memory: [mem 0x00000000-0x00000fff]
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] PM: Registered nosave memory: [mem 0x0009e000-0x0009ffff]
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] PM: Registered nosave memory: [mem 0x000a0000-0x000dffff]
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] PM: Registered nosave memory: [mem 0x000e0000-0x000fffff]
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] e820: [mem 0x40000000-0xfbffffff] available for PCI devices
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] Booting paravirtualized kernel on Xen HVM
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] clocksource: refined-jiffies: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 7645519600211568 ns
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] setup_percpu: NR_CPUS:256 nr_cpumask_bits:256 nr_cpu_ids:15 nr_node_ids:1
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] PERCPU: Embedded 34 pages/cpu @ffff88003e200000 s99160 r8192 d31912 u262144
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] pcpu-alloc: s99160 r8192 d31912 u262144 alloc=1*2097152
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] pcpu-alloc: [0] 00 01 02 03 04 05 06 07 [0] 08 09 10 11 12 13 14 -- 
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] xen: PV spinlocks enabled
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] PV qspinlock hash table entries: 256 (order: 0, 4096 bytes)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] Built 1 zonelists in Node order, mobility grouping on.  Total pages: 257928
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] Policy zone: DMA32
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] Kernel command line: BOOT_IMAGE=/boot/vmlinuz-4.4.0-1052-aws root=UUID=ccee1a8d-0785-4b3a-a578-812d59f5d3e1 ro console=tty1 console=ttyS0 nvme.io_timeout=4294967295
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] PID hash table entries: 4096 (order: 3, 32768 bytes)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] Calgary: detecting Calgary via BIOS EBDA area
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] Calgary: Unable to locate Rio Grande table in EBDA - bailing!
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] Memory: 998616K/1048180K available (8351K kernel code, 1276K rwdata, 3876K rodata, 1492K init, 1264K bss, 49564K reserved, 0K cma-reserved)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] SLUB: HWalign=64, Order=0-3, MinObjects=0, CPUs=15, Nodes=1
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] Kernel/User page tables isolation: enabled
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] Hierarchical RCU implementation.
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] 	Build-time adjustment of leaf fanout to 64.
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] 	RCU restricting CPUs from NR_CPUS=256 to nr_cpu_ids=15.
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] RCU: Adjusting geometry for rcu_fanout_leaf=64, nr_cpu_ids=15
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] NR_IRQS:16640 nr_irqs:952 16
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] xen:events: Using 2-level ABI
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] xen:events: Xen HVM callback vector for event delivery is enabled
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] Console: colour VGA+ 80x25
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] console [tty1] enabled
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] Cannot get hvm parameter CONSOLE_EVTCHN (18): -22!
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] console [ttyS0] enabled
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] clocksource: hpet: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 30580167144 ns
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] hpet clockevent registered
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.000000] tsc: Detected 2400.050 MHz processor
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.008000] Calibrating delay loop (skipped), value calculated using timer frequency.. 4800.10 BogoMIPS (lpj=9600200)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.012003] pid_max: default: 32768 minimum: 301
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.014835] ACPI: Core revision 20150930
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.023349] ACPI: 3 ACPI AML tables successfully acquired and loaded
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.028032] Security Framework initialized
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.031000] Yama: becoming mindful.
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.032026] AppArmor: AppArmor initialized
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.036090] Dentry cache hash table entries: 131072 (order: 8, 1048576 bytes)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.040176] Inode-cache hash table entries: 65536 (order: 7, 524288 bytes)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.044092] Mount-cache hash table entries: 2048 (order: 2, 16384 bytes)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.048009] Mountpoint-cache hash table entries: 2048 (order: 2, 16384 bytes)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.052184] Initializing cgroup subsys io
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.056008] Initializing cgroup subsys memory
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.060011] Initializing cgroup subsys devices
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.062984] Initializing cgroup subsys freezer
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.064004] Initializing cgroup subsys net_cls
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.068007] Initializing cgroup subsys perf_event
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.072008] Initializing cgroup subsys net_prio
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.075126] Initializing cgroup subsys hugetlb
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.076007] Initializing cgroup subsys pids
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.080071] CPU: Physical Processor ID: 0
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.084011] FEATURE SPEC_CTRL Not Present
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.087472] mce: CPU supports 2 MCE banks
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.092030] Last level iTLB entries: 4KB 1024, 2MB 1024, 4MB 1024
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.100003] Last level dTLB entries: 4KB 1024, 2MB 1024, 4MB 1024, 1GB 4
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.104006] Spectre V2 mitigation: Mitigation: Full generic retpoline
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.112003] Spectre V2 mitigation: Speculation control IBPB not-supported IBRS not-supported
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.139674] ftrace: allocating 31292 entries in 123 pages
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.180089] smpboot: APIC(0) Converting physical 0 to logical package 0
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.188004] smpboot: Max logical packages: 15
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.191733] x2apic: IRQ remapping doesn't support X2APIC mode
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.196004] Switched APIC routing to physical flat.
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.200000] ..TIMER: vector=0x30 apic1=0 pin1=2 apic2=0 pin2=0
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.204005] clocksource: xen: mask: 0xffffffffffffffff max_cycles: 0x1cd42e4dffb, max_idle_ns: 881590591483 ns
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.212008] Xen: using vcpuop timer interface
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.212015] installing Xen timer for CPU 0
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.215255] smpboot: CPU0: Intel(R) Xeon(R) CPU E5-2676 v3 @ 2.40GHz (family: 0x6, model: 0x3f, stepping: 0x2)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.220030] cpu 0 spinlock event irq 53
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.222905] Performance Events: unsupported p6 CPU model 63 no PMU driver, software events only.
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.228797] x86: Booted up 1 node, 1 CPUs
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.231996] smpboot: Total of 1 processors activated (4800.10 BogoMIPS)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.232014] NMI watchdog: disabled (cpu0): hardware events not enabled
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.236006] NMI watchdog: Shutting down hard lockup detector on all cpus
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.240393] devtmpfs: initialized
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.245335] evm: security.selinux
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.248009] evm: security.SMACK64
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.250605] evm: security.SMACK64EXEC
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.252007] evm: security.SMACK64TRANSMUTE
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.255122] evm: security.SMACK64MMAP
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.256006] evm: security.ima
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.258501] evm: security.capability
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.260181] clocksource: jiffies: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 7645041785100000 ns
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.264033] futex hash table entries: 4096 (order: 6, 262144 bytes)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.268266] RTC time: 12:21:34, date: 02/28/18
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.271981] NET: Registered protocol family 16
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.272188] cpuidle: using governor ladder
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.276013] cpuidle: using governor menu
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.279241] PCCT header not found.
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.280075] ACPI: bus type PCI registered
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.283281] acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.284320] PCI: Using configuration type 1 for base access
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.289084] ACPI: Added _OSI(Module Device)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.292006] ACPI: Added _OSI(Processor Device)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.295682] ACPI: Added _OSI(3.0 _SCP Extensions)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.296008] ACPI: Added _OSI(Processor Aggregator Device)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.301103] xen: --> pirq=16 -> irq=9 (gsi=9)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.303842] ACPI: Interpreter enabled
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.304018] ACPI: (supports S0 S4 S5)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.307046] ACPI: Using IOAPIC for interrupt routing
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.308037] PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.358918] ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-ff])
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.360013] acpi PNP0A03:00: _OSC: OS supports [ASPM ClockPM Segments MSI]
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.364017] acpi PNP0A03:00: _OSC failed (AE_NOT_FOUND); disabling ASPM
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.368019] acpi PNP0A03:00: fail to add MMCONFIG information, can't access extended PCI configuration space under this bridge.
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.373028] acpiphp: Slot [0] registered
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.376946] acpiphp: Slot [3] registered
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.380224] acpiphp: Slot [4] registered
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.383685] acpiphp: Slot [5] registered
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.384340] acpiphp: Slot [6] registered
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.387905] acpiphp: Slot [7] registered
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.388327] acpiphp: Slot [8] registered
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.391856] acpiphp: Slot [9] registered
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.392332] acpiphp: Slot [10] registered
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.396088] acpiphp: Slot [11] registered
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.399596] acpiphp: Slot [12] registered
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.400350] acpiphp: Slot [13] registered
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.403830] acpiphp: Slot [14] registered
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.404312] acpiphp: Slot [15] registered
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.407804] acpiphp: Slot [16] registered
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.408415] acpiphp: Slot [17] registered
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.412109] acpiphp: Slot [18] registered
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.415769] acpiphp: Slot [19] registered
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.416327] acpiphp: Slot [20] registered
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.420197] acpiphp: Slot [21] registered
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.423558] acpiphp: Slot [22] registered
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.424355] acpiphp: Slot [23] registered
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.427818] acpiphp: Slot [24] registered
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.428323] acpiphp: Slot [25] registered
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.431866] acpiphp: Slot [26] registered
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.432327] acpiphp: Slot [27] registered
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.436318] acpiphp: Slot [28] registered
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.440169] acpiphp: Slot [29] registered
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.443777] acpiphp: Slot [30] registered
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.444334] acpiphp: Slot [31] registered
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.447903] PCI host bridge to bus 0000:00
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.448009] pci_bus 0000:00: root bus resource [io  0x0000-0x0cf7 window]
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.452008] pci_bus 0000:00: root bus resource [io  0x0d00-0xffff window]
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.456009] pci_bus 0000:00: root bus resource [mem 0x000a0000-0x000bffff window]
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.460012] pci_bus 0000:00: root bus resource [mem 0xf0000000-0xfbffffff window]
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.464010] pci_bus 0000:00: root bus resource [bus 00-ff]
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.468160] pci 0000:00:00.0: [8086:1237] type 00 class 0x060000
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.469949] pci 0000:00:01.0: [8086:7000] type 00 class 0x060100
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.472563] pci 0000:00:01.1: [8086:7010] type 00 class 0x010180
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.474087] pci 0000:00:01.1: reg 0x20: [io  0xc100-0xc10f]
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.474836] pci 0000:00:01.1: legacy IDE quirk: reg 0x10: [io  0x01f0-0x01f7]
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.476008] pci 0000:00:01.1: legacy IDE quirk: reg 0x14: [io  0x03f6]
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.480006] pci 0000:00:01.1: legacy IDE quirk: reg 0x18: [io  0x0170-0x0177]
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.484007] pci 0000:00:01.1: legacy IDE quirk: reg 0x1c: [io  0x0376]
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.488616] pci 0000:00:01.3: [8086:7113] type 00 class 0x068000
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.488708] * Found PM-Timer Bug on the chipset. Due to workarounds for a bug,
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.488708] * this clock source is slow. Consider trying other clock sources
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.493527] pci 0000:00:01.3: quirk: [io  0xb000-0xb03f] claimed by PIIX4 ACPI
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.496910] pci 0000:00:02.0: [1013:00b8] type 00 class 0x030000
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.497281] pci 0000:00:02.0: reg 0x10: [mem 0xf0000000-0xf1ffffff pref]
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.497519] pci 0000:00:02.0: reg 0x14: [mem 0xf3000000-0xf3000fff]
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.499443] pci 0000:00:03.0: [5853:0001] type 00 class 0xff8000
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.499950] pci 0000:00:03.0: reg 0x10: [io  0xc000-0xc0ff]
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.500142] pci 0000:00:03.0: reg 0x14: [mem 0xf2000000-0xf2ffffff pref]
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.503036] ACPI: PCI Interrupt Link [LNKA] (IRQs *5 10 11)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.507674] ACPI: PCI Interrupt Link [LNKB] (IRQs 5 *10 11)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.511767] ACPI: PCI Interrupt Link [LNKC] (IRQs 5 10 *11)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.515771] ACPI: PCI Interrupt Link [LNKD] (IRQs *5 10 11)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.539662] ACPI: Enabled 2 GPEs in block 00 to 0F
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.540077] xen:balloon: Initialising balloon driver
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.548445] vgaarb: setting as boot device: PCI:0000:00:02.0
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.552000] vgaarb: device added: PCI:0000:00:02.0,decodes=io+mem,owns=io+mem,locks=none
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.552014] vgaarb: loaded
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.554466] vgaarb: bridge control possible 0000:00:02.0
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.556247] SCSI subsystem initialized
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.559844] libata version 3.00 loaded.
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.559871] ACPI: bus type USB registered
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.560022] usbcore: registered new interface driver usbfs
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.564022] usbcore: registered new interface driver hub
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.567990] usbcore: registered new device driver usb
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.568151] PCI: Using ACPI for IRQ routing
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.571418] PCI: pci_cache_line_size set to 64 bytes
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.571861] e820: reserve RAM buffer [mem 0x0009e000-0x0009ffff]
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.571985] NetLabel: Initializing
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.572006] NetLabel:  domain hash size = 128
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.575416] NetLabel:  protocols = UNLABELED CIPSOv4
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.576027] NetLabel:  unlabeled traffic allowed by default
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.580019] HPET: 3 timers in total, 0 timers will be used for per-cpu timer
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.584019] hpet0: at MMIO 0xfed00000, IRQs 2, 8, 0
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.589051] hpet0: 3 comparators, 64-bit 62.500000 MHz counter
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.595065] amd_nb: Cannot enumerate AMD northbridges
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.596016] clocksource: Switched to clocksource xen
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.605129] AppArmor: AppArmor Filesystem Enabled
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.608984] pnp: PnP ACPI init
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.611819] system 00:00: [mem 0x00000000-0x0009ffff] could not be reserved
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.617219] system 00:00: Plug and Play ACPI device, IDs PNP0c02 (active)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.617310] system 00:01: [io  0x08a0-0x08a3] has been reserved
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.621523] system 00:01: [io  0x0cc0-0x0ccf] has been reserved
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.626031] system 00:01: [io  0x04d0-0x04d1] has been reserved
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.630439] system 00:01: Plug and Play ACPI device, IDs PNP0c02 (active)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.630474] xen: --> pirq=17 -> irq=8 (gsi=8)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.630502] pnp 00:02: Plug and Play ACPI device, IDs PNP0b00 (active)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.630527] xen: --> pirq=18 -> irq=12 (gsi=12)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.630542] pnp 00:03: Plug and Play ACPI device, IDs PNP0f13 (active)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.630558] xen: --> pirq=19 -> irq=1 (gsi=1)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.630572] pnp 00:04: Plug and Play ACPI device, IDs PNP0303 PNP030b (active)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.630588] xen: --> pirq=20 -> irq=6 (gsi=6)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.630590] pnp 00:05: [dma 2]
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.630603] pnp 00:05: Plug and Play ACPI device, IDs PNP0700 (active)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.630627] xen: --> pirq=21 -> irq=4 (gsi=4)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.630639] pnp 00:06: Plug and Play ACPI device, IDs PNP0501 (active)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.630680] system 00:07: [io  0x10c0-0x1141] has been reserved
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.635203] system 00:07: [io  0xb044-0xb047] has been reserved
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.639847] system 00:07: Plug and Play ACPI device, IDs PNP0c02 (active)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.658666] pnp: PnP ACPI: found 8 devices
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.667362] clocksource: acpi_pm: mask: 0xffffff max_cycles: 0xffffff, max_idle_ns: 2085701024 ns
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.673518] pci_bus 0000:00: resource 4 [io  0x0000-0x0cf7 window]
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.673521] pci_bus 0000:00: resource 5 [io  0x0d00-0xffff window]
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.673523] pci_bus 0000:00: resource 6 [mem 0x000a0000-0x000bffff window]
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.673525] pci_bus 0000:00: resource 7 [mem 0xf0000000-0xfbffffff window]
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.673567] NET: Registered protocol family 2
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.677050] TCP established hash table entries: 8192 (order: 4, 65536 bytes)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.681975] TCP bind hash table entries: 8192 (order: 5, 131072 bytes)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.686896] TCP: Hash tables configured (established 8192 bind 8192)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.691591] UDP hash table entries: 512 (order: 2, 16384 bytes)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.696136] UDP-Lite hash table entries: 512 (order: 2, 16384 bytes)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.700791] NET: Registered protocol family 1
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.704059] pci 0000:00:00.0: Limiting direct PCI/PCI transfers
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.708662] pci 0000:00:01.0: PIIX3: Enabling Passive Release
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.712852] pci 0000:00:01.0: Activating ISA DMA hang workarounds
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.717122] pci 0000:00:02.0: Video device with shadowed ROM
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.717191] PCI: CLS 0 bytes, default 64
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.717251] Trying to unpack rootfs image as initramfs...
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.899242] Freeing initrd memory: 12336K
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.904410] RAPL PMU detected, API unit is 2^-32 Joules, 3 fixed counters 655360 ms ovfl timer
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.914080] hw unit of domain pp0-core 2^-14 Joules
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.919911] hw unit of domain package 2^-14 Joules
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.925485] hw unit of domain dram 2^-16 Joules
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.930848] Scanning for low memory corruption every 60 seconds
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.937781] audit: initializing netlink subsys (disabled)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.943598] audit: type=2000 audit(1519820494.829:1): initialized
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.950397] Initialise system trusted keyring
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.955664] HugeTLB registered 2 MB page size, pre-allocated 0 pages
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.963016] zbud: loaded
+Feb 28 08:21:44 ip-172-31-69-21 systemd-modules-load[371]: Inserted module 'iscsi_tcp'
+Feb 28 08:21:44 ip-172-31-69-21 systemd-modules-load[371]: Inserted module 'ib_iser'
+Feb 28 08:21:44 ip-172-31-69-21 loadkeys[392]: Loading /etc/console-setup/cached.kmap.gz
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started Create list of required static device nodes for the current kernel.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started Uncomplicated firewall.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started Load Kernel Modules.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started Remount Root and Kernel File Systems.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started Set console keymap.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started Nameserver information manager.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started LVM2 metadata daemon.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Starting Initial cloud-init job (pre-networking)...
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Starting udev Coldplug all Devices...
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Starting Load/Save Random Seed...
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Starting Apply Kernel Variables...
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Mounting FUSE Control File System...
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Starting Create Static Device Nodes in /dev...
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Starting Flush Journal to Persistent Storage...
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Mounted FUSE Control File System.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started Load/Save Random Seed.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started Apply Kernel Variables.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started Create Static Device Nodes in /dev.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Starting udev Kernel Device Manager...
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started Flush Journal to Persistent Storage.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started udev Coldplug all Devices.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started Monitoring of LVM2 mirrors, snapshots etc. using dmeventd or progress polling.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started udev Kernel Device Manager.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started Dispatch Password Requests to Console Directory Watch.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Reached target Local File Systems (Pre).
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Reached target Local File Systems.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Starting LSB: AppArmor initialization...
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Starting Tell Plymouth To Write Out Runtime Data...
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Starting Create Volatile Files and Directories...
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Starting Set console font and keymap...
+Feb 28 08:21:44 ip-172-31-69-21 systemd-tmpfiles[483]: [/usr/lib/tmpfiles.d/var.conf:14] Duplicate line for path "/var/log", ignoring.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started Tell Plymouth To Write Out Runtime Data.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started Create Volatile Files and Directories.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Starting Network Time Synchronization...
+Feb 28 08:21:44 ip-172-31-69-21 apparmor[477]:  * Starting AppArmor profiles
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Starting Update UTMP about System Boot/Shutdown...
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started Update UTMP about System Boot/Shutdown.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started Network Time Synchronization.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Reached target System Time Synchronized.
+Feb 28 08:21:44 ip-172-31-69-21 apparmor[477]: Skipping profile in /etc/apparmor.d/disable: usr.sbin.rsyslogd
+Feb 28 08:21:44 ip-172-31-69-21 apparmor[477]:    ...done.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started LSB: AppArmor initialization.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Found device /dev/ttyS0.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Found device /sys/subsystem/net/devices/eth0.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started Set console font and keymap.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Created slice system-getty.slice.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Listening on Load/Save RF Kill Switch Status /dev/rfkill Watch.
+Feb 28 08:21:44 ip-172-31-69-21 dhclient[825]: Internet Systems Consortium DHCP Client 4.3.3
+Feb 28 08:21:44 ip-172-31-69-21 dhclient[825]: Copyright 2004-2015 Internet Systems Consortium.
+Feb 28 08:21:44 ip-172-31-69-21 dhclient[825]: All rights reserved.
+Feb 28 08:21:44 ip-172-31-69-21 dhclient[825]: For info, please visit https://www.isc.org/software/dhcp/
+Feb 28 08:21:44 ip-172-31-69-21 dhclient[825]: 
+Feb 28 08:21:44 ip-172-31-69-21 dhclient[825]: Listening on LPF/eth0/02:e1:be:f2:a9:10
+Feb 28 08:21:44 ip-172-31-69-21 dhclient[825]: Sending on   LPF/eth0/02:e1:be:f2:a9:10
+Feb 28 08:21:44 ip-172-31-69-21 dhclient[825]: Sending on   Socket/fallback
+Feb 28 08:21:44 ip-172-31-69-21 dhclient[825]: DHCPDISCOVER on eth0 to 255.255.255.255 port 67 interval 3 (xid=0xe1b19c71)
+Feb 28 08:21:44 ip-172-31-69-21 dhclient[825]: DHCPDISCOVER on eth0 to 255.255.255.255 port 67 interval 3 (xid=0xe1b19c71)
+Feb 28 08:21:44 ip-172-31-69-21 dhclient[825]: DHCPREQUEST of 172.31.69.21 on eth0 to 255.255.255.255 port 67 (xid=0x719cb1e1)
+Feb 28 08:21:44 ip-172-31-69-21 dhclient[825]: DHCPOFFER of 172.31.69.21 from 172.31.69.1
+Feb 28 08:21:44 ip-172-31-69-21 dhclient[825]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 28 08:21:44 ip-172-31-69-21 dhclient[825]: bound to 172.31.69.21 -- renewal in 1593 seconds.
+Feb 28 08:21:44 ip-172-31-69-21 cloud-init[430]: Cloud-init v. 17.1 running 'init-local' at Wed, 28 Feb 2018 12:21:40 +0000. Up 5.98 seconds.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started Initial cloud-init job (pre-networking).
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Reached target Network (Pre).
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started ifup for eth0.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Starting Raise network interfaces...
+Feb 28 08:21:44 ip-172-31-69-21 dhclient[904]: Internet Systems Consortium DHCP Client 4.3.3
+Feb 28 08:21:44 ip-172-31-69-21 sh[891]: Internet Systems Consortium DHCP Client 4.3.3
+Feb 28 08:21:44 ip-172-31-69-21 dhclient[904]: Copyright 2004-2015 Internet Systems Consortium.
+Feb 28 08:21:44 ip-172-31-69-21 sh[891]: Copyright 2004-2015 Internet Systems Consortium.
+Feb 28 08:21:44 ip-172-31-69-21 dhclient[904]: All rights reserved.
+Feb 28 08:21:44 ip-172-31-69-21 sh[891]: All rights reserved.
+Feb 28 08:21:44 ip-172-31-69-21 dhclient[904]: For info, please visit https://www.isc.org/software/dhcp/
+Feb 28 08:21:44 ip-172-31-69-21 sh[891]: For info, please visit https://www.isc.org/software/dhcp/
+Feb 28 08:21:44 ip-172-31-69-21 dhclient[904]: 
+Feb 28 08:21:44 ip-172-31-69-21 dhclient[904]: Listening on LPF/eth0/02:e1:be:f2:a9:10
+Feb 28 08:21:44 ip-172-31-69-21 sh[891]: Listening on LPF/eth0/02:e1:be:f2:a9:10
+Feb 28 08:21:44 ip-172-31-69-21 dhclient[904]: Sending on   LPF/eth0/02:e1:be:f2:a9:10
+Feb 28 08:21:44 ip-172-31-69-21 sh[891]: Sending on   LPF/eth0/02:e1:be:f2:a9:10
+Feb 28 08:21:44 ip-172-31-69-21 dhclient[904]: Sending on   Socket/fallback
+Feb 28 08:21:44 ip-172-31-69-21 sh[891]: Sending on   Socket/fallback
+Feb 28 08:21:44 ip-172-31-69-21 sh[891]: DHCPDISCOVER on eth0 to 255.255.255.255 port 67 interval 3 (xid=0x6afa1023)
+Feb 28 08:21:44 ip-172-31-69-21 dhclient[904]: DHCPDISCOVER on eth0 to 255.255.255.255 port 67 interval 3 (xid=0x6afa1023)
+Feb 28 08:21:44 ip-172-31-69-21 dhclient[904]: DHCPREQUEST of 172.31.69.21 on eth0 to 255.255.255.255 port 67 (xid=0x2310fa6a)
+Feb 28 08:21:44 ip-172-31-69-21 sh[891]: DHCPREQUEST of 172.31.69.21 on eth0 to 255.255.255.255 port 67 (xid=0x2310fa6a)
+Feb 28 08:21:44 ip-172-31-69-21 sh[891]: DHCPOFFER of 172.31.69.21 from 172.31.69.1
+Feb 28 08:21:44 ip-172-31-69-21 dhclient[904]: DHCPOFFER of 172.31.69.21 from 172.31.69.1
+Feb 28 08:21:44 ip-172-31-69-21 dhclient[904]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 28 08:21:44 ip-172-31-69-21 sh[891]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 28 08:21:44 ip-172-31-69-21 dhclient[904]: bound to 172.31.69.21 -- renewal in 1535 seconds.
+Feb 28 08:21:44 ip-172-31-69-21 sh[891]: bound to 172.31.69.21 -- renewal in 1535 seconds.
+Feb 28 08:21:44 ip-172-31-69-21 ifup[911]: /sbin/ifup: waiting for lock on /run/network/ifstate.eth0
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started Raise network interfaces.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Starting Initial cloud-init job (metadata service crawler)...
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Reached target Network.
+Feb 28 08:21:44 ip-172-31-69-21 cloud-init[1060]: Cloud-init v. 17.1 running 'init' at Wed, 28 Feb 2018 12:21:43 +0000. Up 9.51 seconds.
+Feb 28 08:21:44 ip-172-31-69-21 cloud-init[1060]: ci-info: ++++++++++++++++++++++++++++++++++++++Net device info+++++++++++++++++++++++++++++++++++++++
+Feb 28 08:21:44 ip-172-31-69-21 cloud-init[1060]: ci-info: +--------+------+----------------------------+-----------------+-------+-------------------+
+Feb 28 08:21:44 ip-172-31-69-21 cloud-init[1060]: ci-info: | Device |  Up  |          Address           |       Mask      | Scope |     Hw-Address    |
+Feb 28 08:21:44 ip-172-31-69-21 cloud-init[1060]: ci-info: +--------+------+----------------------------+-----------------+-------+-------------------+
+Feb 28 08:21:44 ip-172-31-69-21 cloud-init[1060]: ci-info: |  eth0  | True |        172.31.69.21        | 255.255.255.224 |   .   | 02:e1:be:f2:a9:10 |
+Feb 28 08:21:44 ip-172-31-69-21 cloud-init[1060]: ci-info: |  eth0  | True | fe80::e1:beff:fef2:a910/64 |        .        |  link | 02:e1:be:f2:a9:10 |
+Feb 28 08:21:44 ip-172-31-69-21 cloud-init[1060]: ci-info: |   lo   | True |         127.0.0.1          |    255.0.0.0    |   .   |         .         |
+Feb 28 08:21:44 ip-172-31-69-21 cloud-init[1060]: ci-info: |   lo   | True |          ::1/128           |        .        |  host |         .         |
+Feb 28 08:21:44 ip-172-31-69-21 cloud-init[1060]: ci-info: +--------+------+----------------------------+-----------------+-------+-------------------+
+Feb 28 08:21:44 ip-172-31-69-21 cloud-init[1060]: ci-info: ++++++++++++++++++++++++++++++Route IPv4 info++++++++++++++++++++++++++++++
+Feb 28 08:21:44 ip-172-31-69-21 cloud-init[1060]: ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+Feb 28 08:21:44 ip-172-31-69-21 cloud-init[1060]: ci-info: | Route | Destination |   Gateway   |     Genmask     | Interface | Flags |
+Feb 28 08:21:44 ip-172-31-69-21 cloud-init[1060]: ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+Feb 28 08:21:44 ip-172-31-69-21 cloud-init[1060]: ci-info: |   0   |   0.0.0.0   | 172.31.69.1 |     0.0.0.0     |    eth0   |   UG  |
+Feb 28 08:21:44 ip-172-31-69-21 cloud-init[1060]: ci-info: |   1   | 172.31.69.0 |   0.0.0.0   | 255.255.255.224 |    eth0   |   U   |
+Feb 28 08:21:44 ip-172-31-69-21 cloud-init[1060]: ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started Initial cloud-init job (metadata service crawler).
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Reached target Cloud-config availability.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Reached target Network is Online.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Starting iSCSI initiator daemon (iscsid)...
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Reached target System Initialization.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Listening on D-Bus System Message Bus Socket.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started Timer to automatically refresh installed snaps.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started ACPI Events Check.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Reached target Paths.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Starting LXD - unix socket.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started Daily Cleanup of Temporary Directories.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Listening on UUID daemon activation socket.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started Daily apt download activities.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started Daily apt upgrade and clean activities.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Reached target Timers.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Starting Socket activation for snappy daemon.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Listening on ACPID Listen Socket.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Listening on LXD - unix socket.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Listening on Socket activation for snappy daemon.
+Feb 28 08:21:44 ip-172-31-69-21 iscsid: iSCSI logger with pid=1116 started!
+Feb 28 08:21:44 ip-172-31-69-21 iscsid: iSCSI daemon with pid=1117 started!
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started iSCSI initiator daemon (iscsid).
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Starting Login to default iSCSI targets...
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Reached target Sockets.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Reached target Basic System.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Starting LSB: MD monitoring daemon...
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Starting Accounts Service...
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started FUSE filesystem for LXC.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started D-Bus System Message Bus.
+Feb 28 08:21:44 ip-172-31-69-21 lxcfs[1129]: hierarchies:
+Feb 28 08:21:44 ip-172-31-69-21 lxcfs[1129]:   0: fd:   5: memory
+Feb 28 08:21:44 ip-172-31-69-21 lxcfs[1129]:   1: fd:   6: freezer
+Feb 28 08:21:44 ip-172-31-69-21 lxcfs[1129]:   2: fd:   7: devices
+Feb 28 08:21:44 ip-172-31-69-21 lxcfs[1129]:   3: fd:   8: net_cls,net_prio
+Feb 28 08:21:44 ip-172-31-69-21 lxcfs[1129]:   4: fd:   9: pids
+Feb 28 08:21:44 ip-172-31-69-21 lxcfs[1129]:   5: fd:  10: hugetlb
+Feb 28 08:21:44 ip-172-31-69-21 lxcfs[1129]:   6: fd:  11: perf_event
+Feb 28 08:21:44 ip-172-31-69-21 lxcfs[1129]:   7: fd:  12: cpuset
+Feb 28 08:21:44 ip-172-31-69-21 lxcfs[1129]:   8: fd:  13: cpu,cpuacct
+Feb 28 08:21:44 ip-172-31-69-21 lxcfs[1129]:   9: fd:  14: blkio
+Feb 28 08:21:44 ip-172-31-69-21 lxcfs[1129]:  10: fd:  15: name=systemd
+Feb 28 08:21:44 ip-172-31-69-21 dbus[1133]: [system] AppArmor D-Bus mediation is enabled
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started Deferred execution scheduler.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Starting /etc/rc.local Compatibility...
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Starting Apply the settings specified in cloud-config...
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started Regular background program processing daemon.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Starting LXD - container startup/shutdown...
+Feb 28 08:21:44 ip-172-31-69-21 cron[1151]: (CRON) INFO (pidfile fd = 3)
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started Unattended Upgrades Shutdown.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Starting System Logging Service...
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Starting Login Service...
+Feb 28 08:21:44 ip-172-31-69-21 cron[1151]: (CRON) INFO (Running @reboot jobs)
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started ACPI event daemon.
+Feb 28 08:21:44 ip-172-31-69-21 dbus[1133]: [system] Activating via systemd: service name='org.freedesktop.PolicyKit1' unit='polkitd.service'
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Starting LSB: Record successful boot for GRUB...
+Feb 28 08:21:44 ip-172-31-69-21 acpid: starting up with netlink and the input layer
+Feb 28 08:21:44 ip-172-31-69-21 acpid: 1 rule loaded
+Feb 28 08:21:44 ip-172-31-69-21 acpid: waiting for events: event logging is off
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Starting OpenBSD Secure Shell server...
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Starting Initialize hardware monitoring sensors...
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Starting Snappy daemon...
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started System Logging Service.
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.966277] VFS: Disk quotas dquot_6.6.0
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.970525] VFS: Dquot-cache hash table entries: 512 (order 0, 4096 bytes)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.976963] squashfs: version 4.0 (2009/01/31) Phillip Lougher
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.982461] fuse init (API version 7.23)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.986379] Key type big_key registered
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.990129] Allocating IMA MOK and blacklist keyrings.
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.994930] Key type asymmetric registered
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    0.998964] Asymmetric key parser 'x509' registered
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.003459] Block layer SCSI generic (bsg) driver version 0.4 loaded (major 249)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.010759] io scheduler noop registered
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.015204] io scheduler deadline registered (default)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.020368] io scheduler cfq registered
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.024552] pci_hotplug: PCI Hot Plug PCI Core version: 0.5
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.030290] pciehp: PCI Express Hot Plug Controller Driver version: 0.4
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.036649] intel_idle: does not run on family 6 model 63
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.036731] input: Power Button as /devices/LNXSYSTM:00/LNXPWRBN:00/input/input0
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.044087] ACPI: Power Button [PWRF]
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.048321] input: Sleep Button as /devices/LNXSYSTM:00/LNXSLPBN:00/input/input1
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.055840] ACPI: Sleep Button [SLPF]
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.060729] xen: --> pirq=22 -> irq=28 (gsi=28)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.060859] xen:grant_table: Grant tables using version 1 layout
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.067943] Grant table initialized
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.071719] Cannot get hvm parameter CONSOLE_EVTCHN (18): -22!
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.077437] Serial: 8250/16550 driver, 4 ports, IRQ sharing enabled
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.112440] 00:06: ttyS0 at I/O 0x3f8 (irq = 4, base_baud = 115200) is a 16550A
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.120323] Linux agpgart interface v0.103
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.126655] brd: module loaded
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.130990] loop: module loaded
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.134654] Invalid max_queues (4), will use default max: 1.
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.141803] ata_piix 0000:00:01.1: version 2.13
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.144933] scsi host0: ata_piix
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.149169] scsi host1: ata_piix
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.153060] ata1: PATA max MWDMA2 cmd 0x1f0 ctl 0x3f6 bmdma 0xc100 irq 14
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.160652] ata2: PATA max MWDMA2 cmd 0x170 ctl 0x376 bmdma 0xc108 irq 15
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.170354] libphy: Fixed MDIO Bus: probed
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.174780] tun: Universal TUN/TAP device driver, 1.6
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.180780] tun: (C) 1999-2004 Max Krasnyansky <maxk@qualcomm.com>
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.186571] PPP generic driver version 2.4.2
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.189435] xen_netfront: Initialising Xen virtual ethernet driver
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.194541] blkfront: xvda: barrier or flush: disabled; persistent grants: disabled; indirect descriptors: enabled;
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.201734] ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.206030] ehci-pci: EHCI PCI platform driver
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.209677] ehci-platform: EHCI generic platform driver
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.213209] ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.217427] ohci-pci: OHCI PCI platform driver
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.221308] ohci-platform: OHCI generic platform driver
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.228495]  xvda: xvda1
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.230596] uhci_hcd: USB Universal Host Controller Interface driver
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.234593] i8042: PNP: PS/2 Controller [PNP0303:PS2K,PNP0f13:PS2M] at 0x60,0x64 irq 1,12
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.243787] serio: i8042 KBD port at 0x60,0x64 irq 1
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.265483] serio: i8042 AUX port at 0x60,0x64 irq 12
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.268989] mousedev: PS/2 mouse device common for all mice
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.273250] input: AT Translated Set 2 keyboard as /devices/platform/i8042/serio0/input/input2
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.278709] rtc_cmos 00:02: rtc core: registered rtc_cmos as rtc0
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.283501] rtc_cmos 00:02: alarms up to one day, 114 bytes nvram, hpet irqs
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.288007] i2c /dev entries driver
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.290617] device-mapper: uevent: version 1.0.3
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.293762] device-mapper: ioctl: 4.34.0-ioctl (2015-10-28) initialised: dm-devel@redhat.com
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.299638] NET: Registered protocol family 10
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.302786] NET: Registered protocol family 17
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.305980] Key type dns_resolver registered
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.316399] microcode: CPU0 sig=0x306f2, pf=0x1, revision=0x3b
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.322494] microcode: Microcode Update Driver: v2.01 <tigran@aivazian.fsnet.co.uk>, Peter Oruba
+Feb 28 08:21:44 ip-172-31-69-21 sensors[1174]: No sensors found!
+Feb 28 08:21:44 ip-172-31-69-21 sensors[1174]: Make sure you loaded all the kernel drivers you need.
+Feb 28 08:21:44 ip-172-31-69-21 sensors[1174]: Try sensors-detect to find out which these are.
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.329405] registered taskstats version 1
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.332426] Loading compiled-in X.509 certificates
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.336209] Loaded X.509 cert 'Build time autogenerated kernel key: eec6339c199f7c061573bf7e1d5d111f4e89c8c0'
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.343568] zswap: loaded using pool lzo/zbud
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.348350] Key type trusted registered
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.353542] Key type encrypted registered
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.356266] AppArmor: AppArmor sha1 policy hashing enabled
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.359925] ima: No TPM chip found, activating TPM-bypass!
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.363766] evm: HMAC attrs: 0x1
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.366422]   Magic number: 6:175:381
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.369070] rtc_cmos 00:02: setting system clock to 2018-02-28 12:21:35 UTC (1519820495)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.374077] BIOS EDD facility v0.16 2004-Jun-25, 0 devices found
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.377821] EDD information not available.
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.380513] PM: Hibernation image not present or could not be loaded.
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.382156] Freeing unused kernel memory: 1492K
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.385079] Write protecting the kernel read-only data: 14336k
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.389307] Freeing unused kernel memory: 1876K
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.392595] Freeing unused kernel memory: 220K
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.407632] random: udevadm: uninitialized urandom read (16 bytes read, 9 bits of entropy available)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.413778] random: systemd-udevd: uninitialized urandom read (16 bytes read, 9 bits of entropy available)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.419932] random: systemd-udevd: uninitialized urandom read (16 bytes read, 9 bits of entropy available)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.425855] random: udevadm: uninitialized urandom read (16 bytes read, 9 bits of entropy available)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.431684] random: systemd-udevd: uninitialized urandom read (16 bytes read, 9 bits of entropy available)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.443850] random: systemd-udevd: uninitialized urandom read (16 bytes read, 9 bits of entropy available)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.451791] random: udevadm: uninitialized urandom read (16 bytes read, 9 bits of entropy available)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.459081] random: systemd-udevd: uninitialized urandom read (16 bytes read, 9 bits of entropy available)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.464687] random: udevadm: uninitialized urandom read (16 bytes read, 9 bits of entropy available)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.470148] random: systemd-udevd: uninitialized urandom read (16 bytes read, 9 bits of entropy available)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.586910] AVX2 version of gcm_enc/dec engaged.
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.590130] AES CTR mode by8 optimization enabled
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.928125] tsc: Refined TSC clocksource calibration: 2399.999 MHz
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    1.932699] clocksource: tsc: mask: 0xffffffffffffffff max_cycles: 0x2298364cab5, max_idle_ns: 440795214892 ns
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    3.128563] md: linear personality registered for level -1
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    3.140345] md: multipath personality registered for level -4
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    3.153560] md: raid0 personality registered for level 0
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    3.162555] md: raid1 personality registered for level 1
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    3.220067] raid6: sse2x1   gen()  8251 MB/s
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    3.268064] raid6: sse2x1   xor()  6432 MB/s
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    3.316067] raid6: sse2x2   gen() 10384 MB/s
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    3.368063] raid6: sse2x2   xor()  7070 MB/s
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    3.416066] raid6: sse2x4   gen() 12104 MB/s
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    3.464067] raid6: sse2x4   xor()  8450 MB/s
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    3.516069] raid6: avx2x1   gen() 15926 MB/s
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    3.564076] raid6: avx2x2   gen() 18963 MB/s
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    3.612073] raid6: avx2x4   gen() 21683 MB/s
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    3.615347] raid6: using algorithm avx2x4 gen() 21683 MB/s
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    3.619330] raid6: using avx2x2 recovery algorithm
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    3.624957] xor: automatically using best checksumming function:
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    3.668059]    avx       : 24278.000 MB/sec
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    3.673429] async_tx: api initialized (async)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    3.688997] md: raid6 personality registered for level 6
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    3.692812] md: raid5 personality registered for level 5
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    3.696494] md: raid4 personality registered for level 4
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    3.706264] md: raid10 personality registered for level 10
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    3.748213] Btrfs loaded
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    3.792631] EXT4-fs (xvda1): mounted filesystem with ordered data mode. Opts: (null)
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started /etc/rc.local Compatibility.
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    4.390698] Loading iSCSI transport class v2.0-870.
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    4.414384] iscsi: registered transport (tcp)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    4.464977] EXT4-fs (xvda1): re-mounted. Opts: discard
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    4.506720] iscsi: registered transport (iser)
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    5.290609] audit: type=1400 audit(1519820499.416:2): apparmor="STATUS" operation="profile_load" profile="unconfined" name="lxc-container-default" pid=572 comm="apparmor_parser"
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    5.290614] audit: type=1400 audit(1519820499.416:3): apparmor="STATUS" operation="profile_load" profile="unconfined" name="lxc-container-default-cgns" pid=572 comm="apparmor_parser"
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    5.290618] audit: type=1400 audit(1519820499.416:4): apparmor="STATUS" operation="profile_load" profile="unconfined" name="lxc-container-default-with-mounting" pid=572 comm="apparmor_parser"
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    5.290621] audit: type=1400 audit(1519820499.416:5): apparmor="STATUS" operation="profile_load" profile="unconfined" name="lxc-container-default-with-nesting" pid=572 comm="apparmor_parser"
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    5.300228] audit: type=1400 audit(1519820499.428:6): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/sbin/dhclient" pid=573 comm="apparmor_parser"
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    5.300234] audit: type=1400 audit(1519820499.428:7): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-client.action" pid=573 comm="apparmor_parser"
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    5.300237] audit: type=1400 audit(1519820499.428:8): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-helper" pid=573 comm="apparmor_parser"
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    5.300241] audit: type=1400 audit(1519820499.428:9): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/connman/scripts/dhclient-script" pid=573 comm="apparmor_parser"
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    5.304587] audit: type=1400 audit(1519820499.432:10): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/bin/lxc-start" pid=574 comm="apparmor_parser"
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    6.828810] ppdev: user-space parallel port driver
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [    9.300093] random: nonblocking pool is initialized
+Feb 28 08:21:44 ip-172-31-69-21 kernel: [   10.107744] cgroup: new mount options do not match the existing superblock, will be ignored
+Feb 28 08:21:44 ip-172-31-69-21 sensors[1186]: No sensors found!
+Feb 28 08:21:44 ip-172-31-69-21 sensors[1186]: Make sure you loaded all the kernel drivers you need.
+Feb 28 08:21:44 ip-172-31-69-21 sensors[1186]: Try sensors-detect to find out which these are.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started Initialize hardware monitoring sensors.
+Feb 28 08:21:44 ip-172-31-69-21 mdadm[1122]:  * Starting MD monitoring service mdadm --monitor
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started OpenBSD Secure Shell server.
+Feb 28 08:21:44 ip-172-31-69-21 iscsiadm[1191]: iscsiadm: No records found
+Feb 28 08:21:44 ip-172-31-69-21 mdadm[1122]:    ...done.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started LSB: MD monitoring daemon.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started Login to default iSCSI targets.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started LSB: Record successful boot for GRUB.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Starting Authenticate and Authorize Users to Run Privileged Tasks...
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Reached target Remote File Systems (Pre).
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Reached target Remote File Systems.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Starting LSB: disk temperature monitoring daemon...
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Starting LSB: Set the CPU Frequency Scaling governor to "ondemand"...
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Starting Permit User Sessions...
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Starting LSB: automatic crash report generation...
+Feb 28 08:21:44 ip-172-31-69-21 polkitd[1213]: started daemon version 0.105 using authority implementation `local' version `0.105'
+Feb 28 08:21:44 ip-172-31-69-21 dbus[1133]: [system] Successfully activated service 'org.freedesktop.PolicyKit1'
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Starting LSB: daemon to balance interrupts for SMP systems...
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started LXD - container startup/shutdown.
+Feb 28 08:21:44 ip-172-31-69-21 accounts-daemon[1126]: started daemon version 0.6.40
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started Permit User Sessions.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started Login Service.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started Authenticate and Authorize Users to Run Privileged Tasks.
+Feb 28 08:21:44 ip-172-31-69-21 snapd[1178]: AppArmor status: apparmor is enabled and all features are available
+Feb 28 08:21:44 ip-172-31-69-21 snapd[1178]: 2018/02/28 08:21:44.753178 daemon.go:306: started snapd/2.29.4.2 (series 16; classic) ubuntu/16.04 (amd64) linux/4.4.0-1052-aws.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started Snappy daemon.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started Accounts Service.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started LSB: disk temperature monitoring daemon.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started LSB: Set the CPU Frequency Scaling governor to "ondemand".
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Starting Terminate Plymouth Boot Screen...
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Starting Hold until boot process finishes up...
+Feb 28 08:21:44 ip-172-31-69-21 apport[1233]:  * Starting automatic crash report generation: apport
+Feb 28 08:21:44 ip-172-31-69-21 irqbalance[1238]:  * Starting SMP IRQ Balancer: irqbalance
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started Hold until boot process finishes up.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started Terminate Plymouth Boot Screen.
+Feb 28 08:21:44 ip-172-31-69-21 /usr/sbin/irqbalance: Balancing is ineffective on systems with a single cpu.  Shutting down
+Feb 28 08:21:44 ip-172-31-69-21 apport[1233]:    ...done.
+Feb 28 08:21:44 ip-172-31-69-21 irqbalance[1238]:    ...done.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started LSB: automatic crash report generation.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started LSB: daemon to balance interrupts for SMP systems.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started Serial Getty on ttyS0.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Started Getty on tty1.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Reached target Login Prompts.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Reached target Multi-User System.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Reached target Graphical Interface.
+Feb 28 08:21:44 ip-172-31-69-21 systemd[1]: Starting Update UTMP about System Runlevel Changes...
+Feb 28 08:21:45 ip-172-31-69-21 systemd[1]: Starting Set console scheme...
+Feb 28 08:21:45 ip-172-31-69-21 systemd[1]: Started Set console scheme.
+Feb 28 08:21:45 ip-172-31-69-21 systemd[1]: Started Update UTMP about System Runlevel Changes.
+Feb 28 08:21:45 ip-172-31-69-21 cloud-init[1147]: Cloud-init v. 17.1 running 'modules:config' at Wed, 28 Feb 2018 12:21:45 +0000. Up 11.01 seconds.
+Feb 28 08:21:45 ip-172-31-69-21 systemd[1]: Started Apply the settings specified in cloud-config.
+Feb 28 08:21:45 ip-172-31-69-21 systemd[1]: Starting Execute cloud user/final scripts...
+Feb 28 08:21:45 ip-172-31-69-21 cloud-init[1296]: Cloud-init v. 17.1 running 'modules:final' at Wed, 28 Feb 2018 12:21:45 +0000. Up 11.42 seconds.
+Feb 28 08:21:45 ip-172-31-69-21 cloud-init[1296]: Cloud-init v. 17.1 finished at Wed, 28 Feb 2018 12:21:45 +0000. Datasource DataSourceEc2Local.  Up 11.53 seconds
+Feb 28 08:21:45 ip-172-31-69-21 systemd[1]: Started Execute cloud user/final scripts.
+Feb 28 08:21:45 ip-172-31-69-21 systemd[1]: Reached target Cloud-init target.
+Feb 28 08:21:45 ip-172-31-69-21 systemd[1]: Startup finished in 3.918s (kernel) + 7.714s (userspace) = 11.632s.
+Feb 28 08:22:10 ip-172-31-69-21 systemd[1]: Time has been changed
+Feb 28 08:22:10 ip-172-31-69-21 systemd-timesyncd[506]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+Feb 28 08:25:24 ip-172-31-69-21 systemd[1]: Created slice User Slice of ubuntu.
+Feb 28 08:25:24 ip-172-31-69-21 systemd[1]: Starting User Manager for UID 1000...
+Feb 28 08:25:24 ip-172-31-69-21 systemd[1]: Started Session 1 of user ubuntu.
+Feb 28 08:25:24 ip-172-31-69-21 systemd[1317]: Reached target Timers.
+Feb 28 08:25:24 ip-172-31-69-21 systemd[1317]: Reached target Sockets.
+Feb 28 08:25:24 ip-172-31-69-21 systemd[1317]: Reached target Paths.
+Feb 28 08:25:24 ip-172-31-69-21 systemd[1317]: Reached target Basic System.
+Feb 28 08:25:24 ip-172-31-69-21 systemd[1317]: Reached target Default.
+Feb 28 08:25:24 ip-172-31-69-21 systemd[1317]: Startup finished in 22ms.
+Feb 28 08:25:24 ip-172-31-69-21 systemd[1]: Started User Manager for UID 1000.
+Feb 28 08:25:39 ip-172-31-69-21 kernel: [  244.646027] Netfilter messages via NETLINK v0.30.
+Feb 28 08:25:39 ip-172-31-69-21 kernel: [  244.653187] device eth0 entered promiscuous mode
+Feb 28 08:36:34 ip-172-31-69-21 systemd[1]: Starting Cleanup of Temporary Directories...
+Feb 28 08:36:34 ip-172-31-69-21 systemd-tmpfiles[1448]: [/usr/lib/tmpfiles.d/var.conf:14] Duplicate line for path "/var/log", ignoring.
+Feb 28 08:36:34 ip-172-31-69-21 systemd[1]: Started Cleanup of Temporary Directories.
+Feb 28 08:47:19 ip-172-31-69-21 dhclient[1000]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0x2310fa6a)
+Feb 28 08:47:19 ip-172-31-69-21 dhclient[1000]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 28 08:47:19 ip-172-31-69-21 dhclient[1000]: bound to 172.31.69.21 -- renewal in 1775 seconds.
+Feb 28 09:16:54 ip-172-31-69-21 dhclient[1000]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0x2310fa6a)
+Feb 28 09:16:54 ip-172-31-69-21 dhclient[1000]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 28 09:16:54 ip-172-31-69-21 dhclient[1000]: bound to 172.31.69.21 -- renewal in 1366 seconds.
+Feb 28 09:17:01 ip-172-31-69-21 CRON[1552]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 28 09:39:40 ip-172-31-69-21 dhclient[1000]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0x2310fa6a)
+Feb 28 09:39:40 ip-172-31-69-21 dhclient[1000]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 28 09:39:40 ip-172-31-69-21 dhclient[1000]: bound to 172.31.69.21 -- renewal in 1780 seconds.
+Feb 28 10:09:20 ip-172-31-69-21 dhclient[1000]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0x2310fa6a)
+Feb 28 10:09:20 ip-172-31-69-21 dhclient[1000]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 28 10:09:20 ip-172-31-69-21 dhclient[1000]: bound to 172.31.69.21 -- renewal in 1672 seconds.
+Feb 28 10:17:01 ip-172-31-69-21 CRON[1623]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 28 10:37:12 ip-172-31-69-21 dhclient[1000]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0x2310fa6a)
+Feb 28 10:37:12 ip-172-31-69-21 dhclient[1000]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 28 10:37:12 ip-172-31-69-21 dhclient[1000]: bound to 172.31.69.21 -- renewal in 1460 seconds.
+Feb 28 11:01:33 ip-172-31-69-21 dhclient[1000]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0x2310fa6a)
+Feb 28 11:01:33 ip-172-31-69-21 dhclient[1000]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 28 11:01:33 ip-172-31-69-21 dhclient[1000]: bound to 172.31.69.21 -- renewal in 1583 seconds.
+Feb 28 11:17:01 ip-172-31-69-21 CRON[1685]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 28 11:27:56 ip-172-31-69-21 dhclient[1000]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0x2310fa6a)
+Feb 28 11:27:56 ip-172-31-69-21 dhclient[1000]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 28 11:27:56 ip-172-31-69-21 dhclient[1000]: bound to 172.31.69.21 -- renewal in 1652 seconds.
+Feb 28 11:55:28 ip-172-31-69-21 dhclient[1000]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0x2310fa6a)
+Feb 28 11:55:28 ip-172-31-69-21 dhclient[1000]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 28 11:55:28 ip-172-31-69-21 dhclient[1000]: bound to 172.31.69.21 -- renewal in 1625 seconds.
+Feb 28 12:17:01 ip-172-31-69-21 CRON[1761]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 28 12:22:33 ip-172-31-69-21 dhclient[1000]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0x2310fa6a)
+Feb 28 12:22:33 ip-172-31-69-21 dhclient[1000]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 28 12:22:33 ip-172-31-69-21 dhclient[1000]: bound to 172.31.69.21 -- renewal in 1613 seconds.
+Feb 28 12:49:26 ip-172-31-69-21 dhclient[1000]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0x2310fa6a)
+Feb 28 12:49:26 ip-172-31-69-21 dhclient[1000]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 28 12:49:26 ip-172-31-69-21 dhclient[1000]: bound to 172.31.69.21 -- renewal in 1786 seconds.
+Feb 28 13:17:01 ip-172-31-69-21 CRON[1816]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 28 13:19:12 ip-172-31-69-21 dhclient[1000]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0x2310fa6a)
+Feb 28 13:19:12 ip-172-31-69-21 dhclient[1000]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 28 13:19:12 ip-172-31-69-21 dhclient[1000]: bound to 172.31.69.21 -- renewal in 1374 seconds.
+Feb 28 13:42:06 ip-172-31-69-21 dhclient[1000]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0x2310fa6a)
+Feb 28 13:42:06 ip-172-31-69-21 dhclient[1000]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 28 13:42:06 ip-172-31-69-21 dhclient[1000]: bound to 172.31.69.21 -- renewal in 1541 seconds.
+Feb 28 13:47:01 ip-172-31-69-21 CRON[1849]: (root) CMD (nohup tcpdump > /home/ubuntu/capture/dump$(hostname -I) &  )
+Feb 28 14:07:47 ip-172-31-69-21 dhclient[1000]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0x2310fa6a)
+Feb 28 14:07:47 ip-172-31-69-21 dhclient[1000]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 28 14:07:47 ip-172-31-69-21 dhclient[1000]: bound to 172.31.69.21 -- renewal in 1780 seconds.
+Feb 28 14:17:01 ip-172-31-69-21 CRON[1880]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 28 14:32:00 ip-172-31-69-21 systemd[1]: Starting Daily apt download activities...
+Feb 28 14:32:08 ip-172-31-69-21 systemd[1]: Started Daily apt download activities.
+Feb 28 14:37:27 ip-172-31-69-21 dhclient[1000]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0x2310fa6a)
+Feb 28 14:37:27 ip-172-31-69-21 dhclient[1000]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 28 14:37:27 ip-172-31-69-21 dhclient[1000]: bound to 172.31.69.21 -- renewal in 1369 seconds.
+Feb 28 14:46:01 ip-172-31-69-21 systemd[1]: Started Session 9 of user ubuntu.
+Feb 28 15:00:16 ip-172-31-69-21 dhclient[1000]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0x2310fa6a)
+Feb 28 15:00:16 ip-172-31-69-21 dhclient[1000]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 28 15:00:16 ip-172-31-69-21 dhclient[1000]: bound to 172.31.69.21 -- renewal in 1720 seconds.
+Feb 28 15:17:01 ip-172-31-69-21 CRON[2286]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 28 15:28:56 ip-172-31-69-21 dhclient[1000]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0x2310fa6a)
+Feb 28 15:28:56 ip-172-31-69-21 dhclient[1000]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 28 15:28:56 ip-172-31-69-21 dhclient[1000]: bound to 172.31.69.21 -- renewal in 1552 seconds.
+Feb 28 15:54:48 ip-172-31-69-21 dhclient[1000]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0x2310fa6a)
+Feb 28 15:54:48 ip-172-31-69-21 dhclient[1000]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 28 15:54:48 ip-172-31-69-21 dhclient[1000]: bound to 172.31.69.21 -- renewal in 1595 seconds.
+Feb 28 16:17:01 ip-172-31-69-21 CRON[2323]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 28 16:21:23 ip-172-31-69-21 dhclient[1000]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0x2310fa6a)
+Feb 28 16:21:23 ip-172-31-69-21 dhclient[1000]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 28 16:21:23 ip-172-31-69-21 dhclient[1000]: bound to 172.31.69.21 -- renewal in 1548 seconds.
+Feb 28 16:47:11 ip-172-31-69-21 dhclient[1000]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0x2310fa6a)
+Feb 28 16:47:11 ip-172-31-69-21 dhclient[1000]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 28 16:47:11 ip-172-31-69-21 dhclient[1000]: bound to 172.31.69.21 -- renewal in 1773 seconds.
+Feb 28 17:16:44 ip-172-31-69-21 dhclient[1000]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0x2310fa6a)
+Feb 28 17:16:44 ip-172-31-69-21 dhclient[1000]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 28 17:16:44 ip-172-31-69-21 dhclient[1000]: bound to 172.31.69.21 -- renewal in 1432 seconds.
+Feb 28 17:17:01 ip-172-31-69-21 CRON[2393]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)

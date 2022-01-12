@@ -1,0 +1,95 @@
+Feb 14 06:48:56 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 06:48:56 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 06:48:56 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1563 seconds.
+Feb 14 07:14:59 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 07:14:59 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 07:14:59 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1412 seconds.
+Feb 14 07:17:01 ip-172-31-69-27 CRON[4982]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 07:38:32 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 07:38:32 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 07:38:32 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1746 seconds.
+Feb 14 08:07:38 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 08:07:38 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 08:07:38 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1617 seconds.
+Feb 14 08:17:01 ip-172-31-69-27 CRON[5043]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 08:21:15 ip-172-31-69-27 systemd[1]: Started Session 58 of user ubuntu.
+Feb 14 08:21:25 ip-172-31-69-27 systemd[1]: Started Session 59 of user ubuntu.
+Feb 14 08:34:35 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 08:34:35 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 08:34:35 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1480 seconds.
+Feb 14 08:48:23 ip-172-31-69-27 systemd[1]: Starting Cleanup of Temporary Directories...
+Feb 14 08:48:23 ip-172-31-69-27 systemd-tmpfiles[5204]: [/usr/lib/tmpfiles.d/var.conf:14] Duplicate line for path "/var/log", ignoring.
+Feb 14 08:48:23 ip-172-31-69-27 systemd[1]: Started Cleanup of Temporary Directories.
+Feb 14 08:59:15 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 08:59:15 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 08:59:15 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1469 seconds.
+Feb 14 09:17:01 ip-172-31-69-27 CRON[5240]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 09:23:44 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 09:23:44 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 09:23:44 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1559 seconds.
+Feb 14 09:27:02 ip-172-31-69-27 systemd[1]: Started Session 61 of user ubuntu.
+Feb 14 09:49:43 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 09:49:43 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 09:49:43 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1575 seconds.
+Feb 14 10:15:58 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 10:15:58 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 10:15:58 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1507 seconds.
+Feb 14 10:17:01 ip-172-31-69-27 CRON[5428]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 10:41:05 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 10:41:05 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 10:41:05 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1695 seconds.
+Feb 14 11:09:20 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 11:09:20 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 11:09:20 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1729 seconds.
+Feb 14 11:17:01 ip-172-31-69-27 CRON[5487]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 11:38:09 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 11:38:09 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 11:38:09 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1539 seconds.
+Feb 14 12:03:48 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 12:03:48 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 12:03:48 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1788 seconds.
+Feb 14 12:09:23 ip-172-31-69-27 systemd[1]: Starting Daily apt download activities...
+Feb 14 12:09:31 ip-172-31-69-27 systemd[1]: Started Daily apt download activities.
+Feb 14 12:17:01 ip-172-31-69-27 CRON[5798]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 12:33:36 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 12:33:36 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 12:33:36 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1359 seconds.
+Feb 14 12:56:15 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 12:56:15 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 12:56:15 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1477 seconds.
+Feb 14 13:17:01 ip-172-31-69-27 CRON[5847]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 13:20:52 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 13:20:52 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 13:20:52 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1477 seconds.
+Feb 14 13:45:29 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 13:45:29 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 13:45:29 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1621 seconds.
+Feb 14 13:47:01 ip-172-31-69-27 CRON[5882]: (root) CMD (nohup tcpdump > /home/ubuntu/capture/dump$(hostname -I) &  )
+Feb 14 14:12:30 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 14:12:30 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 14:12:30 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1490 seconds.
+Feb 14 14:17:01 ip-172-31-69-27 CRON[5909]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 14:37:20 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 14:37:20 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 14:37:20 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1358 seconds.
+Feb 14 14:59:58 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 14:59:58 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 14:59:58 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1573 seconds.
+Feb 14 15:17:01 ip-172-31-69-27 CRON[5950]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 15:26:11 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 15:26:11 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 15:26:11 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1742 seconds.
+Feb 14 15:55:13 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 15:55:13 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 15:55:13 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1670 seconds.
+Feb 14 16:17:01 ip-172-31-69-27 CRON[6001]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 16:23:03 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 16:23:03 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 16:23:03 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1543 seconds.
+Feb 14 16:48:46 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 16:48:46 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 16:48:46 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1409 seconds.
+Feb 14 17:12:15 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 17:12:15 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 17:12:15 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1719 seconds.
+Feb 14 17:17:01 ip-172-31-69-27 CRON[6059]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
