@@ -1,0 +1,1413 @@
+Feb 14 06:48:56 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 06:48:56 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 06:48:56 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1563 seconds.
+Feb 14 07:14:59 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 07:14:59 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 07:14:59 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1412 seconds.
+Feb 14 07:17:01 ip-172-31-69-27 CRON[4982]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 07:38:32 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 07:38:32 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 07:38:32 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1746 seconds.
+Feb 14 08:07:38 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 08:07:38 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 08:07:38 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1617 seconds.
+Feb 14 08:17:01 ip-172-31-69-27 CRON[5043]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 08:21:15 ip-172-31-69-27 systemd[1]: Started Session 58 of user ubuntu.
+Feb 14 08:21:25 ip-172-31-69-27 systemd[1]: Started Session 59 of user ubuntu.
+Feb 14 08:34:35 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 08:34:35 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 08:34:35 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1480 seconds.
+Feb 14 08:48:23 ip-172-31-69-27 systemd[1]: Starting Cleanup of Temporary Directories...
+Feb 14 08:48:23 ip-172-31-69-27 systemd-tmpfiles[5204]: [/usr/lib/tmpfiles.d/var.conf:14] Duplicate line for path "/var/log", ignoring.
+Feb 14 08:48:23 ip-172-31-69-27 systemd[1]: Started Cleanup of Temporary Directories.
+Feb 14 08:59:15 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 08:59:15 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 08:59:15 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1469 seconds.
+Feb 14 09:17:01 ip-172-31-69-27 CRON[5240]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 09:23:44 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 09:23:44 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 09:23:44 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1559 seconds.
+Feb 14 09:27:02 ip-172-31-69-27 systemd[1]: Started Session 61 of user ubuntu.
+Feb 14 09:49:43 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 09:49:43 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 09:49:43 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1575 seconds.
+Feb 14 10:15:58 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 10:15:58 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 10:15:58 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1507 seconds.
+Feb 14 10:17:01 ip-172-31-69-27 CRON[5428]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 10:41:05 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 10:41:05 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 10:41:05 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1695 seconds.
+Feb 14 11:09:20 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 11:09:20 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 11:09:20 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1729 seconds.
+Feb 14 11:17:01 ip-172-31-69-27 CRON[5487]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 11:38:09 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 11:38:09 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 11:38:09 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1539 seconds.
+Feb 14 12:03:48 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 12:03:48 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 12:03:48 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1788 seconds.
+Feb 14 12:09:23 ip-172-31-69-27 systemd[1]: Starting Daily apt download activities...
+Feb 14 12:09:31 ip-172-31-69-27 systemd[1]: Started Daily apt download activities.
+Feb 14 12:17:01 ip-172-31-69-27 CRON[5798]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 12:33:36 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 12:33:36 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 12:33:36 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1359 seconds.
+Feb 14 12:56:15 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 12:56:15 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 12:56:15 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1477 seconds.
+Feb 14 13:17:01 ip-172-31-69-27 CRON[5847]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 13:20:52 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 13:20:52 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 13:20:52 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1477 seconds.
+Feb 14 13:45:29 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 13:45:29 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 13:45:29 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1621 seconds.
+Feb 14 13:47:01 ip-172-31-69-27 CRON[5882]: (root) CMD (nohup tcpdump > /home/ubuntu/capture/dump$(hostname -I) &  )
+Feb 14 14:12:30 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 14:12:30 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 14:12:30 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1490 seconds.
+Feb 14 14:17:01 ip-172-31-69-27 CRON[5909]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 14:37:20 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 14:37:20 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 14:37:20 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1358 seconds.
+Feb 14 14:59:58 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 14:59:58 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 14:59:58 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1573 seconds.
+Feb 14 15:17:01 ip-172-31-69-27 CRON[5950]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 15:26:11 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 15:26:11 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 15:26:11 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1742 seconds.
+Feb 14 15:55:13 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 15:55:13 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 15:55:13 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1670 seconds.
+Feb 14 16:17:01 ip-172-31-69-27 CRON[6001]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 16:23:03 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 16:23:03 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 16:23:03 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1543 seconds.
+Feb 14 16:48:46 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 16:48:46 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 16:48:46 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1409 seconds.
+Feb 14 17:12:15 ip-172-31-69-27 dhclient[940]: DHCPREQUEST of 172.31.69.27 on eth0 to 172.31.69.1 port 67 (xid=0xc36aa03)
+Feb 14 17:12:15 ip-172-31-69-27 dhclient[940]: DHCPACK of 172.31.69.27 from 172.31.69.1
+Feb 14 17:12:15 ip-172-31-69-27 dhclient[940]: bound to 172.31.69.27 -- renewal in 1719 seconds.
+Feb 14 17:17:01 ip-172-31-69-27 CRON[6059]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 06:46:47 ip-172-31-69-18 dhclient[967]: DHCPREQUEST of 172.31.69.18 on eth0 to 172.31.69.1 port 67 (xid=0x3fe031ab)
+Feb 14 06:46:47 ip-172-31-69-18 dhclient[967]: DHCPACK of 172.31.69.18 from 172.31.69.1
+Feb 14 06:46:47 ip-172-31-69-18 dhclient[967]: bound to 172.31.69.18 -- renewal in 1478 seconds.
+Feb 14 07:11:25 ip-172-31-69-18 dhclient[967]: DHCPREQUEST of 172.31.69.18 on eth0 to 172.31.69.1 port 67 (xid=0x3fe031ab)
+Feb 14 07:11:25 ip-172-31-69-18 dhclient[967]: DHCPACK of 172.31.69.18 from 172.31.69.1
+Feb 14 07:11:25 ip-172-31-69-18 dhclient[967]: bound to 172.31.69.18 -- renewal in 1616 seconds.
+Feb 14 07:17:01 ip-172-31-69-18 CRON[5314]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 07:38:21 ip-172-31-69-18 dhclient[967]: DHCPREQUEST of 172.31.69.18 on eth0 to 172.31.69.1 port 67 (xid=0x3fe031ab)
+Feb 14 07:38:21 ip-172-31-69-18 dhclient[967]: DHCPACK of 172.31.69.18 from 172.31.69.1
+Feb 14 07:38:21 ip-172-31-69-18 dhclient[967]: bound to 172.31.69.18 -- renewal in 1669 seconds.
+Feb 14 08:06:10 ip-172-31-69-18 dhclient[967]: DHCPREQUEST of 172.31.69.18 on eth0 to 172.31.69.1 port 67 (xid=0x3fe031ab)
+Feb 14 08:06:10 ip-172-31-69-18 dhclient[967]: DHCPACK of 172.31.69.18 from 172.31.69.1
+Feb 14 08:06:10 ip-172-31-69-18 dhclient[967]: bound to 172.31.69.18 -- renewal in 1356 seconds.
+Feb 14 08:17:01 ip-172-31-69-18 CRON[5357]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 08:20:59 ip-172-31-69-18 systemd[1]: Started Session 59 of user ubuntu.
+Feb 14 08:28:46 ip-172-31-69-18 dhclient[967]: DHCPREQUEST of 172.31.69.18 on eth0 to 172.31.69.1 port 67 (xid=0x3fe031ab)
+Feb 14 08:28:46 ip-172-31-69-18 dhclient[967]: DHCPACK of 172.31.69.18 from 172.31.69.1
+Feb 14 08:28:46 ip-172-31-69-18 dhclient[967]: bound to 172.31.69.18 -- renewal in 1375 seconds.
+Feb 14 08:48:36 ip-172-31-69-18 systemd[1]: Starting Cleanup of Temporary Directories...
+Feb 14 08:48:36 ip-172-31-69-18 systemd-tmpfiles[5475]: [/usr/lib/tmpfiles.d/var.conf:14] Duplicate line for path "/var/log", ignoring.
+Feb 14 08:48:36 ip-172-31-69-18 systemd[1]: Started Cleanup of Temporary Directories.
+Feb 14 08:51:41 ip-172-31-69-18 dhclient[967]: DHCPREQUEST of 172.31.69.18 on eth0 to 172.31.69.1 port 67 (xid=0x3fe031ab)
+Feb 14 08:51:41 ip-172-31-69-18 dhclient[967]: DHCPACK of 172.31.69.18 from 172.31.69.1
+Feb 14 08:51:41 ip-172-31-69-18 dhclient[967]: bound to 172.31.69.18 -- renewal in 1745 seconds.
+Feb 14 09:17:01 ip-172-31-69-18 CRON[5499]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 09:20:46 ip-172-31-69-18 dhclient[967]: DHCPREQUEST of 172.31.69.18 on eth0 to 172.31.69.1 port 67 (xid=0x3fe031ab)
+Feb 14 09:20:46 ip-172-31-69-18 dhclient[967]: DHCPACK of 172.31.69.18 from 172.31.69.1
+Feb 14 09:20:46 ip-172-31-69-18 dhclient[967]: bound to 172.31.69.18 -- renewal in 1640 seconds.
+Feb 14 09:48:06 ip-172-31-69-18 dhclient[967]: DHCPREQUEST of 172.31.69.18 on eth0 to 172.31.69.1 port 67 (xid=0x3fe031ab)
+Feb 14 09:48:06 ip-172-31-69-18 dhclient[967]: DHCPACK of 172.31.69.18 from 172.31.69.1
+Feb 14 09:48:06 ip-172-31-69-18 dhclient[967]: bound to 172.31.69.18 -- renewal in 1452 seconds.
+Feb 14 10:12:18 ip-172-31-69-18 dhclient[967]: DHCPREQUEST of 172.31.69.18 on eth0 to 172.31.69.1 port 67 (xid=0x3fe031ab)
+Feb 14 10:12:18 ip-172-31-69-18 dhclient[967]: DHCPACK of 172.31.69.18 from 172.31.69.1
+Feb 14 10:12:18 ip-172-31-69-18 dhclient[967]: bound to 172.31.69.18 -- renewal in 1511 seconds.
+Feb 14 10:17:01 ip-172-31-69-18 CRON[5557]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 10:37:29 ip-172-31-69-18 dhclient[967]: DHCPREQUEST of 172.31.69.18 on eth0 to 172.31.69.1 port 67 (xid=0x3fe031ab)
+Feb 14 10:37:29 ip-172-31-69-18 dhclient[967]: DHCPACK of 172.31.69.18 from 172.31.69.1
+Feb 14 10:37:29 ip-172-31-69-18 dhclient[967]: bound to 172.31.69.18 -- renewal in 1418 seconds.
+Feb 14 11:01:07 ip-172-31-69-18 dhclient[967]: DHCPREQUEST of 172.31.69.18 on eth0 to 172.31.69.1 port 67 (xid=0x3fe031ab)
+Feb 14 11:01:07 ip-172-31-69-18 dhclient[967]: DHCPACK of 172.31.69.18 from 172.31.69.1
+Feb 14 11:01:07 ip-172-31-69-18 dhclient[967]: bound to 172.31.69.18 -- renewal in 1457 seconds.
+Feb 14 11:17:01 ip-172-31-69-18 CRON[5603]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 11:25:24 ip-172-31-69-18 dhclient[967]: DHCPREQUEST of 172.31.69.18 on eth0 to 172.31.69.1 port 67 (xid=0x3fe031ab)
+Feb 14 11:25:24 ip-172-31-69-18 dhclient[967]: DHCPACK of 172.31.69.18 from 172.31.69.1
+Feb 14 11:25:24 ip-172-31-69-18 dhclient[967]: bound to 172.31.69.18 -- renewal in 1615 seconds.
+Feb 14 11:52:19 ip-172-31-69-18 dhclient[967]: DHCPREQUEST of 172.31.69.18 on eth0 to 172.31.69.1 port 67 (xid=0x3fe031ab)
+Feb 14 11:52:19 ip-172-31-69-18 dhclient[967]: DHCPACK of 172.31.69.18 from 172.31.69.1
+Feb 14 11:52:19 ip-172-31-69-18 dhclient[967]: bound to 172.31.69.18 -- renewal in 1524 seconds.
+Feb 14 12:17:01 ip-172-31-69-18 CRON[5637]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 12:17:43 ip-172-31-69-18 dhclient[967]: DHCPREQUEST of 172.31.69.18 on eth0 to 172.31.69.1 port 67 (xid=0x3fe031ab)
+Feb 14 12:17:43 ip-172-31-69-18 dhclient[967]: DHCPACK of 172.31.69.18 from 172.31.69.1
+Feb 14 12:17:43 ip-172-31-69-18 dhclient[967]: bound to 172.31.69.18 -- renewal in 1447 seconds.
+Feb 14 12:41:50 ip-172-31-69-18 dhclient[967]: DHCPREQUEST of 172.31.69.18 on eth0 to 172.31.69.1 port 67 (xid=0x3fe031ab)
+Feb 14 12:41:50 ip-172-31-69-18 dhclient[967]: DHCPACK of 172.31.69.18 from 172.31.69.1
+Feb 14 12:41:50 ip-172-31-69-18 dhclient[967]: bound to 172.31.69.18 -- renewal in 1790 seconds.
+Feb 14 13:11:40 ip-172-31-69-18 dhclient[967]: DHCPREQUEST of 172.31.69.18 on eth0 to 172.31.69.1 port 67 (xid=0x3fe031ab)
+Feb 14 13:11:40 ip-172-31-69-18 dhclient[967]: DHCPACK of 172.31.69.18 from 172.31.69.1
+Feb 14 13:11:40 ip-172-31-69-18 dhclient[967]: bound to 172.31.69.18 -- renewal in 1676 seconds.
+Feb 14 13:17:01 ip-172-31-69-18 CRON[5690]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 13:39:36 ip-172-31-69-18 dhclient[967]: DHCPREQUEST of 172.31.69.18 on eth0 to 172.31.69.1 port 67 (xid=0x3fe031ab)
+Feb 14 13:39:36 ip-172-31-69-18 dhclient[967]: DHCPACK of 172.31.69.18 from 172.31.69.1
+Feb 14 13:39:36 ip-172-31-69-18 dhclient[967]: bound to 172.31.69.18 -- renewal in 1752 seconds.
+Feb 14 13:47:01 ip-172-31-69-18 CRON[5705]: (root) CMD (nohup tcpdump > /home/ubuntu/capture/dump$(hostname -I) &  )
+Feb 14 14:08:48 ip-172-31-69-18 dhclient[967]: DHCPREQUEST of 172.31.69.18 on eth0 to 172.31.69.1 port 67 (xid=0x3fe031ab)
+Feb 14 14:08:48 ip-172-31-69-18 dhclient[967]: DHCPACK of 172.31.69.18 from 172.31.69.1
+Feb 14 14:08:48 ip-172-31-69-18 dhclient[967]: bound to 172.31.69.18 -- renewal in 1569 seconds.
+Feb 14 14:17:01 ip-172-31-69-18 CRON[5730]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 14:34:57 ip-172-31-69-18 dhclient[967]: DHCPREQUEST of 172.31.69.18 on eth0 to 172.31.69.1 port 67 (xid=0x3fe031ab)
+Feb 14 14:34:57 ip-172-31-69-18 dhclient[967]: DHCPACK of 172.31.69.18 from 172.31.69.1
+Feb 14 14:34:57 ip-172-31-69-18 dhclient[967]: bound to 172.31.69.18 -- renewal in 1696 seconds.
+Feb 14 15:03:13 ip-172-31-69-18 dhclient[967]: DHCPREQUEST of 172.31.69.18 on eth0 to 172.31.69.1 port 67 (xid=0x3fe031ab)
+Feb 14 15:03:13 ip-172-31-69-18 dhclient[967]: DHCPACK of 172.31.69.18 from 172.31.69.1
+Feb 14 15:03:13 ip-172-31-69-18 dhclient[967]: bound to 172.31.69.18 -- renewal in 1353 seconds.
+Feb 14 15:17:01 ip-172-31-69-18 CRON[5769]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 15:25:46 ip-172-31-69-18 dhclient[967]: DHCPREQUEST of 172.31.69.18 on eth0 to 172.31.69.1 port 67 (xid=0x3fe031ab)
+Feb 14 15:25:46 ip-172-31-69-18 dhclient[967]: DHCPACK of 172.31.69.18 from 172.31.69.1
+Feb 14 15:25:46 ip-172-31-69-18 dhclient[967]: bound to 172.31.69.18 -- renewal in 1527 seconds.
+Feb 14 15:51:13 ip-172-31-69-18 dhclient[967]: DHCPREQUEST of 172.31.69.18 on eth0 to 172.31.69.1 port 67 (xid=0x3fe031ab)
+Feb 14 15:51:13 ip-172-31-69-18 dhclient[967]: DHCPACK of 172.31.69.18 from 172.31.69.1
+Feb 14 15:51:13 ip-172-31-69-18 dhclient[967]: bound to 172.31.69.18 -- renewal in 1791 seconds.
+Feb 14 16:17:01 ip-172-31-69-18 CRON[5802]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 16:21:04 ip-172-31-69-18 dhclient[967]: DHCPREQUEST of 172.31.69.18 on eth0 to 172.31.69.1 port 67 (xid=0x3fe031ab)
+Feb 14 16:21:04 ip-172-31-69-18 dhclient[967]: DHCPACK of 172.31.69.18 from 172.31.69.1
+Feb 14 16:21:04 ip-172-31-69-18 dhclient[967]: bound to 172.31.69.18 -- renewal in 1380 seconds.
+Feb 14 16:44:04 ip-172-31-69-18 dhclient[967]: DHCPREQUEST of 172.31.69.18 on eth0 to 172.31.69.1 port 67 (xid=0x3fe031ab)
+Feb 14 16:44:04 ip-172-31-69-18 dhclient[967]: DHCPACK of 172.31.69.18 from 172.31.69.1
+Feb 14 16:44:04 ip-172-31-69-18 dhclient[967]: bound to 172.31.69.18 -- renewal in 1675 seconds.
+Feb 14 17:04:07 ip-172-31-69-18 systemd[1]: Starting Daily apt download activities...
+Feb 14 17:04:07 ip-172-31-69-18 systemd[1]: Started Daily apt download activities.
+Feb 14 17:11:59 ip-172-31-69-18 dhclient[967]: DHCPREQUEST of 172.31.69.18 on eth0 to 172.31.69.1 port 67 (xid=0x3fe031ab)
+Feb 14 17:11:59 ip-172-31-69-18 dhclient[967]: DHCPACK of 172.31.69.18 from 172.31.69.1
+Feb 14 17:12:00 ip-172-31-69-18 dhclient[967]: bound to 172.31.69.18 -- renewal in 1655 seconds.
+Feb 14 17:17:01 ip-172-31-69-18 CRON[5896]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 06:38:09 ip-172-31-69-21 dhclient[982]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0xea334)
+Feb 14 06:38:09 ip-172-31-69-21 dhclient[982]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 14 06:38:09 ip-172-31-69-21 dhclient[982]: bound to 172.31.69.21 -- renewal in 1657 seconds.
+Feb 14 06:55:50 ip-172-31-69-21 systemd[1]: Starting Daily apt upgrade and clean activities...
+Feb 14 06:55:53 ip-172-31-69-21 systemd[1]: Started Daily apt upgrade and clean activities.
+Feb 14 07:05:46 ip-172-31-69-21 dhclient[982]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0xea334)
+Feb 14 07:05:46 ip-172-31-69-21 dhclient[982]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 14 07:05:46 ip-172-31-69-21 dhclient[982]: bound to 172.31.69.21 -- renewal in 1395 seconds.
+Feb 14 07:17:01 ip-172-31-69-21 CRON[4573]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 07:29:01 ip-172-31-69-21 dhclient[982]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0xea334)
+Feb 14 07:29:01 ip-172-31-69-21 dhclient[982]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 14 07:29:01 ip-172-31-69-21 dhclient[982]: bound to 172.31.69.21 -- renewal in 1360 seconds.
+Feb 14 07:51:41 ip-172-31-69-21 dhclient[982]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0xea334)
+Feb 14 07:51:41 ip-172-31-69-21 dhclient[982]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 14 07:51:41 ip-172-31-69-21 dhclient[982]: bound to 172.31.69.21 -- renewal in 1432 seconds.
+Feb 14 08:15:33 ip-172-31-69-21 dhclient[982]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0xea334)
+Feb 14 08:15:33 ip-172-31-69-21 dhclient[982]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 14 08:15:33 ip-172-31-69-21 dhclient[982]: bound to 172.31.69.21 -- renewal in 1704 seconds.
+Feb 14 08:17:01 ip-172-31-69-21 CRON[4612]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 08:20:47 ip-172-31-69-21 systemd[1]: Started Session 59 of user ubuntu.
+Feb 14 08:43:57 ip-172-31-69-21 dhclient[982]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0xea334)
+Feb 14 08:43:57 ip-172-31-69-21 dhclient[982]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 14 08:43:57 ip-172-31-69-21 dhclient[982]: bound to 172.31.69.21 -- renewal in 1512 seconds.
+Feb 14 08:48:14 ip-172-31-69-21 systemd[1]: Starting Cleanup of Temporary Directories...
+Feb 14 08:48:14 ip-172-31-69-21 systemd-tmpfiles[4716]: [/usr/lib/tmpfiles.d/var.conf:14] Duplicate line for path "/var/log", ignoring.
+Feb 14 08:48:14 ip-172-31-69-21 systemd[1]: Started Cleanup of Temporary Directories.
+Feb 14 09:09:09 ip-172-31-69-21 dhclient[982]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0xea334)
+Feb 14 09:09:09 ip-172-31-69-21 dhclient[982]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 14 09:09:09 ip-172-31-69-21 dhclient[982]: bound to 172.31.69.21 -- renewal in 1437 seconds.
+Feb 14 09:17:01 ip-172-31-69-21 CRON[4734]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 09:33:06 ip-172-31-69-21 dhclient[982]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0xea334)
+Feb 14 09:33:06 ip-172-31-69-21 dhclient[982]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 14 09:33:06 ip-172-31-69-21 dhclient[982]: bound to 172.31.69.21 -- renewal in 1628 seconds.
+Feb 14 10:00:14 ip-172-31-69-21 dhclient[982]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0xea334)
+Feb 14 10:00:14 ip-172-31-69-21 dhclient[982]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 14 10:00:14 ip-172-31-69-21 dhclient[982]: bound to 172.31.69.21 -- renewal in 1750 seconds.
+Feb 14 10:17:01 ip-172-31-69-21 CRON[4781]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 10:29:24 ip-172-31-69-21 dhclient[982]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0xea334)
+Feb 14 10:29:24 ip-172-31-69-21 dhclient[982]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 14 10:29:24 ip-172-31-69-21 dhclient[982]: bound to 172.31.69.21 -- renewal in 1414 seconds.
+Feb 14 10:52:58 ip-172-31-69-21 dhclient[982]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0xea334)
+Feb 14 10:52:58 ip-172-31-69-21 dhclient[982]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 14 10:52:58 ip-172-31-69-21 dhclient[982]: bound to 172.31.69.21 -- renewal in 1623 seconds.
+Feb 14 11:17:01 ip-172-31-69-21 CRON[4808]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 11:20:01 ip-172-31-69-21 dhclient[982]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0xea334)
+Feb 14 11:20:01 ip-172-31-69-21 dhclient[982]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 14 11:20:01 ip-172-31-69-21 dhclient[982]: bound to 172.31.69.21 -- renewal in 1391 seconds.
+Feb 14 11:43:12 ip-172-31-69-21 dhclient[982]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0xea334)
+Feb 14 11:43:12 ip-172-31-69-21 dhclient[982]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 14 11:43:12 ip-172-31-69-21 dhclient[982]: bound to 172.31.69.21 -- renewal in 1724 seconds.
+Feb 14 12:11:56 ip-172-31-69-21 dhclient[982]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0xea334)
+Feb 14 12:11:56 ip-172-31-69-21 dhclient[982]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 14 12:11:56 ip-172-31-69-21 dhclient[982]: bound to 172.31.69.21 -- renewal in 1795 seconds.
+Feb 14 12:17:01 ip-172-31-69-21 CRON[4855]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 12:41:51 ip-172-31-69-21 dhclient[982]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0xea334)
+Feb 14 12:41:51 ip-172-31-69-21 dhclient[982]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 14 12:41:51 ip-172-31-69-21 dhclient[982]: bound to 172.31.69.21 -- renewal in 1756 seconds.
+Feb 14 13:11:07 ip-172-31-69-21 dhclient[982]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0xea334)
+Feb 14 13:11:07 ip-172-31-69-21 dhclient[982]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 14 13:11:07 ip-172-31-69-21 dhclient[982]: bound to 172.31.69.21 -- renewal in 1412 seconds.
+Feb 14 13:17:01 ip-172-31-69-21 CRON[4892]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 13:34:40 ip-172-31-69-21 dhclient[982]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0xea334)
+Feb 14 13:34:40 ip-172-31-69-21 dhclient[982]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 14 13:34:40 ip-172-31-69-21 dhclient[982]: bound to 172.31.69.21 -- renewal in 1580 seconds.
+Feb 14 13:47:01 ip-172-31-69-21 CRON[4907]: (root) CMD (nohup tcpdump > /home/ubuntu/capture/dump$(hostname -I) &  )
+Feb 14 14:01:00 ip-172-31-69-21 dhclient[982]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0xea334)
+Feb 14 14:01:01 ip-172-31-69-21 dhclient[982]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 14 14:01:01 ip-172-31-69-21 dhclient[982]: bound to 172.31.69.21 -- renewal in 1767 seconds.
+Feb 14 14:17:01 ip-172-31-69-21 CRON[4927]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 14:30:29 ip-172-31-69-21 dhclient[982]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0xea334)
+Feb 14 14:30:29 ip-172-31-69-21 dhclient[982]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 14 14:30:29 ip-172-31-69-21 dhclient[982]: bound to 172.31.69.21 -- renewal in 1383 seconds.
+Feb 14 14:53:32 ip-172-31-69-21 dhclient[982]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0xea334)
+Feb 14 14:53:32 ip-172-31-69-21 dhclient[982]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 14 14:53:32 ip-172-31-69-21 dhclient[982]: bound to 172.31.69.21 -- renewal in 1552 seconds.
+Feb 14 15:17:01 ip-172-31-69-21 CRON[4960]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 15:19:24 ip-172-31-69-21 dhclient[982]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0xea334)
+Feb 14 15:19:24 ip-172-31-69-21 dhclient[982]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 14 15:19:24 ip-172-31-69-21 dhclient[982]: bound to 172.31.69.21 -- renewal in 1713 seconds.
+Feb 14 15:47:58 ip-172-31-69-21 dhclient[982]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0xea334)
+Feb 14 15:47:58 ip-172-31-69-21 dhclient[982]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 14 15:47:58 ip-172-31-69-21 dhclient[982]: bound to 172.31.69.21 -- renewal in 1676 seconds.
+Feb 14 15:55:50 ip-172-31-69-21 systemd[1]: Starting Daily apt download activities...
+Feb 14 15:55:59 ip-172-31-69-21 systemd[1]: Started Daily apt download activities.
+Feb 14 16:15:54 ip-172-31-69-21 dhclient[982]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0xea334)
+Feb 14 16:15:54 ip-172-31-69-21 dhclient[982]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 14 16:15:54 ip-172-31-69-21 dhclient[982]: bound to 172.31.69.21 -- renewal in 1366 seconds.
+Feb 14 16:17:01 ip-172-31-69-21 CRON[5291]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 16:38:40 ip-172-31-69-21 dhclient[982]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0xea334)
+Feb 14 16:38:40 ip-172-31-69-21 dhclient[982]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 14 16:38:40 ip-172-31-69-21 dhclient[982]: bound to 172.31.69.21 -- renewal in 1658 seconds.
+Feb 14 17:06:18 ip-172-31-69-21 dhclient[982]: DHCPREQUEST of 172.31.69.21 on eth0 to 172.31.69.1 port 67 (xid=0xea334)
+Feb 14 17:06:18 ip-172-31-69-21 dhclient[982]: DHCPACK of 172.31.69.21 from 172.31.69.1
+Feb 14 17:06:18 ip-172-31-69-21 dhclient[982]: bound to 172.31.69.21 -- renewal in 1733 seconds.
+Feb 14 17:17:01 ip-172-31-69-21 CRON[5385]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 06:49:27 ip-172-31-69-7 systemd[1]: Starting Daily apt upgrade and clean activities...
+Feb 14 06:49:29 ip-172-31-69-7 systemd[1]: Started Daily apt upgrade and clean activities.
+Feb 14 06:51:03 ip-172-31-69-7 dhclient[945]: DHCPREQUEST of 172.31.69.7 on eth0 to 172.31.69.1 port 67 (xid=0x7e574bc3)
+Feb 14 06:51:03 ip-172-31-69-7 dhclient[945]: DHCPACK of 172.31.69.7 from 172.31.69.1
+Feb 14 06:51:03 ip-172-31-69-7 dhclient[945]: bound to 172.31.69.7 -- renewal in 1495 seconds.
+Feb 14 07:15:58 ip-172-31-69-7 dhclient[945]: DHCPREQUEST of 172.31.69.7 on eth0 to 172.31.69.1 port 67 (xid=0x7e574bc3)
+Feb 14 07:15:58 ip-172-31-69-7 dhclient[945]: DHCPACK of 172.31.69.7 from 172.31.69.1
+Feb 14 07:15:58 ip-172-31-69-7 dhclient[945]: bound to 172.31.69.7 -- renewal in 1487 seconds.
+Feb 14 07:17:01 ip-172-31-69-7 CRON[4863]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 07:40:45 ip-172-31-69-7 dhclient[945]: DHCPREQUEST of 172.31.69.7 on eth0 to 172.31.69.1 port 67 (xid=0x7e574bc3)
+Feb 14 07:40:45 ip-172-31-69-7 dhclient[945]: DHCPACK of 172.31.69.7 from 172.31.69.1
+Feb 14 07:40:45 ip-172-31-69-7 dhclient[945]: bound to 172.31.69.7 -- renewal in 1717 seconds.
+Feb 14 08:09:22 ip-172-31-69-7 dhclient[945]: DHCPREQUEST of 172.31.69.7 on eth0 to 172.31.69.1 port 67 (xid=0x7e574bc3)
+Feb 14 08:09:22 ip-172-31-69-7 dhclient[945]: DHCPACK of 172.31.69.7 from 172.31.69.1
+Feb 14 08:09:22 ip-172-31-69-7 dhclient[945]: bound to 172.31.69.7 -- renewal in 1398 seconds.
+Feb 14 08:17:01 ip-172-31-69-7 CRON[4912]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 08:20:19 ip-172-31-69-7 systemd[1]: Started Session 59 of user ubuntu.
+Feb 14 08:32:40 ip-172-31-69-7 dhclient[945]: DHCPREQUEST of 172.31.69.7 on eth0 to 172.31.69.1 port 67 (xid=0x7e574bc3)
+Feb 14 08:32:40 ip-172-31-69-7 dhclient[945]: DHCPACK of 172.31.69.7 from 172.31.69.1
+Feb 14 08:32:40 ip-172-31-69-7 dhclient[945]: bound to 172.31.69.7 -- renewal in 1608 seconds.
+Feb 14 08:49:07 ip-172-31-69-7 systemd[1]: Starting Cleanup of Temporary Directories...
+Feb 14 08:49:07 ip-172-31-69-7 systemd-tmpfiles[5081]: [/usr/lib/tmpfiles.d/var.conf:14] Duplicate line for path "/var/log", ignoring.
+Feb 14 08:49:07 ip-172-31-69-7 systemd[1]: Started Cleanup of Temporary Directories.
+Feb 14 08:59:28 ip-172-31-69-7 dhclient[945]: DHCPREQUEST of 172.31.69.7 on eth0 to 172.31.69.1 port 67 (xid=0x7e574bc3)
+Feb 14 08:59:28 ip-172-31-69-7 dhclient[945]: DHCPACK of 172.31.69.7 from 172.31.69.1
+Feb 14 08:59:28 ip-172-31-69-7 dhclient[945]: bound to 172.31.69.7 -- renewal in 1385 seconds.
+Feb 14 09:17:01 ip-172-31-69-7 CRON[5121]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 09:22:33 ip-172-31-69-7 dhclient[945]: DHCPREQUEST of 172.31.69.7 on eth0 to 172.31.69.1 port 67 (xid=0x7e574bc3)
+Feb 14 09:22:33 ip-172-31-69-7 dhclient[945]: DHCPACK of 172.31.69.7 from 172.31.69.1
+Feb 14 09:22:33 ip-172-31-69-7 dhclient[945]: bound to 172.31.69.7 -- renewal in 1657 seconds.
+Feb 14 09:50:10 ip-172-31-69-7 dhclient[945]: DHCPREQUEST of 172.31.69.7 on eth0 to 172.31.69.1 port 67 (xid=0x7e574bc3)
+Feb 14 09:50:10 ip-172-31-69-7 dhclient[945]: DHCPACK of 172.31.69.7 from 172.31.69.1
+Feb 14 09:50:10 ip-172-31-69-7 dhclient[945]: bound to 172.31.69.7 -- renewal in 1381 seconds.
+Feb 14 10:13:11 ip-172-31-69-7 dhclient[945]: DHCPREQUEST of 172.31.69.7 on eth0 to 172.31.69.1 port 67 (xid=0x7e574bc3)
+Feb 14 10:13:11 ip-172-31-69-7 dhclient[945]: DHCPACK of 172.31.69.7 from 172.31.69.1
+Feb 14 10:13:11 ip-172-31-69-7 dhclient[945]: bound to 172.31.69.7 -- renewal in 1376 seconds.
+Feb 14 10:17:01 ip-172-31-69-7 CRON[5215]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 10:36:07 ip-172-31-69-7 dhclient[945]: DHCPREQUEST of 172.31.69.7 on eth0 to 172.31.69.1 port 67 (xid=0x7e574bc3)
+Feb 14 10:36:07 ip-172-31-69-7 dhclient[945]: DHCPACK of 172.31.69.7 from 172.31.69.1
+Feb 14 10:36:07 ip-172-31-69-7 dhclient[945]: bound to 172.31.69.7 -- renewal in 1386 seconds.
+Feb 14 10:59:14 ip-172-31-69-7 dhclient[945]: DHCPREQUEST of 172.31.69.7 on eth0 to 172.31.69.1 port 67 (xid=0x7e574bc3)
+Feb 14 10:59:14 ip-172-31-69-7 dhclient[945]: DHCPACK of 172.31.69.7 from 172.31.69.1
+Feb 14 10:59:14 ip-172-31-69-7 dhclient[945]: bound to 172.31.69.7 -- renewal in 1511 seconds.
+Feb 14 11:17:01 ip-172-31-69-7 CRON[5267]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 11:24:25 ip-172-31-69-7 dhclient[945]: DHCPREQUEST of 172.31.69.7 on eth0 to 172.31.69.1 port 67 (xid=0x7e574bc3)
+Feb 14 11:24:25 ip-172-31-69-7 dhclient[945]: DHCPACK of 172.31.69.7 from 172.31.69.1
+Feb 14 11:24:25 ip-172-31-69-7 dhclient[945]: bound to 172.31.69.7 -- renewal in 1508 seconds.
+Feb 14 11:49:33 ip-172-31-69-7 dhclient[945]: DHCPREQUEST of 172.31.69.7 on eth0 to 172.31.69.1 port 67 (xid=0x7e574bc3)
+Feb 14 11:49:33 ip-172-31-69-7 dhclient[945]: DHCPACK of 172.31.69.7 from 172.31.69.1
+Feb 14 11:49:33 ip-172-31-69-7 dhclient[945]: bound to 172.31.69.7 -- renewal in 1694 seconds.
+Feb 14 12:17:01 ip-172-31-69-7 CRON[5308]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 12:17:47 ip-172-31-69-7 dhclient[945]: DHCPREQUEST of 172.31.69.7 on eth0 to 172.31.69.1 port 67 (xid=0x7e574bc3)
+Feb 14 12:17:47 ip-172-31-69-7 dhclient[945]: DHCPACK of 172.31.69.7 from 172.31.69.1
+Feb 14 12:17:47 ip-172-31-69-7 dhclient[945]: bound to 172.31.69.7 -- renewal in 1541 seconds.
+Feb 14 12:43:28 ip-172-31-69-7 dhclient[945]: DHCPREQUEST of 172.31.69.7 on eth0 to 172.31.69.1 port 67 (xid=0x7e574bc3)
+Feb 14 12:43:28 ip-172-31-69-7 dhclient[945]: DHCPACK of 172.31.69.7 from 172.31.69.1
+Feb 14 12:43:28 ip-172-31-69-7 dhclient[945]: bound to 172.31.69.7 -- renewal in 1727 seconds.
+Feb 14 13:03:13 ip-172-31-69-7 systemd[1]: Starting Daily apt download activities...
+Feb 14 13:03:23 ip-172-31-69-7 systemd[1]: Started Daily apt download activities.
+Feb 14 13:12:15 ip-172-31-69-7 dhclient[945]: DHCPREQUEST of 172.31.69.7 on eth0 to 172.31.69.1 port 67 (xid=0x7e574bc3)
+Feb 14 13:12:15 ip-172-31-69-7 dhclient[945]: DHCPACK of 172.31.69.7 from 172.31.69.1
+Feb 14 13:12:15 ip-172-31-69-7 dhclient[945]: bound to 172.31.69.7 -- renewal in 1676 seconds.
+Feb 14 13:17:01 ip-172-31-69-7 CRON[5629]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 13:40:11 ip-172-31-69-7 dhclient[945]: DHCPREQUEST of 172.31.69.7 on eth0 to 172.31.69.1 port 67 (xid=0x7e574bc3)
+Feb 14 13:40:11 ip-172-31-69-7 dhclient[945]: DHCPACK of 172.31.69.7 from 172.31.69.1
+Feb 14 13:40:11 ip-172-31-69-7 dhclient[945]: bound to 172.31.69.7 -- renewal in 1596 seconds.
+Feb 14 13:47:01 ip-172-31-69-7 CRON[5646]: (root) CMD (nohup tcpdump > /home/ubuntu/capture/dump$(hostname -I) &  )
+Feb 14 14:06:47 ip-172-31-69-7 dhclient[945]: DHCPREQUEST of 172.31.69.7 on eth0 to 172.31.69.1 port 67 (xid=0x7e574bc3)
+Feb 14 14:06:47 ip-172-31-69-7 dhclient[945]: DHCPACK of 172.31.69.7 from 172.31.69.1
+Feb 14 14:06:47 ip-172-31-69-7 dhclient[945]: bound to 172.31.69.7 -- renewal in 1712 seconds.
+Feb 14 14:17:01 ip-172-31-69-7 CRON[5666]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 14:35:19 ip-172-31-69-7 dhclient[945]: DHCPREQUEST of 172.31.69.7 on eth0 to 172.31.69.1 port 67 (xid=0x7e574bc3)
+Feb 14 14:35:19 ip-172-31-69-7 dhclient[945]: DHCPACK of 172.31.69.7 from 172.31.69.1
+Feb 14 14:35:19 ip-172-31-69-7 dhclient[945]: bound to 172.31.69.7 -- renewal in 1609 seconds.
+Feb 14 15:02:08 ip-172-31-69-7 dhclient[945]: DHCPREQUEST of 172.31.69.7 on eth0 to 172.31.69.1 port 67 (xid=0x7e574bc3)
+Feb 14 15:02:08 ip-172-31-69-7 dhclient[945]: DHCPACK of 172.31.69.7 from 172.31.69.1
+Feb 14 15:02:08 ip-172-31-69-7 dhclient[945]: bound to 172.31.69.7 -- renewal in 1457 seconds.
+Feb 14 15:17:01 ip-172-31-69-7 CRON[5705]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 15:26:25 ip-172-31-69-7 dhclient[945]: DHCPREQUEST of 172.31.69.7 on eth0 to 172.31.69.1 port 67 (xid=0x7e574bc3)
+Feb 14 15:26:25 ip-172-31-69-7 dhclient[945]: DHCPACK of 172.31.69.7 from 172.31.69.1
+Feb 14 15:26:25 ip-172-31-69-7 dhclient[945]: bound to 172.31.69.7 -- renewal in 1681 seconds.
+Feb 14 15:54:26 ip-172-31-69-7 dhclient[945]: DHCPREQUEST of 172.31.69.7 on eth0 to 172.31.69.1 port 67 (xid=0x7e574bc3)
+Feb 14 15:54:26 ip-172-31-69-7 dhclient[945]: DHCPACK of 172.31.69.7 from 172.31.69.1
+Feb 14 15:54:26 ip-172-31-69-7 dhclient[945]: bound to 172.31.69.7 -- renewal in 1721 seconds.
+Feb 14 16:17:01 ip-172-31-69-7 CRON[5740]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 16:23:07 ip-172-31-69-7 dhclient[945]: DHCPREQUEST of 172.31.69.7 on eth0 to 172.31.69.1 port 67 (xid=0x7e574bc3)
+Feb 14 16:23:07 ip-172-31-69-7 dhclient[945]: DHCPACK of 172.31.69.7 from 172.31.69.1
+Feb 14 16:23:07 ip-172-31-69-7 dhclient[945]: bound to 172.31.69.7 -- renewal in 1395 seconds.
+Feb 14 16:46:22 ip-172-31-69-7 dhclient[945]: DHCPREQUEST of 172.31.69.7 on eth0 to 172.31.69.1 port 67 (xid=0x7e574bc3)
+Feb 14 16:46:22 ip-172-31-69-7 dhclient[945]: DHCPACK of 172.31.69.7 from 172.31.69.1
+Feb 14 16:46:22 ip-172-31-69-7 dhclient[945]: bound to 172.31.69.7 -- renewal in 1682 seconds.
+Feb 14 17:14:24 ip-172-31-69-7 dhclient[945]: DHCPREQUEST of 172.31.69.7 on eth0 to 172.31.69.1 port 67 (xid=0x7e574bc3)
+Feb 14 17:14:24 ip-172-31-69-7 dhclient[945]: DHCPACK of 172.31.69.7 from 172.31.69.1
+Feb 14 17:14:24 ip-172-31-69-7 dhclient[945]: bound to 172.31.69.7 -- renewal in 1508 seconds.
+Feb 14 17:17:01 ip-172-31-69-7 CRON[5791]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 06:27:59 ip-172-31-69-25 systemd[1]: Starting Daily apt upgrade and clean activities...
+Feb 14 06:28:02 ip-172-31-69-25 systemd[1]: Started Daily apt upgrade and clean activities.
+Feb 14 06:38:33 ip-172-31-69-25 dhclient[980]: DHCPREQUEST of 172.31.69.25 on eth0 to 172.31.69.1 port 67 (xid=0x3ece8b74)
+Feb 14 06:38:33 ip-172-31-69-25 dhclient[980]: DHCPACK of 172.31.69.25 from 172.31.69.1
+Feb 14 06:38:33 ip-172-31-69-25 dhclient[980]: bound to 172.31.69.25 -- renewal in 1464 seconds.
+Feb 14 06:39:01 ip-172-31-69-25 CRON[30322]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Feb 14 07:02:57 ip-172-31-69-25 dhclient[980]: DHCPREQUEST of 172.31.69.25 on eth0 to 172.31.69.1 port 67 (xid=0x3ece8b74)
+Feb 14 07:02:57 ip-172-31-69-25 dhclient[980]: DHCPACK of 172.31.69.25 from 172.31.69.1
+Feb 14 07:02:57 ip-172-31-69-25 dhclient[980]: bound to 172.31.69.25 -- renewal in 1397 seconds.
+Feb 14 07:09:01 ip-172-31-69-25 CRON[30421]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Feb 14 07:17:01 ip-172-31-69-25 CRON[30506]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 07:26:14 ip-172-31-69-25 dhclient[980]: DHCPREQUEST of 172.31.69.25 on eth0 to 172.31.69.1 port 67 (xid=0x3ece8b74)
+Feb 14 07:26:14 ip-172-31-69-25 dhclient[980]: DHCPACK of 172.31.69.25 from 172.31.69.1
+Feb 14 07:26:14 ip-172-31-69-25 dhclient[980]: bound to 172.31.69.25 -- renewal in 1712 seconds.
+Feb 14 07:35:39 ip-172-31-69-25 systemd[1]: Starting Daily apt download activities...
+Feb 14 07:35:46 ip-172-31-69-25 systemd[1]: Started Daily apt download activities.
+Feb 14 07:39:01 ip-172-31-69-25 CRON[30838]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Feb 14 07:54:46 ip-172-31-69-25 dhclient[980]: DHCPREQUEST of 172.31.69.25 on eth0 to 172.31.69.1 port 67 (xid=0x3ece8b74)
+Feb 14 07:54:46 ip-172-31-69-25 dhclient[980]: DHCPACK of 172.31.69.25 from 172.31.69.1
+Feb 14 07:54:46 ip-172-31-69-25 dhclient[980]: bound to 172.31.69.25 -- renewal in 1564 seconds.
+Feb 14 08:09:01 ip-172-31-69-25 CRON[30935]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Feb 14 08:17:01 ip-172-31-69-25 CRON[31020]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 08:20:50 ip-172-31-69-25 dhclient[980]: DHCPREQUEST of 172.31.69.25 on eth0 to 172.31.69.1 port 67 (xid=0x3ece8b74)
+Feb 14 08:20:50 ip-172-31-69-25 dhclient[980]: DHCPACK of 172.31.69.25 from 172.31.69.1
+Feb 14 08:20:50 ip-172-31-69-25 dhclient[980]: bound to 172.31.69.25 -- renewal in 1387 seconds.
+Feb 14 08:39:01 ip-172-31-69-25 CRON[31035]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Feb 14 08:43:57 ip-172-31-69-25 dhclient[980]: DHCPREQUEST of 172.31.69.25 on eth0 to 172.31.69.1 port 67 (xid=0x3ece8b74)
+Feb 14 08:43:57 ip-172-31-69-25 dhclient[980]: DHCPACK of 172.31.69.25 from 172.31.69.1
+Feb 14 08:43:57 ip-172-31-69-25 dhclient[980]: bound to 172.31.69.25 -- renewal in 1414 seconds.
+Feb 14 09:07:31 ip-172-31-69-25 dhclient[980]: DHCPREQUEST of 172.31.69.25 on eth0 to 172.31.69.1 port 67 (xid=0x3ece8b74)
+Feb 14 09:07:31 ip-172-31-69-25 dhclient[980]: DHCPACK of 172.31.69.25 from 172.31.69.1
+Feb 14 09:07:31 ip-172-31-69-25 dhclient[980]: bound to 172.31.69.25 -- renewal in 1386 seconds.
+Feb 14 09:09:01 ip-172-31-69-25 CRON[31146]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Feb 14 09:17:01 ip-172-31-69-25 CRON[31231]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 09:30:37 ip-172-31-69-25 dhclient[980]: DHCPREQUEST of 172.31.69.25 on eth0 to 172.31.69.1 port 67 (xid=0x3ece8b74)
+Feb 14 09:30:37 ip-172-31-69-25 dhclient[980]: DHCPACK of 172.31.69.25 from 172.31.69.1
+Feb 14 09:30:37 ip-172-31-69-25 dhclient[980]: bound to 172.31.69.25 -- renewal in 1791 seconds.
+Feb 14 09:39:01 ip-172-31-69-25 CRON[31248]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Feb 14 10:00:28 ip-172-31-69-25 dhclient[980]: DHCPREQUEST of 172.31.69.25 on eth0 to 172.31.69.1 port 67 (xid=0x3ece8b74)
+Feb 14 10:00:28 ip-172-31-69-25 dhclient[980]: DHCPACK of 172.31.69.25 from 172.31.69.1
+Feb 14 10:00:28 ip-172-31-69-25 dhclient[980]: bound to 172.31.69.25 -- renewal in 1604 seconds.
+Feb 14 10:09:01 ip-172-31-69-25 CRON[31347]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Feb 14 10:13:10 ip-172-31-69-25 systemd[1]: Starting Daily apt upgrade and clean activities...
+Feb 14 10:13:10 ip-172-31-69-25 systemd[1]: Started Daily apt upgrade and clean activities.
+Feb 14 10:17:01 ip-172-31-69-25 CRON[31491]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 10:27:12 ip-172-31-69-25 dhclient[980]: DHCPREQUEST of 172.31.69.25 on eth0 to 172.31.69.1 port 67 (xid=0x3ece8b74)
+Feb 14 10:27:12 ip-172-31-69-25 dhclient[980]: DHCPACK of 172.31.69.25 from 172.31.69.1
+Feb 14 10:27:12 ip-172-31-69-25 dhclient[980]: bound to 172.31.69.25 -- renewal in 1734 seconds.
+Feb 14 10:39:01 ip-172-31-69-25 CRON[31508]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Feb 14 10:56:06 ip-172-31-69-25 dhclient[980]: DHCPREQUEST of 172.31.69.25 on eth0 to 172.31.69.1 port 67 (xid=0x3ece8b74)
+Feb 14 10:56:06 ip-172-31-69-25 dhclient[980]: DHCPACK of 172.31.69.25 from 172.31.69.1
+Feb 14 10:56:06 ip-172-31-69-25 dhclient[980]: bound to 172.31.69.25 -- renewal in 1559 seconds.
+Feb 14 11:09:01 ip-172-31-69-25 CRON[31605]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Feb 14 11:17:01 ip-172-31-69-25 CRON[31694]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 11:22:05 ip-172-31-69-25 dhclient[980]: DHCPREQUEST of 172.31.69.25 on eth0 to 172.31.69.1 port 67 (xid=0x3ece8b74)
+Feb 14 11:22:05 ip-172-31-69-25 dhclient[980]: DHCPACK of 172.31.69.25 from 172.31.69.1
+Feb 14 11:22:06 ip-172-31-69-25 dhclient[980]: bound to 172.31.69.25 -- renewal in 1568 seconds.
+Feb 14 11:39:01 ip-172-31-69-25 CRON[31711]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Feb 14 11:48:14 ip-172-31-69-25 dhclient[980]: DHCPREQUEST of 172.31.69.25 on eth0 to 172.31.69.1 port 67 (xid=0x3ece8b74)
+Feb 14 11:48:14 ip-172-31-69-25 dhclient[980]: DHCPACK of 172.31.69.25 from 172.31.69.1
+Feb 14 11:48:14 ip-172-31-69-25 dhclient[980]: bound to 172.31.69.25 -- renewal in 1366 seconds.
+Feb 14 12:09:01 ip-172-31-69-25 CRON[31808]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Feb 14 12:11:00 ip-172-31-69-25 dhclient[980]: DHCPREQUEST of 172.31.69.25 on eth0 to 172.31.69.1 port 67 (xid=0x3ece8b74)
+Feb 14 12:11:00 ip-172-31-69-25 dhclient[980]: DHCPACK of 172.31.69.25 from 172.31.69.1
+Feb 14 12:11:00 ip-172-31-69-25 dhclient[980]: bound to 172.31.69.25 -- renewal in 1393 seconds.
+Feb 14 12:17:01 ip-172-31-69-25 CRON[31915]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 12:28:01 ip-172-31-69-25 systemd[1]: Received SIGINT.
+Feb 14 12:28:01 ip-172-31-69-25 systemd[1]: Stopped target Cloud-init target.
+Feb 14 12:28:01 ip-172-31-69-25 systemd[1]: Stopping Session 72 of user ubuntu.
+Feb 14 12:28:01 ip-172-31-69-25 systemd[1]: Closed Load/Save RF Kill Switch Status /dev/rfkill Watch.
+Feb 14 12:28:01 ip-172-31-69-25 systemd[1]: Stopping User Manager for UID 1000...
+Feb 14 12:28:01 ip-172-31-69-25 systemd[5495]: Reached target Shutdown.
+Feb 14 12:28:01 ip-172-31-69-25 systemd[5495]: Starting Exit the Session...
+Feb 14 12:28:01 ip-172-31-69-25 systemd[5495]: Stopped target Default.
+Feb 14 12:28:01 ip-172-31-69-25 systemd[5495]: Stopped target Basic System.
+Feb 14 12:28:01 ip-172-31-69-25 systemd[5495]: Stopped target Paths.
+Feb 14 12:28:01 ip-172-31-69-25 systemd[5495]: Stopped target Timers.
+Feb 14 12:28:01 ip-172-31-69-25 systemd[5495]: Stopped target Sockets.
+Feb 14 12:28:01 ip-172-31-69-25 systemd[1]: Stopping Authenticate and Authorize Users to Run Privileged Tasks...
+Feb 14 12:28:01 ip-172-31-69-25 systemd[5495]: Received SIGRTMIN+24 from PID 31920 (kill).
+Feb 14 12:28:01 ip-172-31-69-25 systemd[1]: Stopped Execute cloud user/final scripts.
+Feb 14 12:28:01 ip-172-31-69-25 systemd[1]: Stopped target Timers.
+Feb 14 12:28:01 ip-172-31-69-25 systemd[1]: Stopped Timer to automatically refresh installed snaps.
+Feb 14 12:28:01 ip-172-31-69-25 systemd[1]: Stopped Daily Cleanup of Temporary Directories.
+Feb 14 12:28:01 ip-172-31-69-25 systemd[1]: Stopped target Graphical Interface.
+Feb 14 12:28:01 ip-172-31-69-25 systemd[1]: Stopping Accounts Service...
+Feb 14 12:28:01 ip-172-31-69-25 systemd[1]: Stopped target Multi-User System.
+Feb 14 12:28:01 ip-172-31-69-25 systemd[1]: Stopped target Login Prompts.
+Feb 14 12:28:01 ip-172-31-69-25 systemd[1]: Stopping Serial Getty on ttyS0...
+Feb 14 12:28:01 ip-172-31-69-25 systemd[1]: Stopping Getty on tty1...
+Feb 14 12:28:01 ip-172-31-69-25 systemd[1]: Stopping LXD - container startup/shutdown...
+Feb 14 12:28:01 ip-172-31-69-25 systemd[1]: Stopping Regular background program processing daemon...
+Feb 14 12:28:01 ip-172-31-69-25 systemd[1]: Stopping LSB: MD monitoring daemon...
+Feb 14 12:28:01 ip-172-31-69-25 systemd[1]: Stopping Deferred execution scheduler...
+Feb 14 12:28:01 ip-172-31-69-25 systemd[1]: Stopping OpenBSD Secure Shell server...
+Feb 14 12:28:01 ip-172-31-69-25 systemd[1]: Stopping LSB: automatic crash report generation...
+Feb 14 12:28:01 ip-172-31-69-25 systemd[1]: Stopping FUSE filesystem for LXC...
+Feb 14 12:28:01 ip-172-31-69-25 systemd[1]: Stopping The PHP 7.0 FastCGI Process Manager...
+Feb 14 12:28:01 ip-172-31-69-25 systemd[1]: Stopping D-Bus System Message Bus...
+Feb 14 12:28:01 ip-172-31-69-25 systemd[1]: Stopping Snappy daemon...
+Feb 14 12:28:01 ip-172-31-69-25 snapd[1152]: 2018/02/14 12:28:01.358314 main.go:78: Exiting on terminated signal.
+Feb 14 12:28:01 ip-172-31-69-25 systemd[1]: Stopping LSB: Apache2 web server...
+Feb 14 06:25:02 ip-172-31-69-25 rsyslogd: [origin software="rsyslogd" swVersion="8.16.0" x-pid="1122" x-info="http://www.rsyslog.com"] rsyslogd was HUPed
+Feb 14 12:28:01 ip-172-31-69-25 rsyslogd: [origin software="rsyslogd" swVersion="8.16.0" x-pid="1122" x-info="http://www.rsyslog.com"] exiting on signal 15.
+Feb 14 08:28:34 ip-172-31-69-25 rsyslogd: [origin software="rsyslogd" swVersion="8.16.0" x-pid="1125" x-info="http://www.rsyslog.com"] start
+Feb 14 08:28:34 ip-172-31-69-25 rsyslogd-2222: command 'KLogPermitNonKernelFacility' is currently not permitted - did you already set it via a RainerScript command (v6+ config)? [v8.16.0 try http://www.rsyslog.com/e/2222 ]
+Feb 14 08:28:34 ip-172-31-69-25 rsyslogd: rsyslogd's groupid changed to 108
+Feb 14 08:28:34 ip-172-31-69-25 rsyslogd: rsyslogd's userid changed to 104
+Feb 14 08:28:34 ip-172-31-69-25 rsyslogd-2039: Could not open output pipe '/dev/xconsole':: No such file or directory [v8.16.0 try http://www.rsyslog.com/e/2039 ]
+Feb 14 08:28:34 ip-172-31-69-25 rsyslogd-2007: action 'action 11' suspended, next retry is Wed Feb 14 08:29:04 2018 [v8.16.0 try http://www.rsyslog.com/e/2007 ]
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] Initializing cgroup subsys cpuset
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] Initializing cgroup subsys cpu
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] Initializing cgroup subsys cpuacct
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] Linux version 4.4.0-1049-aws (buildd@lcy01-amd64-001) (gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.5) ) #58-Ubuntu SMP Fri Jan 12 23:17:09 UTC 2018 (Ubuntu 4.4.0-1049.58-aws 4.4.98)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] Command line: BOOT_IMAGE=/boot/vmlinuz-4.4.0-1049-aws root=UUID=ccee1a8d-0785-4b3a-a578-812d59f5d3e1 ro console=tty1 console=ttyS0 nvme.io_timeout=4294967295
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] KERNEL supported cpus:
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000]   Intel GenuineIntel
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000]   AMD AuthenticAMD
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000]   Centaur CentaurHauls
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] x86/fpu: xstate_offset[2]:  576, xstate_sizes[2]:  256
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] x86/fpu: Supporting XSAVE feature 0x01: 'x87 floating point registers'
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] x86/fpu: Supporting XSAVE feature 0x02: 'SSE registers'
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] x86/fpu: Supporting XSAVE feature 0x04: 'AVX registers'
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] x86/fpu: Enabled xstate features 0x7, context size is 832 bytes, using 'standard' format.
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] x86/fpu: Using 'eager' FPU context switches.
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] e820: BIOS-provided physical RAM map:
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] BIOS-e820: [mem 0x0000000000000000-0x000000000009dfff] usable
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] BIOS-e820: [mem 0x000000000009e000-0x000000000009ffff] reserved
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] BIOS-e820: [mem 0x00000000000e0000-0x00000000000fffff] reserved
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] BIOS-e820: [mem 0x0000000000100000-0x000000003fffffff] usable
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] BIOS-e820: [mem 0x00000000fc000000-0x00000000ffffffff] reserved
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] NX (Execute Disable) protection: active
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] SMBIOS 2.7 present.
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] DMI: Xen HVM domU, BIOS 4.2.amazon 08/24/2006
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] Hypervisor detected: Xen
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] Xen version 4.2.
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] Xen Platform PCI: I/O protocol version 1
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] Netfront and the Xen platform PCI driver have been compiled for this kernel: unplug emulated NICs.
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] Blkfront and the Xen platform PCI driver have been compiled for this kernel: unplug emulated disks.
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] You might have to change the root device
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] from /dev/hd[a-d] to /dev/xvd[a-d]
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] in your root= kernel command line option
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] HVMOP_pagetable_dying not supported
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] e820: update [mem 0x00000000-0x00000fff] usable ==> reserved
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] e820: remove [mem 0x000a0000-0x000fffff] usable
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] e820: last_pfn = 0x40000 max_arch_pfn = 0x400000000
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] MTRR default type: write-back
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] MTRR fixed ranges enabled:
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000]   00000-9FFFF write-back
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000]   A0000-BFFFF write-combining
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000]   C0000-FFFFF write-back
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] MTRR variable ranges enabled:
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000]   0 base 0000F0000000 mask 3FFFF8000000 uncachable
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000]   1 base 0000F8000000 mask 3FFFFC000000 uncachable
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000]   2 disabled
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000]   3 disabled
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000]   4 disabled
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000]   5 disabled
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000]   6 disabled
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000]   7 disabled
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] x86/PAT: Configuration [0-7]: WB  WC  UC- UC  WB  WC  UC- WT  
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] found SMP MP-table at [mem 0x000fbc20-0x000fbc2f] mapped at [ffff8800000fbc20]
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] Scanning 1 areas for low memory corruption
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] Base memory trampoline at [ffff880000098000] 98000 size 24576
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] BRK [0x02201000, 0x02201fff] PGTABLE
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] BRK [0x02202000, 0x02202fff] PGTABLE
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] BRK [0x02203000, 0x02203fff] PGTABLE
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] RAMDISK: [mem 0x367e6000-0x373eafff]
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] ACPI: Early table checksum verification disabled
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] ACPI: RSDP 0x00000000000EA020 000024 (v02 Xen   )
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] ACPI: XSDT 0x00000000FC00DDC0 000054 (v01 Xen    HVM      00000000 HVML 00000000)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] ACPI: FACP 0x00000000FC00DA80 0000F4 (v04 Xen    HVM      00000000 HVML 00000000)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] ACPI: DSDT 0x00000000FC001CE0 00BD19 (v02 Xen    HVM      00000000 INTL 20090123)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] ACPI: FACS 0x00000000FC001CA0 000040
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] ACPI: FACS 0x00000000FC001CA0 000040
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] ACPI: APIC 0x00000000FC00DB80 0000D8 (v02 Xen    HVM      00000000 HVML 00000000)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] ACPI: HPET 0x00000000FC00DCD0 000038 (v01 Xen    HVM      00000000 HVML 00000000)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] ACPI: WAET 0x00000000FC00DD10 000028 (v01 Xen    HVM      00000000 HVML 00000000)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] ACPI: SSDT 0x00000000FC00DD40 000031 (v02 Xen    HVM      00000000 INTL 20090123)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] ACPI: SSDT 0x00000000FC00DD80 000031 (v02 Xen    HVM      00000000 INTL 20090123)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] No NUMA configuration found
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] Faking a node at [mem 0x0000000000000000-0x000000003fffffff]
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] NODE_DATA(0) allocated [mem 0x3fffb000-0x3fffffff]
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] Zone ranges:
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000]   DMA      [mem 0x0000000000001000-0x0000000000ffffff]
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000]   DMA32    [mem 0x0000000001000000-0x000000003fffffff]
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000]   Normal   empty
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000]   Device   empty
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] Movable zone start for each node
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] Early memory node ranges
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000]   node   0: [mem 0x0000000000001000-0x000000000009dfff]
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000]   node   0: [mem 0x0000000000100000-0x000000003fffffff]
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] Initmem setup node 0 [mem 0x0000000000001000-0x000000003fffffff]
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] On node 0 totalpages: 262045
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000]   DMA zone: 64 pages used for memmap
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000]   DMA zone: 21 pages reserved
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000]   DMA zone: 3997 pages, LIFO batch:0
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000]   DMA32 zone: 4032 pages used for memmap
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000]   DMA32 zone: 258048 pages, LIFO batch:31
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] ACPI: PM-Timer IO Port: 0xb008
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] ACPI: Local APIC address 0xfee00000
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] IOAPIC[0]: apic_id 1, version 17, address 0xfec00000, GSI 0-47
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 5 global_irq 5 low level)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 10 global_irq 10 low level)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 11 global_irq 11 low level)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] ACPI: IRQ0 used by override.
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] ACPI: IRQ5 used by override.
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] ACPI: IRQ9 used by override.
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] ACPI: IRQ10 used by override.
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] ACPI: IRQ11 used by override.
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] Using ACPI (MADT) for SMP configuration information
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] ACPI: HPET id: 0x8086a201 base: 0xfed00000
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] smpboot: Allowing 15 CPUs, 14 hotplug CPUs
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] PM: Registered nosave memory: [mem 0x00000000-0x00000fff]
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] PM: Registered nosave memory: [mem 0x0009e000-0x0009ffff]
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] PM: Registered nosave memory: [mem 0x000a0000-0x000dffff]
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] PM: Registered nosave memory: [mem 0x000e0000-0x000fffff]
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] e820: [mem 0x40000000-0xfbffffff] available for PCI devices
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] Booting paravirtualized kernel on Xen HVM
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] clocksource: refined-jiffies: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 7645519600211568 ns
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] setup_percpu: NR_CPUS:256 nr_cpumask_bits:256 nr_cpu_ids:15 nr_node_ids:1
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] PERCPU: Embedded 34 pages/cpu @ffff88003e200000 s99160 r8192 d31912 u262144
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] pcpu-alloc: s99160 r8192 d31912 u262144 alloc=1*2097152
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] pcpu-alloc: [0] 00 01 02 03 04 05 06 07 [0] 08 09 10 11 12 13 14 -- 
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] xen: PV spinlocks enabled
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] PV qspinlock hash table entries: 256 (order: 0, 4096 bytes)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] Built 1 zonelists in Node order, mobility grouping on.  Total pages: 257928
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] Policy zone: DMA32
+Feb 14 08:28:34 ip-172-31-69-25 systemd-modules-load[396]: Inserted module 'iscsi_tcp'
+Feb 14 08:28:34 ip-172-31-69-25 loadkeys[389]: Loading /etc/console-setup/cached.kmap.gz
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started Uncomplicated firewall.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started Remount Root and Kernel File Systems.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started Set console keymap.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started Create list of required static device nodes for the current kernel.
+Feb 14 08:28:34 ip-172-31-69-25 systemd-modules-load[396]: Inserted module 'ib_iser'
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started Nameserver information manager.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started Load Kernel Modules.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started LVM2 metadata daemon.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Starting Apply Kernel Variables...
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Mounting FUSE Control File System...
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Starting Create Static Device Nodes in /dev...
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Starting Initial cloud-init job (pre-networking)...
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Starting udev Coldplug all Devices...
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Starting Load/Save Random Seed...
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Starting Flush Journal to Persistent Storage...
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Mounted FUSE Control File System.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started Apply Kernel Variables.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started Create Static Device Nodes in /dev.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started Load/Save Random Seed.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Starting udev Kernel Device Manager...
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started Flush Journal to Persistent Storage.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started udev Coldplug all Devices.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started udev Kernel Device Manager.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started Dispatch Password Requests to Console Directory Watch.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started Monitoring of LVM2 mirrors, snapshots etc. using dmeventd or progress polling.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Reached target Local File Systems (Pre).
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Reached target Local File Systems.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Starting Set console font and keymap...
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Starting LSB: AppArmor initialization...
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Starting Create Volatile Files and Directories...
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Starting Tell Plymouth To Write Out Runtime Data...
+Feb 14 08:28:34 ip-172-31-69-25 systemd-tmpfiles[495]: [/usr/lib/tmpfiles.d/var.conf:14] Duplicate line for path "/var/log", ignoring.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started Create Volatile Files and Directories.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started Tell Plymouth To Write Out Runtime Data.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Found device /dev/ttyS0.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Starting Update UTMP about System Boot/Shutdown...
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Starting Network Time Synchronization...
+Feb 14 08:28:34 ip-172-31-69-25 apparmor[489]:  * Starting AppArmor profiles
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started Update UTMP about System Boot/Shutdown.
+Feb 14 08:28:34 ip-172-31-69-25 apparmor[489]: Skipping profile in /etc/apparmor.d/disable: usr.sbin.rsyslogd
+Feb 14 08:28:34 ip-172-31-69-25 apparmor[489]:    ...done.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started LSB: AppArmor initialization.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started Network Time Synchronization.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Reached target System Time Synchronized.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Found device /sys/subsystem/net/devices/eth0.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Listening on Load/Save RF Kill Switch Status /dev/rfkill Watch.
+Feb 14 08:28:34 ip-172-31-69-25 dhclient[818]: Internet Systems Consortium DHCP Client 4.3.3
+Feb 14 08:28:34 ip-172-31-69-25 dhclient[818]: Copyright 2004-2015 Internet Systems Consortium.
+Feb 14 08:28:34 ip-172-31-69-25 dhclient[818]: All rights reserved.
+Feb 14 08:28:34 ip-172-31-69-25 dhclient[818]: For info, please visit https://www.isc.org/software/dhcp/
+Feb 14 08:28:34 ip-172-31-69-25 dhclient[818]: 
+Feb 14 08:28:34 ip-172-31-69-25 dhclient[818]: Listening on LPF/eth0/02:d8:a9:4e:38:42
+Feb 14 08:28:34 ip-172-31-69-25 dhclient[818]: Sending on   LPF/eth0/02:d8:a9:4e:38:42
+Feb 14 08:28:34 ip-172-31-69-25 dhclient[818]: Sending on   Socket/fallback
+Feb 14 08:28:34 ip-172-31-69-25 dhclient[818]: DHCPDISCOVER on eth0 to 255.255.255.255 port 67 interval 3 (xid=0x8952d759)
+Feb 14 08:28:34 ip-172-31-69-25 dhclient[818]: DHCPREQUEST of 172.31.69.25 on eth0 to 255.255.255.255 port 67 (xid=0x59d75289)
+Feb 14 08:28:34 ip-172-31-69-25 dhclient[818]: DHCPOFFER of 172.31.69.25 from 172.31.69.1
+Feb 14 08:28:34 ip-172-31-69-25 dhclient[818]: DHCPACK of 172.31.69.25 from 172.31.69.1
+Feb 14 08:28:34 ip-172-31-69-25 dhclient[818]: bound to 172.31.69.25 -- renewal in 1492 seconds.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started Set console font and keymap.
+Feb 14 08:28:34 ip-172-31-69-25 cloud-init[453]: Cloud-init v. 17.1 running 'init-local' at Wed, 14 Feb 2018 12:28:31 +0000. Up 5.49 seconds.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started Initial cloud-init job (pre-networking).
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Reached target Network (Pre).
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Starting Raise network interfaces...
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started ifup for eth0.
+Feb 14 08:28:34 ip-172-31-69-25 dhclient[897]: Internet Systems Consortium DHCP Client 4.3.3
+Feb 14 08:28:34 ip-172-31-69-25 sh[882]: Internet Systems Consortium DHCP Client 4.3.3
+Feb 14 08:28:34 ip-172-31-69-25 dhclient[897]: Copyright 2004-2015 Internet Systems Consortium.
+Feb 14 08:28:34 ip-172-31-69-25 sh[882]: Copyright 2004-2015 Internet Systems Consortium.
+Feb 14 08:28:34 ip-172-31-69-25 dhclient[897]: All rights reserved.
+Feb 14 08:28:34 ip-172-31-69-25 sh[882]: All rights reserved.
+Feb 14 08:28:34 ip-172-31-69-25 dhclient[897]: For info, please visit https://www.isc.org/software/dhcp/
+Feb 14 08:28:34 ip-172-31-69-25 sh[882]: For info, please visit https://www.isc.org/software/dhcp/
+Feb 14 08:28:34 ip-172-31-69-25 dhclient[897]: 
+Feb 14 08:28:34 ip-172-31-69-25 dhclient[897]: Listening on LPF/eth0/02:d8:a9:4e:38:42
+Feb 14 08:28:34 ip-172-31-69-25 sh[882]: Listening on LPF/eth0/02:d8:a9:4e:38:42
+Feb 14 08:28:34 ip-172-31-69-25 sh[882]: Sending on   LPF/eth0/02:d8:a9:4e:38:42
+Feb 14 08:28:34 ip-172-31-69-25 sh[882]: Sending on   Socket/fallback
+Feb 14 08:28:34 ip-172-31-69-25 sh[882]: DHCPDISCOVER on eth0 to 255.255.255.255 port 67 interval 3 (xid=0x5f57626f)
+Feb 14 08:28:34 ip-172-31-69-25 dhclient[897]: Sending on   LPF/eth0/02:d8:a9:4e:38:42
+Feb 14 08:28:34 ip-172-31-69-25 dhclient[897]: Sending on   Socket/fallback
+Feb 14 08:28:34 ip-172-31-69-25 dhclient[897]: DHCPDISCOVER on eth0 to 255.255.255.255 port 67 interval 3 (xid=0x5f57626f)
+Feb 14 08:28:34 ip-172-31-69-25 dhclient[897]: DHCPREQUEST of 172.31.69.25 on eth0 to 255.255.255.255 port 67 (xid=0x6f62575f)
+Feb 14 08:28:34 ip-172-31-69-25 sh[882]: DHCPREQUEST of 172.31.69.25 on eth0 to 255.255.255.255 port 67 (xid=0x6f62575f)
+Feb 14 08:28:34 ip-172-31-69-25 sh[882]: DHCPOFFER of 172.31.69.25 from 172.31.69.1
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] Kernel command line: BOOT_IMAGE=/boot/vmlinuz-4.4.0-1049-aws root=UUID=ccee1a8d-0785-4b3a-a578-812d59f5d3e1 ro console=tty1 console=ttyS0 nvme.io_timeout=4294967295
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] PID hash table entries: 4096 (order: 3, 32768 bytes)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] Calgary: detecting Calgary via BIOS EBDA area
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] Calgary: Unable to locate Rio Grande table in EBDA - bailing!
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] Memory: 998628K/1048180K available (8320K kernel code, 1276K rwdata, 3872K rodata, 1484K init, 1288K bss, 49552K reserved, 0K cma-reserved)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] SLUB: HWalign=64, Order=0-3, MinObjects=0, CPUs=15, Nodes=1
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] Kernel/User page tables isolation: enabled
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] Hierarchical RCU implementation.
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] 	Build-time adjustment of leaf fanout to 64.
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] 	RCU restricting CPUs from NR_CPUS=256 to nr_cpu_ids=15.
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] RCU: Adjusting geometry for rcu_fanout_leaf=64, nr_cpu_ids=15
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] NR_IRQS:16640 nr_irqs:952 16
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] xen:events: Using 2-level ABI
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] xen:events: Xen HVM callback vector for event delivery is enabled
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] Console: colour VGA+ 80x25
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] console [tty1] enabled
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] Cannot get hvm parameter CONSOLE_EVTCHN (18): -22!
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] console [ttyS0] enabled
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] clocksource: hpet: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 30580167144 ns
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] hpet clockevent registered
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.000000] tsc: Detected 2400.050 MHz processor
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.008000] Calibrating delay loop (skipped), value calculated using timer frequency.. 4800.10 BogoMIPS (lpj=9600200)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.012003] pid_max: default: 32768 minimum: 301
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.014689] ACPI: Core revision 20150930
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.023726] ACPI: 3 ACPI AML tables successfully acquired and loaded
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.026984] Security Framework initialized
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.028004] Yama: becoming mindful.
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.032026] AppArmor: AppArmor initialized
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.034562] Dentry cache hash table entries: 131072 (order: 8, 1048576 bytes)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.036178] Inode-cache hash table entries: 65536 (order: 7, 524288 bytes)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.040095] Mount-cache hash table entries: 2048 (order: 2, 16384 bytes)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.048007] Mountpoint-cache hash table entries: 2048 (order: 2, 16384 bytes)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.052189] Initializing cgroup subsys io
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.054605] Initializing cgroup subsys memory
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.056014] Initializing cgroup subsys devices
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.060007] Initializing cgroup subsys freezer
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.062802] Initializing cgroup subsys net_cls
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.064004] Initializing cgroup subsys perf_event
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.068009] Initializing cgroup subsys net_prio
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.070602] Initializing cgroup subsys hugetlb
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.072006] Initializing cgroup subsys pids
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.076067] CPU: Physical Processor ID: 0
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.078602] FEATURE SPEC_CTRL Not Present
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.080776] mce: CPU supports 2 MCE banks
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.084023] Last level iTLB entries: 4KB 1024, 2MB 1024, 4MB 1024
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.088005] Last level dTLB entries: 4KB 1024, 2MB 1024, 4MB 1024, 1GB 4
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.108479] ftrace: allocating 31285 entries in 123 pages
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.136093] smpboot: APIC(0) Converting physical 0 to logical package 0
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.140003] smpboot: Max logical packages: 15
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.144600] x2apic: IRQ remapping doesn't support X2APIC mode
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.148005] Switched APIC routing to physical flat.
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.154070] ..TIMER: vector=0x30 apic1=0 pin1=2 apic2=0 pin2=0
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.156005] clocksource: xen: mask: 0xffffffffffffffff max_cycles: 0x1cd42e4dffb, max_idle_ns: 881590591483 ns
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.160009] Xen: using vcpuop timer interface
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.160016] installing Xen timer for CPU 0
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.164069] smpboot: CPU0: Intel(R) Xeon(R) CPU E5-2676 v3 @ 2.40GHz (family: 0x6, model: 0x3f, stepping: 0x2)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.169335] cpu 0 spinlock event irq 53
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.171634] Performance Events: unsupported p6 CPU model 63 no PMU driver, software events only.
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.176507] x86: Booted up 1 node, 1 CPUs
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.178946] smpboot: Total of 1 processors activated (4800.10 BogoMIPS)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.180012] NMI watchdog: disabled (cpu0): hardware events not enabled
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.183470] NMI watchdog: Shutting down hard lockup detector on all cpus
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.184349] devtmpfs: initialized
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.187831] evm: security.selinux
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.188007] evm: security.SMACK64
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.190110] evm: security.SMACK64EXEC
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.192004] evm: security.SMACK64TRANSMUTE
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.194498] evm: security.SMACK64MMAP
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.196007] evm: security.ima
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.197948] evm: security.capability
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.200153] clocksource: jiffies: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 7645041785100000 ns
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.204039] futex hash table entries: 4096 (order: 6, 262144 bytes)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.207949] RTC time: 12:28:26, date: 02/14/18
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.208140] NET: Registered protocol family 16
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.211291] cpuidle: using governor ladder
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.212010] cpuidle: using governor menu
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.214626] PCCT header not found.
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.216083] ACPI: bus type PCI registered
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.218686] acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.220275] PCI: Using configuration type 1 for base access
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.225012] ACPI: Added _OSI(Module Device)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.227498] ACPI: Added _OSI(Processor Device)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.228004] ACPI: Added _OSI(3.0 _SCP Extensions)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.230648] ACPI: Added _OSI(Processor Aggregator Device)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.232936] xen: --> pirq=16 -> irq=9 (gsi=9)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.235358] ACPI: Interpreter enabled
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.236012] ACPI: (supports S0 S4 S5)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.238219] ACPI: Using IOAPIC for interrupt routing
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.240024] PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.284123] ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-ff])
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.287527] acpi PNP0A03:00: _OSC: OS supports [ASPM ClockPM Segments MSI]
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.288014] acpi PNP0A03:00: _OSC failed (AE_NOT_FOUND); disabling ASPM
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.292017] acpi PNP0A03:00: fail to add MMCONFIG information, can't access extended PCI configuration space under this bridge.
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.296891] acpiphp: Slot [0] registered
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.300075] acpiphp: Slot [3] registered
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.302597] acpiphp: Slot [4] registered
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.304252] acpiphp: Slot [5] registered
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.306824] acpiphp: Slot [6] registered
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.308246] acpiphp: Slot [7] registered
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.311007] acpiphp: Slot [8] registered
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.312280] acpiphp: Slot [9] registered
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.315383] acpiphp: Slot [10] registered
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.316232] acpiphp: Slot [11] registered
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.318888] acpiphp: Slot [12] registered
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.320272] acpiphp: Slot [13] registered
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.323292] acpiphp: Slot [14] registered
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.324332] acpiphp: Slot [15] registered
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.327404] acpiphp: Slot [16] registered
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.328278] acpiphp: Slot [17] registered
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.331166] acpiphp: Slot [18] registered
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.332259] acpiphp: Slot [19] registered
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.335103] acpiphp: Slot [20] registered
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.336259] acpiphp: Slot [21] registered
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.339298] acpiphp: Slot [22] registered
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.340368] acpiphp: Slot [23] registered
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.344386] acpiphp: Slot [24] registered
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.348389] acpiphp: Slot [25] registered
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.352465] acpiphp: Slot [26] registered
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.356392] acpiphp: Slot [27] registered
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.360375] acpiphp: Slot [28] registered
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.364393] acpiphp: Slot [29] registered
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.368361] acpiphp: Slot [30] registered
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.371966] acpiphp: Slot [31] registered
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.372312] PCI host bridge to bus 0000:00
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.375746] pci_bus 0000:00: root bus resource [io  0x0000-0x0cf7 window]
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.376008] pci_bus 0000:00: root bus resource [io  0x0d00-0xffff window]
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.380007] pci_bus 0000:00: root bus resource [mem 0x000a0000-0x000bffff window]
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.384004] pci_bus 0000:00: root bus resource [mem 0xf0000000-0xfbffffff window]
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.388008] pci_bus 0000:00: root bus resource [bus 00-ff]
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.392170] pci 0000:00:00.0: [8086:1237] type 00 class 0x060000
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.394144] pci 0000:00:01.0: [8086:7000] type 00 class 0x060100
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.396745] pci 0000:00:01.1: [8086:7010] type 00 class 0x010180
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.398174] pci 0000:00:01.1: reg 0x20: [io  0xc100-0xc10f]
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.398778] pci 0000:00:01.1: legacy IDE quirk: reg 0x10: [io  0x01f0-0x01f7]
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.400007] pci 0000:00:01.1: legacy IDE quirk: reg 0x14: [io  0x03f6]
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.404008] pci 0000:00:01.1: legacy IDE quirk: reg 0x18: [io  0x0170-0x0177]
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.408006] pci 0000:00:01.1: legacy IDE quirk: reg 0x1c: [io  0x0376]
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.412647] pci 0000:00:01.3: [8086:7113] type 00 class 0x068000
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.412758] * Found PM-Timer Bug on the chipset. Due to workarounds for a bug,
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.412758] * this clock source is slow. Consider trying other clock sources
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.417588] pci 0000:00:01.3: quirk: [io  0xb000-0xb03f] claimed by PIIX4 ACPI
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.420973] pci 0000:00:02.0: [1013:00b8] type 00 class 0x030000
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.421367] pci 0000:00:02.0: reg 0x10: [mem 0xf0000000-0xf1ffffff pref]
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.421643] pci 0000:00:02.0: reg 0x14: [mem 0xf3000000-0xf3000fff]
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.423642] pci 0000:00:03.0: [5853:0001] type 00 class 0xff8000
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.424044] pci 0000:00:03.0: reg 0x10: [io  0xc000-0xc0ff]
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.424299] pci 0000:00:03.0: reg 0x14: [mem 0xf2000000-0xf2ffffff pref]
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.427333] ACPI: PCI Interrupt Link [LNKA] (IRQs *5 10 11)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.431579] ACPI: PCI Interrupt Link [LNKB] (IRQs 5 *10 11)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.435471] ACPI: PCI Interrupt Link [LNKC] (IRQs 5 10 *11)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.439581] ACPI: PCI Interrupt Link [LNKD] (IRQs *5 10 11)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.460604] ACPI: Enabled 2 GPEs in block 00 to 0F
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.464076] xen:balloon: Initialising balloon driver
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.472313] vgaarb: setting as boot device: PCI:0000:00:02.0
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.476000] vgaarb: device added: PCI:0000:00:02.0,decodes=io+mem,owns=io+mem,locks=none
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.476014] vgaarb: loaded
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.478499] vgaarb: bridge control possible 0000:00:02.0
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.480230] SCSI subsystem initialized
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.484000] libata version 3.00 loaded.
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.484000] ACPI: bus type USB registered
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.484025] usbcore: registered new interface driver usbfs
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.488019] usbcore: registered new interface driver hub
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.492021] usbcore: registered new device driver usb
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.496147] PCI: Using ACPI for IRQ routing
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.499728] PCI: pci_cache_line_size set to 64 bytes
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.500126] e820: reserve RAM buffer [mem 0x0009e000-0x0009ffff]
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.500245] NetLabel: Initializing
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.503372] NetLabel:  domain hash size = 128
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.504005] NetLabel:  protocols = UNLABELED CIPSOv4
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.508017] NetLabel:  unlabeled traffic allowed by default
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.512112] HPET: 3 timers in total, 0 timers will be used for per-cpu timer
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.516018] hpet0: at MMIO 0xfed00000, IRQs 2, 8, 0
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.522380] hpet0: 3 comparators, 64-bit 62.500000 MHz counter
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.526061] amd_nb: Cannot enumerate AMD northbridges
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.528018] clocksource: Switched to clocksource xen
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.537313] AppArmor: AppArmor Filesystem Enabled
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.540995] pnp: PnP ACPI init
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.543793] system 00:00: [mem 0x00000000-0x0009ffff] could not be reserved
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.548817] system 00:00: Plug and Play ACPI device, IDs PNP0c02 (active)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.548894] system 00:01: [io  0x08a0-0x08a3] has been reserved
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.553431] system 00:01: [io  0x0cc0-0x0ccf] has been reserved
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.557819] system 00:01: [io  0x04d0-0x04d1] has been reserved
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.562310] system 00:01: Plug and Play ACPI device, IDs PNP0c02 (active)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.562337] xen: --> pirq=17 -> irq=8 (gsi=8)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.562357] pnp 00:02: Plug and Play ACPI device, IDs PNP0b00 (active)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.562378] xen: --> pirq=18 -> irq=12 (gsi=12)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.562389] pnp 00:03: Plug and Play ACPI device, IDs PNP0f13 (active)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.562404] xen: --> pirq=19 -> irq=1 (gsi=1)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.562417] pnp 00:04: Plug and Play ACPI device, IDs PNP0303 PNP030b (active)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.562432] xen: --> pirq=20 -> irq=6 (gsi=6)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.562434] pnp 00:05: [dma 2]
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.562446] pnp 00:05: Plug and Play ACPI device, IDs PNP0700 (active)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.562467] xen: --> pirq=21 -> irq=4 (gsi=4)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.562479] pnp 00:06: Plug and Play ACPI device, IDs PNP0501 (active)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.562525] system 00:07: [io  0x10c0-0x1141] has been reserved
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.567052] system 00:07: [io  0xb044-0xb047] has been reserved
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.571656] system 00:07: Plug and Play ACPI device, IDs PNP0c02 (active)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.589814] pnp: PnP ACPI: found 8 devices
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.598900] clocksource: acpi_pm: mask: 0xffffff max_cycles: 0xffffff, max_idle_ns: 2085701024 ns
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.605557] pci_bus 0000:00: resource 4 [io  0x0000-0x0cf7 window]
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.605559] pci_bus 0000:00: resource 5 [io  0x0d00-0xffff window]
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.605560] pci_bus 0000:00: resource 6 [mem 0x000a0000-0x000bffff window]
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.605562] pci_bus 0000:00: resource 7 [mem 0xf0000000-0xfbffffff window]
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.605606] NET: Registered protocol family 2
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.609174] TCP established hash table entries: 8192 (order: 4, 65536 bytes)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.614516] TCP bind hash table entries: 8192 (order: 5, 131072 bytes)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.619450] TCP: Hash tables configured (established 8192 bind 8192)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.624537] UDP hash table entries: 512 (order: 2, 16384 bytes)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.629046] UDP-Lite hash table entries: 512 (order: 2, 16384 bytes)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.634299] NET: Registered protocol family 1
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.637829] pci 0000:00:00.0: Limiting direct PCI/PCI transfers
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.642464] pci 0000:00:01.0: PIIX3: Enabling Passive Release
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.647204] pci 0000:00:01.0: Activating ISA DMA hang workarounds
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.652032] pci 0000:00:02.0: Video device with shadowed ROM
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.652111] PCI: CLS 0 bytes, default 64
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.652167] Trying to unpack rootfs image as initramfs...
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.833760] Freeing initrd memory: 12308K
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.837628] RAPL PMU detected, API unit is 2^-32 Joules, 3 fixed counters 655360 ms ovfl timer
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.844646] hw unit of domain pp0-core 2^-14 Joules
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.848310] hw unit of domain package 2^-14 Joules
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.851970] hw unit of domain dram 2^-16 Joules
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.855622] Scanning for low memory corruption every 60 seconds
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.860283] audit: initializing netlink subsys (disabled)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.864296] audit: type=2000 audit(1518611306.953:1): initialized
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.868985] Initialise system trusted keyring
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.872492] HugeTLB registered 2 MB page size, pre-allocated 0 pages
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.878283] zbud: loaded
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.880791] VFS: Disk quotas dquot_6.6.0
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.884019] VFS: Dquot-cache hash table entries: 512 (order 0, 4096 bytes)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.889164] squashfs: version 4.0 (2009/01/31) Phillip Lougher
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.893666] fuse init (API version 7.23)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.896941] Key type big_key registered
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.900213] Allocating IMA MOK and blacklist keyrings.
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.904266] Key type asymmetric registered
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.907489] Asymmetric key parser 'x509' registered
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.911298] Block layer SCSI generic (bsg) driver version 0.4 loaded (major 249)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.917101] io scheduler noop registered
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.920474] io scheduler deadline registered (default)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.924461] io scheduler cfq registered
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.927619] pci_hotplug: PCI Hot Plug PCI Core version: 0.5
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.931843] pciehp: PCI Express Hot Plug Controller Driver version: 0.4
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.936737] intel_idle: does not run on family 6 model 63
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.936808] input: Power Button as /devices/LNXSYSTM:00/LNXPWRBN:00/input/input0
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.942509] ACPI: Power Button [PWRF]
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.945509] input: Sleep Button as /devices/LNXSYSTM:00/LNXSLPBN:00/input/input1
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.951089] ACPI: Sleep Button [SLPF]
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.954502] xen: --> pirq=22 -> irq=28 (gsi=28)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.954600] xen:grant_table: Grant tables using version 1 layout
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.959106] Grant table initialized
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.962052] Cannot get hvm parameter CONSOLE_EVTCHN (18): -22!
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.966368] Serial: 8250/16550 driver, 32 ports, IRQ sharing enabled
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    0.999049] 00:06: ttyS0 at I/O 0x3f8 (irq = 4, base_baud = 115200) is a 16550A
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.006831] Linux agpgart interface v0.103
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.012227] brd: module loaded
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.016470] loop: module loaded
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.019723] Invalid max_queues (4), will use default max: 1.
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.025880] ata_piix 0000:00:01.1: version 2.13
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.029203] scsi host0: ata_piix
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.032761] scsi host1: ata_piix
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.036122] ata1: PATA max MWDMA2 cmd 0x1f0 ctl 0x3f6 bmdma 0xc100 irq 14
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.041760] ata2: PATA max MWDMA2 cmd 0x170 ctl 0x376 bmdma 0xc108 irq 15
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.053470] libphy: Fixed MDIO Bus: probed
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.057415] tun: Universal TUN/TAP device driver, 1.6
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.061953] tun: (C) 1999-2004 Max Krasnyansky <maxk@qualcomm.com>
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.066484] PPP generic driver version 2.4.2
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.070987] xen_netfront: Initialising Xen virtual ethernet driver
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.078355] blkfront: xvda: barrier or flush: disabled; persistent grants: disabled; indirect descriptors: enabled;
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.086602] ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.091343] ehci-pci: EHCI PCI platform driver
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.094822] ehci-platform: EHCI generic platform driver
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.098684] ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.103151] ohci-pci: OHCI PCI platform driver
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.106733] ohci-platform: OHCI generic platform driver
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.110694]  xvda: xvda1
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.113256] uhci_hcd: USB Universal Host Controller Interface driver
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.118065] i8042: PNP: PS/2 Controller [PNP0303:PS2K,PNP0f13:PS2M] at 0x60,0x64 irq 1,12
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.126195] serio: i8042 KBD port at 0x60,0x64 irq 1
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.130230] serio: i8042 AUX port at 0x60,0x64 irq 12
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.134425] mousedev: PS/2 mouse device common for all mice
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.139377] input: AT Translated Set 2 keyboard as /devices/platform/i8042/serio0/input/input2
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.159601] rtc_cmos 00:02: rtc core: registered rtc_cmos as rtc0
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.164369] rtc_cmos 00:02: alarms up to one day, 114 bytes nvram, hpet irqs
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.169678] i2c /dev entries driver
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.172873] device-mapper: uevent: version 1.0.3
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.176706] device-mapper: ioctl: 4.34.0-ioctl (2015-10-28) initialised: dm-devel@redhat.com
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.184085] NET: Registered protocol family 10
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.188302] NET: Registered protocol family 17
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.191804] Key type dns_resolver registered
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.195613] registered taskstats version 1
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.199102] Loading compiled-in X.509 certificates
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.203788] Loaded X.509 cert 'Build time autogenerated kernel key: 3202f79a2fa321ecce3869d36458fe9267f31118'
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.212195] zswap: loaded using pool lzo/zbud
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.217720] Key type trusted registered
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.223264] Key type encrypted registered
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.226879] AppArmor: AppArmor sha1 policy hashing enabled
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.231460] ima: No TPM chip found, activating TPM-bypass!
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.236139] evm: HMAC attrs: 0x1
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.239537]   Magic number: 6:225:481
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.243176] ata_device dev1.0: hash matches
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.246962]  dev1.0: hash matches
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.250225] rtc_cmos 00:02: setting system clock to 2018-02-14 12:28:27 UTC (1518611307)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.256941] BIOS EDD facility v0.16 2004-Jun-25, 0 devices found
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.261782] EDD information not available.
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.265489] PM: Hibernation image not present or could not be loaded.
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.267369] Freeing unused kernel memory: 1484K
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.271279] Write protecting the kernel read-only data: 14336k
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.279146] Freeing unused kernel memory: 1908K
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.283903] Freeing unused kernel memory: 224K
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.300293] random: udevadm: uninitialized urandom read (16 bytes read, 9 bits of entropy available)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.307550] random: systemd-udevd: uninitialized urandom read (16 bytes read, 9 bits of entropy available)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.314891] random: systemd-udevd: uninitialized urandom read (16 bytes read, 9 bits of entropy available)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.322249] random: udevadm: uninitialized urandom read (16 bytes read, 9 bits of entropy available)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.328990] random: systemd-udevd: uninitialized urandom read (16 bytes read, 9 bits of entropy available)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.341202] random: systemd-udevd: uninitialized urandom read (16 bytes read, 9 bits of entropy available)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.349407] random: udevadm: uninitialized urandom read (16 bytes read, 9 bits of entropy available)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.357000] random: systemd-udevd: uninitialized urandom read (16 bytes read, 9 bits of entropy available)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.364286] random: udevadm: uninitialized urandom read (16 bytes read, 9 bits of entropy available)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.371137] random: systemd-udevd: uninitialized urandom read (16 bytes read, 9 bits of entropy available)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.505072] AVX2 version of gcm_enc/dec engaged.
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.508682] AES CTR mode by8 optimization enabled
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.852106] tsc: Refined TSC clocksource calibration: 2399.998 MHz
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    1.855342] clocksource: tsc: mask: 0xffffffffffffffff max_cycles: 0x229835b7123, max_idle_ns: 440795242976 ns
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    2.977894] md: linear personality registered for level -1
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    2.983334] md: multipath personality registered for level -4
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    2.988878] md: raid0 personality registered for level 0
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    2.994729] md: raid1 personality registered for level 1
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    3.048059] raid6: sse2x1   gen()  8337 MB/s
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    3.096064] raid6: sse2x1   xor()  6530 MB/s
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    3.144062] raid6: sse2x2   gen() 10705 MB/s
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    3.196063] raid6: sse2x2   xor()  7088 MB/s
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    3.244057] raid6: sse2x4   gen() 12315 MB/s
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    3.292072] raid6: sse2x4   xor()  8546 MB/s
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    3.344063] raid6: avx2x1   gen() 16202 MB/s
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    3.392059] raid6: avx2x2   gen() 19381 MB/s
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    3.440061] raid6: avx2x4   gen() 22077 MB/s
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    3.442762] raid6: using algorithm avx2x4 gen() 22077 MB/s
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    3.445962] raid6: using avx2x2 recovery algorithm
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    3.450848] xor: automatically using best checksumming function:
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    3.492061]    avx       : 26237.000 MB/sec
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    3.496789] async_tx: api initialized (async)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    3.510679] md: raid6 personality registered for level 6
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    3.514154] md: raid5 personality registered for level 5
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    3.517449] md: raid4 personality registered for level 4
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    3.526185] md: raid10 personality registered for level 10
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    3.564210] Btrfs loaded
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    3.610282] EXT4-fs (xvda1): mounted filesystem with ordered data mode. Opts: (null)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    4.151921] EXT4-fs (xvda1): re-mounted. Opts: discard
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    4.212592] Loading iSCSI transport class v2.0-870.
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    4.249600] iscsi: registered transport (tcp)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    4.320193] iscsi: registered transport (iser)
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    5.158437] audit: type=1400 audit(1518611311.404:2): apparmor="STATUS" operation="profile_load" profile="unconfined" name="lxc-container-default" pid=597 comm="apparmor_parser"
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    5.158442] audit: type=1400 audit(1518611311.404:3): apparmor="STATUS" operation="profile_load" profile="unconfined" name="lxc-container-default-cgns" pid=597 comm="apparmor_parser"
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    5.158446] audit: type=1400 audit(1518611311.404:4): apparmor="STATUS" operation="profile_load" profile="unconfined" name="lxc-container-default-with-mounting" pid=597 comm="apparmor_parser"
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    5.158449] audit: type=1400 audit(1518611311.404:5): apparmor="STATUS" operation="profile_load" profile="unconfined" name="lxc-container-default-with-nesting" pid=597 comm="apparmor_parser"
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    5.171783] audit: type=1400 audit(1518611311.416:6): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/sbin/dhclient" pid=598 comm="apparmor_parser"
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    5.171791] audit: type=1400 audit(1518611311.416:7): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-client.action" pid=598 comm="apparmor_parser"
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    5.171794] audit: type=1400 audit(1518611311.416:8): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-helper" pid=598 comm="apparmor_parser"
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    5.171796] audit: type=1400 audit(1518611311.416:9): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/connman/scripts/dhclient-script" pid=598 comm="apparmor_parser"
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    5.173615] audit: type=1400 audit(1518611311.420:10): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/bin/lxc-start" pid=599 comm="apparmor_parser"
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    6.240731] ppdev: user-space parallel port driver
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    8.002152] random: nonblocking pool is initialized
+Feb 14 08:28:34 ip-172-31-69-25 dhclient[897]: DHCPOFFER of 172.31.69.25 from 172.31.69.1
+Feb 14 08:28:34 ip-172-31-69-25 dhclient[897]: DHCPACK of 172.31.69.25 from 172.31.69.1
+Feb 14 08:28:34 ip-172-31-69-25 sh[882]: DHCPACK of 172.31.69.25 from 172.31.69.1
+Feb 14 08:28:34 ip-172-31-69-25 dhclient[897]: bound to 172.31.69.25 -- renewal in 1786 seconds.
+Feb 14 08:28:34 ip-172-31-69-25 sh[882]: bound to 172.31.69.25 -- renewal in 1786 seconds.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Created slice system-getty.slice.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started Raise network interfaces.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Starting Initial cloud-init job (metadata service crawler)...
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Reached target Network.
+Feb 14 08:28:34 ip-172-31-69-25 cloud-init[1054]: Cloud-init v. 17.1 running 'init' at Wed, 14 Feb 2018 12:28:33 +0000. Up 7.57 seconds.
+Feb 14 08:28:34 ip-172-31-69-25 cloud-init[1054]: ci-info: ++++++++++++++++++++++++++++++++++++++Net device info+++++++++++++++++++++++++++++++++++++++
+Feb 14 08:28:34 ip-172-31-69-25 cloud-init[1054]: ci-info: +--------+------+----------------------------+-----------------+-------+-------------------+
+Feb 14 08:28:34 ip-172-31-69-25 cloud-init[1054]: ci-info: | Device |  Up  |          Address           |       Mask      | Scope |     Hw-Address    |
+Feb 14 08:28:34 ip-172-31-69-25 cloud-init[1054]: ci-info: +--------+------+----------------------------+-----------------+-------+-------------------+
+Feb 14 08:28:34 ip-172-31-69-25 cloud-init[1054]: ci-info: |  eth0  | True |        172.31.69.25        | 255.255.255.224 |   .   | 02:d8:a9:4e:38:42 |
+Feb 14 08:28:34 ip-172-31-69-25 cloud-init[1054]: ci-info: |  eth0  | True | fe80::d8:a9ff:fe4e:3842/64 |        .        |  link | 02:d8:a9:4e:38:42 |
+Feb 14 08:28:34 ip-172-31-69-25 cloud-init[1054]: ci-info: |   lo   | True |         127.0.0.1          |    255.0.0.0    |   .   |         .         |
+Feb 14 08:28:34 ip-172-31-69-25 cloud-init[1054]: ci-info: |   lo   | True |          ::1/128           |        .        |  host |         .         |
+Feb 14 08:28:34 ip-172-31-69-25 cloud-init[1054]: ci-info: +--------+------+----------------------------+-----------------+-------+-------------------+
+Feb 14 08:28:34 ip-172-31-69-25 cloud-init[1054]: ci-info: ++++++++++++++++++++++++++++++Route IPv4 info++++++++++++++++++++++++++++++
+Feb 14 08:28:34 ip-172-31-69-25 cloud-init[1054]: ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+Feb 14 08:28:34 ip-172-31-69-25 cloud-init[1054]: ci-info: | Route | Destination |   Gateway   |     Genmask     | Interface | Flags |
+Feb 14 08:28:34 ip-172-31-69-25 cloud-init[1054]: ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+Feb 14 08:28:34 ip-172-31-69-25 cloud-init[1054]: ci-info: |   0   |   0.0.0.0   | 172.31.69.1 |     0.0.0.0     |    eth0   |   UG  |
+Feb 14 08:28:34 ip-172-31-69-25 cloud-init[1054]: ci-info: |   1   | 172.31.69.0 |   0.0.0.0   | 255.255.255.224 |    eth0   |   U   |
+Feb 14 08:28:34 ip-172-31-69-25 cloud-init[1054]: ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started Initial cloud-init job (metadata service crawler).
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Reached target Network is Online.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Starting iSCSI initiator daemon (iscsid)...
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Reached target Cloud-config availability.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Reached target System Initialization.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Listening on UUID daemon activation socket.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Listening on ACPID Listen Socket.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Starting LXD - unix socket.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Starting Socket activation for snappy daemon.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started Daily apt download activities.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Listening on D-Bus System Message Bus Socket.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started ACPI Events Check.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Reached target Paths.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started Daily apt upgrade and clean activities.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started Timer to automatically refresh installed snaps.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started Daily Cleanup of Temporary Directories.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Reached target Timers.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Listening on LXD - unix socket.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Listening on Socket activation for snappy daemon.
+Feb 14 08:28:34 ip-172-31-69-25 iscsid: iSCSI logger with pid=1110 started!
+Feb 14 08:28:34 ip-172-31-69-25 iscsid: iSCSI daemon with pid=1111 started!
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started iSCSI initiator daemon (iscsid).
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Starting Login to default iSCSI targets...
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Reached target Sockets.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Reached target Basic System.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Starting Login Service...
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started Deferred execution scheduler.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started ACPI event daemon.
+Feb 14 08:28:34 ip-172-31-69-25 acpid: starting up with netlink and the input layer
+Feb 14 08:28:34 ip-172-31-69-25 acpid: 1 rule loaded
+Feb 14 08:28:34 ip-172-31-69-25 acpid: waiting for events: event logging is off
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Starting System Logging Service...
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Starting Accounts Service...
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Starting The PHP 7.0 FastCGI Process Manager...
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started Regular background program processing daemon.
+Feb 14 08:28:34 ip-172-31-69-25 cron[1134]: (CRON) INFO (pidfile fd = 3)
+Feb 14 08:28:34 ip-172-31-69-25 cron[1134]: (CRON) INFO (Running @reboot jobs)
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Starting LSB: MD monitoring daemon...
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started D-Bus System Message Bus.
+Feb 14 08:28:34 ip-172-31-69-25 dbus[1144]: [system] AppArmor D-Bus mediation is enabled
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Starting MySQL Community Server...
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started FUSE filesystem for LXC.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Starting Snappy daemon...
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Starting OpenBSD Secure Shell server...
+Feb 14 08:28:34 ip-172-31-69-25 lxcfs[1153]: hierarchies:
+Feb 14 08:28:34 ip-172-31-69-25 lxcfs[1153]:   0: fd:   5: cpuset
+Feb 14 08:28:34 ip-172-31-69-25 lxcfs[1153]:   1: fd:   6: pids
+Feb 14 08:28:34 ip-172-31-69-25 lxcfs[1153]:   2: fd:   7: blkio
+Feb 14 08:28:34 ip-172-31-69-25 lxcfs[1153]:   3: fd:   8: devices
+Feb 14 08:28:34 ip-172-31-69-25 lxcfs[1153]:   4: fd:   9: hugetlb
+Feb 14 08:28:34 ip-172-31-69-25 lxcfs[1153]:   5: fd:  10: cpu,cpuacct
+Feb 14 08:28:34 ip-172-31-69-25 lxcfs[1153]:   6: fd:  11: net_cls,net_prio
+Feb 14 08:28:34 ip-172-31-69-25 lxcfs[1153]:   7: fd:  12: freezer
+Feb 14 08:28:34 ip-172-31-69-25 lxcfs[1153]:   8: fd:  13: perf_event
+Feb 14 08:28:34 ip-172-31-69-25 lxcfs[1153]:   9: fd:  14: memory
+Feb 14 08:28:34 ip-172-31-69-25 lxcfs[1153]:  10: fd:  15: name=systemd
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    8.202496] cgroup: new mount options do not match the existing superblock, will be ignored
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started Unattended Upgrades Shutdown.
+Feb 14 08:28:34 ip-172-31-69-25 dbus[1144]: [system] Activating via systemd: service name='org.freedesktop.PolicyKit1' unit='polkitd.service'
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Starting LSB: Record successful boot for GRUB...
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Starting /etc/rc.local Compatibility...
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Starting LXD - container startup/shutdown...
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Starting Apply the settings specified in cloud-config...
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started System Logging Service.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started /etc/rc.local Compatibility.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started OpenBSD Secure Shell server.
+Feb 14 08:28:34 ip-172-31-69-25 iscsiadm[1197]: iscsiadm: No records found
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started Login to default iSCSI targets.
+Feb 14 08:28:34 ip-172-31-69-25 mdadm[1140]:  * Starting MD monitoring service mdadm --monitor
+Feb 14 08:28:34 ip-172-31-69-25 mdadm[1140]:    ...done.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started LSB: MD monitoring daemon.
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    8.393312] audit_printk_skb: 18 callbacks suppressed
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    8.393315] audit: type=1400 audit(1518611314.640:17): apparmor="DENIED" operation="open" profile="/usr/sbin/mysqld" name="/proc/1189/status" pid=1189 comm="mysqld" requested_mask="r" denied_mask="r" fsuid=112 ouid=112
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    8.393351] audit: type=1400 audit(1518611314.640:18): apparmor="DENIED" operation="open" profile="/usr/sbin/mysqld" name="/sys/devices/system/node/" pid=1189 comm="mysqld" requested_mask="r" denied_mask="r" fsuid=112 ouid=0
+Feb 14 08:28:34 ip-172-31-69-25 kernel: [    8.393382] audit: type=1400 audit(1518611314.640:19): apparmor="DENIED" operation="open" profile="/usr/sbin/mysqld" name="/proc/1189/status" pid=1189 comm="mysqld" requested_mask="r" denied_mask="r" fsuid=112 ouid=112
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started LSB: Record successful boot for GRUB.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started Login Service.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Starting Authenticate and Authorize Users to Run Privileged Tasks...
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Reached target Remote File Systems (Pre).
+Feb 14 08:28:34 ip-172-31-69-25 snapd[1162]: AppArmor status: apparmor is enabled and all features are available
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Reached target Remote File Systems.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Starting LSB: Set the CPU Frequency Scaling governor to "ondemand"...
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Starting LSB: daemon to balance interrupts for SMP systems...
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Starting LSB: Apache2 web server...
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Starting Permit User Sessions...
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Starting LSB: automatic crash report generation...
+Feb 14 08:28:34 ip-172-31-69-25 snapd[1162]: 2018/02/14 08:28:34.767813 daemon.go:306: started snapd/2.29.4.2 (series 16; classic) ubuntu/16.04 (amd64) linux/4.4.0-1049-aws.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started Permit User Sessions.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started Snappy daemon.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started LXD - container startup/shutdown.
+Feb 14 08:28:34 ip-172-31-69-25 polkitd[1219]: started daemon version 0.105 using authority implementation `local' version `0.105'
+Feb 14 08:28:34 ip-172-31-69-25 dbus[1144]: [system] Successfully activated service 'org.freedesktop.PolicyKit1'
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started Authenticate and Authorize Users to Run Privileged Tasks.
+Feb 14 08:28:34 ip-172-31-69-25 accounts-daemon[1127]: started daemon version 0.6.40
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started Accounts Service.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Starting Hold until boot process finishes up...
+Feb 14 08:28:34 ip-172-31-69-25 apache2[1233]:  * Starting Apache httpd web server apache2
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Starting Terminate Plymouth Boot Screen...
+Feb 14 08:28:34 ip-172-31-69-25 irqbalance[1226]:  * Starting SMP IRQ Balancer: irqbalance
+Feb 14 08:28:34 ip-172-31-69-25 apport[1244]:  * Starting automatic crash report generation: apport
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started LSB: Set the CPU Frequency Scaling governor to "ondemand".
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started Hold until boot process finishes up.
+Feb 14 08:28:34 ip-172-31-69-25 /usr/sbin/irqbalance: Balancing is ineffective on systems with a single cpu.  Shutting down
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started Terminate Plymouth Boot Screen.
+Feb 14 08:28:34 ip-172-31-69-25 irqbalance[1226]:    ...done.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started LSB: daemon to balance interrupts for SMP systems.
+Feb 14 08:28:34 ip-172-31-69-25 apport[1244]:    ...done.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started LSB: automatic crash report generation.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started Serial Getty on ttyS0.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Starting Set console scheme...
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started Getty on tty1.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Reached target Login Prompts.
+Feb 14 08:28:34 ip-172-31-69-25 systemd[1]: Started Set console scheme.
+Feb 14 08:28:35 ip-172-31-69-25 systemd[1]: Started The PHP 7.0 FastCGI Process Manager.
+Feb 14 08:28:35 ip-172-31-69-25 cloud-init[1183]: Cloud-init v. 17.1 running 'modules:config' at Wed, 14 Feb 2018 12:28:35 +0000. Up 9.10 seconds.
+Feb 14 08:28:35 ip-172-31-69-25 systemd[1]: Started Apply the settings specified in cloud-config.
+Feb 14 08:28:35 ip-172-31-69-25 systemd[1]: Started MySQL Community Server.
+Feb 14 08:28:36 ip-172-31-69-25 apache2[1233]:  *
+Feb 14 08:28:36 ip-172-31-69-25 systemd[1]: Started LSB: Apache2 web server.
+Feb 14 08:28:36 ip-172-31-69-25 systemd[1]: Reached target Multi-User System.
+Feb 14 08:28:36 ip-172-31-69-25 systemd[1]: Starting Execute cloud user/final scripts...
+Feb 14 08:28:36 ip-172-31-69-25 systemd[1]: Reached target Graphical Interface.
+Feb 14 08:28:36 ip-172-31-69-25 systemd[1]: Starting Update UTMP about System Runlevel Changes...
+Feb 14 08:28:36 ip-172-31-69-25 systemd[1]: Started Update UTMP about System Runlevel Changes.
+Feb 14 08:28:36 ip-172-31-69-25 cloud-init[1357]: Cloud-init v. 17.1 running 'modules:final' at Wed, 14 Feb 2018 12:28:36 +0000. Up 10.24 seconds.
+Feb 14 08:28:36 ip-172-31-69-25 cloud-init[1357]: Cloud-init v. 17.1 finished at Wed, 14 Feb 2018 12:28:36 +0000. Datasource DataSourceEc2Local.  Up 10.35 seconds
+Feb 14 08:28:36 ip-172-31-69-25 systemd[1]: Started Execute cloud user/final scripts.
+Feb 14 08:28:36 ip-172-31-69-25 systemd[1]: Reached target Cloud-init target.
+Feb 14 08:28:36 ip-172-31-69-25 systemd[1]: Startup finished in 3.740s (kernel) + 6.709s (userspace) = 10.450s.
+Feb 14 08:29:02 ip-172-31-69-25 systemd[1]: Time has been changed
+Feb 14 08:29:02 ip-172-31-69-25 systemd[1]: Starting Daily apt download activities...
+Feb 14 08:29:02 ip-172-31-69-25 systemd-timesyncd[522]: Synchronized to time server 91.189.94.4:123 (ntp.ubuntu.com).
+Feb 14 08:29:02 ip-172-31-69-25 systemd[1]: Started Daily apt download activities.
+Feb 14 08:30:03 ip-172-31-69-25 systemd[1]: Created slice User Slice of ubuntu.
+Feb 14 08:30:03 ip-172-31-69-25 systemd[1]: Starting User Manager for UID 1000...
+Feb 14 08:30:03 ip-172-31-69-25 systemd[1]: Started Session 1 of user ubuntu.
+Feb 14 08:30:03 ip-172-31-69-25 systemd[1427]: Reached target Sockets.
+Feb 14 08:30:03 ip-172-31-69-25 systemd[1427]: Reached target Paths.
+Feb 14 08:30:03 ip-172-31-69-25 systemd[1427]: Reached target Timers.
+Feb 14 08:30:03 ip-172-31-69-25 systemd[1427]: Reached target Basic System.
+Feb 14 08:30:03 ip-172-31-69-25 systemd[1427]: Reached target Default.
+Feb 14 08:30:03 ip-172-31-69-25 systemd[1427]: Startup finished in 23ms.
+Feb 14 08:30:03 ip-172-31-69-25 systemd[1]: Started User Manager for UID 1000.
+Feb 14 08:30:38 ip-172-31-69-25 kernel: [  131.855199] Netfilter messages via NETLINK v0.30.
+Feb 14 08:30:38 ip-172-31-69-25 kernel: [  131.861684] device eth0 entered promiscuous mode
+Feb 14 08:39:01 ip-172-31-69-25 CRON[1537]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Feb 14 08:43:35 ip-172-31-69-25 systemd[1]: Starting Cleanup of Temporary Directories...
+Feb 14 08:43:35 ip-172-31-69-25 systemd-tmpfiles[1627]: [/usr/lib/tmpfiles.d/var.conf:14] Duplicate line for path "/var/log", ignoring.
+Feb 14 08:43:35 ip-172-31-69-25 systemd[1]: Started Cleanup of Temporary Directories.
+Feb 14 08:58:20 ip-172-31-69-25 dhclient[932]: DHCPREQUEST of 172.31.69.25 on eth0 to 172.31.69.1 port 67 (xid=0x6f62575f)
+Feb 14 08:58:20 ip-172-31-69-25 dhclient[932]: DHCPACK of 172.31.69.25 from 172.31.69.1
+Feb 14 08:58:20 ip-172-31-69-25 dhclient[932]: bound to 172.31.69.25 -- renewal in 1606 seconds.
+Feb 14 09:09:01 ip-172-31-69-25 CRON[1648]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Feb 14 09:17:01 ip-172-31-69-25 CRON[1733]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 09:25:06 ip-172-31-69-25 dhclient[932]: DHCPREQUEST of 172.31.69.25 on eth0 to 172.31.69.1 port 67 (xid=0x6f62575f)
+Feb 14 09:25:06 ip-172-31-69-25 dhclient[932]: DHCPACK of 172.31.69.25 from 172.31.69.1
+Feb 14 09:25:06 ip-172-31-69-25 dhclient[932]: bound to 172.31.69.25 -- renewal in 1419 seconds.
+Feb 14 09:39:01 ip-172-31-69-25 CRON[1758]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Feb 14 09:48:45 ip-172-31-69-25 dhclient[932]: DHCPREQUEST of 172.31.69.25 on eth0 to 172.31.69.1 port 67 (xid=0x6f62575f)
+Feb 14 09:48:45 ip-172-31-69-25 dhclient[932]: DHCPACK of 172.31.69.25 from 172.31.69.1
+Feb 14 09:48:45 ip-172-31-69-25 dhclient[932]: bound to 172.31.69.25 -- renewal in 1359 seconds.
+Feb 14 10:09:01 ip-172-31-69-25 CRON[1855]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Feb 14 10:11:24 ip-172-31-69-25 dhclient[932]: DHCPREQUEST of 172.31.69.25 on eth0 to 172.31.69.1 port 67 (xid=0x6f62575f)
+Feb 14 10:11:24 ip-172-31-69-25 dhclient[932]: DHCPACK of 172.31.69.25 from 172.31.69.1
+Feb 14 10:11:24 ip-172-31-69-25 dhclient[932]: bound to 172.31.69.25 -- renewal in 1619 seconds.
+Feb 14 10:17:01 ip-172-31-69-25 CRON[1952]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 10:38:23 ip-172-31-69-25 dhclient[932]: DHCPREQUEST of 172.31.69.25 on eth0 to 172.31.69.1 port 67 (xid=0x6f62575f)
+Feb 14 10:38:23 ip-172-31-69-25 dhclient[932]: DHCPACK of 172.31.69.25 from 172.31.69.1
+Feb 14 10:38:23 ip-172-31-69-25 dhclient[932]: bound to 172.31.69.25 -- renewal in 1484 seconds.
+Feb 14 10:39:01 ip-172-31-69-25 CRON[1969]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Feb 14 11:03:07 ip-172-31-69-25 dhclient[932]: DHCPREQUEST of 172.31.69.25 on eth0 to 172.31.69.1 port 67 (xid=0x6f62575f)
+Feb 14 11:03:07 ip-172-31-69-25 dhclient[932]: DHCPACK of 172.31.69.25 from 172.31.69.1
+Feb 14 11:03:07 ip-172-31-69-25 dhclient[932]: bound to 172.31.69.25 -- renewal in 1664 seconds.
+Feb 14 11:09:01 ip-172-31-69-25 CRON[2069]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Feb 14 11:17:01 ip-172-31-69-25 CRON[2154]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 11:30:51 ip-172-31-69-25 dhclient[932]: DHCPREQUEST of 172.31.69.25 on eth0 to 172.31.69.1 port 67 (xid=0x6f62575f)
+Feb 14 11:30:51 ip-172-31-69-25 dhclient[932]: DHCPACK of 172.31.69.25 from 172.31.69.1
+Feb 14 11:30:51 ip-172-31-69-25 dhclient[932]: bound to 172.31.69.25 -- renewal in 1541 seconds.
+Feb 14 11:39:01 ip-172-31-69-25 CRON[2169]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Feb 14 11:56:33 ip-172-31-69-25 dhclient[932]: DHCPREQUEST of 172.31.69.25 on eth0 to 172.31.69.1 port 67 (xid=0x6f62575f)
+Feb 14 11:56:33 ip-172-31-69-25 dhclient[932]: DHCPACK of 172.31.69.25 from 172.31.69.1
+Feb 14 11:56:33 ip-172-31-69-25 dhclient[932]: bound to 172.31.69.25 -- renewal in 1625 seconds.
+Feb 14 12:09:01 ip-172-31-69-25 CRON[2267]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Feb 14 12:17:01 ip-172-31-69-25 CRON[2367]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 12:23:38 ip-172-31-69-25 dhclient[932]: DHCPREQUEST of 172.31.69.25 on eth0 to 172.31.69.1 port 67 (xid=0x6f62575f)
+Feb 14 12:23:38 ip-172-31-69-25 dhclient[932]: DHCPACK of 172.31.69.25 from 172.31.69.1
+Feb 14 12:23:38 ip-172-31-69-25 dhclient[932]: bound to 172.31.69.25 -- renewal in 1648 seconds.
+Feb 14 12:39:01 ip-172-31-69-25 CRON[2383]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Feb 14 12:51:06 ip-172-31-69-25 dhclient[932]: DHCPREQUEST of 172.31.69.25 on eth0 to 172.31.69.1 port 67 (xid=0x6f62575f)
+Feb 14 12:51:06 ip-172-31-69-25 dhclient[932]: DHCPACK of 172.31.69.25 from 172.31.69.1
+Feb 14 12:51:06 ip-172-31-69-25 dhclient[932]: bound to 172.31.69.25 -- renewal in 1566 seconds.
+Feb 14 13:09:01 ip-172-31-69-25 CRON[2484]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Feb 14 13:17:01 ip-172-31-69-25 CRON[2569]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 13:17:12 ip-172-31-69-25 dhclient[932]: DHCPREQUEST of 172.31.69.25 on eth0 to 172.31.69.1 port 67 (xid=0x6f62575f)
+Feb 14 13:17:12 ip-172-31-69-25 dhclient[932]: DHCPACK of 172.31.69.25 from 172.31.69.1
+Feb 14 13:17:12 ip-172-31-69-25 dhclient[932]: bound to 172.31.69.25 -- renewal in 1588 seconds.
+Feb 14 13:39:01 ip-172-31-69-25 CRON[2584]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Feb 14 13:43:40 ip-172-31-69-25 dhclient[932]: DHCPREQUEST of 172.31.69.25 on eth0 to 172.31.69.1 port 67 (xid=0x6f62575f)
+Feb 14 13:43:40 ip-172-31-69-25 dhclient[932]: DHCPACK of 172.31.69.25 from 172.31.69.1
+Feb 14 13:43:40 ip-172-31-69-25 dhclient[932]: bound to 172.31.69.25 -- renewal in 1711 seconds.
+Feb 14 14:09:01 ip-172-31-69-25 CRON[17573]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Feb 14 14:12:11 ip-172-31-69-25 dhclient[932]: DHCPREQUEST of 172.31.69.25 on eth0 to 172.31.69.1 port 67 (xid=0x6f62575f)
+Feb 14 14:12:11 ip-172-31-69-25 dhclient[932]: DHCPACK of 172.31.69.25 from 172.31.69.1
+Feb 14 14:12:11 ip-172-31-69-25 dhclient[932]: bound to 172.31.69.25 -- renewal in 1685 seconds.
+Feb 14 14:17:01 ip-172-31-69-25 CRON[1968]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 14:39:01 ip-172-31-69-25 CRON[15348]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Feb 14 14:40:16 ip-172-31-69-25 dhclient[932]: DHCPREQUEST of 172.31.69.25 on eth0 to 172.31.69.1 port 67 (xid=0x6f62575f)
+Feb 14 14:40:16 ip-172-31-69-25 dhclient[932]: DHCPACK of 172.31.69.25 from 172.31.69.1
+Feb 14 14:40:16 ip-172-31-69-25 dhclient[932]: bound to 172.31.69.25 -- renewal in 1684 seconds.
+Feb 14 15:08:20 ip-172-31-69-25 dhclient[932]: DHCPREQUEST of 172.31.69.25 on eth0 to 172.31.69.1 port 67 (xid=0x6f62575f)
+Feb 14 15:08:20 ip-172-31-69-25 dhclient[932]: DHCPACK of 172.31.69.25 from 172.31.69.1
+Feb 14 15:08:20 ip-172-31-69-25 dhclient[932]: bound to 172.31.69.25 -- renewal in 1374 seconds.
+Feb 14 15:09:01 ip-172-31-69-25 CRON[12987]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Feb 14 15:17:01 ip-172-31-69-25 CRON[29684]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 15:31:14 ip-172-31-69-25 dhclient[932]: DHCPREQUEST of 172.31.69.25 on eth0 to 172.31.69.1 port 67 (xid=0x6f62575f)
+Feb 14 15:31:14 ip-172-31-69-25 dhclient[932]: DHCPACK of 172.31.69.25 from 172.31.69.1
+Feb 14 15:31:14 ip-172-31-69-25 dhclient[932]: bound to 172.31.69.25 -- renewal in 1762 seconds.
+Feb 14 15:39:01 ip-172-31-69-25 CRON[29562]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Feb 14 16:00:36 ip-172-31-69-25 dhclient[932]: DHCPREQUEST of 172.31.69.25 on eth0 to 172.31.69.1 port 67 (xid=0x6f62575f)
+Feb 14 16:00:36 ip-172-31-69-25 dhclient[932]: DHCPACK of 172.31.69.25 from 172.31.69.1
+Feb 14 16:00:36 ip-172-31-69-25 dhclient[932]: bound to 172.31.69.25 -- renewal in 1721 seconds.
+Feb 14 16:09:01 ip-172-31-69-25 CRON[29661]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Feb 14 16:17:01 ip-172-31-69-25 CRON[29748]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 16:29:17 ip-172-31-69-25 dhclient[932]: DHCPREQUEST of 172.31.69.25 on eth0 to 172.31.69.1 port 67 (xid=0x6f62575f)
+Feb 14 16:29:17 ip-172-31-69-25 dhclient[932]: DHCPACK of 172.31.69.25 from 172.31.69.1
+Feb 14 16:29:17 ip-172-31-69-25 dhclient[932]: bound to 172.31.69.25 -- renewal in 1668 seconds.
+Feb 14 16:39:01 ip-172-31-69-25 CRON[29763]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Feb 14 16:57:05 ip-172-31-69-25 dhclient[932]: DHCPREQUEST of 172.31.69.25 on eth0 to 172.31.69.1 port 67 (xid=0x6f62575f)
+Feb 14 16:57:05 ip-172-31-69-25 dhclient[932]: DHCPACK of 172.31.69.25 from 172.31.69.1
+Feb 14 16:57:05 ip-172-31-69-25 dhclient[932]: bound to 172.31.69.25 -- renewal in 1785 seconds.
+Feb 14 17:09:01 ip-172-31-69-25 CRON[29860]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && /usr/lib/php/sessionclean)
+Feb 14 17:17:01 ip-172-31-69-25 CRON[29945]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 17:26:51 ip-172-31-69-25 dhclient[932]: DHCPREQUEST of 172.31.69.25 on eth0 to 172.31.69.1 port 67 (xid=0x6f62575f)
+Feb 14 17:26:51 ip-172-31-69-25 dhclient[932]: DHCPACK of 172.31.69.25 from 172.31.69.1
+Feb 14 17:26:51 ip-172-31-69-25 dhclient[932]: bound to 172.31.69.25 -- renewal in 1562 seconds.
+Feb 14 06:32:12 ip-172-31-69-22 dhclient[931]: DHCPREQUEST of 172.31.69.22 on eth0 to 172.31.69.1 port 67 (xid=0x450e8c50)
+Feb 14 06:32:12 ip-172-31-69-22 dhclient[931]: DHCPACK of 172.31.69.22 from 172.31.69.1
+Feb 14 06:32:12 ip-172-31-69-22 dhclient[931]: bound to 172.31.69.22 -- renewal in 1773 seconds.
+Feb 14 07:01:45 ip-172-31-69-22 dhclient[931]: DHCPREQUEST of 172.31.69.22 on eth0 to 172.31.69.1 port 67 (xid=0x450e8c50)
+Feb 14 07:01:45 ip-172-31-69-22 dhclient[931]: DHCPACK of 172.31.69.22 from 172.31.69.1
+Feb 14 07:01:45 ip-172-31-69-22 dhclient[931]: bound to 172.31.69.22 -- renewal in 1489 seconds.
+Feb 14 07:17:01 ip-172-31-69-22 CRON[4944]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 07:26:34 ip-172-31-69-22 dhclient[931]: DHCPREQUEST of 172.31.69.22 on eth0 to 172.31.69.1 port 67 (xid=0x450e8c50)
+Feb 14 07:26:34 ip-172-31-69-22 dhclient[931]: DHCPACK of 172.31.69.22 from 172.31.69.1
+Feb 14 07:26:34 ip-172-31-69-22 dhclient[931]: bound to 172.31.69.22 -- renewal in 1479 seconds.
+Feb 14 07:51:13 ip-172-31-69-22 dhclient[931]: DHCPREQUEST of 172.31.69.22 on eth0 to 172.31.69.1 port 67 (xid=0x450e8c50)
+Feb 14 07:51:13 ip-172-31-69-22 dhclient[931]: DHCPACK of 172.31.69.22 from 172.31.69.1
+Feb 14 07:51:13 ip-172-31-69-22 dhclient[931]: bound to 172.31.69.22 -- renewal in 1577 seconds.
+Feb 14 08:17:01 ip-172-31-69-22 CRON[4987]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 08:17:30 ip-172-31-69-22 dhclient[931]: DHCPREQUEST of 172.31.69.22 on eth0 to 172.31.69.1 port 67 (xid=0x450e8c50)
+Feb 14 08:17:30 ip-172-31-69-22 dhclient[931]: DHCPACK of 172.31.69.22 from 172.31.69.1
+Feb 14 08:17:30 ip-172-31-69-22 dhclient[931]: bound to 172.31.69.22 -- renewal in 1477 seconds.
+Feb 14 08:20:36 ip-172-31-69-22 systemd[1]: Started Session 60 of user ubuntu.
+Feb 14 08:42:07 ip-172-31-69-22 dhclient[931]: DHCPREQUEST of 172.31.69.22 on eth0 to 172.31.69.1 port 67 (xid=0x450e8c50)
+Feb 14 08:42:07 ip-172-31-69-22 dhclient[931]: DHCPACK of 172.31.69.22 from 172.31.69.1
+Feb 14 08:42:07 ip-172-31-69-22 dhclient[931]: bound to 172.31.69.22 -- renewal in 1513 seconds.
+Feb 14 08:47:57 ip-172-31-69-22 systemd[1]: Starting Cleanup of Temporary Directories...
+Feb 14 08:47:57 ip-172-31-69-22 systemd-tmpfiles[5104]: [/usr/lib/tmpfiles.d/var.conf:14] Duplicate line for path "/var/log", ignoring.
+Feb 14 08:47:57 ip-172-31-69-22 systemd[1]: Started Cleanup of Temporary Directories.
+Feb 14 09:07:20 ip-172-31-69-22 dhclient[931]: DHCPREQUEST of 172.31.69.22 on eth0 to 172.31.69.1 port 67 (xid=0x450e8c50)
+Feb 14 09:07:20 ip-172-31-69-22 dhclient[931]: DHCPACK of 172.31.69.22 from 172.31.69.1
+Feb 14 09:07:20 ip-172-31-69-22 dhclient[931]: bound to 172.31.69.22 -- renewal in 1663 seconds.
+Feb 14 09:17:01 ip-172-31-69-22 CRON[5124]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 09:35:03 ip-172-31-69-22 dhclient[931]: DHCPREQUEST of 172.31.69.22 on eth0 to 172.31.69.1 port 67 (xid=0x450e8c50)
+Feb 14 09:35:03 ip-172-31-69-22 dhclient[931]: DHCPACK of 172.31.69.22 from 172.31.69.1
+Feb 14 09:35:03 ip-172-31-69-22 dhclient[931]: bound to 172.31.69.22 -- renewal in 1364 seconds.
+Feb 14 09:57:47 ip-172-31-69-22 dhclient[931]: DHCPREQUEST of 172.31.69.22 on eth0 to 172.31.69.1 port 67 (xid=0x450e8c50)
+Feb 14 09:57:47 ip-172-31-69-22 dhclient[931]: DHCPACK of 172.31.69.22 from 172.31.69.1
+Feb 14 09:57:47 ip-172-31-69-22 dhclient[931]: bound to 172.31.69.22 -- renewal in 1614 seconds.
+Feb 14 10:17:01 ip-172-31-69-22 CRON[5159]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 10:24:41 ip-172-31-69-22 dhclient[931]: DHCPREQUEST of 172.31.69.22 on eth0 to 172.31.69.1 port 67 (xid=0x450e8c50)
+Feb 14 10:24:41 ip-172-31-69-22 dhclient[931]: DHCPACK of 172.31.69.22 from 172.31.69.1
+Feb 14 10:24:41 ip-172-31-69-22 dhclient[931]: bound to 172.31.69.22 -- renewal in 1558 seconds.
+Feb 14 10:50:39 ip-172-31-69-22 dhclient[931]: DHCPREQUEST of 172.31.69.22 on eth0 to 172.31.69.1 port 67 (xid=0x450e8c50)
+Feb 14 10:50:39 ip-172-31-69-22 dhclient[931]: DHCPACK of 172.31.69.22 from 172.31.69.1
+Feb 14 10:50:39 ip-172-31-69-22 dhclient[931]: bound to 172.31.69.22 -- renewal in 1680 seconds.
+Feb 14 11:17:01 ip-172-31-69-22 CRON[5192]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 11:18:39 ip-172-31-69-22 dhclient[931]: DHCPREQUEST of 172.31.69.22 on eth0 to 172.31.69.1 port 67 (xid=0x450e8c50)
+Feb 14 11:18:39 ip-172-31-69-22 dhclient[931]: DHCPACK of 172.31.69.22 from 172.31.69.1
+Feb 14 11:18:39 ip-172-31-69-22 dhclient[931]: bound to 172.31.69.22 -- renewal in 1764 seconds.
+Feb 14 11:48:03 ip-172-31-69-22 dhclient[931]: DHCPREQUEST of 172.31.69.22 on eth0 to 172.31.69.1 port 67 (xid=0x450e8c50)
+Feb 14 11:48:03 ip-172-31-69-22 dhclient[931]: DHCPACK of 172.31.69.22 from 172.31.69.1
+Feb 14 11:48:03 ip-172-31-69-22 dhclient[931]: bound to 172.31.69.22 -- renewal in 1762 seconds.
+Feb 14 12:17:01 ip-172-31-69-22 CRON[5227]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 12:17:25 ip-172-31-69-22 dhclient[931]: DHCPREQUEST of 172.31.69.22 on eth0 to 172.31.69.1 port 67 (xid=0x450e8c50)
+Feb 14 12:17:25 ip-172-31-69-22 dhclient[931]: DHCPACK of 172.31.69.22 from 172.31.69.1
+Feb 14 12:17:25 ip-172-31-69-22 dhclient[931]: bound to 172.31.69.22 -- renewal in 1668 seconds.
+Feb 14 12:45:13 ip-172-31-69-22 dhclient[931]: DHCPREQUEST of 172.31.69.22 on eth0 to 172.31.69.1 port 67 (xid=0x450e8c50)
+Feb 14 12:45:13 ip-172-31-69-22 dhclient[931]: DHCPACK of 172.31.69.22 from 172.31.69.1
+Feb 14 12:45:13 ip-172-31-69-22 dhclient[931]: bound to 172.31.69.22 -- renewal in 1795 seconds.
+Feb 14 13:15:08 ip-172-31-69-22 dhclient[931]: DHCPREQUEST of 172.31.69.22 on eth0 to 172.31.69.1 port 67 (xid=0x450e8c50)
+Feb 14 13:15:08 ip-172-31-69-22 dhclient[931]: DHCPACK of 172.31.69.22 from 172.31.69.1
+Feb 14 13:15:08 ip-172-31-69-22 dhclient[931]: bound to 172.31.69.22 -- renewal in 1415 seconds.
+Feb 14 13:17:01 ip-172-31-69-22 CRON[5276]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 13:38:43 ip-172-31-69-22 dhclient[931]: DHCPREQUEST of 172.31.69.22 on eth0 to 172.31.69.1 port 67 (xid=0x450e8c50)
+Feb 14 13:38:43 ip-172-31-69-22 dhclient[931]: DHCPACK of 172.31.69.22 from 172.31.69.1
+Feb 14 13:38:43 ip-172-31-69-22 dhclient[931]: bound to 172.31.69.22 -- renewal in 1460 seconds.
+Feb 14 13:47:01 ip-172-31-69-22 CRON[5295]: (root) CMD (nohup tcpdump > /home/ubuntu/capture/dump$(hostname -I) &  )
+Feb 14 14:03:03 ip-172-31-69-22 dhclient[931]: DHCPREQUEST of 172.31.69.22 on eth0 to 172.31.69.1 port 67 (xid=0x450e8c50)
+Feb 14 14:03:03 ip-172-31-69-22 dhclient[931]: DHCPACK of 172.31.69.22 from 172.31.69.1
+Feb 14 14:03:03 ip-172-31-69-22 dhclient[931]: bound to 172.31.69.22 -- renewal in 1501 seconds.
+Feb 14 14:17:01 ip-172-31-69-22 CRON[5317]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 14:28:04 ip-172-31-69-22 dhclient[931]: DHCPREQUEST of 172.31.69.22 on eth0 to 172.31.69.1 port 67 (xid=0x450e8c50)
+Feb 14 14:28:04 ip-172-31-69-22 dhclient[931]: DHCPACK of 172.31.69.22 from 172.31.69.1
+Feb 14 14:28:04 ip-172-31-69-22 dhclient[931]: bound to 172.31.69.22 -- renewal in 1380 seconds.
+Feb 14 14:51:04 ip-172-31-69-22 dhclient[931]: DHCPREQUEST of 172.31.69.22 on eth0 to 172.31.69.1 port 67 (xid=0x450e8c50)
+Feb 14 14:51:04 ip-172-31-69-22 dhclient[931]: DHCPACK of 172.31.69.22 from 172.31.69.1
+Feb 14 14:51:04 ip-172-31-69-22 dhclient[931]: bound to 172.31.69.22 -- renewal in 1400 seconds.
+Feb 14 15:14:24 ip-172-31-69-22 dhclient[931]: DHCPREQUEST of 172.31.69.22 on eth0 to 172.31.69.1 port 67 (xid=0x450e8c50)
+Feb 14 15:14:24 ip-172-31-69-22 dhclient[931]: DHCPACK of 172.31.69.22 from 172.31.69.1
+Feb 14 15:14:24 ip-172-31-69-22 dhclient[931]: bound to 172.31.69.22 -- renewal in 1464 seconds.
+Feb 14 15:17:01 ip-172-31-69-22 CRON[5364]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 15:38:48 ip-172-31-69-22 dhclient[931]: DHCPREQUEST of 172.31.69.22 on eth0 to 172.31.69.1 port 67 (xid=0x450e8c50)
+Feb 14 15:38:48 ip-172-31-69-22 dhclient[931]: DHCPACK of 172.31.69.22 from 172.31.69.1
+Feb 14 15:38:48 ip-172-31-69-22 dhclient[931]: bound to 172.31.69.22 -- renewal in 1426 seconds.
+Feb 14 16:02:34 ip-172-31-69-22 dhclient[931]: DHCPREQUEST of 172.31.69.22 on eth0 to 172.31.69.1 port 67 (xid=0x450e8c50)
+Feb 14 16:02:34 ip-172-31-69-22 dhclient[931]: DHCPACK of 172.31.69.22 from 172.31.69.1
+Feb 14 16:02:34 ip-172-31-69-22 dhclient[931]: bound to 172.31.69.22 -- renewal in 1388 seconds.
+Feb 14 16:17:01 ip-172-31-69-22 CRON[5402]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 16:25:42 ip-172-31-69-22 dhclient[931]: DHCPREQUEST of 172.31.69.22 on eth0 to 172.31.69.1 port 67 (xid=0x450e8c50)
+Feb 14 16:25:42 ip-172-31-69-22 dhclient[931]: DHCPACK of 172.31.69.22 from 172.31.69.1
+Feb 14 16:25:42 ip-172-31-69-22 dhclient[931]: bound to 172.31.69.22 -- renewal in 1565 seconds.
+Feb 14 16:51:47 ip-172-31-69-22 dhclient[931]: DHCPREQUEST of 172.31.69.22 on eth0 to 172.31.69.1 port 67 (xid=0x450e8c50)
+Feb 14 16:51:47 ip-172-31-69-22 dhclient[931]: DHCPACK of 172.31.69.22 from 172.31.69.1
+Feb 14 16:51:47 ip-172-31-69-22 dhclient[931]: bound to 172.31.69.22 -- renewal in 1544 seconds.
+Feb 14 17:02:57 ip-172-31-69-22 systemd[1]: Starting Daily apt download activities...
+Feb 14 17:02:57 ip-172-31-69-22 systemd[1]: Started Daily apt download activities.
+Feb 14 17:17:01 ip-172-31-69-22 CRON[5482]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Feb 14 17:17:31 ip-172-31-69-22 dhclient[931]: DHCPREQUEST of 172.31.69.22 on eth0 to 172.31.69.1 port 67 (xid=0x450e8c50)
+Feb 14 17:17:31 ip-172-31-69-22 dhclient[931]: DHCPACK of 172.31.69.22 from 172.31.69.1
+Feb 14 17:17:31 ip-172-31-69-22 dhclient[931]: bound to 172.31.69.22 -- renewal in 1454 seconds.
