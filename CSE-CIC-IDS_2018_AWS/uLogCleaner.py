@@ -1,5 +1,10 @@
 import os
 
+def line_cleaner(line):
+    cleaned_line = "".join(c if c.isalpha() or c.isdigit() else " " for c in line.lower())
+    return " ".join(cleaned_line.split())
+
+
 def concatenate_logs():
     # get the current working directory
     working_dir = os.getcwd()
@@ -14,7 +19,10 @@ def concatenate_logs():
             for file_name in os.listdir(dir_name):
                 try:
                     with open(os.path.join(dir_name, file_name), "r", encoding="utf-8") as f:
-                        log_data += f.read()
+                        for line in f:
+                            line = " ".join(line.split()[4:])
+                            cleaned_line = line_cleaner(line)
+                            log_data += cleaned_line + "\n"
                 except UnicodeDecodeError:
                     print(f"Error reading file: {os.path.join(dir_name, file_name)}")
             # write the concatenated data to a new file in the proper directory
