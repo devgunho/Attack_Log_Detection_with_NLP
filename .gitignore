@@ -1,9 +1,13 @@
+### MAC ###
 .DS_Store
 
-# Experiment
+### Experiment ###
 .ipynb_checkpoints/
-data/
-clean/
-trans/
+data
+clean
+trans
 
-_archive/
+_archive
+
+### TEMP ###
+text2log

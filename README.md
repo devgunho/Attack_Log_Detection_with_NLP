@@ -1,23 +1,5 @@
-### How To Run
-```
-# Create conda env. with specific python version (3.8)
-# Mac Pro : https://github.com/conda-forge/miniforge
-conda create -n "log-nlp_38" python=3.8
+# Anomaly Detection in Log files
 
-# Check env. list
-conda env list
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-# Activate
-conda activate "log-nlp_38"
-
-# Install requirements.txt
-pip install -r requirements.txt
-```
-```
-# Additional
-# Make package list text file
-pip list --format=freeze > requirements.txt
-
-# Deactivate
-conda deactivate
-```
+This repository is related to the analysis of log files. It contains cleaned log data for different systems like Hadoop, Linux, OpenStack, and others. It also includes models that are trained to detect log anomalies using bi-LSTM neural networks, as well as the testing results.
