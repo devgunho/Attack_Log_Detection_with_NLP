@@ -1,0 +1,746 @@
+(exists x1.(_item(x1) & exists x2.(_fact(x2) & (x1 = x2))) & exists x3.(_engineer(x3) & exists x4.(_astronaut(x4) & (x3 = x4))))
+(exists x1.(_object(x1) & exists x2.(_artefact(x2) & (x1 = x2))) & exists x3.(_site(x3) & exists x4.(_wetland(x4) & (x3 = x4))))
+(exists x1.(_other(x1) & exists x2.(_conflation(x2) & (x1 = x2))) & exists x3.(_object(x3) & exists x4.(_sibling(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_member(x1) & exists x2.(_master(x2) & (x1 = x2))) & exists x3.(_custom(x3) & exists x4.(_one(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_people(x1) & exists x2.(_slave(x2) & (x1 = x2))) & exists x3.(_team(x3) & exists x4.(_winner(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_pole(x1) & exists x2.(_accomplice(x2) & (x1 = x2))) & exists x3.(_group(x3) & exists x4.(_civilian(x4) & (x3 = x4))))
+(exists x1.(_other(x1) & exists x2.(_evildoer(x2) & (x1 = x2))) & exists x3.(_contrary(x3) & exists x4.(_contradictory(x4) & (x3 = x4))))
+(exists x1.(_man(x1) & exists x2.(_wolf(x2) & (x1 = x2))) & exists x3.(_member(x3) & exists x4.(_centre(x4) & (x3 = x4))))
+(exists x1.(_other(x1) & exists x2.(_robber(x2) & (x1 = x2))) & exists x3.(_stone(x3) & exists x4.(_wreck(x4) & (x3 = x4))))
+(exists x1.(_people(x1) & exists x2.(_victim(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_volunteer(x4) & (x3 = x4))))
+(exists x1.(_people(x1) & exists x2.(_pessimist(x2) & (x1 = x2))) & exists x3.(_package(x3) & exists x4.(_dependency(x4) & (x3 = x4))))
+(exists x1.(_m(x1) & exists x2.(_measure(x2) & (x1 = x2))) & exists x3.(_player(x3) & exists x4.(_tenpaus(x4) & (x3 = x4))))
+(exists x1.(_tenant(x1) & exists x2.(_nonprofit(x2) & (x1 = x2))) & exists x3.(_congressman(x3) & exists x4.(_member(x4) & (x3 = x4))))
+(exists x1.(_people(x1) & exists x2.(_perfectionist(x2) & (x1 = x2))) & exists x3.(_mammal(x3) & exists x4.(_legislator(x4) & (x3 = x4))))
+(exists x1.(_creature(x1) & exists x2.(_army(x2) & (x1 = x2))) & exists x3.(_extent(x3) & exists x4.(_share(x4) & (x3 = x4))))
+(exists x1.(_animal(x1) & exists x2.(_pest(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_homosexual(x4) & (x3 = x4))))
+syntax_error
+syntax_error
+syntax_error
+(exists x1.(_market(x1) & exists x2.(_indication(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_thought_dash_leader(x4) & (x3 = x4))))
+(exists x1.(_roman(x1) & exists x2.(_benefactor(x2) & (x1 = x2))) & exists x3.(_samaritan(x3) & exists x4.(_jews(x4) & (x3 = x4))))
+(exists x1.(_people(x1) & exists x2.(_slave(x2) & (x1 = x2))) & exists x3.(_arab(x3) & exists x4.(_christian(x4) & (x3 = x4))))
+(exists x1.(_european(x1) & exists x2.(_grasshopper(x2) & (x1 = x2))) & exists x3.(_beggar(x3) & exists x4.(_local(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_thing(x1) & _nomdok(x1)) & exists x2.(_vendor(x2) & exists x3.(_laggard(x3) & (x2 = x3))))
+(exists x1.(_donor(x1) & exists x2.(_people(x2) & (x1 = x2))) & exists x3.(_syrian(x3) & exists x4.(_terrorist(x4) & (x3 = x4))))
+(exists x1.(_suspicion(x1) & exists x2.(_sin(x2) & (x1 = x2))) & exists x3.(_idea(x3) & exists x4.(_catalyst(x4) & (x3 = x4))))
+(exists x1.(_buddhist(x1) & exists x2.(_hypocrite(x2) & (x1 = x2))) & exists x3.(_mind(x3) & exists x4.(_fear(x4) & (x3 = x4))))
+syntax_error
+syntax_error
+syntax_error
+(exists x1.(_people(x1) & exists x2.(_connector(x2) & (x1 = x2))) & exists x3.(_stage(x3) & exists x4.(_race(x4) & (x3 = x4))))
+(exists x1.(_democrat(x1) & exists x2.(_die_dash_hard(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_socialist(x4) & (x3 = x4))))
+(exists x1.(_messenger(x1) & exists x2.(_expert(x2) & (x1 = x2))) & exists x3.(_thing(x3) & exists x4.(_given(x4) & (x3 = x4))))
+(exists x1.(_song(x1) & exists x2.(_classic(x2) & (x1 = x2))) & exists x3.(_bouncer(x3) & exists x4.(_asshole(x4) & (x3 = x4))))
+(exists x1.(_mountain(x1) & exists x2.(_fulgamite(x2) & (x1 = x2))) & exists x3.(_extent(x3) & exists x4.(_curriculum(x4) & (x3 = x4))))
+(exists x1.(_people(x1) & exists x2.(_multiple(x2) & (x1 = x2))) & exists x3.(_antibiotic(x3) & exists x4.(_mutagen(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_people(x1) & exists x2.(_member(x2) & (x1 = x2))) & exists x3.(_man(x3) & exists x4.(_officer(x4) & (x3 = x4))))
+(exists x1.(_country(x1) & exists x2.(_child(x2) & (x1 = x2))) & exists x3.(_bend(x3) & exists x4.(_character(x4) & (x3 = x4))))
+(exists x1.(_anarchist(x1) & exists x2.(_pacifist(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_potato(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_trail(x1) & _multi_dash_purpose(x1)) & exists x2.(_man(x2) & exists x3.(_fool(x3) & (x2 = x3))))
+(exists x1.(_resident(x1) & exists x2.(_christian(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_winner(x4) & (x3 = x4))))
+(exists x1.(_case(x1) & exists x2.(_superintendent(x2) & (x1 = x2))) & exists x3.(_combatant(x3) & exists x4.(_citizen(x4) & (x3 = x4))))
+(exists x1.(_kuna(x1) & exists x2.(_trader(x2) & (x1 = x2))) & exists x3.(_country(x3) & exists x4.(_innovator(x4) & (x3 = x4))))
+(exists x1.(_nut(x1) & exists x2.(_seed(x2) & (x1 = x2))) & exists x3.(_plant(x3) & exists x4.(_indicator(x4) & (x3 = x4))))
+(exists x1.(_people(x1) & exists x2.(_wanker(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_weapon(x4) & (x3 = x4))))
+(exists x1.(_migrant(x1) & exists x2.(_bangladeshi(x2) & (x1 = x2))) & exists x3.(_coach(x3) & exists x4.(_lawyer(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_candidate(x1) & exists x2.(_member(x2) & (x1 = x2))) & exists x3.(_faculty(x3) & exists x4.(_member(x4) & (x3 = x4))))
+(exists x1.(_people(x1) & exists x2.(_billionaire(x2) & (x1 = x2))) & exists x3.(_thing(x3) & exists x4.(_effect(x4) & (x3 = x4))))
+(exists x1.(_wife(x1) & exists x2.(_daughter(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_nightmare(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_alaskan(x1) & exists x2.(_student(x2) & (x1 = x2))) & exists x3.(_dad(x3) & exists x4.(_painter(x4) & (x3 = x4))))
+(exists x1.(_thing(x1) & exists x2.(_gift(x2) & (x1 = x2))) & exists x3.(_browser(x3) & exists x4.(_return(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_people(x1) & exists x2.(_resident(x2) & (x1 = x2))) & exists x3.(_gnostic(x3) & exists x4.(_docetic(x4) & (x3 = x4))))
+(exists x1.(_people(x1) & exists x2.(_dick(x2) & (x1 = x2))) & exists x3.(_recruit(x3) & exists x4.(_child(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_recreation(x1) & exists x2.(_opportunity(x2) & (x1 = x2))) & exists x3.(_plan(x3) & exists x4.(_exclusion(x4) & (x3 = x4))))
+(exists x1.(_terrorist(x1) & exists x2.(_nationalist(x2) & (x1 = x2))) & exists x3.(_child(x3) & exists x4.(_orphan(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_angel(x1) & exists x2.(_liar(x2) & (x1 = x2))) & exists x3.(_person(x3) & exists x4.(_man(x4) & (x3 = x4))))
+(exists x1.(_other(x1) & exists x2.(_thing(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_jerk(x4) & (x3 = x4))))
+(exists x1.(_thing(x1) & exists x2.(_mystery(x2) & (x1 = x2))) & exists x3.(_figure(x3) & exists x4.(_estimate(x4) & (x3 = x4))))
+(exists x1.(_people(x1) & exists x2.(_specialist(x2) & (x1 = x2))) & exists x3.(_principal(x3) & exists x4.(_expert(x4) & (x3 = x4))))
+(exists x1.(_borrower(x1) & exists x2.(_farmer(x2) & (x1 = x2))) & exists x3.(_thing(x3) & exists x4.(_mistake(x4) & (x3 = x4))))
+(exists x1.(_driver(x1) & exists x2.(_owner(x2) & (x1 = x2))) & exists x3.(_opponent(x3) & exists x4.(_people(x4) & (x3 = x4))))
+(exists x1.(_exercise(x1) & exists x2.(_datum(x2) & (x1 = x2))) & exists x3.(_vet(x3) & exists x4.(_idiot(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_individual(x1) & exists x2.(_kid(x2) & (x1 = x2))) & exists x3.(_thing(x3) & exists x4.(_illusion(x4) & (x3 = x4))))
+(exists x1.(_god(x1) & exists x2.(_masochist(x2) & (x1 = x2))) & exists x3.(_distance(x3) & exists x4.(_boy(x4) & (x3 = x4))))
+syntax_error
+syntax_error
+(exists x1.(_delinquent(x1) & exists x2.(_girl(x2) & (x1 = x2))) & exists x3.(_change(x3) & exists x4.(_correction(x4) & (x3 = x4))))
+(exists x1.(_hero(x1) & exists x2.(_redhead(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_prick(x4) & (x3 = x4))))
+(exists x1.(_member(x1) & exists x2.(_cheat(x2) & (x1 = x2))) & exists x3.(_woman(x3) & _anti_dash_men(x3)))
+(exists x1.(_animal(x1) & exists x2.(_pet(x2) & (x1 = x2))) & exists x3.(_member(x3) & exists x4.(_cheat(x4) & (x3 = x4))))
+(exists x1.(_folk(x1) & exists x2.(_nut(x2) & (x1 = x2))) & exists x3.(_industry(x3) & exists x4.(_strategy(x4) & (x3 = x4))))
+(exists x1.(_protein(x1) & exists x2.(_enzyme(x2) & (x1 = x2))) & exists x3.(_labour(x3) & exists x4.(_slave(x4) & (x3 = x4))))
+(exists x1.(_passage(x1) & exists x2.(_layer(x2) & (x1 = x2))) & exists x3.(_country(x3) & exists x4.(_woman(x4) & (x3 = x4))))
+(exists x1.(_provider(x1) & exists x2.(_model(x2) & (x1 = x2))) & exists x3.(_villager(x3) & exists x4.(_member(x4) & (x3 = x4))))
+(exists x1.(_thing(x1) & exists x2.(_problem(x2) & (x1 = x2))) & exists x3.(_country(x3) & exists x4.(_human(x4) & (x3 = x4))))
+(exists x1.(_people(x1) & exists x2.(_spender(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_saver(x4) & (x3 = x4))))
+(exists x1.(_yard(x1) & exists x2.(_dwelling(x2) & (x1 = x2))) & exists x3.(_ghost(x3) & exists x4.(_victim(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_celebrity(x1) & exists x2.(_victim(x2) & (x1 = x2))) & exists x3.(_man(x3) & exists x4.(_millionaire(x4) & (x3 = x4))))
+(exists x1.(_presbyterian(x1) & exists x2.(_evangelical(x2) & (x1 = x2))) & exists x3.(_thing(x3) & exists x4.(_tornado(x4) & (x3 = x4))))
+(exists x1.(_neighbor(x1) & exists x2.(_freeloader(x2) & (x1 = x2))) & exists x3.(_room(x3) & exists x4.(_exhibit(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_example(x1) & exists x2.(_rights(x2) & (x1 = x2))) & exists x3.(_other(x3) & exists x4.(_function(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_bridge(x1) & exists x2.(_extension(x2) & (x1 = x2))) & exists x3.(_member(x3) & exists x4.(_oddball(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_region(x1) & exists x2.(_bacterium(x2) & (x1 = x2))) & exists x3.(_priest(x3) & exists x4.(_woman(x4) & (x3 = x4))))
+(exists x1.(_man(x1) & exists x2.(_elder(x2) & (x1 = x2))) & exists x3.(_brother(x3) & exists x4.(_chaplain(x4) & (x3 = x4))))
+(exists x1.(_member(x1) & exists x2.(_fungivore(x2) & (x1 = x2))) & exists x3.(_man(x3) & exists x4.(_deacon(x4) & (x3 = x4))))
+(exists x1.(_dream(x1) & exists x2.(_memory(x2) & (x1 = x2))) & exists x3.(_variety(x3) & exists x4.(_weed(x4) & (x3 = x4))))
+(exists x1.(_people(x1) & exists x2.(_dick(x2) & (x1 = x2))) & exists x3.(_embodiment(x3) & exists x4.(_molecule(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_storm(x1) & exists x2.(_superstorm(x2) & (x1 = x2))) & exists x3.(_item(x3) & exists x4.(_thing(x4) & (x3 = x4))))
+(exists x1.(_poem(x1) & exists x2.(_inferno(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_snob(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_folk(x1) & exists x2.(_shill(x2) & (x1 = x2))) & exists x3.(_migrant(x3) & exists x4.(_victim(x4) & (x3 = x4))))
+(exists x1.(_member(x1) & exists x2.(_cheat(x2) & (x1 = x2))) & exists x3.(_member(x3) & exists x4.(_cheat(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_species(x1) & exists x2.(_predator(x2) & (x1 = x2))) & exists x3.(_archaeologist(x3) & exists x4.(_theoretician(x4) & (x3 = x4))))
+(exists x1.(_woman(x1) & exists x2.(_pedophile(x2) & (x1 = x2))) & exists x3.(_place(x3) & _mistak_DOTe(x3)))
+(exists x1.(_hitchhiker(x1) & exists x2.(_prostitute(x2) & (x1 = x2))) & exists x3.(_article(x3) & exists x4.(_ex_dash_member(x4) & (x3 = x4))))
+(exists x1.(_law(x1) & exists x2.(_construct(x2) & (x1 = x2))) & exists x3.(_screenshot(x3) & exists x4.(_character(x4) & (x3 = x4))))
+(exists x1.(_people(x1) & exists x2.(_sniper(x2) & (x1 = x2))) & exists x3.(_character(x3) & exists x4.(_distraction(x4) & (x3 = x4))))
+(exists x1.(_ukrainian(x1) & exists x2.(_ally(x2) & (x1 = x2))) & exists x3.(_case(x3) & exists x4.(_year(x4) & (x3 = x4))))
+(exists x1.(_work(x1) & exists x2.(_collaboration(x2) & (x1 = x2))) & exists x3.(_clergy(x3) & exists x4.(_spy(x4) & (x3 = x4))))
+(exists x1.(_mosquito(x1) & exists x2.(_carrier(x2) & (x1 = x2))) & exists x3.(_member(x3) & exists x4.(_citizen(x4) & (x3 = x4))))
+(exists x1.(_thing(x1) & exists x2.(_donation(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_opportunist(x4) & (x3 = x4))))
+(exists x1.(_people(x1) & exists x2.(_member(x2) & (x1 = x2))) & exists x3.(_population(x3) & exists x4.(_streetlight(x4) & (x3 = x4))))
+(exists x1.(_rest(x1) & _geuen(x1)) & exists x2.(_say(x2) & exists x3.(_animal(x3) & (x2 = x3))))
+(exists x1.(_people(x1) & exists x2.(_settler(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_stake_dash_holder(x4) & (x3 = x4))))
+(exists x1.(_other(x1) & exists x2.(_individual(x2) & (x1 = x2))) & exists x3.(_member(x3) & exists x4.(_lesbian(x4) & (x3 = x4))))
+(exists x1.(_baby(x1) & exists x2.(_prince(x2) & (x1 = x2))) & exists x3.(_day(x3) & exists x4.(_diamond(x4) & (x3 = x4))))
+(exists x1.(_addiction(x1) & exists x2.(_struggle(x2) & (x1 = x2))) & exists x3.(_man(x3) & exists x4.(_monster(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_mother(x1) & exists x2.(_co_dash_offender(x2) & (x1 = x2))) & exists x3.(_medjai(x3) & exists x4.(_traditionalist(x4) & (x3 = x4))))
+(exists x1.(_people(x1) & exists x2.(_animal(x2) & (x1 = x2))) & exists x3.(_thing(x3) & exists x4.(_heirloom(x4) & (x3 = x4))))
+(exists x1.(_judge(x1) & exists x2.(_crook(x2) & (x1 = x2))) & exists x3.(_sort(x3) & exists x4.(_prerequisite(x4) & (x3 = x4))))
+(exists x1.(_woman(x1) & exists x2.(_friend(x2) & (x1 = x2))) & exists x3.(_adult(x3) & exists x4.(_immortal(x4) & (x3 = x4))))
+(exists x1.(_baby(x1) & exists x2.(_sleepyhead(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_wolf(x4) & (x3 = x4))))
+(exists x1.(_extrapolation(x1) & exists x2.(_interesting(x2) & (x1 = x2))) & exists x3.(_resident(x3) & exists x4.(_transplant(x4) & (x3 = x4))))
+(exists x1.(_woman(x1) & exists x2.(_prostitute(x2) & (x1 = x2))) & exists x3.(_letter(x3) & exists x4.(_dozen(x4) & (x3 = x4))))
+(exists x1.(_people(x1) & exists x2.(_bully(x2) & (x1 = x2))) & exists x3.(_value(x3) & exists x4.(_cord(x4) & (x3 = x4))))
+(exists x1.(_liberal(x1) & exists x2.(_hypocrite(x2) & (x1 = x2))) & exists x3.(_judge(x3) & exists x4.(_beneficiary(x4) & (x3 = x4))))
+(exists x1.(_produce(x1) & exists x2.(_make(x2) & (x1 = x2))) & exists x3.(_animal(x3) & exists x4.(_carnivore(x4) & (x3 = x4))))
+(exists x1.(_girl(x1) & exists x2.(_gusher(x2) & (x1 = x2))) & exists x3.(_process(x3) & exists x4.(_resource(x4) & (x3 = x4))))
+(exists x1.(_substance(x1) & exists x2.(_element(x2) & (x1 = x2))) & exists x3.(_man(x3) & exists x4.(_farmer(x4) & (x3 = x4))))
+(exists x1.(_broker(x1) & exists x2.(_scam(x2) & (x1 = x2))) & exists x3.(_situation(x3) & exists x4.(_insurer(x4) & (x3 = x4))))
+(exists x1.(_ninja(x1) & exists x2.(_member(x2) & (x1 = x2))) & exists x3.(_felony(x3) & exists x4.(_people(x4) & (x3 = x4))))
+(exists x1.(_kind(x1) & exists x2.(_man(x2) & (x1 = x2))) & exists x3.(_girl(x3) & exists x4.(_mythbuster(x4) & (x3 = x4))))
+(exists x1.(_case(x1) & exists x2.(_hundred(x2) & (x1 = x2))) & exists x3.(_leader(x3) & exists x4.(_introvert(x4) & (x3 = x4))))
+(exists x1.(_woman(x1) & exists x2.(_mother(x2) & (x1 = x2))) & exists x3.(_apple(x3) & exists x4.(_biennial(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_choice(x1) & exists x2.(_matter(x2) & (x1 = x2))) & exists x3.(_immigrant(x3) & exists x4.(_victim(x4) & (x3 = x4))))
+(exists x1.(_other(x1) & exists x2.(_hopeful(x2) & (x1 = x2))) & exists x3.(_realmer(x3) & exists x4.(_x_dash_phile(x4) & (x3 = x4))))
+(exists x1.(_method(x1) & exists x2.(_combination(x2) & (x1 = x2))) & exists x3.(_child(x3) & exists x4.(_orphan(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_man(x1) & exists x2.(_gulf(x2) & (x1 = x2))) & exists x3.(_subsystem(x3) & exists x4.(_source(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_people(x1) & exists x2.(_asshat(x2) & (x1 = x2))) & exists x3.(_postulator(x3) & _laypeople(x3)))
+syntax_error
+(exists x1.(_child(x1) & exists x2.(_blessing(x2) & (x1 = x2))) & exists x3.(_man(x3) & exists x4.(_workaholic(x4) & (x3 = x4))))
+(exists x1.(_contraceptive(x1) & exists x2.(_abortifacient(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_trait(x4) & (x3 = x4))))
+(exists x1.(_other(x1) & exists x2.(_criminal(x2) & (x1 = x2))) & exists x3.(_case(x3) & exists x4.(_child(x4) & (x3 = x4))))
+(exists x1.(_item(x1) & exists x2.(_duplicate(x2) & (x1 = x2))) & exists x3.(_teacher(x3) & exists x4.(_educator(x4) & (x3 = x4))))
+(exists x1.(_peer(x1) & exists x2.(_member(x2) & (x1 = x2))) & exists x3.(_client(x3) & exists x4.(_adolescent(x4) & (x3 = x4))))
+(exists x1.(_pen(x1) & exists x2.(_book(x2) & (x1 = x2))) & exists x3.(_participant(x3) & exists x4.(_artist(x4) & (x3 = x4))))
+(exists x1.(_yeast(x1) & exists x2.(_basidiomycete(x2) & (x1 = x2))) & exists x3.(_place(x3) & exists x4.(_people(x4) & (x3 = x4))))
+(exists x1.(_romanian(x1) & exists x2.(_hothead(x2) & (x1 = x2))) & exists x3.(_thing(x3) & exists x4.(_absolute(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_people(x1) & exists x2.(_workaholic(x2) & (x1 = x2))) & exists x3.(_goddess(x3) & exists x4.(_mother(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_behavior(x1) & exists x2.(_manifestation(x2) & (x1 = x2))) & exists x3.(_sense(x3) & exists x4.(_place(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_mitzvo(x1) & exists x2.(_chukim(x2) & (x1 = x2))) & exists x3.(_concept(x3) & exists x4.(_specification(x4) & (x3 = x4))))
+(exists x1.(_other(x1) & _relaxi(x1)) & exists x2.(_company(x2) & exists x3.(_mile(x3) & (x2 = x3))))
+(exists x1.(_people(x1) & exists x2.(_vegetarian(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_dictator(x4) & (x3 = x4))))
+(exists x1.(_warning(x1) & exists x2.(_update(x2) & (x1 = x2))) & exists x3.(_industry(x3) & exists x4.(_goal(x4) & (x3 = x4))))
+(exists x1.(_child(x1) & exists x2.(_talker(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_exhibitionist(x4) & (x3 = x4))))
+(exists x1.(_mirna(x1) & exists x2.(_oncomir(x2) & (x1 = x2))) & exists x3.(_point(x3) & exists x4.(_dinosaur(x4) & (x3 = x4))))
+(exists x1.(_workshop(x1) & exists x2.(_dud(x2) & (x1 = x2))) & exists x3.(_course(x3) & exists x4.(_prerequisity(x4) & (x3 = x4))))
+(exists x1.(_native(x1) & exists x2.(_cannibal(x2) & (x1 = x2))) & exists x3.(_contributor(x3) & exists x4.(_authority(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_scientist(x1) & exists x2.(_advocate(x2) & (x1 = x2))) & exists x3.(_cyberathlete(x3) & exists x4.(_generalist(x4) & (x3 = x4))))
+(exists x1.(_thought(x1) & exists x2.(_terrorist(x2) & (x1 = x2))) & exists x3.(_expert(x3) & exists x4.(_dissenter(x4) & (x3 = x4))))
+(exists x1.(_folk(x1) & exists x2.(_foreigner(x2) & (x1 = x2))) & exists x3.(_student(x3) & exists x4.(_beginner(x4) & (x3 = x4))))
+(exists x1.(_inspector(x1) & exists x2.(_spy(x2) & (x1 = x2))) & exists x3.(_youtube(x3) & exists x4.(_video(x4) & (x3 = x4))))
+semantics_error
+(exists x1.(_decomposer(x1) & exists x2.(_beetle(x2) & (x1 = x2))) & exists x3.(_student(x3) & exists x4.(_bricklayer(x4) & (x3 = x4))))
+(exists x1.(_people(x1) & exists x2.(_decision_dash_maker(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_exhibitionist(x4) & (x3 = x4))))
+(exists x1.(_species(x1) & exists x2.(_pest(x2) & (x1 = x2))) & exists x3.(_exception(x3) & exists x4.(_elective(x4) & (x3 = x4))))
+(exists x1.(_soldier(x1) & exists x2.(_volunteer(x2) & (x1 = x2))) & exists x3.(_classroom(x3) & exists x4.(_example(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_people(x1) & exists x2.(_singer(x2) & (x1 = x2))) & exists x3.(_hungarians(x3) & exists x4.(_murderer(x4) & (x3 = x4))))
+(exists x1.(_case(x1) & exists x2.(_survivor(x2) & (x1 = x2))) & exists x3.(_privatizer(x3) & exists x4.(_people(x4) & (x3 = x4))))
+(exists x1.(_product(x1) & exists x2.(_mixture(x2) & (x1 = x2))) & exists x3.(_fish(x3) & exists x4.(_homebody(x4) & (x3 = x4))))
+(exists x1.(_coach(x1) & exists x2.(_volunteer(x2) & (x1 = x2))) & exists x3.(_denomination(x3) & exists x4.(_cult(x4) & (x3 = x4))))
+(exists x1.(_people(x1) & exists x2.(_masochist(x2) & (x1 = x2))) & exists x3.(_player(x3) & exists x4.(_idiot(x4) & (x3 = x4))))
+(exists x1.(_people(x1) & exists x2.(_atheist(x2) & (x1 = x2))) & exists x3.(_name(x3) & exists x4.(_actor(x4) & (x3 = x4))))
+(exists x1.(_people(x1) & exists x2.(_miner(x2) & (x1 = x2))) & exists x3.(_state(x3) & exists x4.(_standout(x4) & (x3 = x4))))
+(exists x1.(_malady(x1) & exists x2.(_race(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_cooker(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_protestant(x1) & exists x2.(_separatist_dash_nationalist(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_dependent(x4) & (x3 = x4))))
+(exists x1.(_people(x1) & exists x2.(_artist(x2) & (x1 = x2))) & exists x3.(_guest(x3) & exists x4.(_vegetarian(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_trainee(x1) & exists x2.(_member(x2) & (x1 = x2))) & exists x3.(_undesirable(x3) & exists x4.(_immigrant(x4) & (x3 = x4))))
+(exists x1.(_student(x1) & exists x2.(_bully(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_risk_dash_taker(x4) & (x3 = x4))))
+(exists x1.(_rebel(x1) & exists x2.(_renegade(x2) & (x1 = x2))) & exists x3.(_headway(x3) & exists x4.(_thing(x4) & (x3 = x4))))
+(exists x1.(_rest(x1) & _geuen(x1)) & exists x2.(_instance(x2) & exists x3.(_official(x3) & (x2 = x3))))
+(exists x1.(_condition(x1) & exists x2.(_symptom(x2) & (x1 = x2))) & exists x3.(_face(x3) & exists x4.(_vision(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_broadcaster(x1) & exists x2.(_member(x2) & (x1 = x2))) & exists x3.(_meteorite(x3) & exists x4.(_chip(x4) & (x3 = x4))))
+(exists x1.(_frame(x1) & exists x2.(_keyframe(x2) & (x1 = x2))) & exists x3.(_peopleöthere(x3) & exists x4.(_hundred(x4) & (x3 = x4))))
+(exists x1.(_people(x1) & exists x2.(_ocean(x2) & (x1 = x2))) & exists x3.(_course(x3) & exists x4.(_pre_dash_requisite(x4) & (x3 = x4))))
+(exists x1.(_left_dash_winger(x1) & exists x2.(_euroskeptic(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_atheist(x4) & (x3 = x4))))
+(exists x1.(_thing(x1) & exists x2.(_part(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_refugee(x4) & (x3 = x4))))
+(exists x1.(_aftp(x1) & exists x2.(_source(x2) & (x1 = x2))) & exists x3.(_friend(x3) & exists x4.(_patron(x4) & (x3 = x4))))
+(exists x1.(_scheme(x1) & exists x2.(_means(x2) & (x1 = x2))) & exists x3.(_leader(x3) & exists x4.(_fornicator(x4) & (x3 = x4))))
+(exists x1.(_people(x1) & exists x2.(_fan(x2) & (x1 = x2))) & exists x3.(_patient(x3) & exists x4.(_asymptomatic(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_face(x1) & exists x2.(_vision(x2) & (x1 = x2))) & exists x3.(_name(x3) & exists x4.(_people(x4) & (x3 = x4))))
+(exists x1.(_factor(x1) & exists x2.(_cause(x2) & (x1 = x2))) & exists x3.(_occupation(x3) & exists x4.(_customer(x4) & (x3 = x4))))
+(exists x1.(_people(x1) & exists x2.(_singer(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_nut(x4) & (x3 = x4))))
+(exists x1.(_game(x1) & exists x2.(_perpetrator(x2) & (x1 = x2))) & exists x3.(_animal(x3) & exists x4.(_master(x4) & (x3 = x4))))
+(exists x1.(_community(x1) & exists x2.(_reminder(x2) & (x1 = x2))) & exists x3.(_deference(x3) & exists x4.(_visitor(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_part(x1) & exists x2.(_moder(x2) & (x1 = x2))) & exists x3.(_extent(x3) & exists x4.(_animal(x4) & (x3 = x4))))
+(exists x1.(_teacher(x1) & exists x2.(_american(x2) & (x1 = x2))) & exists x3.(_aborigine(x3) & exists x4.(_victim(x4) & (x3 = x4))))
+(exists x1.(_silent(x1) & exists x2.(_masterpiece(x2) & (x1 = x2))) & exists x3.(_promotion(x3) & exists x4.(_payback(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_case(x1) & exists x2.(_weed(x2) & (x1 = x2))) & exists x3.(_student(x3) & exists x4.(_difference(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_man(x1) & exists x2.(_genius(x2) & (x1 = x2))) & exists x3.(_mine(x3) & exists x4.(_tourist(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_case(x1) & exists x2.(_work(x2) & (x1 = x2))) & exists x3.(_nation(x3) & exists x4.(_member(x4) & (x3 = x4))))
+(exists x1.(_metaplasia(x1) & exists x2.(_marker(x2) & (x1 = x2))) & exists x3.(_group(x3) & exists x4.(_woman(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_people(x1) & exists x2.(_creator(x2) & (x1 = x2))) & exists x3.(_room(x3) & exists x4.(_double(x4) & (x3 = x4))))
+(exists x1.(_people(x1) & exists x2.(_footballer(x2) & (x1 = x2))) & exists x3.(_time(x3) & exists x4.(_againt(x4) & (x3 = x4))))
+(exists x1.(_beep(x1) & exists x2.(_bop(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_twin(x4) & (x3 = x4))))
+(exists x1.(_disease(x1) & exists x2.(_killer(x2) & (x1 = x2))) & exists x3.(_bug(x3) & exists x4.(_killer(x4) & (x3 = x4))))
+(exists x1.(_broker(x1) & exists x2.(_limit(x2) & (x1 = x2))) & exists x3.(_event(x3) & exists x4.(_member(x4) & (x3 = x4))))
+(exists x1.(_show(x1) & exists x2.(_co_dash_production(x2) & (x1 = x2))) & exists x3.(_opponent(x3) & exists x4.(_kook(x4) & (x3 = x4))))
+semantics_error
+syntax_error
+syntax_error
+(exists x1.(_people(x1) & exists x2.(_sucker(x2) & (x1 = x2))) & exists x3.(_inmate(x3) & exists x4.(_english_dash_speaker(x4) & (x3 = x4))))
+(exists x1.(_number(x1) & exists x2.(_estimate(x2) & (x1 = x2))) & exists x3.(_country(x3) & exists x4.(_sms(x4) & (x3 = x4))))
+(exists x1.(_thing(x1) & exists x2.(_mistake(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_vegetarian(x4) & (x3 = x4))))
+(exists x1.(_pharisee(x1) & exists x2.(_follower(x2) & (x1 = x2))) & exists x3.(_other(x3) & exists x4.(_conductor(x4) & (x3 = x4))))
+(exists x1.(_thing(x1) & exists x2.(_classic(x2) & (x1 = x2))) & exists x3.(_cadence(x3) & exists x4.(_stairway(x4) & (x3 = x4))))
+(exists x1.(_attribute(x1) & exists x2.(_subset(x2) & (x1 = x2))) & exists x3.(_man(x3) & exists x4.(_maniac(x4) & (x3 = x4))))
+(exists x1.(_candidate(x1) & exists x2.(_member(x2) & (x1 = x2))) & exists x3.(_concom(x3) & exists x4.(_lawyer(x4) & (x3 = x4))))
+(exists x1.(_nematode(x1) & exists x2.(_vector(x2) & (x1 = x2))) & exists x3.(_attention(x3) & exists x4.(_lesion(x4) & (x3 = x4))))
+(exists x1.(_people(x1) & exists x2.(_rat(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_rat(x4) & (x3 = x4))))
+(exists x1.(_people(x1) & exists x2.(_dog(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_dog(x4) & (x3 = x4))))
+(exists x1.(_church(x1) & exists x2.(_corporation(x2) & (x1 = x2))) & exists x3.(_scientist(x3) & exists x4.(_debunker(x4) & (x3 = x4))))
+(exists x1.(_palestinian(x1) & exists x2.(_christian(x2) & (x1 = x2))) & exists x3.(_piece(x3) & exists x4.(_replica(x4) & (x3 = x4))))
+syntax_error
+syntax_error
+(exists x1.(_animal(x1) & exists x2.(_crossbred(x2) & (x1 = x2))) & exists x3.(_row(x3) & exists x4.(_dummy(x4) & (x3 = x4))))
+(exists x1.(_example(x1) & _miyagi(x1)) & exists x2.(_leader(x2) & exists x3.(_liar(x3) & (x2 = x3))))
+(exists x1.(_harringtonian(x1) & exists x2.(_free_dash_thinker(x2) & (x1 = x2))) & exists x3.(_disabilty(x3) & exists x4.(_contraindication(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_fossil(x1) & exists x2.(_fragment(x2) & (x1 = x2))) & exists x3.(_victim(x3) & exists x4.(_child(x4) & (x3 = x4))))
+(exists x1.(_other(x1) & exists x2.(_non_dash_believer(x2) & (x1 = x2))) & exists x3.(_case(x3) & exists x4.(_child(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_child(x1) & exists x2.(_worrier(x2) & (x1 = x2))) & exists x3.(_path(x3) & exists x4.(_echospace(x4) & (x3 = x4))))
+(exists x1.(_face(x1) & exists x2.(_vision(x2) & (x1 = x2))) & exists x3.(_number(x3) & exists x4.(_anagram(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_people(x1) & exists x2.(_prankster(x2) & (x1 = x2))) & exists x3.(_time(x3) & exists x4.(_master(x4) & (x3 = x4))))
+(exists x1.(_character(x1) & exists x2.(_compilation(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_arsehole(x4) & (x3 = x4))))
+(exists x1.(_faction(x1) & exists x2.(_holdover(x2) & (x1 = x2))) & exists x3.(_israelite(x3) & exists x4.(_believer(x4) & (x3 = x4))))
+(exists x1.(_weed(x1) & exists x2.(_host(x2) & (x1 = x2))) & exists x3.(_student(x3) & exists x4.(_architect(x4) & (x3 = x4))))
+(exists x1.(_constituency(x1) & exists x2.(_grounds(x2) & (x1 = x2))) & exists x3.(_service(x3) & exists x4.(_tradeable(x4) & (x3 = x4))))
+syntax_error
+syntax_error
+(exists x1.(_blib(x1) & exists x2.(_blob(x2) & (x1 = x2))) & exists x3.(_community(x3) & exists x4.(_community(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_cymek(x1) & exists x2.(_titan(x2) & (x1 = x2))) & exists x3.(_measure(x3) & exists x4.(_accomplice(x4) & (x3 = x4))))
+syntax_error
+syntax_error
+syntax_error
+syntax_error
+syntax_error
+(exists x1.(_area(x1) & exists x2.(_decade(x2) & (x1 = x2))) & exists x3.(_interest(x3) & exists x4.(_woman(x4) & (x3 = x4))))
+(exists x1.(_university(x1) & exists x2.(_destination(x2) & (x1 = x2))) & exists x3.(_area(x3) & exists x4.(_voucher(x4) & (x3 = x4))))
+(exists x1.(_christian(x1) & exists x2.(_healer(x2) & (x1 = x2))) & exists x3.(_state(x3) & exists x4.(_obstacle(x4) & (x3 = x4))))
+(exists x1.(_other(x1) & exists x2.(_multi_dash_product(x2) & (x1 = x2))) & exists x3.(_facilitator(x3) & exists x4.(_professional(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_character(x1) & exists x2.(_jerk(x2) & (x1 = x2))) & exists x3.(_geo(x3) & exists x4.(_organism(x4) & (x3 = x4))))
+(exists x1.(_case(x1) & exists x2.(_toilet(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_workaholic(x4) & (x3 = x4))))
+(exists x1.(_people(x1) & exists x2.(_believer(x2) & (x1 = x2))) & exists x3.(_nāths(x3) & exists x4.(_ascetic(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_people(x1) & exists x2.(_carer(x2) & (x1 = x2))) & exists x3.(_store(x3) & exists x4.(_studio(x4) & (x3 = x4))))
+(exists x1.(_christian(x1) & exists x2.(_slave(x2) & (x1 = x2))) & exists x3.(_character(x3) & exists x4.(_blend(x4) & (x3 = x4))))
+(exists x1.(_app(x1) & exists x2.(_driver(x2) & (x1 = x2))) & exists x3.(_parent(x3) & exists x4.(_observer(x4) & (x3 = x4))))
+(exists x1.(_people(x1) & exists x2.(_teacher(x2) & (x1 = x2))) & exists x3.(_form(x3) & exists x4.(_ring(x4) & (x3 = x4))))
+(exists x1.(_muslim(x1) & exists x2.(_muslim(x2) & (x1 = x2))) & exists x3.(_ofmica133411811there(x3) & exists x4.(_reason(x4) & (x3 = x4))))
+(exists x1.(_syrian(x1) & exists x2.(_terrorist(x2) & (x1 = x2))) & exists x3.(_country(x3) & exists x4.(_action(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_denizen(x1) & exists x2.(_hunter_dash_gatherer(x2) & (x1 = x2))) & exists x3.(_other(x3) & exists x4.(_mother(x4) & (x3 = x4))))
+(exists x1.(_people(x1) & _be(x1) & Prog(_offspr(x1))) & exists x2.(_festival(x2) & exists x3.(_tent(x3) & (x2 = x3))))
+(exists x1.(_jew(x1) & exists x2.(_bolshevik(x2) & (x1 = x2))) & exists x3.(_essay(x3) & exists x4.(_super(x4) & (x3 = x4))))
+(exists x1.(_stage(x1) & exists x2.(_item(x2) & (x1 = x2))) & exists x3.(_weakness(x3) & exists x4.(_strength(x4) & (x3 = x4))))
+(exists x1.(_calpullus(x1) & exists x2.(_enclave(x2) & (x1 = x2))) & exists x3.(_organization(x3) & exists x4.(_talent_dash_mobilizer(x4) & (x3 = x4))))
+(exists x1.(_other(x1) & exists x2.(_leader(x2) & (x1 = x2))) & exists x3.(_industry(x3) & exists x4.(_operation(x4) & (x3 = x4))))
+(exists x1.(_clergy(x1) & exists x2.(_sign(x2) & (x1 = x2))) & exists x3.(_seat(x3) & exists x4.(_sofa(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_people(x1) & exists x2.(_professional(x2) & (x1 = x2))) & exists x3.(_town(x3) & exists x4.(_century(x4) & (x3 = x4))))
+(exists x1.(_anthroposophist(x1) & exists x2.(_fascist(x2) & (x1 = x2))) & exists x3.(_mosque(x3) & exists x4.(_place(x4) & (x3 = x4))))
+(exists x1.(_chapter(x1) & exists x2.(_flashback(x2) & (x1 = x2))) & exists x3.(_drug(x3) & exists x4.(_breakthrough(x4) & (x3 = x4))))
+(exists x1.(_value(x1) & exists x2.(_estimate(x2) & (x1 = x2))) & exists x3.(_species(x3) & exists x4.(_climber(x4) & (x3 = x4))))
+(exists x1.(_other(x1) & exists x2.(_practitioner(x2) & (x1 = x2))) & exists x3.(_activity(x3) & exists x4.(_thing(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_track(x1) & exists x2.(_rendition(x2) & (x1 = x2))) & exists x3.(_fact(x3) & exists x4.(_crime(x4) & (x3 = x4))))
+(exists x1.(_circumstance(x1) & exists x2.(_one(x2) & (x1 = x2))) & exists x3.(_researcher(x3) & exists x4.(_trait(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_man(x1) & exists x2.(_one(x2) & (x1 = x2))) & exists x3.(_embrace(x3) & _multi_dash_purpose(x3)))
+(exists x1.(_symlink(x1) & _erroneus(x1)) & exists x2.(_man(x2) & exists x3.(_schemer(x3) & (x2 = x3))))
+(exists x1.(_people(x1) & exists x2.(_friend(x2) & (x1 = x2))) & exists x3.(_doctor(x3) & exists x4.(_butt(x4) & (x3 = x4))))
+(exists x1.(_weed(x1) & exists x2.(_escapee(x2) & (x1 = x2))) & exists x3.(_place(x3) & exists x4.(_dwelling(x4) & (x3 = x4))))
+(exists x1.(_car(x1) & exists x2.(_work(x2) & (x1 = x2))) & exists x3.(_parent(x3) & exists x4.(_parent(x4) & (x3 = x4))))
+(exists x1.(_shape(x1) & exists x2.(_people(x2) & (x1 = x2))) & exists x3.(_charity(x3) & exists x4.(_master(x4) & (x3 = x4))))
+(exists x1.(_variable(x1) & exists x2.(_thing(x2) & (x1 = x2))) & exists x3.(_thing(x3) & exists x4.(_trade_dash_off(x4) & (x3 = x4))))
+(exists x1.(_pastoralist(x1) & exists x2.(_rancher(x2) & (x1 = x2))) & exists x3.(_guy(x3) & exists x4.(_dick(x4) & (x3 = x4))))
+(exists x1.(_other(x1) & exists x2.(_aborigine(x2) & (x1 = x2))) & exists x3.(_client(x3) & exists x4.(_injector(x4) & (x3 = x4))))
+(exists x1.(_character(x1) & exists x2.(_amalgam(x2) & (x1 = x2))) & exists x3.(_household(x3) & exists x4.(_member(x4) & (x3 = x4))))
+(exists x1.(_people(x1) & exists x2.(_natural(x2) & (x1 = x2))) & exists x3.(_politician(x3) & exists x4.(_scientist(x4) & (x3 = x4))))
+(exists x1.(_comic(x1) & exists x2.(_advocate(x2) & (x1 = x2))) & exists x3.(_original(x3) & exists x4.(_directory(x4) & (x3 = x4))))
+(exists x1.(_other(x1) & exists x2.(_example(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_natural(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_fraudster(x1) & exists x2.(_psychopath(x2) & (x1 = x2))) & exists x3.(_dam(x3) & exists x4.(_marvel(x4) & (x3 = x4))))
+(exists x1.(_individual(x1) & exists x2.(_victim(x2) & (x1 = x2))) & exists x3.(_woman(x3) & exists x4.(_celebrity(x4) & (x3 = x4))))
+(exists x1.(_people(x1) & exists x2.(_recipient(x2) & (x1 = x2))) & exists x3.(_parent(x3) & exists x4.(_supporter(x4) & (x3 = x4))))
+(exists x1.(_suggestion(x1) & exists x2.(_superfood(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_heterosexual(x4) & (x3 = x4))))
+(exists x1.(_animal(x1) & exists x2.(_pig(x2) & (x1 = x2))) & exists x3.(_species(x3) & exists x4.(_vector(x4) & (x3 = x4))))
+(exists x1.(_setting(x1) & exists x2.(_jam(x2) & (x1 = x2))) & exists x3.(_plant(x3) & exists x4.(_zombie(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_simulation(x1) & exists x2.(_application(x2) & (x1 = x2))) & exists x3.(_man(x3) & exists x4.(_plumber(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_scar(x1) & exists x2.(_ornament(x2) & (x1 = x2))) & exists x3.(_muslim(x3) & exists x4.(_suicide_dash_bombing(x4) & (x3 = x4))))
+(exists x1.(_man(x1) & exists x2.(_buyer(x2) & (x1 = x2))) & exists x3.(_woman(x3) & exists x4.(_commodity(x4) & (x3 = x4))))
+(exists x1.(_screenplay(x1) & exists x2.(_artwork(x2) & (x1 = x2))) & exists x3.(_fighter(x3) & exists x4.(_banger(x4) & (x3 = x4))))
+(exists x1.(_people(x1) & exists x2.(_thief(x2) & (x1 = x2))) & exists x3.(_case(x3) & exists x4.(_one(x4) & (x3 = x4))))
+syntax_error
+syntax_error
+(exists x1.(_cyclist(x1) & exists x2.(_idiot(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_tourist(x4) & (x3 = x4))))
+(exists x1.(_thing(x1) & exists x2.(_struggle(x2) & (x1 = x2))) & exists x3.(_firefly(x3) & exists x4.(_cannibal(x4) & (x3 = x4))))
+(exists x1.(_scene(x1) & exists x2.(_placeholder(x2) & (x1 = x2))) & exists x3.(_pursuit(x3) & exists x4.(_investment(x4) & (x3 = x4))))
+(exists x1.(_cardinal(x1) & exists x2.(_head(x2) & (x1 = x2))) & exists x3.(_species(x3) & exists x4.(_target(x4) & (x3 = x4))))
+(exists x1.(_man(x1) & exists x2.(_grower(x2) & (x1 = x2))) & exists x3.(_interpretation(x3) & exists x4.(_matter(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_people(x1) & exists x2.(_fan(x2) & (x1 = x2))) & exists x3.(_course(x3) & exists x4.(_continuation(x4) & (x3 = x4))))
+(exists x1.(_artist(x1) & exists x2.(_superstar(x2) & (x1 = x2))) & exists x3.(_footballer(x3) & exists x4.(_dickhead(x4) & (x3 = x4))))
+(exists x1.(_mir(x1) & exists x2.(_oncomir(x2) & (x1 = x2))) & exists x3.(_problem(x3) & exists x4.(_professor(x4) & (x3 = x4))))
+(exists x1.(_filipino(x1) & exists x2.(_hypocrite(x2) & (x1 = x2))) & exists x3.(_shepherd(x3) & exists x4.(_witness(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_participant(x1) & exists x2.(_alumnus(x2) & (x1 = x2))) & exists x3.(_way(x3) & exists x4.(_brain(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_state(x1) & exists x2.(_holdover(x2) & (x1 = x2))) & exists x3.(_angelophany(x3) & exists x4.(_theophany(x4) & (x3 = x4))))
+(exists x1.(_animal(x1) & exists x2.(_pet(x2) & (x1 = x2))) & exists x3.(_rwandan(x3) & exists x4.(_victim(x4) & (x3 = x4))))
+(exists x1.(_case(x1) & exists x2.(_budget(x2) & (x1 = x2))) & exists x3.(_country(x3) & exists x4.(_member(x4) & (x3 = x4))))
+(exists x1.(_page(x1) & exists x2.(_subpage(x2) & (x1 = x2))) & exists x3.(_other(x3) & exists x4.(_graduate(x4) & (x3 = x4))))
+(exists x1.(_country(x1) & exists x2.(_member(x2) & (x1 = x2))) & exists x3.(_representative(x3) & exists x4.(_woman(x4) & (x3 = x4))))
+(exists x1.(_apostle(x1) & exists x2.(_watchman(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_spy(x4) & (x3 = x4))))
+(exists x1.(_candidate(x1) & exists x2.(_newby(x2) & (x1 = x2))) & exists x3.(_animal(x3) & exists x4.(_outsider(x4) & (x3 = x4))))
+(exists x1.(_background(x1) & exists x2.(_mash_dash_up(x2) & (x1 = x2))) & exists x3.(_case(x3) & exists x4.(_exception(x4) & (x3 = x4))))
+(exists x1.(_occupant(x1) & exists x2.(_woman(x2) & (x1 = x2))) & exists x3.(_class(x3) & exists x4.(_prerequisite(x4) & (x3 = x4))))
+(exists x1.(_friend(x1) & exists x2.(_slave_dash_owner(x2) & (x1 = x2))) & exists x3.(_ministry(x3) & exists x4.(_expert(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_terrorist(x1) & exists x2.(_victim(x2) & (x1 = x2))) & exists x3.(_student(x3) & exists x4.(_child(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_people(x1) & exists x2.(_creationist(x2) & (x1 = x2))) & exists x3.(_disease(x3) & exists x4.(_zoonose(x4) & (x3 = x4))))
+(exists x1.(_example(x1) & exists x2.(_attorney(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_candidate(x4) & (x3 = x4))))
+(exists x1.(_outfit(x1) & exists x2.(_example(x2) & (x1 = x2))) & exists x3.(_track(x3) & exists x4.(_riff(x4) & (x3 = x4))))
+(exists x1.(_assassination(x1) & exists x2.(_ambush(x2) & (x1 = x2))) & exists x3.(_gossip(x3) & exists x4.(_nut(x4) & (x3 = x4))))
+(exists x1.(_fiction(x1) & exists x2.(_falsehood(x2) & (x1 = x2))) & exists x3.(_fiction(x3) & exists x4.(_falsehood(x4) & (x3 = x4))))
+(exists x1.(_victim(x1) & exists x2.(_inhabitant(x2) & (x1 = x2))) & exists x3.(_cob(x3) & exists x4.(_rainbow(x4) & (x3 = x4))))
+(exists x1.(_player(x1) & exists x2.(_constant(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_website(x4) & (x3 = x4))))
+(exists x1.(_people(x1) & exists x2.(_owner(x2) & (x1 = x2))) & exists x3.(_party(x3) & exists x4.(_tariff(x4) & (x3 = x4))))
+(exists x1.(_leader(x1) & exists x2.(_stickler(x2) & (x1 = x2))) & exists x3.(_attacker(x3) & exists x4.(_member(x4) & (x3 = x4))))
+(exists x1.(_name(x1) & exists x2.(_repeat(x2) & (x1 = x2))) & exists x3.(_way(x3) & exists x4.(_crowd(x4) & (x3 = x4))))
+(exists x1.(_people(x1) & exists x2.(_denial(x2) & (x1 = x2))) & exists x3.(_folk(x3) & exists x4.(_naysayer(x4) & (x3 = x4))))
+(exists x1.(_scientist(x1) & exists x2.(_egotist(x2) & (x1 = x2))) & exists x3.(_designer(x3) & exists x4.(_artist(x4) & (x3 = x4))))
+(exists x1.(_trade(x1) & exists x2.(_option(x2) & (x1 = x2))) & exists x3.(_detainee(x3) & exists x4.(_child(x4) & (x3 = x4))))
+(exists x1.(_folk(x1) & exists x2.(_fool(x2) & (x1 = x2))) & exists x3.(_judge(x3) & exists x4.(_atheist(x4) & (x3 = x4))))
+(exists x1.(_boy(x1) & exists x2.(_sook(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_leader(x4) & (x3 = x4))))
+(exists x1.(_charity(x1) & exists x2.(_thousand(x2) & (x1 = x2))) & exists x3.(_species(x3) & exists x4.(_phytopathogen(x4) & (x3 = x4))))
+(exists x1.(_day(x1) & exists x2.(_stone(x2) & (x1 = x2))) & exists x3.(_level(x3) & exists x4.(_thing(x4) & (x3 = x4))))
+(exists x1.(_area(x1) & exists x2.(_drawing(x2) & (x1 = x2))) & exists x3.(_departure(x3) & exists x4.(_death(x4) & (x3 = x4))))
+(exists x1.(_school(x1) & exists x2.(_debt(x2) & (x1 = x2))) & exists x3.(_folk(x3) & _fwd(x3)))
+(exists x1.(_imam(x1) & exists x2.(_progressist(x2) & (x1 = x2))) & exists x3.(_play(x3) & exists x4.(_masque(x4) & (x3 = x4))))
+(exists x1.(_tissue(x1) & exists x2.(_million(x2) & (x1 = x2))) & exists x3.(_place(x3) & exists x4.(_shower(x4) & (x3 = x4))))
+(exists x1.(_dictator(x1) & exists x2.(_enemy(x2) & (x1 = x2))) & exists x3.(_woman(x3) & exists x4.(_capitalist(x4) & (x3 = x4))))
+(exists x1.(_man(x1) & exists x2.(_boy(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_idiot(x4) & (x3 = x4))))
+(exists x1.(_track(x1) & exists x2.(_performance(x2) & (x1 = x2))) & exists x3.(_guest(x3) & exists x4.(_member(x4) & (x3 = x4))))
+(exists x1.(_painting(x1) & exists x2.(_holdover(x2) & (x1 = x2))) & exists x3.(_resource(x3) & exists x4.(_container(x4) & (x3 = x4))))
+(exists x1.(_object(x1) & exists x2.(_star(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_precontemplator(x4) & (x3 = x4))))
+(exists x1.(_population(x1) & exists x2.(_egg_dash_layer(x2) & (x1 = x2))) & exists x3.(_game(x3) & exists x4.(_simulation(x4) & (x3 = x4))))
+syntax_error
+syntax_error
+(exists x1.(_casualty(x1) & exists x2.(_citizen(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_newcomer(x4) & (x3 = x4))))
+(exists x1.(_student(x1) & exists x2.(_predator(x2) & (x1 = x2))) & exists x3.(_shareholder(x3) & exists x4.(_minister(x4) & (x3 = x4))))
+(exists x1.(_parent(x1) & exists x2.(_non_dash_reader(x2) & (x1 = x2))) & exists x3.(_part(x3) & exists x4.(_spar(x4) & (x3 = x4))))
+(exists x1.(_civilian(x1) & exists x2.(_member(x2) & (x1 = x2))) & exists x3.(_girl(x3) & exists x4.(_victim(x4) & (x3 = x4))))
+(exists x1.(_woman(x1) & exists x2.(_priestess(x2) & (x1 = x2))) & exists x3.(_speaker(x3) & exists x4.(_patient(x4) & (x3 = x4))))
+(exists x1.(_muslim(x1) & exists x2.(_immigrant(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_sport(x4) & (x3 = x4))))
+(exists x1.(_case(x1) & exists x2.(_thousand(x2) & (x1 = x2))) & exists x3.(_case(x3) & exists x4.(_hall(x4) & (x3 = x4))))
+(exists x1.(_player(x1) & exists x2.(_standout(x2) & (x1 = x2))) & exists x3.(_child(x3) & exists x4.(_bully(x4) & (x3 = x4))))
+(exists x1.(_other(x1) & exists x2.(_volunteer(x2) & (x1 = x2))) & exists x3.(_textbook(x3) & exists x4.(_spot(x4) & (x3 = x4))))
+(exists x1.(_game(x1) & exists x2.(_hundred(x2) & (x1 = x2))) & exists x3.(_decision(x3) & exists x4.(_matter(x4) & (x3 = x4))))
+(exists x1.(_looter(x1) & exists x2.(_people(x2) & (x1 = x2))) & exists x3.(_discovery(x3) & exists x4.(_invention(x4) & (x3 = x4))))
+(exists x1.(_well(x1) & exists x2.(_dud(x2) & (x1 = x2))) & exists x3.(_house(x3) & exists x4.(_timber_dash_structure(x4) & (x3 = x4))))
+(exists x1.(_scientist(x1) & exists x2.(_member(x2) & (x1 = x2))) & exists x3.(_farmer(x3) & exists x4.(_scavenger(x4) & (x3 = x4))))
+(exists x1.(_case(x1) & exists x2.(_supporter(x2) & (x1 = x2))) & exists x3.(_scientist(x3) & exists x4.(_member(x4) & (x3 = x4))))
+(exists x1.(_sample(x1) & exists x2.(_bacterium(x2) & (x1 = x2))) & exists x3.(_man(x3) & exists x4.(_brute(x4) & (x3 = x4))))
+(exists x1.(_secularist(x1) & exists x2.(_opponent(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_parent(x4) & (x3 = x4))))
+(exists x1.(_country(x1) & exists x2.(_member(x2) & (x1 = x2))) & exists x3.(_case(x3) & exists x4.(_year(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_man(x1) & exists x2.(_greek(x2) & (x1 = x2))) & exists x3.(_contributor(x3) & exists x4.(_organization(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_child(x1) & exists x2.(_underachiever(x2) & (x1 = x2))) & exists x3.(_patient(x3) & exists x4.(_abnormality(x4) & (x3 = x4))))
+(exists x1.(_anarchist(x1) & exists x2.(_pacifist(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_slave(x4) & (x3 = x4))))
+syntax_error
+syntax_error
+(exists x1.(_refugee(x1) & exists x2.(_criminal(x2) & (x1 = x2))) & exists x3.(_fact(x3) & exists x4.(_fact(x4) & (x3 = x4))))
+(exists x1.(_site(x1) & exists x2.(_people(x2) & (x1 = x2))) & exists x3.(_respects(x3) & exists x4.(_decade(x4) & (x3 = x4))))
+(exists x1.(_xbox(x1) & exists x2.(_dud(x2) & (x1 = x2))) & exists x3.(_firm(x3) & exists x4.(_broker(x4) & (x3 = x4))))
+syntax_error
+syntax_error
+(exists x1.(_other(x1) & exists x2.(_woman(x2) & (x1 = x2))) & exists x3.(_secret(x3) & _woh(x3)))
+syntax_error
+syntax_error
+(exists x1.(_three_dash_quarter(x1) & exists x2.(_jew(x2) & (x1 = x2))) & exists x3.(_family(x3) & exists x4.(_new_dash_comer(x4) & (x3 = x4))))
+(exists x1.(_decomposer(x1) & exists x2.(_earthworm(x2) & (x1 = x2))) & exists x3.(_man(x3) & exists x4.(_greek(x4) & (x3 = x4))))
+(exists x1.(_christian(x1) & exists x2.(_fascist(x2) & (x1 = x2))) & exists x3.(_practice(x3) & _out_dash_of_dash_bounds(x3)))
+syntax_error
+syntax_error
+(exists x1.(_people(x1) & exists x2.(_non_dash_perceiver(x2) & (x1 = x2))) & exists x3.(_page(x3) & exists x4.(_suggestion(x4) & (x3 = x4))))
+(exists x1.(_people(x1) & exists x2.(_asshole(x2) & (x1 = x2))) & exists x3.(_day(x3) & exists x4.(_century(x4) & (x3 = x4))))
+(exists x1.(_company(x1) & exists x2.(_attack(x2) & (x1 = x2))) & exists x3.(_way(x3) & exists x4.(_victim(x4) & (x3 = x4))))
+(exists x1.(_site(x1) & _vuln(x1)) & exists x2.(_ally(x2) & exists x3.(_friend(x3) & (x2 = x3))))
+(exists x1.(_country(x1) & exists x2.(_exception(x2) & (x1 = x2))) & exists x3.(_offering(x3) & exists x4.(_webcast(x4) & (x3 = x4))))
+(exists x1.(_parent(x1) & exists x2.(_alcoholic(x2) & (x1 = x2))) & exists x3.(_document(x3) & exists x4.(_image(x4) & (x3 = x4))))
+(exists x1.(_case(x1) & exists x2.(_network(x2) & (x1 = x2))) & exists x3.(_item(x3) & exists x4.(_request(x4) & (x3 = x4))))
+(exists x1.(_constant(x1) & exists x2.(_marigold(x2) & (x1 = x2))) & exists x3.(_station(x3) & exists x4.(_producer(x4) & (x3 = x4))))
+(exists x1.(_term(x1) & exists x2.(_senses(x2) & (x1 = x2))) & exists x3.(_contractor(x3) & exists x4.(_civilian(x4) & (x3 = x4))))
+(exists x1.(_lodge(x1) & exists x2.(_client(x2) & (x1 = x2))) & exists x3.(_other(x3) & exists x4.(_widow(x4) & (x3 = x4))))
+(exists x1.(_representation(x1) & exists x2.(_admission(x2) & (x1 = x2))) & exists x3.(_species(x3) & exists x4.(_generalist(x4) & (x3 = x4))))
+(exists x1.(_family(x1) & exists x2.(_tortilla(x2) & (x1 = x2))) & exists x3.(_way(x3) & exists x4.(_extension(x4) & (x3 = x4))))
+(exists x1.(_ult(x1) & exists x2.(_exception(x2) & (x1 = x2))) & exists x3.(_remodeler(x3) & exists x4.(_flipper(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_cancer(x1) & exists x2.(_problem(x2) & (x1 = x2))) & exists x3.(_class(x3) & exists x4.(_trade(x4) & (x3 = x4))))
+(exists x1.(_microbat(x1) & exists x2.(_meat_dash_eater(x2) & (x1 = x2))) & exists x3.(_programmer(x3) & exists x4.(_programmer(x4) & (x3 = x4))))
+(exists x1.(_country(x1) & exists x2.(_cause(x2) & (x1 = x2))) & exists x3.(_individual(x3) & exists x4.(_member(x4) & (x3 = x4))))
+(exists x1.(_charity(x1) & exists x2.(_hundred(x2) & (x1 = x2))) & exists x3.(_one(x3) & exists x4.(_boy(x4) & (x3 = x4))))
+(exists x1.(_species(x1) & exists x2.(_winner(x2) & (x1 = x2))) & exists x3.(_parent(x3) & exists x4.(_child(x4) & (x3 = x4))))
+syntax_error
+syntax_error
+(exists x1.(_case(x1) & exists x2.(_technique(x2) & (x1 = x2))) & exists x3.(_community(x3) & exists x4.(_participant(x4) & (x3 = x4))))
+(exists x1.(_people(x1) & exists x2.(_ignoramus(x2) & (x1 = x2))) & exists x3.(_friend(x3) & exists x4.(_friend(x4) & (x3 = x4))))
+(exists x1.(_methanotroph(x1) & exists x2.(_treasure_dash_hunter(x2) & (x1 = x2))) & exists x3.(_song(x3) & exists x4.(_story(x4) & (x3 = x4))))
+(exists x1.(_stand(x1) & exists x2.(_lot(x2) & (x1 = x2))) & exists x3.(_other(x3) & exists x4.(_administrator(x4) & (x3 = x4))))
+(exists x1.(_dog(x1) & exists x2.(_chewer(x2) & (x1 = x2))) & exists x3.(_question(x3) & exists x4.(_difficult(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_chore(x1) & exists x2.(_woman(x2) & (x1 = x2))) & exists x3.(_material(x3) & exists x4.(_template(x4) & (x3 = x4))))
+(exists x1.(_case(x1) & exists x2.(_republican(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_manager(x4) & (x3 = x4))))
+(exists x1.(_case(x1) & exists x2.(_story(x2) & (x1 = x2))) & exists x3.(_town(x3) & exists x4.(_fatality(x4) & (x3 = x4))))
+(exists x1.(_workshop(x1) & exists x2.(_people(x2) & (x1 = x2))) & exists x3.(_country(x3) & exists x4.(_mile(x4) & (x3 = x4))))
+(exists x1.(_cat(x1) & exists x2.(_animal(x2) & (x1 = x2))) & exists x3.(_place(x3) & exists x4.(_magnet(x4) & (x3 = x4))))
+(exists x1.(_community(x1) & exists x2.(_occasion(x2) & (x1 = x2))) & exists x3.(_woman(x3) & exists x4.(_man(x4) & (x3 = x4))))
+(exists x1.(_mole(x1) & exists x2.(_mosaic(x2) & (x1 = x2))) & exists x3.(_bug(x3) & exists x4.(_snack(x4) & (x3 = x4))))
+(exists x1.(_cherector(x1) & exists x2.(_must(x2) & (x1 = x2))) & exists x3.(_detainee(x3) & exists x4.(_victim(x4) & (x3 = x4))))
+(exists x1.(_case(x1) & exists x2.(_decade(x2) & (x1 = x2))) & exists x3.(_child(x3) & exists x4.(_carrier(x4) & (x3 = x4))))
+(exists x1.(_teacher(x1) & exists x2.(_reformer(x2) & (x1 = x2))) & exists x3.(_name(x3) & exists x4.(_pseudonym(x4) & (x3 = x4))))
+(exists x1.(_datum(x1) & exists x2.(_estimate(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_artist(x4) & (x3 = x4))))
+(exists x1.(_muslim(x1) & exists x2.(_fanatic(x2) & (x1 = x2))) & exists x3.(_nation(x3) & exists x4.(_democracy(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_dairy(x1) & exists x2.(_agitator(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_thief(x4) & (x3 = x4))))
+(exists x1.(_case(x1) & exists x2.(_parent(x2) & (x1 = x2))) & exists x3.(_material(x3) & exists x4.(_mixture(x4) & (x3 = x4))))
+(exists x1.(_case(x1) & exists x2.(_disaster(x2) & (x1 = x2))) & exists x3.(_critic(x3) & exists x4.(_vice(x4) & (x3 = x4))))
+(exists x1.(_thomist(x1) & exists x2.(_example(x2) & (x1 = x2))) & exists x3.(_ngo(x3) & exists x4.(_multinational(x4) & (x3 = x4))))
+(exists x1.(_case(x1) & exists x2.(_exception(x2) & (x1 = x2))) & exists x3.(_country(x3) & exists x4.(_signatory(x4) & (x3 = x4))))
+(exists x1.(_sort(x1) & exists x2.(_subsort(x2) & (x1 = x2))) & exists x3.(_substitution(x3) & exists x4.(_mistake(x4) & (x3 = x4))))
+(exists x1.(_evolutionist(x1) & exists x2.(_christian(x2) & (x1 = x2))) & exists x3.(_case(x3) & exists x4.(_homicide(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_example(x1) & exists x2.(_outrageo(x2) & (x1 = x2))) & exists x3.(_reb(x3) & exists x4.(_amateur(x4) & (x3 = x4))))
+(exists x1.(_man(x1) & exists x2.(_eunuch(x2) & (x1 = x2))) & exists x3.(_official(x3) & exists x4.(_tool(x4) & (x3 = x4))))
+(exists x1.(_hold(x1) & exists x2.(_gift(x2) & (x1 = x2))) & exists x3.(_case(x3) & exists x4.(_indicator(x4) & (x3 = x4))))
+(exists x1.(_anthroposophist(x1) & exists x2.(_nazi(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_rancher(x4) & (x3 = x4))))
+(exists x1.(_individual(x1) & exists x2.(_under_dash_secretor(x2) & (x1 = x2))) & exists x3.(_nazi(x3) & exists x4.(_anthroposophist(x4) & (x3 = x4))))
+(exists x1.(_resource(x1) & _non_dash_renewables(x1)) & exists x2.(_project(x2) & exists x3.(_linux(x3) & (x2 = x3))))
+(exists x1.(_gnostic(x1) & exists x2.(_mahasiddhi(x2) & (x1 = x2))) & exists x3.(_pill(x3) & exists x4.(_dummy(x4) & (x3 = x4))))
+(exists x1.(_thing(x1) & exists x2.(_priority(x2) & (x1 = x2))) & exists x3.(_thing(x3) & exists x4.(_tool(x4) & (x3 = x4))))
+(exists x1.(_other(x1) & exists x2.(_victim(x2) & (x1 = x2))) & exists x3.(_report(x3) & exists x4.(_duplicate(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_case(x1) & exists x2.(_animal(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_analyst(x4) & (x3 = x4))))
+(exists x1.(_collection(x1) & exists x2.(_story(x2) & (x1 = x2))) & exists x3.(_ukrainian(x3) & _pro_dash_russians(x3)))
+(exists x1.(_twitter(x1) & _be(x1) & _appear(x1)) & exists x2.(_woman(x2) & exists x3.(_mother(x3) & (x2 = x3))))
+(exists x1.(_grant(x1) & exists x2.(_marathon(x2) & (x1 = x2))) & exists x3.(_research(x3) & exists x4.(_parent(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_fall(x1) & exists x2.(_means(x2) & (x1 = x2))) & exists x3.(_project(x3) & exists x4.(_decade(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_quotation(x1) & exists x2.(_tool(x2) & (x1 = x2))) & exists x3.(_infiltrator(x3) & exists x4.(_officer(x4) & (x3 = x4))))
+(exists x1.(_influencer(x1) & exists x2.(_people(x2) & (x1 = x2))) & exists x3.(_well(x3) & exists x4.(_stay(x4) & (x3 = x4))))
+(exists x1.(_animal(x1) & exists x2.(_professional(x2) & (x1 = x2))) & exists x3.(_charity(x3) & exists x4.(_hundred(x4) & (x3 = x4))))
+(exists x1.(_monster(x1) & exists x2.(_vegetarian(x2) & (x1 = x2))) & exists x3.(_event(x3) & exists x4.(_final(x4) & (x3 = x4))))
+(exists x1.(_individual(x1) & exists x2.(_member(x2) & (x1 = x2))) & exists x3.(_people(x3) & _up_dash_in_dash_arms(x3)))
+syntax_error
+syntax_error
+(exists x1.(_value(x1) & exists x2.(_country(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_creeper(x4) & (x3 = x4))))
+(exists x1.(_parent(x1) & exists x2.(_maid(x2) & (x1 = x2))) & exists x3.(_offens(x3) & exists x4.(_violation(x4) & (x3 = x4))))
+(exists x1.(_susquehanna(x1) & _'s(x1) & exists x2.(_ally(x2) & (x1 = x2))) & exists x3.(_game(x3) & exists x4.(_bit(x4) & (x3 = x4))))
+(exists x1.(_protest(x1) & exists x2.(_symptom(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_people(x4) & (x3 = x4))))
+(exists x1.(_scientist(x1) & exists x2.(_idiot(x2) & (x1 = x2))) & exists x3.(_object(x3) & exists x4.(_source(x4) & (x3 = x4))))
+(exists x1.(_antioxidant(x1) & exists x2.(_favorite(x2) & (x1 = x2))) & exists x3.(_member(x3) & exists x4.(_student(x4) & (x3 = x4))))
+(exists x1.(_people(x1) & exists x2.(_multus(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_hoarder(x4) & (x3 = x4))))
+(exists x1.(_other(x1) & exists x2.(_explanation(x2) & (x1 = x2))) & exists x3.(_spy(x3) & exists x4.(_adventurer(x4) & (x3 = x4))))
+(exists x1.(_word(x1) & exists x2.(_insult(x2) & (x1 = x2))) & exists x3.(_voter(x3) & exists x4.(_nationalist(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_song(x1) & exists x2.(_hit(x2) & (x1 = x2))) & exists x3.(_child(x3) & exists x4.(_victim(x4) & (x3 = x4))))
+(exists x1.(_bee(x1) & exists x2.(_generalist(x2) & (x1 = x2))) & exists x3.(_plant(x3) & exists x4.(_weed(x4) & (x3 = x4))))
+(exists x1.(_student(x1) & exists x2.(_minor(x2) & (x1 = x2))) & exists x3.(_teacher(x3) & exists x4.(_bully(x4) & (x3 = x4))))
+(exists x1.(_nut(x1) & exists x2.(_seed(x2) & (x1 = x2))) & exists x3.(_college(x3) & exists x4.(_standout(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_people(x1) & exists x2.(_vegetarian(x2) & (x1 = x2))) & exists x3.(_man(x3) & exists x4.(_lion(x4) & (x3 = x4))))
+(exists x1.(_site(x1) & exists x2.(_book(x2) & (x1 = x2))) & exists x3.(_muslim(x3) & exists x4.(_christian(x4) & (x3 = x4))))
+(exists x1.(_word(x1) & exists x2.(_orphan(x2) & (x1 = x2))) & exists x3.(_medication(x3) & exists x4.(_factor(x4) & (x3 = x4))))
+(exists x1.(_case(x1) & exists x2.(_year(x2) & (x1 = x2))) & exists x3.(_poet(x3) & exists x4.(_hero(x4) & (x3 = x4))))
+(exists x1.(_blogger(x1) & exists x2.(_exhibitionist(x2) & (x1 = x2))) & exists x3.(_place(x3) & exists x4.(_candidate(x4) & (x3 = x4))))
+(exists x1.(_compound(x1) & exists x2.(_anti_dash_oxidant(x2) & (x1 = x2))) & exists x3.(_network(x3) & exists x4.(_encryption(x4) & (x3 = x4))))
+(exists x1.(_herb(x1) & exists x2.(_annual(x2) & (x1 = x2))) & exists x3.(_libertarian(x3) & exists x4.(_objectivist(x4) & (x3 = x4))))
+(exists x1.(_case(x1) & exists x2.(_year(x2) & (x1 = x2))) & exists x3.(_adherent(x3) & exists x4.(_vegan(x4) & (x3 = x4))))
+(exists x1.(_winner(x1) & exists x2.(_cheat(x2) & (x1 = x2))) & exists x3.(_science(x3) & exists x4.(_politics(x4) & (x3 = x4))))
+(exists x1.(_victim(x1) & exists x2.(_member(x2) & (x1 = x2))) & exists x3.(_applicant(x3) & exists x4.(_woman(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_stuff(x1) & exists x2.(_bit(x2) & (x1 = x2))) & exists x3.(_kurd(x3) & exists x4.(_descendent(x4) & (x3 = x4))))
+(exists x1.(_country(x1) & exists x2.(_friend(x2) & (x1 = x2))) & exists x3.(_family(x3) & exists x4.(_victim(x4) & (x3 = x4))))
+syntax_error
+syntax_error
+(exists x1.(_inhabitant(x1) & exists x2.(_commuter(x2) & (x1 = x2))) & exists x3.(_job(x3) & exists x4.(_prerequisite(x4) & (x3 = x4))))
+(exists x1.(_statement(x1) & exists x2.(_anthropomorphism(x2) & (x1 = x2))) & exists x3.(_ranger(x3) & exists x4.(_student(x4) & (x3 = x4))))
+(exists x1.(_plant(x1) & exists x2.(_carnivore(x2) & (x1 = x2))) & exists x3.(_student(x3) & exists x4.(_engineer(x4) & (x3 = x4))))
+(exists x1.(_plothole(x1) & exists x2.(_plothole(x2) & (x1 = x2))) & exists x3.(_article(x3) & _pay_dash_to_dash_read(x3)))
+(exists x1.(_therapist(x1) & exists x2.(_example(x2) & (x1 = x2))) & exists x3.(_article(x3) & exists x4.(_exerpt(x4) & (x3 = x4))))
+(exists x1.(_example(x1) & exists x2.(_auto_dash_level(x2) & (x1 = x2))) & exists x3.(_area(x3) & exists x4.(_house(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_thing(x1) & exists x2.(_constant(x2) & (x1 = x2))) & exists x3.(_cure(x3) & exists x4.(_winner(x4) & (x3 = x4))))
+(exists x1.(_genus(x1) & exists x2.(_parasite(x2) & (x1 = x2))) & exists x3.(_pencil(x3) & exists x4.(_sign(x4) & (x3 = x4))))
+(exists x1.(_child(x1) & exists x2.(_victim(x2) & (x1 = x2))) & exists x3.(_journalist(x3) & exists x4.(_victim(x4) & (x3 = x4))))
+syntax_error
+syntax_error
+(exists x1.(_case(x1) & exists x2.(_servant(x2) & (x1 = x2))) & exists x3.(_email(x3) & exists x4.(_day(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_man(x1) & exists x2.(_victim(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_myth(x4) & (x3 = x4))))
+(exists x1.(_consternation(x1) & exists x2.(_amendment(x2) & (x1 = x2))) & exists x3.(_animal(x3) & exists x4.(_sister(x4) & (x3 = x4))))
+(exists x1.(_member(x1) & exists x2.(_consultant(x2) & (x1 = x2))) & exists x3.(_scientist(x3) & exists x4.(_artist(x4) & (x3 = x4))))
+(exists x1.(_endeavour(x1) & exists x2.(_friend(x2) & (x1 = x2))) & exists x3.(_symptom(x3) & exists x4.(_goose_dash_bump(x4) & (x3 = x4))))
+(exists x1.(_farmer(x1) & exists x2.(_pensioner(x2) & (x1 = x2))) & exists x3.(_case(x3) & exists x4.(_masterpiece(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_ophthalmologist(x1) & exists x2.(_consultant(x2) & (x1 = x2))) & exists x3.(_pundit(x3) & exists x4.(_scholar(x4) & (x3 = x4))))
+(exists x1.(_other(x1) & exists x2.(_people(x2) & (x1 = x2))) & exists x3.(_category(x3) & exists x4.(_display(x4) & (x3 = x4))))
+(exists x1.(_muslim(x1) & exists x2.(_terrorist(x2) & (x1 = x2))) & exists x3.(_tutor(x3) & exists x4.(_peer(x4) & (x3 = x4))))
+(exists x1.(_other(x1) & exists x2.(_candidate(x2) & (x1 = x2))) & exists x3.(_game(x3) & exists x4.(_simulation(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_user(x1) & exists x2.(_salespeople(x2) & (x1 = x2))) & exists x3.(_user(x3) & exists x4.(_customer(x4) & (x3 = x4))))
+(exists x1.(_building(x1) & exists x2.(_sign(x2) & (x1 = x2))) & exists x3.(_character(x3) & exists x4.(_mutant(x4) & (x3 = x4))))
+(exists x1.(_chicken(x1) & exists x2.(_pet(x2) & (x1 = x2))) & exists x3.(_woman(x3) & exists x4.(_witch(x4) & (x3 = x4))))
+(exists x1.(_people(x1) & exists x2.(_christian(x2) & (x1 = x2))) & exists x3.(_strip(x3) & exists x4.(_creation(x4) & (x3 = x4))))
+(exists x1.(_wednesday(x1) & exists x2.(_half_dash_day(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_christian(x4) & (x3 = x4))))
+(exists x1.(_fan(x1) & exists x2.(_idiot(x2) & (x1 = x2))) & exists x3.(_architect(x3) & exists x4.(_visionary(x4) & (x3 = x4))))
+(exists x1.(_people(x1) & exists x2.(_lark(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_friend(x4) & (x3 = x4))))
+(exists x1.(_guest(x1) & exists x2.(_tourist(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_liar(x4) & (x3 = x4))))
+(exists x1.(_people(x1) & exists x2.(_victim(x2) & (x1 = x2))) & exists x3.(_hopethere(x3) & exists x4.(_people(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_face(x1) & exists x2.(_vision(x2) & (x1 = x2))) & exists x3.(_professional(x3) & exists x4.(_self_dash_learner(x4) & (x3 = x4))))
+(exists x1.(_muslim(x1) & exists x2.(_terrorist(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_woman(x4) & (x3 = x4))))
+(exists x1.(_media(x1) & exists x2.(_mi(x2) & (x1 = x2))) & exists x3.(_muslim(x3) & exists x4.(_terrorist(x4) & (x3 = x4))))
+(exists x1.(_snail(x1) & exists x2.(_olympian(x2) & (x1 = x2))) & exists x3.(_cultivar(x3) & exists x4.(_shades(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_people(x1) & exists x2.(_hunter(x2) & (x1 = x2))) & exists x3.(_nation(x3) & exists x4.(_grounds(x4) & (x3 = x4))))
+(exists x1.(_relief(x1) & exists x2.(_medicine(x2) & (x1 = x2))) & exists x3.(_method(x3) & exists x4.(_interesting(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_species(x1) & exists x2.(_annual(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_designer(x4) & (x3 = x4))))
+(exists x1.(_property(x1) & exists x2.(_tenement(x2) & (x1 = x2))) & exists x3.(_site(x3) & exists x4.(_scam(x4) & (x3 = x4))))
+(exists x1.(_scribe(x1) & exists x2.(_pharisee(x2) & (x1 = x2))) & exists x3.(_thing(x3) & exists x4.(_sin(x4) & (x3 = x4))))
+(exists x1.(_decision(x1) & exists x2.(_question(x2) & (x1 = x2))) & exists x3.(_company(x3) & exists x4.(_subsidiary(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_gesture(x1) & exists x2.(_po(x2) & (x1 = x2))) & exists x3.(_woman(x3) & exists x4.(_acquaintance(x4) & (x3 = x4))))
+(exists x1.(_concept(x1) & exists x2.(_part(x2) & (x1 = x2))) & exists x3.(_case(x3) & exists x4.(_relative(x4) & (x3 = x4))))
+(exists x1.(_company(x1) & exists x2.(_one(x2) & (x1 = x2))) & exists x3.(_tile(x3) & exists x4.(_prize(x4) & (x3 = x4))))
+(exists x1.(_child(x1) & exists x2.(_citizen(x2) & (x1 = x2))) & exists x3.(_man(x3) & exists x4.(_deadbeat(x4) & (x3 = x4))))
+(exists x1.(_aryan(x1) & exists x2.(_jew(x2) & (x1 = x2))) & exists x3.(_jews(x3) & exists x4.(_aryan(x4) & (x3 = x4))))
+(exists x1.(_child(x1) & exists x2.(_victim(x2) & (x1 = x2))) & exists x3.(_byte(x3) & exists x4.(_address(x4) & (x3 = x4))))
+(exists x1.(_year(x1) & exists x2.(_week(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_stimulant(x4) & (x3 = x4))))
+(exists x1.(_case(x1) & exists x2.(_mistake(x2) & (x1 = x2))) & exists x3.(_museum(x3) & exists x4.(_farm(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_photo(x1) & exists x2.(_still(x2) & (x1 = x2))) & exists x3.(_man(x3) & exists x4.(_victim(x4) & (x3 = x4))))
+(exists x1.(_patient(x1) & exists x2.(_vegetarian(x2) & (x1 = x2))) & exists x3.(_change(x3) & exists x4.(_animal(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_ambulance(x1) & exists x2.(_motorcycle(x2) & (x1 = x2))) & exists x3.(_geek(x3) & exists x4.(_engineer(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_watershed(x1) & exists x2.(_barrier(x2) & (x1 = x2))) & exists x3.(_member(x3) & exists x4.(_nonscientist(x4) & (x3 = x4))))
+(exists x1.(_father(x1) & exists x2.(_mother(x2) & (x1 = x2))) & exists x3.(_region(x3) & exists x4.(_factor(x4) & (x3 = x4))))
+(exists x1.(_dog(x1) & exists x2.(_poodle(x2) & (x1 = x2))) & exists x3.(_result(x3) & exists x4.(_generalization(x4) & (x3 = x4))))
+(exists x1.(_user(x1) & exists x2.(_native(x2) & (x1 = x2))) & exists x3.(_company(x3) & exists x4.(_member(x4) & (x3 = x4))))
+(exists x1.(_account(x1) & exists x2.(_due(x2) & (x1 = x2))) & exists x3.(_value(x3) & exists x4.(_integer(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_graduand(x1) & exists x2.(_parent(x2) & (x1 = x2))) & exists x3.(_supporter(x3) & exists x4.(_relative(x4) & (x3 = x4))))
+(exists x1.(_individual(x1) & exists x2.(_epappose(x2) & (x1 = x2))) & exists x3.(_page(x3) & exists x4.(_hub(x4) & (x3 = x4))))
+(exists x1.(_example(x1) & exists x2.(_volcano(x2) & (x1 = x2))) & exists x3.(_event(x3) & exists x4.(_example(x4) & (x3 = x4))))
+(exists x1.(_meadow(x1) & exists x2.(_example(x2) & (x1 = x2))) & exists x3.(_instance(x3) & exists x4.(_megabase(x4) & (x3 = x4))))
+(exists x1.(_listener(x1) & exists x2.(_member(x2) & (x1 = x2))) & exists x3.(_cell(x3) & exists x4.(_creature(x4) & (x3 = x4))))
+(exists x1.(_case(x1) & exists x2.(_school(x2) & (x1 = x2))) & exists x3.(_school(x3) & exists x4.(_district(x4) & (x3 = x4))))
+(exists x1.(_nut(x1) & exists x2.(_source(x2) & (x1 = x2))) & exists x3.(_individual(x3) & exists x4.(_hyper_dash_responder(x4) & (x3 = x4))))
+(exists x1.(_freelancer(x1) & exists x2.(_freelancer(x2) & (x1 = x2))) & exists x3.(_other(x3) & exists x4.(_task(x4) & (x3 = x4))))
+(exists x1.(_nation(x1) & exists x2.(_spigot(x2) & (x1 = x2))) & exists x3.(_extent(x3) & exists x4.(_wolf(x4) & (x3 = x4))))
+(exists x1.(_leaf(x1) & exists x2.(_extension(x2) & (x1 = x2))) & exists x3.(_animal(x3) & _wild_dash_caught(x3)))
+(exists x1.(_trailer(x1) & exists x2.(_retiree(x2) & (x1 = x2))) & exists x3.(_hydrocarbon(x3) & _pyrolyze(x3)))
+(exists x1.(_deacon(x1) & exists x2.(_member(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_regular(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_kid(x1) & exists x2.(_natural(x2) & (x1 = x2))) & exists x3.(_insect(x3) & exists x4.(_generalist(x4) & (x3 = x4))))
+(exists x1.(_worker(x1) & exists x2.(_student(x2) & (x1 = x2))) & exists x3.(_unicorn(x3) & exists x4.(_democracy(x4) & (x3 = x4))))
+(exists x1.(_table(x1) & exists x2.(_people(x2) & (x1 = x2))) & exists x3.(_other(x3) & exists x4.(_bottleneck(x4) & (x3 = x4))))
+syntax_error
+syntax_error
+(exists x1.(_way(x1) & exists x2.(_competitor(x2) & (x1 = x2))) & exists x3.(_bca(x3) & exists x4.(_condition(x4) & (x3 = x4))))
+(exists x1.(_poem(x1) & exists x2.(_direction(x2) & (x1 = x2))) & exists x3.(_example(x3) & exists x4.(_student(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_section(x1) & exists x2.(_document(x2) & (x1 = x2))) & exists x3.(_cell(x3) & exists x4.(_card(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_example(x1) & exists x2.(_view(x2) & (x1 = x2))) & exists x3.(_column(x3) & exists x4.(_duplicate(x4) & (x3 = x4))))
+(exists x1.(_speaker(x1) & exists x2.(_preacher(x2) & (x1 = x2))) & exists x3.(_object(x3) & exists x4.(_billion(x4) & (x3 = x4))))
+(exists x1.(_plastic(x1) & exists x2.(_democracy(x2) & (x1 = x2))) & exists x3.(_other(x3) & exists x4.(_perennial(x4) & (x3 = x4))))
+(exists x1.(_situation(x1) & exists x2.(_people(x2) & (x1 = x2))) & exists x3.(_method(x3) & exists x4.(_output(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_amputee(x1) & exists x2.(_volunteer(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_sensation_dash_seeker(x4) & (x3 = x4))))
+(exists x1.(_flower(x1) & exists x2.(_monocotyledon(x2) & (x1 = x2))) & exists x3.(_term(x3) & exists x4.(_links(x4) & (x3 = x4))))
+(exists x1.(_page(x1) & exists x2.(_list(x2) & (x1 = x2))) & exists x3.(_element(x3) & exists x4.(_solid(x4) & (x3 = x4))))
+(exists x1.(_eed(x1) & exists x2.(_child(x2) & (x1 = x2))) & exists x3.(_dish(x3) & exists x4.(_winner(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_animal(x1) & exists x2.(_pest(x2) & (x1 = x2))) & exists x3.(_member(x3) & exists x4.(_graduate(x4) & (x3 = x4))))
+(exists x1.(_fly(x1) & exists x2.(_parasitoid(x2) & (x1 = x2))) & exists x3.(_performer(x3) & exists x4.(_student(x4) & (x3 = x4))))
+syntax_error
+syntax_error
+(exists x1.(_uniform(x1) & exists x2.(_logo(x2) & (x1 = x2))) & exists x3.(_datum(x3) & exists x4.(_general(x4) & (x3 = x4))))
+(exists x1.(_image(x1) & exists x2.(_snapshot(x2) & (x1 = x2))) & exists x3.(_workhouse(x3) & exists x4.(_asylum(x4) & (x3 = x4))))
+(exists x1.(_program(x1) & exists x2.(_window(x2) & (x1 = x2))) & exists x3.(_class(x3) & exists x4.(_sub_dash_class(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_member(x1) & exists x2.(_dancer(x2) & (x1 = x2))) & exists x3.(_case(x3) & exists x4.(_partner(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_piece(x1) & exists x2.(_reproduction(x2) & (x1 = x2))) & exists x3.(_hit(x3) & exists x4.(_dud(x4) & (x3 = x4))))
+semantics_error
+(exists x1.(_carrier(x1) & exists x2.(_window(x2) & (x1 = x2))) & exists x3.(_retardant(x3) & _chemical_dash_heavy(x3)))
+(exists x1.(_red(x1) & exists x2.(_flavanoid(x2) & (x1 = x2))) & exists x3.(_pond(x3) & exists x4.(_weed(x4) & (x3 = x4))))
+(exists x1.(_species(x1) & exists x2.(_specialist(x2) & (x1 = x2))) & exists x3.(_plant(x3) & exists x4.(_tree(x4) & (x3 = x4))))
+(exists x1.(_case(x1) & exists x2.(_exception(x2) & (x1 = x2))) & exists x3.(_singspiele(x3) & exists x4.(_translation(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_tick(x1) & exists x2.(_vector(x2) & (x1 = x2))) & exists x3.(_bed(x3) & exists x4.(_futon(x4) & (x3 = x4))))
+(exists x1.(_fall(x1) & exists x2.(_means(x2) & (x1 = x2))) & exists x3.(_film(x3) & _out_dash_takes(x3)))
+syntax_error
+(exists x1.(_word(x1) & exists x2.(_loan(x2) & (x1 = x2))) & exists x3.(_batoid(x3) & exists x4.(_predator(x4) & (x3 = x4))))
+(exists x1.(_utterance(x1) & exists x2.(_prompt(x2) & (x1 = x2))) & exists x3.(_country(x3) & exists x4.(_part(x4) & (x3 = x4))))
+(exists x1.(_shadow(x1) & exists x2.(_vine(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_dinosaur(x4) & (x3 = x4))))
+(exists x1.(_people(x1) & exists x2.(_ghost(x2) & (x1 = x2))) & exists x3.(_case(x3) & exists x4.(_parent(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_incident(x1) & exists x2.(_observation(x2) & (x1 = x2))) & exists x3.(_item(x3) & exists x4.(_antique(x4) & (x3 = x4))))
+(exists x1.(_character(x1) & exists x2.(_philosopher(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_house(x4) & (x3 = x4))))
+(exists x1.(_case(x1) & exists x2.(_vestige(x2) & (x1 = x2))) & exists x3.(_cultivar(x3) & exists x4.(_apomix(x4) & (x3 = x4))))
+(exists x1.(_proponent(x1) & exists x2.(_colleague(x2) & (x1 = x2))) & exists x3.(_revision(x3) & exists x4.(_step(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_dvd(x1) & exists x2.(_structure(x2) & (x1 = x2))) & exists x3.(_weed(x3) & exists x4.(_host(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_survivor(x1) & exists x2.(_hindrance(x2) & (x1 = x2))) & exists x3.(_migrant(x3) & exists x4.((x4 = _bangladeshis) & (x3 = _bangladeshis))))
+(exists x1.(_people(x1) & exists x2.(_grandparent(x2) & (x1 = x2))) & exists x3.(_animal(x3) & exists x4.(_indicator(x4) & (x3 = x4))))
+(exists x1.(_insect(x1) & exists x2.(_predator(x2) & (x1 = x2))) & exists x3.(_r(x3) & exists x4.(_recording(x4) & (x3 = x4))))
+(exists x1.(_teacher(x1) & exists x2.(_christian(x2) & (x1 = x2))) & exists x3.(_candidate(x3) & exists x4.(_octogenarian(x4) & (x3 = x4))))
+(exists x1.(_people(x1) & exists x2.(_contractor(x2) & (x1 = x2))) & exists x3.(_week(x3) & exists x4.(_lesson(x4) & (x3 = x4))))
+syntax_error
+syntax_error
+(exists x1.(_disease(x1) & exists x2.(_cause(x2) & (x1 = x2))) & exists x3.(_night(x3) & exists x4.(_gig(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_photo(x1) & exists x2.(_work(x2) & (x1 = x2))) & exists x3.(_other(x3) & _re_dash_makes(x3)))
+(exists x1.(_member(x1) & exists x2.(_representative(x2) & (x1 = x2))) & exists x3.(_letter(x3) & exists x4.(_response(x4) & (x3 = x4))))
+(exists x1.(_work(x1) & exists x2.(_composite(x2) & (x1 = x2))) & exists x3.(_section(x3) & exists x4.(_subsection(x4) & (x3 = x4))))
+(exists x1.(_walkway(x1) & exists x2.(_kous(x2) & (x1 = x2))) & exists x3.(_embodiment(x3) & exists x4.(_bolt(x4) & (x3 = x4))))
+(exists x1.(_species(x1) & exists x2.(_migrant(x2) & (x1 = x2))) & exists x3.(_case(x3) & exists x4.(_citizen(x4) & (x3 = x4))))
+(exists x1.(_leaf(x1) & exists x2.(_prop(x2) & (x1 = x2))) & exists x3.(_oils(x3) & exists x4.(_humectant(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_film(x1) & exists x2.(_classic(x2) & (x1 = x2))) & exists x3.(_room(x3) & exists x4.(_suite(x4) & (x3 = x4))))
+(exists x1.(_club(x1) & exists x2.(_signatory(x2) & (x1 = x2))) & exists x3.(_component(x3) & exists x4.(_input(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_boxer(x1) & exists x2.(_fabrication(x2) & (x1 = x2))) & exists x3.(_specimen(x3) & _unbroaken(x3)))
+(exists x1.(_owner(x1) & exists x2.(_thing(x2) & (x1 = x2))) & exists x3.(_interview(x3) & exists x4.(_conversation(x4) & (x3 = x4))))
+(exists x1.(_dog(x1) & exists x2.(_chaser(x2) & (x1 = x2))) & exists x3.(_skin(x3) & exists x4.(_original(x4) & (x3 = x4))))
+(exists x1.(_approach(x1) & exists x2.(_datum(x2) & (x1 = x2))) & exists x3.(_weta(x3) & exists x4.(_predator(x4) & (x3 = x4))))
+(exists x1.(_claimant(x1) & exists x2.(_winner(x2) & (x1 = x2))) & exists x3.(_case(x3) & exists x4.(_decade(x4) & (x3 = x4))))
+(exists x1.(_dev(x1) & exists x2.(_way(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_specialist(x4) & (x3 = x4))))
+(exists x1.(_decomposer(x1) & exists x2.(_insect(x2) & (x1 = x2))) & exists x3.(_idea(x3) & exists x4.(_media(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_suspicion(x1) & exists x2.(_sin(x2) & (x1 = x2))) & exists x3.(_patient(x3) & exists x4.(_antibody(x4) & (x3 = x4))))
+(exists x1.(_example(x1) & exists x2.(_browser(x2) & (x1 = x2))) & exists x3.(_user(x3) & exists x4.(_luddite(x4) & (x3 = x4))))
+(exists x1.(_room(x1) & exists x2.(_twin(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_genius(x4) & (x3 = x4))))
+(exists x1.(_landlord(x1) & exists x2.(_hero(x2) & (x1 = x2))) & exists x3.(_abbreviation(x3) & exists x4.(_abbreviation(x4) & (x3 = x4))))
+(exists x1.(_merchant(x1) & exists x2.(_wholesaler(x2) & (x1 = x2))) & exists x3.(_animal(x3) & exists x4.(_mammal(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_thing(x1) & exists x2.(_interest(x2) & (x1 = x2))) & exists x3.(_other(x3) & exists x4.(_heterotroph(x4) & (x3 = x4))))
+(exists x1.(_thing(x1) & exists x2.(_constant(x2) & (x1 = x2))) & exists x3.(_russians(x3) & exists x4.(_member(x4) & (x3 = x4))))
+(exists x1.(_trap(x1) & exists x2.(_rectangle(x2) & (x1 = x2))) & exists x3.(_microorganism(x3) & exists x4.(_sentinel(x4) & (x3 = x4))))
+(exists x1.(_child(x1) & exists x2.(_orphan(x2) & (x1 = x2))) & exists x3.(_galaxy(x3) & exists x4.(_loner(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_state(x1) & exists x2.(_model(x2) & (x1 = x2))) & exists x3.(_drawer(x3) & exists x4.(_hoe(x4) & (x3 = x4))))
+(exists x1.(_pace(x1) & exists x2.(_pram(x2) & (x1 = x2))) & exists x3.(_researcher(x3) & exists x4.(_specialist(x4) & (x3 = x4))))
+(exists x1.(_resource(x1) & exists x2.(_container(x2) & (x1 = x2))) & exists x3.(_case(x3) & exists x4.(_servant(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_case(x1) & exists x2.(_victim(x2) & (x1 = x2))) & exists x3.(_plant(x3) & exists x4.(_example(x4) & (x3 = x4))))
+(exists x1.(_garden(x1) & exists x2.(_paradise(x2) & (x1 = x2))) & exists x3.(_event(x3) & _one_dash_offs(x3)))
+syntax_error
+(exists x1.(_bill(x1) & exists x2.(_estimate(x2) & (x1 = x2))) & exists x3.(_household(x3) & exists x4.(_victim(x4) & (x3 = x4))))
+(exists x1.(_face(x1) & exists x2.(_vision(x2) & (x1 = x2))) & exists x3.(_supporter(x3) & exists x4.(_fan(x4) & (x3 = x4))))
+syntax_error
+syntax_error
+(exists x1.(_humanist(x1) & exists x2.(_pacifist(x2) & (x1 = x2))) & exists x3.(_example(x3) & exists x4.(_system(x4) & (x3 = x4))))
+(exists x1.(_case(x1) & exists x2.(_precursor(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_supervisor(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_investor(x1) & exists x2.(_hedger(x2) & (x1 = x2))) & exists x3.(_species(x3) & exists x4.(_parasite(x4) & (x3 = x4))))
+(exists x1.(_moss(x1) & exists x2.(_epiphyte(x2) & (x1 = x2))) & exists x3.(_concern(x3) & exists x4.(_component(x4) & (x3 = x4))))
+(exists x1.(_belief(x1) & exists x2.(_desire(x2) & (x1 = x2))) & exists x3.(_song(x3) & exists x4.(_original(x4) & (x3 = x4))))
+(exists x1.(_country(x1) & exists x2.(_exception(x2) & (x1 = x2))) & exists x3.(_thing(x3) & exists x4.(_driver(x4) & (x3 = x4))))
+(exists x1.(_family(x1) & exists x2.(_relevant(x2) & (x1 = x2))) & exists x3.(_issue(x3) & exists x4.(_touchstone(x4) & (x3 = x4))))
+(exists x1.(_information(x1) & exists x2.(_window(x2) & (x1 = x2))) & exists x3.(_play(x3) & exists x4.(_two_dash_hander(x4) & (x3 = x4))))
+(exists x1.(_window(x1) & exists x2.(_lancet(x2) & (x1 = x2))) & exists x3.(_member(x3) & exists x4.(_atheist(x4) & (x3 = x4))))
+(exists x1.(_state(x1) & exists x2.(_factor(x2) & (x1 = x2))) & exists x3.(_volume(x3) & exists x4.(_cross_dash_reference(x4) & (x3 = x4))))
+(exists x1.(_thing(x1) & exists x2.(_media(x2) & (x1 = x2))) & exists x3.(_parrot(x3) & exists x4.(_specialist(x4) & (x3 = x4))))
+(exists x1.(_musician(x1) & exists x2.(_singer(x2) & (x1 = x2))) & exists x3.(_country(x3) & exists x4.(_showcase(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_ubuntu(x1) & exists x2.(_mile(x2) & (x1 = x2))) & exists x3.(_journalist(x3) & _up_dash_in_dash_arms(x3)))
+(exists x1.(_company(x1) & exists x2.(_beneficiary(x2) & (x1 = x2))) & exists x3.(_supporter(x3) & exists x4.(_regular(x4) & (x3 = x4))))
+(exists x1.(_other(x1) & exists x2.(_intermediate(x2) & (x1 = x2))) & exists x3.(_member(x3) & exists x4.(_beginner(x4) & (x3 = x4))))
+(exists x1.(_people(x1) & exists x2.(_fan(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_moron(x4) & (x3 = x4))))
+(exists x1.(_dinosaur(x1) & exists x2.(_endotherm(x2) & (x1 = x2))) & exists x3.(_animal(x3) & exists x4.(_friend(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_switch(x1) & exists x2.(_dummy(x2) & (x1 = x2))) & exists x3.(_people(x3) & exists x4.(_medic(x4) & (x3 = x4))))
+syntax_error
+(exists x1.(_species(x1) & exists x2.(_parasitoid(x2) & (x1 = x2))) & exists x3.(_synonym(x3) & exists x4.(_correction(x4) & (x3 = x4))))
+(exists x1.(_aspect(x1) & exists x2.(_connection(x2) & (x1 = x2))) & exists x3.(_case(x3) & exists x4.(_show(x4) & (x3 = x4))))
+(exists x1.(_child(x1) & exists x2.(_orphan(x2) & (x1 = x2))) & exists x3.(_redundancy(x3) & exists x4.(_duplication(x4) & (x3 = x4))))
+syntax_error
+syntax_error
+(exists x1.(_wallpaper(x1) & exists x2.(_spoiler(x2) & (x1 = x2))) & exists x3.(_film(x3) & exists x4.(_juggernaut(x4) & (x3 = x4))))
+(exists x1.(_ceratopogonid(x1) & exists x2.(_pollinator(x2) & (x1 = x2))) & exists x3.(_scientist(x3) & exists x4.(_artist(x4) & (x3 = x4))))
+(exists x1.(_beekeeper(x1) & exists x2.(_chemist(x2) & (x1 = x2))) & exists x3.(_moth(x3) & exists x4.(_pollinator(x4) & (x3 = x4))))
+(exists x1.(_case(x1) & exists x2.(_decade(x2) & (x1 = x2))) & exists x3.(_morpheme(x3) & exists x4.(_bundle(x4) & (x3 = x4))))
+(exists x1.(_group(x1) & exists x2.(_clique(x2) & (x1 = x2))) & exists x3.(_piece(x3) & exists x4.(_collector(x4) & _'(x4) & (x3 = x4))))

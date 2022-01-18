@@ -4,10 +4,13 @@
 ### Experiment ###
 .ipynb_checkpoints/
 data
-clean
-trans
+logs
+test
 
-_archive
+!origin_data/*
+!origin_data
+
+_*
 
 ### TEMP ###
 text2log
