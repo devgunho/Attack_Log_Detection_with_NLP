@@ -1,16 +1,13 @@
 ### MAC ###
 .DS_Store
 
+### Python ###
+.ipynb_checkpoints
+
 ### Experiment ###
-.ipynb_checkpoints/
 data
 logs
 test
 
 !origin_data/*
 !origin_data
-
-_*
-
-### TEMP ###
-text2log
