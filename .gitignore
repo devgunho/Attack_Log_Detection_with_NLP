@@ -8,6 +8,7 @@
 data
 logs
 test
+models
 
 !origin_data/*
 !origin_data
