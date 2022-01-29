@@ -3,6 +3,7 @@
 
 ### Python ###
 venv
+.venv
 .ipynb_checkpoints
 
 ### Experiment ###
@@ -10,6 +11,7 @@ data
 logs
 test
 models
+results
 
 !origin_data/*
 !origin_data
