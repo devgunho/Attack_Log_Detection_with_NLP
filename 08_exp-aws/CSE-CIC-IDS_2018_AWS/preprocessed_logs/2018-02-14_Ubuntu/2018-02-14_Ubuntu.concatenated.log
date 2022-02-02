@@ -1,0 +1,1413 @@
+dhclient 940 dhcprequest of 172 31 69 27 on eth0 to 172 31 69 1 port 67 xid 0xc36aa03
+dhclient 940 dhcpack of 172 31 69 27 from 172 31 69 1
+dhclient 940 bound to 172 31 69 27 renewal in 1563 seconds
+dhclient 940 dhcprequest of 172 31 69 27 on eth0 to 172 31 69 1 port 67 xid 0xc36aa03
+dhclient 940 dhcpack of 172 31 69 27 from 172 31 69 1
+dhclient 940 bound to 172 31 69 27 renewal in 1412 seconds
+cron 4982 root cmd cd run parts report etc cron hourly
+dhclient 940 dhcprequest of 172 31 69 27 on eth0 to 172 31 69 1 port 67 xid 0xc36aa03
+dhclient 940 dhcpack of 172 31 69 27 from 172 31 69 1
+dhclient 940 bound to 172 31 69 27 renewal in 1746 seconds
+dhclient 940 dhcprequest of 172 31 69 27 on eth0 to 172 31 69 1 port 67 xid 0xc36aa03
+dhclient 940 dhcpack of 172 31 69 27 from 172 31 69 1
+dhclient 940 bound to 172 31 69 27 renewal in 1617 seconds
+cron 5043 root cmd cd run parts report etc cron hourly
+systemd 1 started session 58 of user ubuntu
+systemd 1 started session 59 of user ubuntu
+dhclient 940 dhcprequest of 172 31 69 27 on eth0 to 172 31 69 1 port 67 xid 0xc36aa03
+dhclient 940 dhcpack of 172 31 69 27 from 172 31 69 1
+dhclient 940 bound to 172 31 69 27 renewal in 1480 seconds
+systemd 1 starting cleanup of temporary directories
+systemd tmpfiles 5204 usr lib tmpfiles d var conf 14 duplicate line for path var log ignoring
+systemd 1 started cleanup of temporary directories
+dhclient 940 dhcprequest of 172 31 69 27 on eth0 to 172 31 69 1 port 67 xid 0xc36aa03
+dhclient 940 dhcpack of 172 31 69 27 from 172 31 69 1
+dhclient 940 bound to 172 31 69 27 renewal in 1469 seconds
+cron 5240 root cmd cd run parts report etc cron hourly
+dhclient 940 dhcprequest of 172 31 69 27 on eth0 to 172 31 69 1 port 67 xid 0xc36aa03
+dhclient 940 dhcpack of 172 31 69 27 from 172 31 69 1
+dhclient 940 bound to 172 31 69 27 renewal in 1559 seconds
+systemd 1 started session 61 of user ubuntu
+dhclient 940 dhcprequest of 172 31 69 27 on eth0 to 172 31 69 1 port 67 xid 0xc36aa03
+dhclient 940 dhcpack of 172 31 69 27 from 172 31 69 1
+dhclient 940 bound to 172 31 69 27 renewal in 1575 seconds
+dhclient 940 dhcprequest of 172 31 69 27 on eth0 to 172 31 69 1 port 67 xid 0xc36aa03
+dhclient 940 dhcpack of 172 31 69 27 from 172 31 69 1
+dhclient 940 bound to 172 31 69 27 renewal in 1507 seconds
+cron 5428 root cmd cd run parts report etc cron hourly
+dhclient 940 dhcprequest of 172 31 69 27 on eth0 to 172 31 69 1 port 67 xid 0xc36aa03
+dhclient 940 dhcpack of 172 31 69 27 from 172 31 69 1
+dhclient 940 bound to 172 31 69 27 renewal in 1695 seconds
+dhclient 940 dhcprequest of 172 31 69 27 on eth0 to 172 31 69 1 port 67 xid 0xc36aa03
+dhclient 940 dhcpack of 172 31 69 27 from 172 31 69 1
+dhclient 940 bound to 172 31 69 27 renewal in 1729 seconds
+cron 5487 root cmd cd run parts report etc cron hourly
+dhclient 940 dhcprequest of 172 31 69 27 on eth0 to 172 31 69 1 port 67 xid 0xc36aa03
+dhclient 940 dhcpack of 172 31 69 27 from 172 31 69 1
+dhclient 940 bound to 172 31 69 27 renewal in 1539 seconds
+dhclient 940 dhcprequest of 172 31 69 27 on eth0 to 172 31 69 1 port 67 xid 0xc36aa03
+dhclient 940 dhcpack of 172 31 69 27 from 172 31 69 1
+dhclient 940 bound to 172 31 69 27 renewal in 1788 seconds
+systemd 1 starting daily apt download activities
+systemd 1 started daily apt download activities
+cron 5798 root cmd cd run parts report etc cron hourly
+dhclient 940 dhcprequest of 172 31 69 27 on eth0 to 172 31 69 1 port 67 xid 0xc36aa03
+dhclient 940 dhcpack of 172 31 69 27 from 172 31 69 1
+dhclient 940 bound to 172 31 69 27 renewal in 1359 seconds
+dhclient 940 dhcprequest of 172 31 69 27 on eth0 to 172 31 69 1 port 67 xid 0xc36aa03
+dhclient 940 dhcpack of 172 31 69 27 from 172 31 69 1
+dhclient 940 bound to 172 31 69 27 renewal in 1477 seconds
+cron 5847 root cmd cd run parts report etc cron hourly
+dhclient 940 dhcprequest of 172 31 69 27 on eth0 to 172 31 69 1 port 67 xid 0xc36aa03
+dhclient 940 dhcpack of 172 31 69 27 from 172 31 69 1
+dhclient 940 bound to 172 31 69 27 renewal in 1477 seconds
+dhclient 940 dhcprequest of 172 31 69 27 on eth0 to 172 31 69 1 port 67 xid 0xc36aa03
+dhclient 940 dhcpack of 172 31 69 27 from 172 31 69 1
+dhclient 940 bound to 172 31 69 27 renewal in 1621 seconds
+cron 5882 root cmd nohup tcpdump home ubuntu capture dump hostname i
+dhclient 940 dhcprequest of 172 31 69 27 on eth0 to 172 31 69 1 port 67 xid 0xc36aa03
+dhclient 940 dhcpack of 172 31 69 27 from 172 31 69 1
+dhclient 940 bound to 172 31 69 27 renewal in 1490 seconds
+cron 5909 root cmd cd run parts report etc cron hourly
+dhclient 940 dhcprequest of 172 31 69 27 on eth0 to 172 31 69 1 port 67 xid 0xc36aa03
+dhclient 940 dhcpack of 172 31 69 27 from 172 31 69 1
+dhclient 940 bound to 172 31 69 27 renewal in 1358 seconds
+dhclient 940 dhcprequest of 172 31 69 27 on eth0 to 172 31 69 1 port 67 xid 0xc36aa03
+dhclient 940 dhcpack of 172 31 69 27 from 172 31 69 1
+dhclient 940 bound to 172 31 69 27 renewal in 1573 seconds
+cron 5950 root cmd cd run parts report etc cron hourly
+dhclient 940 dhcprequest of 172 31 69 27 on eth0 to 172 31 69 1 port 67 xid 0xc36aa03
+dhclient 940 dhcpack of 172 31 69 27 from 172 31 69 1
+dhclient 940 bound to 172 31 69 27 renewal in 1742 seconds
+dhclient 940 dhcprequest of 172 31 69 27 on eth0 to 172 31 69 1 port 67 xid 0xc36aa03
+dhclient 940 dhcpack of 172 31 69 27 from 172 31 69 1
+dhclient 940 bound to 172 31 69 27 renewal in 1670 seconds
+cron 6001 root cmd cd run parts report etc cron hourly
+dhclient 940 dhcprequest of 172 31 69 27 on eth0 to 172 31 69 1 port 67 xid 0xc36aa03
+dhclient 940 dhcpack of 172 31 69 27 from 172 31 69 1
+dhclient 940 bound to 172 31 69 27 renewal in 1543 seconds
+dhclient 940 dhcprequest of 172 31 69 27 on eth0 to 172 31 69 1 port 67 xid 0xc36aa03
+dhclient 940 dhcpack of 172 31 69 27 from 172 31 69 1
+dhclient 940 bound to 172 31 69 27 renewal in 1409 seconds
+dhclient 940 dhcprequest of 172 31 69 27 on eth0 to 172 31 69 1 port 67 xid 0xc36aa03
+dhclient 940 dhcpack of 172 31 69 27 from 172 31 69 1
+dhclient 940 bound to 172 31 69 27 renewal in 1719 seconds
+cron 6059 root cmd cd run parts report etc cron hourly
+dhclient 967 dhcprequest of 172 31 69 18 on eth0 to 172 31 69 1 port 67 xid 0x3fe031ab
+dhclient 967 dhcpack of 172 31 69 18 from 172 31 69 1
+dhclient 967 bound to 172 31 69 18 renewal in 1478 seconds
+dhclient 967 dhcprequest of 172 31 69 18 on eth0 to 172 31 69 1 port 67 xid 0x3fe031ab
+dhclient 967 dhcpack of 172 31 69 18 from 172 31 69 1
+dhclient 967 bound to 172 31 69 18 renewal in 1616 seconds
+cron 5314 root cmd cd run parts report etc cron hourly
+dhclient 967 dhcprequest of 172 31 69 18 on eth0 to 172 31 69 1 port 67 xid 0x3fe031ab
+dhclient 967 dhcpack of 172 31 69 18 from 172 31 69 1
+dhclient 967 bound to 172 31 69 18 renewal in 1669 seconds
+dhclient 967 dhcprequest of 172 31 69 18 on eth0 to 172 31 69 1 port 67 xid 0x3fe031ab
+dhclient 967 dhcpack of 172 31 69 18 from 172 31 69 1
+dhclient 967 bound to 172 31 69 18 renewal in 1356 seconds
+cron 5357 root cmd cd run parts report etc cron hourly
+systemd 1 started session 59 of user ubuntu
+dhclient 967 dhcprequest of 172 31 69 18 on eth0 to 172 31 69 1 port 67 xid 0x3fe031ab
+dhclient 967 dhcpack of 172 31 69 18 from 172 31 69 1
+dhclient 967 bound to 172 31 69 18 renewal in 1375 seconds
+systemd 1 starting cleanup of temporary directories
+systemd tmpfiles 5475 usr lib tmpfiles d var conf 14 duplicate line for path var log ignoring
+systemd 1 started cleanup of temporary directories
+dhclient 967 dhcprequest of 172 31 69 18 on eth0 to 172 31 69 1 port 67 xid 0x3fe031ab
+dhclient 967 dhcpack of 172 31 69 18 from 172 31 69 1
+dhclient 967 bound to 172 31 69 18 renewal in 1745 seconds
+cron 5499 root cmd cd run parts report etc cron hourly
+dhclient 967 dhcprequest of 172 31 69 18 on eth0 to 172 31 69 1 port 67 xid 0x3fe031ab
+dhclient 967 dhcpack of 172 31 69 18 from 172 31 69 1
+dhclient 967 bound to 172 31 69 18 renewal in 1640 seconds
+dhclient 967 dhcprequest of 172 31 69 18 on eth0 to 172 31 69 1 port 67 xid 0x3fe031ab
+dhclient 967 dhcpack of 172 31 69 18 from 172 31 69 1
+dhclient 967 bound to 172 31 69 18 renewal in 1452 seconds
+dhclient 967 dhcprequest of 172 31 69 18 on eth0 to 172 31 69 1 port 67 xid 0x3fe031ab
+dhclient 967 dhcpack of 172 31 69 18 from 172 31 69 1
+dhclient 967 bound to 172 31 69 18 renewal in 1511 seconds
+cron 5557 root cmd cd run parts report etc cron hourly
+dhclient 967 dhcprequest of 172 31 69 18 on eth0 to 172 31 69 1 port 67 xid 0x3fe031ab
+dhclient 967 dhcpack of 172 31 69 18 from 172 31 69 1
+dhclient 967 bound to 172 31 69 18 renewal in 1418 seconds
+dhclient 967 dhcprequest of 172 31 69 18 on eth0 to 172 31 69 1 port 67 xid 0x3fe031ab
+dhclient 967 dhcpack of 172 31 69 18 from 172 31 69 1
+dhclient 967 bound to 172 31 69 18 renewal in 1457 seconds
+cron 5603 root cmd cd run parts report etc cron hourly
+dhclient 967 dhcprequest of 172 31 69 18 on eth0 to 172 31 69 1 port 67 xid 0x3fe031ab
+dhclient 967 dhcpack of 172 31 69 18 from 172 31 69 1
+dhclient 967 bound to 172 31 69 18 renewal in 1615 seconds
+dhclient 967 dhcprequest of 172 31 69 18 on eth0 to 172 31 69 1 port 67 xid 0x3fe031ab
+dhclient 967 dhcpack of 172 31 69 18 from 172 31 69 1
+dhclient 967 bound to 172 31 69 18 renewal in 1524 seconds
+cron 5637 root cmd cd run parts report etc cron hourly
+dhclient 967 dhcprequest of 172 31 69 18 on eth0 to 172 31 69 1 port 67 xid 0x3fe031ab
+dhclient 967 dhcpack of 172 31 69 18 from 172 31 69 1
+dhclient 967 bound to 172 31 69 18 renewal in 1447 seconds
+dhclient 967 dhcprequest of 172 31 69 18 on eth0 to 172 31 69 1 port 67 xid 0x3fe031ab
+dhclient 967 dhcpack of 172 31 69 18 from 172 31 69 1
+dhclient 967 bound to 172 31 69 18 renewal in 1790 seconds
+dhclient 967 dhcprequest of 172 31 69 18 on eth0 to 172 31 69 1 port 67 xid 0x3fe031ab
+dhclient 967 dhcpack of 172 31 69 18 from 172 31 69 1
+dhclient 967 bound to 172 31 69 18 renewal in 1676 seconds
+cron 5690 root cmd cd run parts report etc cron hourly
+dhclient 967 dhcprequest of 172 31 69 18 on eth0 to 172 31 69 1 port 67 xid 0x3fe031ab
+dhclient 967 dhcpack of 172 31 69 18 from 172 31 69 1
+dhclient 967 bound to 172 31 69 18 renewal in 1752 seconds
+cron 5705 root cmd nohup tcpdump home ubuntu capture dump hostname i
+dhclient 967 dhcprequest of 172 31 69 18 on eth0 to 172 31 69 1 port 67 xid 0x3fe031ab
+dhclient 967 dhcpack of 172 31 69 18 from 172 31 69 1
+dhclient 967 bound to 172 31 69 18 renewal in 1569 seconds
+cron 5730 root cmd cd run parts report etc cron hourly
+dhclient 967 dhcprequest of 172 31 69 18 on eth0 to 172 31 69 1 port 67 xid 0x3fe031ab
+dhclient 967 dhcpack of 172 31 69 18 from 172 31 69 1
+dhclient 967 bound to 172 31 69 18 renewal in 1696 seconds
+dhclient 967 dhcprequest of 172 31 69 18 on eth0 to 172 31 69 1 port 67 xid 0x3fe031ab
+dhclient 967 dhcpack of 172 31 69 18 from 172 31 69 1
+dhclient 967 bound to 172 31 69 18 renewal in 1353 seconds
+cron 5769 root cmd cd run parts report etc cron hourly
+dhclient 967 dhcprequest of 172 31 69 18 on eth0 to 172 31 69 1 port 67 xid 0x3fe031ab
+dhclient 967 dhcpack of 172 31 69 18 from 172 31 69 1
+dhclient 967 bound to 172 31 69 18 renewal in 1527 seconds
+dhclient 967 dhcprequest of 172 31 69 18 on eth0 to 172 31 69 1 port 67 xid 0x3fe031ab
+dhclient 967 dhcpack of 172 31 69 18 from 172 31 69 1
+dhclient 967 bound to 172 31 69 18 renewal in 1791 seconds
+cron 5802 root cmd cd run parts report etc cron hourly
+dhclient 967 dhcprequest of 172 31 69 18 on eth0 to 172 31 69 1 port 67 xid 0x3fe031ab
+dhclient 967 dhcpack of 172 31 69 18 from 172 31 69 1
+dhclient 967 bound to 172 31 69 18 renewal in 1380 seconds
+dhclient 967 dhcprequest of 172 31 69 18 on eth0 to 172 31 69 1 port 67 xid 0x3fe031ab
+dhclient 967 dhcpack of 172 31 69 18 from 172 31 69 1
+dhclient 967 bound to 172 31 69 18 renewal in 1675 seconds
+systemd 1 starting daily apt download activities
+systemd 1 started daily apt download activities
+dhclient 967 dhcprequest of 172 31 69 18 on eth0 to 172 31 69 1 port 67 xid 0x3fe031ab
+dhclient 967 dhcpack of 172 31 69 18 from 172 31 69 1
+dhclient 967 bound to 172 31 69 18 renewal in 1655 seconds
+cron 5896 root cmd cd run parts report etc cron hourly
+dhclient 982 dhcprequest of 172 31 69 21 on eth0 to 172 31 69 1 port 67 xid 0xea334
+dhclient 982 dhcpack of 172 31 69 21 from 172 31 69 1
+dhclient 982 bound to 172 31 69 21 renewal in 1657 seconds
+systemd 1 starting daily apt upgrade and clean activities
+systemd 1 started daily apt upgrade and clean activities
+dhclient 982 dhcprequest of 172 31 69 21 on eth0 to 172 31 69 1 port 67 xid 0xea334
+dhclient 982 dhcpack of 172 31 69 21 from 172 31 69 1
+dhclient 982 bound to 172 31 69 21 renewal in 1395 seconds
+cron 4573 root cmd cd run parts report etc cron hourly
+dhclient 982 dhcprequest of 172 31 69 21 on eth0 to 172 31 69 1 port 67 xid 0xea334
+dhclient 982 dhcpack of 172 31 69 21 from 172 31 69 1
+dhclient 982 bound to 172 31 69 21 renewal in 1360 seconds
+dhclient 982 dhcprequest of 172 31 69 21 on eth0 to 172 31 69 1 port 67 xid 0xea334
+dhclient 982 dhcpack of 172 31 69 21 from 172 31 69 1
+dhclient 982 bound to 172 31 69 21 renewal in 1432 seconds
+dhclient 982 dhcprequest of 172 31 69 21 on eth0 to 172 31 69 1 port 67 xid 0xea334
+dhclient 982 dhcpack of 172 31 69 21 from 172 31 69 1
+dhclient 982 bound to 172 31 69 21 renewal in 1704 seconds
+cron 4612 root cmd cd run parts report etc cron hourly
+systemd 1 started session 59 of user ubuntu
+dhclient 982 dhcprequest of 172 31 69 21 on eth0 to 172 31 69 1 port 67 xid 0xea334
+dhclient 982 dhcpack of 172 31 69 21 from 172 31 69 1
+dhclient 982 bound to 172 31 69 21 renewal in 1512 seconds
+systemd 1 starting cleanup of temporary directories
+systemd tmpfiles 4716 usr lib tmpfiles d var conf 14 duplicate line for path var log ignoring
+systemd 1 started cleanup of temporary directories
+dhclient 982 dhcprequest of 172 31 69 21 on eth0 to 172 31 69 1 port 67 xid 0xea334
+dhclient 982 dhcpack of 172 31 69 21 from 172 31 69 1
+dhclient 982 bound to 172 31 69 21 renewal in 1437 seconds
+cron 4734 root cmd cd run parts report etc cron hourly
+dhclient 982 dhcprequest of 172 31 69 21 on eth0 to 172 31 69 1 port 67 xid 0xea334
+dhclient 982 dhcpack of 172 31 69 21 from 172 31 69 1
+dhclient 982 bound to 172 31 69 21 renewal in 1628 seconds
+dhclient 982 dhcprequest of 172 31 69 21 on eth0 to 172 31 69 1 port 67 xid 0xea334
+dhclient 982 dhcpack of 172 31 69 21 from 172 31 69 1
+dhclient 982 bound to 172 31 69 21 renewal in 1750 seconds
+cron 4781 root cmd cd run parts report etc cron hourly
+dhclient 982 dhcprequest of 172 31 69 21 on eth0 to 172 31 69 1 port 67 xid 0xea334
+dhclient 982 dhcpack of 172 31 69 21 from 172 31 69 1
+dhclient 982 bound to 172 31 69 21 renewal in 1414 seconds
+dhclient 982 dhcprequest of 172 31 69 21 on eth0 to 172 31 69 1 port 67 xid 0xea334
+dhclient 982 dhcpack of 172 31 69 21 from 172 31 69 1
+dhclient 982 bound to 172 31 69 21 renewal in 1623 seconds
+cron 4808 root cmd cd run parts report etc cron hourly
+dhclient 982 dhcprequest of 172 31 69 21 on eth0 to 172 31 69 1 port 67 xid 0xea334
+dhclient 982 dhcpack of 172 31 69 21 from 172 31 69 1
+dhclient 982 bound to 172 31 69 21 renewal in 1391 seconds
+dhclient 982 dhcprequest of 172 31 69 21 on eth0 to 172 31 69 1 port 67 xid 0xea334
+dhclient 982 dhcpack of 172 31 69 21 from 172 31 69 1
+dhclient 982 bound to 172 31 69 21 renewal in 1724 seconds
+dhclient 982 dhcprequest of 172 31 69 21 on eth0 to 172 31 69 1 port 67 xid 0xea334
+dhclient 982 dhcpack of 172 31 69 21 from 172 31 69 1
+dhclient 982 bound to 172 31 69 21 renewal in 1795 seconds
+cron 4855 root cmd cd run parts report etc cron hourly
+dhclient 982 dhcprequest of 172 31 69 21 on eth0 to 172 31 69 1 port 67 xid 0xea334
+dhclient 982 dhcpack of 172 31 69 21 from 172 31 69 1
+dhclient 982 bound to 172 31 69 21 renewal in 1756 seconds
+dhclient 982 dhcprequest of 172 31 69 21 on eth0 to 172 31 69 1 port 67 xid 0xea334
+dhclient 982 dhcpack of 172 31 69 21 from 172 31 69 1
+dhclient 982 bound to 172 31 69 21 renewal in 1412 seconds
+cron 4892 root cmd cd run parts report etc cron hourly
+dhclient 982 dhcprequest of 172 31 69 21 on eth0 to 172 31 69 1 port 67 xid 0xea334
+dhclient 982 dhcpack of 172 31 69 21 from 172 31 69 1
+dhclient 982 bound to 172 31 69 21 renewal in 1580 seconds
+cron 4907 root cmd nohup tcpdump home ubuntu capture dump hostname i
+dhclient 982 dhcprequest of 172 31 69 21 on eth0 to 172 31 69 1 port 67 xid 0xea334
+dhclient 982 dhcpack of 172 31 69 21 from 172 31 69 1
+dhclient 982 bound to 172 31 69 21 renewal in 1767 seconds
+cron 4927 root cmd cd run parts report etc cron hourly
+dhclient 982 dhcprequest of 172 31 69 21 on eth0 to 172 31 69 1 port 67 xid 0xea334
+dhclient 982 dhcpack of 172 31 69 21 from 172 31 69 1
+dhclient 982 bound to 172 31 69 21 renewal in 1383 seconds
+dhclient 982 dhcprequest of 172 31 69 21 on eth0 to 172 31 69 1 port 67 xid 0xea334
+dhclient 982 dhcpack of 172 31 69 21 from 172 31 69 1
+dhclient 982 bound to 172 31 69 21 renewal in 1552 seconds
+cron 4960 root cmd cd run parts report etc cron hourly
+dhclient 982 dhcprequest of 172 31 69 21 on eth0 to 172 31 69 1 port 67 xid 0xea334
+dhclient 982 dhcpack of 172 31 69 21 from 172 31 69 1
+dhclient 982 bound to 172 31 69 21 renewal in 1713 seconds
+dhclient 982 dhcprequest of 172 31 69 21 on eth0 to 172 31 69 1 port 67 xid 0xea334
+dhclient 982 dhcpack of 172 31 69 21 from 172 31 69 1
+dhclient 982 bound to 172 31 69 21 renewal in 1676 seconds
+systemd 1 starting daily apt download activities
+systemd 1 started daily apt download activities
+dhclient 982 dhcprequest of 172 31 69 21 on eth0 to 172 31 69 1 port 67 xid 0xea334
+dhclient 982 dhcpack of 172 31 69 21 from 172 31 69 1
+dhclient 982 bound to 172 31 69 21 renewal in 1366 seconds
+cron 5291 root cmd cd run parts report etc cron hourly
+dhclient 982 dhcprequest of 172 31 69 21 on eth0 to 172 31 69 1 port 67 xid 0xea334
+dhclient 982 dhcpack of 172 31 69 21 from 172 31 69 1
+dhclient 982 bound to 172 31 69 21 renewal in 1658 seconds
+dhclient 982 dhcprequest of 172 31 69 21 on eth0 to 172 31 69 1 port 67 xid 0xea334
+dhclient 982 dhcpack of 172 31 69 21 from 172 31 69 1
+dhclient 982 bound to 172 31 69 21 renewal in 1733 seconds
+cron 5385 root cmd cd run parts report etc cron hourly
+systemd 1 starting daily apt upgrade and clean activities
+systemd 1 started daily apt upgrade and clean activities
+dhclient 945 dhcprequest of 172 31 69 7 on eth0 to 172 31 69 1 port 67 xid 0x7e574bc3
+dhclient 945 dhcpack of 172 31 69 7 from 172 31 69 1
+dhclient 945 bound to 172 31 69 7 renewal in 1495 seconds
+dhclient 945 dhcprequest of 172 31 69 7 on eth0 to 172 31 69 1 port 67 xid 0x7e574bc3
+dhclient 945 dhcpack of 172 31 69 7 from 172 31 69 1
+dhclient 945 bound to 172 31 69 7 renewal in 1487 seconds
+cron 4863 root cmd cd run parts report etc cron hourly
+dhclient 945 dhcprequest of 172 31 69 7 on eth0 to 172 31 69 1 port 67 xid 0x7e574bc3
+dhclient 945 dhcpack of 172 31 69 7 from 172 31 69 1
+dhclient 945 bound to 172 31 69 7 renewal in 1717 seconds
+dhclient 945 dhcprequest of 172 31 69 7 on eth0 to 172 31 69 1 port 67 xid 0x7e574bc3
+dhclient 945 dhcpack of 172 31 69 7 from 172 31 69 1
+dhclient 945 bound to 172 31 69 7 renewal in 1398 seconds
+cron 4912 root cmd cd run parts report etc cron hourly
+systemd 1 started session 59 of user ubuntu
+dhclient 945 dhcprequest of 172 31 69 7 on eth0 to 172 31 69 1 port 67 xid 0x7e574bc3
+dhclient 945 dhcpack of 172 31 69 7 from 172 31 69 1
+dhclient 945 bound to 172 31 69 7 renewal in 1608 seconds
+systemd 1 starting cleanup of temporary directories
+systemd tmpfiles 5081 usr lib tmpfiles d var conf 14 duplicate line for path var log ignoring
+systemd 1 started cleanup of temporary directories
+dhclient 945 dhcprequest of 172 31 69 7 on eth0 to 172 31 69 1 port 67 xid 0x7e574bc3
+dhclient 945 dhcpack of 172 31 69 7 from 172 31 69 1
+dhclient 945 bound to 172 31 69 7 renewal in 1385 seconds
+cron 5121 root cmd cd run parts report etc cron hourly
+dhclient 945 dhcprequest of 172 31 69 7 on eth0 to 172 31 69 1 port 67 xid 0x7e574bc3
+dhclient 945 dhcpack of 172 31 69 7 from 172 31 69 1
+dhclient 945 bound to 172 31 69 7 renewal in 1657 seconds
+dhclient 945 dhcprequest of 172 31 69 7 on eth0 to 172 31 69 1 port 67 xid 0x7e574bc3
+dhclient 945 dhcpack of 172 31 69 7 from 172 31 69 1
+dhclient 945 bound to 172 31 69 7 renewal in 1381 seconds
+dhclient 945 dhcprequest of 172 31 69 7 on eth0 to 172 31 69 1 port 67 xid 0x7e574bc3
+dhclient 945 dhcpack of 172 31 69 7 from 172 31 69 1
+dhclient 945 bound to 172 31 69 7 renewal in 1376 seconds
+cron 5215 root cmd cd run parts report etc cron hourly
+dhclient 945 dhcprequest of 172 31 69 7 on eth0 to 172 31 69 1 port 67 xid 0x7e574bc3
+dhclient 945 dhcpack of 172 31 69 7 from 172 31 69 1
+dhclient 945 bound to 172 31 69 7 renewal in 1386 seconds
+dhclient 945 dhcprequest of 172 31 69 7 on eth0 to 172 31 69 1 port 67 xid 0x7e574bc3
+dhclient 945 dhcpack of 172 31 69 7 from 172 31 69 1
+dhclient 945 bound to 172 31 69 7 renewal in 1511 seconds
+cron 5267 root cmd cd run parts report etc cron hourly
+dhclient 945 dhcprequest of 172 31 69 7 on eth0 to 172 31 69 1 port 67 xid 0x7e574bc3
+dhclient 945 dhcpack of 172 31 69 7 from 172 31 69 1
+dhclient 945 bound to 172 31 69 7 renewal in 1508 seconds
+dhclient 945 dhcprequest of 172 31 69 7 on eth0 to 172 31 69 1 port 67 xid 0x7e574bc3
+dhclient 945 dhcpack of 172 31 69 7 from 172 31 69 1
+dhclient 945 bound to 172 31 69 7 renewal in 1694 seconds
+cron 5308 root cmd cd run parts report etc cron hourly
+dhclient 945 dhcprequest of 172 31 69 7 on eth0 to 172 31 69 1 port 67 xid 0x7e574bc3
+dhclient 945 dhcpack of 172 31 69 7 from 172 31 69 1
+dhclient 945 bound to 172 31 69 7 renewal in 1541 seconds
+dhclient 945 dhcprequest of 172 31 69 7 on eth0 to 172 31 69 1 port 67 xid 0x7e574bc3
+dhclient 945 dhcpack of 172 31 69 7 from 172 31 69 1
+dhclient 945 bound to 172 31 69 7 renewal in 1727 seconds
+systemd 1 starting daily apt download activities
+systemd 1 started daily apt download activities
+dhclient 945 dhcprequest of 172 31 69 7 on eth0 to 172 31 69 1 port 67 xid 0x7e574bc3
+dhclient 945 dhcpack of 172 31 69 7 from 172 31 69 1
+dhclient 945 bound to 172 31 69 7 renewal in 1676 seconds
+cron 5629 root cmd cd run parts report etc cron hourly
+dhclient 945 dhcprequest of 172 31 69 7 on eth0 to 172 31 69 1 port 67 xid 0x7e574bc3
+dhclient 945 dhcpack of 172 31 69 7 from 172 31 69 1
+dhclient 945 bound to 172 31 69 7 renewal in 1596 seconds
+cron 5646 root cmd nohup tcpdump home ubuntu capture dump hostname i
+dhclient 945 dhcprequest of 172 31 69 7 on eth0 to 172 31 69 1 port 67 xid 0x7e574bc3
+dhclient 945 dhcpack of 172 31 69 7 from 172 31 69 1
+dhclient 945 bound to 172 31 69 7 renewal in 1712 seconds
+cron 5666 root cmd cd run parts report etc cron hourly
+dhclient 945 dhcprequest of 172 31 69 7 on eth0 to 172 31 69 1 port 67 xid 0x7e574bc3
+dhclient 945 dhcpack of 172 31 69 7 from 172 31 69 1
+dhclient 945 bound to 172 31 69 7 renewal in 1609 seconds
+dhclient 945 dhcprequest of 172 31 69 7 on eth0 to 172 31 69 1 port 67 xid 0x7e574bc3
+dhclient 945 dhcpack of 172 31 69 7 from 172 31 69 1
+dhclient 945 bound to 172 31 69 7 renewal in 1457 seconds
+cron 5705 root cmd cd run parts report etc cron hourly
+dhclient 945 dhcprequest of 172 31 69 7 on eth0 to 172 31 69 1 port 67 xid 0x7e574bc3
+dhclient 945 dhcpack of 172 31 69 7 from 172 31 69 1
+dhclient 945 bound to 172 31 69 7 renewal in 1681 seconds
+dhclient 945 dhcprequest of 172 31 69 7 on eth0 to 172 31 69 1 port 67 xid 0x7e574bc3
+dhclient 945 dhcpack of 172 31 69 7 from 172 31 69 1
+dhclient 945 bound to 172 31 69 7 renewal in 1721 seconds
+cron 5740 root cmd cd run parts report etc cron hourly
+dhclient 945 dhcprequest of 172 31 69 7 on eth0 to 172 31 69 1 port 67 xid 0x7e574bc3
+dhclient 945 dhcpack of 172 31 69 7 from 172 31 69 1
+dhclient 945 bound to 172 31 69 7 renewal in 1395 seconds
+dhclient 945 dhcprequest of 172 31 69 7 on eth0 to 172 31 69 1 port 67 xid 0x7e574bc3
+dhclient 945 dhcpack of 172 31 69 7 from 172 31 69 1
+dhclient 945 bound to 172 31 69 7 renewal in 1682 seconds
+dhclient 945 dhcprequest of 172 31 69 7 on eth0 to 172 31 69 1 port 67 xid 0x7e574bc3
+dhclient 945 dhcpack of 172 31 69 7 from 172 31 69 1
+dhclient 945 bound to 172 31 69 7 renewal in 1508 seconds
+cron 5791 root cmd cd run parts report etc cron hourly
+systemd 1 starting daily apt upgrade and clean activities
+systemd 1 started daily apt upgrade and clean activities
+dhclient 980 dhcprequest of 172 31 69 25 on eth0 to 172 31 69 1 port 67 xid 0x3ece8b74
+dhclient 980 dhcpack of 172 31 69 25 from 172 31 69 1
+dhclient 980 bound to 172 31 69 25 renewal in 1464 seconds
+cron 30322 root cmd x usr lib php sessionclean usr lib php sessionclean
+dhclient 980 dhcprequest of 172 31 69 25 on eth0 to 172 31 69 1 port 67 xid 0x3ece8b74
+dhclient 980 dhcpack of 172 31 69 25 from 172 31 69 1
+dhclient 980 bound to 172 31 69 25 renewal in 1397 seconds
+cron 30421 root cmd x usr lib php sessionclean usr lib php sessionclean
+cron 30506 root cmd cd run parts report etc cron hourly
+dhclient 980 dhcprequest of 172 31 69 25 on eth0 to 172 31 69 1 port 67 xid 0x3ece8b74
+dhclient 980 dhcpack of 172 31 69 25 from 172 31 69 1
+dhclient 980 bound to 172 31 69 25 renewal in 1712 seconds
+systemd 1 starting daily apt download activities
+systemd 1 started daily apt download activities
+cron 30838 root cmd x usr lib php sessionclean usr lib php sessionclean
+dhclient 980 dhcprequest of 172 31 69 25 on eth0 to 172 31 69 1 port 67 xid 0x3ece8b74
+dhclient 980 dhcpack of 172 31 69 25 from 172 31 69 1
+dhclient 980 bound to 172 31 69 25 renewal in 1564 seconds
+cron 30935 root cmd x usr lib php sessionclean usr lib php sessionclean
+cron 31020 root cmd cd run parts report etc cron hourly
+dhclient 980 dhcprequest of 172 31 69 25 on eth0 to 172 31 69 1 port 67 xid 0x3ece8b74
+dhclient 980 dhcpack of 172 31 69 25 from 172 31 69 1
+dhclient 980 bound to 172 31 69 25 renewal in 1387 seconds
+cron 31035 root cmd x usr lib php sessionclean usr lib php sessionclean
+dhclient 980 dhcprequest of 172 31 69 25 on eth0 to 172 31 69 1 port 67 xid 0x3ece8b74
+dhclient 980 dhcpack of 172 31 69 25 from 172 31 69 1
+dhclient 980 bound to 172 31 69 25 renewal in 1414 seconds
+dhclient 980 dhcprequest of 172 31 69 25 on eth0 to 172 31 69 1 port 67 xid 0x3ece8b74
+dhclient 980 dhcpack of 172 31 69 25 from 172 31 69 1
+dhclient 980 bound to 172 31 69 25 renewal in 1386 seconds
+cron 31146 root cmd x usr lib php sessionclean usr lib php sessionclean
+cron 31231 root cmd cd run parts report etc cron hourly
+dhclient 980 dhcprequest of 172 31 69 25 on eth0 to 172 31 69 1 port 67 xid 0x3ece8b74
+dhclient 980 dhcpack of 172 31 69 25 from 172 31 69 1
+dhclient 980 bound to 172 31 69 25 renewal in 1791 seconds
+cron 31248 root cmd x usr lib php sessionclean usr lib php sessionclean
+dhclient 980 dhcprequest of 172 31 69 25 on eth0 to 172 31 69 1 port 67 xid 0x3ece8b74
+dhclient 980 dhcpack of 172 31 69 25 from 172 31 69 1
+dhclient 980 bound to 172 31 69 25 renewal in 1604 seconds
+cron 31347 root cmd x usr lib php sessionclean usr lib php sessionclean
+systemd 1 starting daily apt upgrade and clean activities
+systemd 1 started daily apt upgrade and clean activities
+cron 31491 root cmd cd run parts report etc cron hourly
+dhclient 980 dhcprequest of 172 31 69 25 on eth0 to 172 31 69 1 port 67 xid 0x3ece8b74
+dhclient 980 dhcpack of 172 31 69 25 from 172 31 69 1
+dhclient 980 bound to 172 31 69 25 renewal in 1734 seconds
+cron 31508 root cmd x usr lib php sessionclean usr lib php sessionclean
+dhclient 980 dhcprequest of 172 31 69 25 on eth0 to 172 31 69 1 port 67 xid 0x3ece8b74
+dhclient 980 dhcpack of 172 31 69 25 from 172 31 69 1
+dhclient 980 bound to 172 31 69 25 renewal in 1559 seconds
+cron 31605 root cmd x usr lib php sessionclean usr lib php sessionclean
+cron 31694 root cmd cd run parts report etc cron hourly
+dhclient 980 dhcprequest of 172 31 69 25 on eth0 to 172 31 69 1 port 67 xid 0x3ece8b74
+dhclient 980 dhcpack of 172 31 69 25 from 172 31 69 1
+dhclient 980 bound to 172 31 69 25 renewal in 1568 seconds
+cron 31711 root cmd x usr lib php sessionclean usr lib php sessionclean
+dhclient 980 dhcprequest of 172 31 69 25 on eth0 to 172 31 69 1 port 67 xid 0x3ece8b74
+dhclient 980 dhcpack of 172 31 69 25 from 172 31 69 1
+dhclient 980 bound to 172 31 69 25 renewal in 1366 seconds
+cron 31808 root cmd x usr lib php sessionclean usr lib php sessionclean
+dhclient 980 dhcprequest of 172 31 69 25 on eth0 to 172 31 69 1 port 67 xid 0x3ece8b74
+dhclient 980 dhcpack of 172 31 69 25 from 172 31 69 1
+dhclient 980 bound to 172 31 69 25 renewal in 1393 seconds
+cron 31915 root cmd cd run parts report etc cron hourly
+systemd 1 received sigint
+systemd 1 stopped target cloud init target
+systemd 1 stopping session 72 of user ubuntu
+systemd 1 closed load save rf kill switch status dev rfkill watch
+systemd 1 stopping user manager for uid 1000
+systemd 5495 reached target shutdown
+systemd 5495 starting exit the session
+systemd 5495 stopped target default
+systemd 5495 stopped target basic system
+systemd 5495 stopped target paths
+systemd 5495 stopped target timers
+systemd 5495 stopped target sockets
+systemd 1 stopping authenticate and authorize users to run privileged tasks
+systemd 5495 received sigrtmin 24 from pid 31920 kill
+systemd 1 stopped execute cloud user final scripts
+systemd 1 stopped target timers
+systemd 1 stopped timer to automatically refresh installed snaps
+systemd 1 stopped daily cleanup of temporary directories
+systemd 1 stopped target graphical interface
+systemd 1 stopping accounts service
+systemd 1 stopped target multi user system
+systemd 1 stopped target login prompts
+systemd 1 stopping serial getty on ttys0
+systemd 1 stopping getty on tty1
+systemd 1 stopping lxd container startup shutdown
+systemd 1 stopping regular background program processing daemon
+systemd 1 stopping lsb md monitoring daemon
+systemd 1 stopping deferred execution scheduler
+systemd 1 stopping openbsd secure shell server
+systemd 1 stopping lsb automatic crash report generation
+systemd 1 stopping fuse filesystem for lxc
+systemd 1 stopping the php 7 0 fastcgi process manager
+systemd 1 stopping d bus system message bus
+systemd 1 stopping snappy daemon
+snapd 1152 2018 02 14 12 28 01 358314 main go 78 exiting on terminated signal
+systemd 1 stopping lsb apache2 web server
+rsyslogd origin software rsyslogd swversion 8 16 0 x pid 1122 x info http www rsyslog com rsyslogd was huped
+rsyslogd origin software rsyslogd swversion 8 16 0 x pid 1122 x info http www rsyslog com exiting on signal 15
+rsyslogd origin software rsyslogd swversion 8 16 0 x pid 1125 x info http www rsyslog com start
+rsyslogd 2222 command klogpermitnonkernelfacility is currently not permitted did you already set it via a rainerscript command v6 config v8 16 0 try http www rsyslog com e 2222
+rsyslogd rsyslogd s groupid changed to 108
+rsyslogd rsyslogd s userid changed to 104
+rsyslogd 2039 could not open output pipe dev xconsole no such file or directory v8 16 0 try http www rsyslog com e 2039
+rsyslogd 2007 action action 11 suspended next retry is wed feb 14 08 29 04 2018 v8 16 0 try http www rsyslog com e 2007
+kernel 0 000000 initializing cgroup subsys cpuset
+kernel 0 000000 initializing cgroup subsys cpu
+kernel 0 000000 initializing cgroup subsys cpuacct
+kernel 0 000000 linux version 4 4 0 1049 aws buildd lcy01 amd64 001 gcc version 5 4 0 20160609 ubuntu 5 4 0 6ubuntu1 16 04 5 58 ubuntu smp fri jan 12 23 17 09 utc 2018 ubuntu 4 4 0 1049 58 aws 4 4 98
+kernel 0 000000 command line boot image boot vmlinuz 4 4 0 1049 aws root uuid ccee1a8d 0785 4b3a a578 812d59f5d3e1 ro console tty1 console ttys0 nvme io timeout 4294967295
+kernel 0 000000 kernel supported cpus
+kernel 0 000000 intel genuineintel
+kernel 0 000000 amd authenticamd
+kernel 0 000000 centaur centaurhauls
+kernel 0 000000 x86 fpu xstate offset 2 576 xstate sizes 2 256
+kernel 0 000000 x86 fpu supporting xsave feature 0x01 x87 floating point registers
+kernel 0 000000 x86 fpu supporting xsave feature 0x02 sse registers
+kernel 0 000000 x86 fpu supporting xsave feature 0x04 avx registers
+kernel 0 000000 x86 fpu enabled xstate features 0x7 context size is 832 bytes using standard format
+kernel 0 000000 x86 fpu using eager fpu context switches
+kernel 0 000000 e820 bios provided physical ram map
+kernel 0 000000 bios e820 mem 0x0000000000000000 0x000000000009dfff usable
+kernel 0 000000 bios e820 mem 0x000000000009e000 0x000000000009ffff reserved
+kernel 0 000000 bios e820 mem 0x00000000000e0000 0x00000000000fffff reserved
+kernel 0 000000 bios e820 mem 0x0000000000100000 0x000000003fffffff usable
+kernel 0 000000 bios e820 mem 0x00000000fc000000 0x00000000ffffffff reserved
+kernel 0 000000 nx execute disable protection active
+kernel 0 000000 smbios 2 7 present
+kernel 0 000000 dmi xen hvm domu bios 4 2 amazon 08 24 2006
+kernel 0 000000 hypervisor detected xen
+kernel 0 000000 xen version 4 2
+kernel 0 000000 xen platform pci i o protocol version 1
+kernel 0 000000 netfront and the xen platform pci driver have been compiled for this kernel unplug emulated nics
+kernel 0 000000 blkfront and the xen platform pci driver have been compiled for this kernel unplug emulated disks
+kernel 0 000000 you might have to change the root device
+kernel 0 000000 from dev hd a d to dev xvd a d
+kernel 0 000000 in your root kernel command line option
+kernel 0 000000 hvmop pagetable dying not supported
+kernel 0 000000 e820 update mem 0x00000000 0x00000fff usable reserved
+kernel 0 000000 e820 remove mem 0x000a0000 0x000fffff usable
+kernel 0 000000 e820 last pfn 0x40000 max arch pfn 0x400000000
+kernel 0 000000 mtrr default type write back
+kernel 0 000000 mtrr fixed ranges enabled
+kernel 0 000000 00000 9ffff write back
+kernel 0 000000 a0000 bffff write combining
+kernel 0 000000 c0000 fffff write back
+kernel 0 000000 mtrr variable ranges enabled
+kernel 0 000000 0 base 0000f0000000 mask 3ffff8000000 uncachable
+kernel 0 000000 1 base 0000f8000000 mask 3ffffc000000 uncachable
+kernel 0 000000 2 disabled
+kernel 0 000000 3 disabled
+kernel 0 000000 4 disabled
+kernel 0 000000 5 disabled
+kernel 0 000000 6 disabled
+kernel 0 000000 7 disabled
+kernel 0 000000 x86 pat configuration 0 7 wb wc uc uc wb wc uc wt
+kernel 0 000000 found smp mp table at mem 0x000fbc20 0x000fbc2f mapped at ffff8800000fbc20
+kernel 0 000000 scanning 1 areas for low memory corruption
+kernel 0 000000 base memory trampoline at ffff880000098000 98000 size 24576
+kernel 0 000000 brk 0x02201000 0x02201fff pgtable
+kernel 0 000000 brk 0x02202000 0x02202fff pgtable
+kernel 0 000000 brk 0x02203000 0x02203fff pgtable
+kernel 0 000000 ramdisk mem 0x367e6000 0x373eafff
+kernel 0 000000 acpi early table checksum verification disabled
+kernel 0 000000 acpi rsdp 0x00000000000ea020 000024 v02 xen
+kernel 0 000000 acpi xsdt 0x00000000fc00ddc0 000054 v01 xen hvm 00000000 hvml 00000000
+kernel 0 000000 acpi facp 0x00000000fc00da80 0000f4 v04 xen hvm 00000000 hvml 00000000
+kernel 0 000000 acpi dsdt 0x00000000fc001ce0 00bd19 v02 xen hvm 00000000 intl 20090123
+kernel 0 000000 acpi facs 0x00000000fc001ca0 000040
+kernel 0 000000 acpi facs 0x00000000fc001ca0 000040
+kernel 0 000000 acpi apic 0x00000000fc00db80 0000d8 v02 xen hvm 00000000 hvml 00000000
+kernel 0 000000 acpi hpet 0x00000000fc00dcd0 000038 v01 xen hvm 00000000 hvml 00000000
+kernel 0 000000 acpi waet 0x00000000fc00dd10 000028 v01 xen hvm 00000000 hvml 00000000
+kernel 0 000000 acpi ssdt 0x00000000fc00dd40 000031 v02 xen hvm 00000000 intl 20090123
+kernel 0 000000 acpi ssdt 0x00000000fc00dd80 000031 v02 xen hvm 00000000 intl 20090123
+kernel 0 000000 acpi local apic address 0xfee00000
+kernel 0 000000 no numa configuration found
+kernel 0 000000 faking a node at mem 0x0000000000000000 0x000000003fffffff
+kernel 0 000000 node data 0 allocated mem 0x3fffb000 0x3fffffff
+kernel 0 000000 zone ranges
+kernel 0 000000 dma mem 0x0000000000001000 0x0000000000ffffff
+kernel 0 000000 dma32 mem 0x0000000001000000 0x000000003fffffff
+kernel 0 000000 normal empty
+kernel 0 000000 device empty
+kernel 0 000000 movable zone start for each node
+kernel 0 000000 early memory node ranges
+kernel 0 000000 node 0 mem 0x0000000000001000 0x000000000009dfff
+kernel 0 000000 node 0 mem 0x0000000000100000 0x000000003fffffff
+kernel 0 000000 initmem setup node 0 mem 0x0000000000001000 0x000000003fffffff
+kernel 0 000000 on node 0 totalpages 262045
+kernel 0 000000 dma zone 64 pages used for memmap
+kernel 0 000000 dma zone 21 pages reserved
+kernel 0 000000 dma zone 3997 pages lifo batch 0
+kernel 0 000000 dma32 zone 4032 pages used for memmap
+kernel 0 000000 dma32 zone 258048 pages lifo batch 31
+kernel 0 000000 acpi pm timer io port 0xb008
+kernel 0 000000 acpi local apic address 0xfee00000
+kernel 0 000000 ioapic 0 apic id 1 version 17 address 0xfec00000 gsi 0 47
+kernel 0 000000 acpi int src ovr bus 0 bus irq 0 global irq 2 dfl dfl
+kernel 0 000000 acpi int src ovr bus 0 bus irq 5 global irq 5 low level
+kernel 0 000000 acpi int src ovr bus 0 bus irq 10 global irq 10 low level
+kernel 0 000000 acpi int src ovr bus 0 bus irq 11 global irq 11 low level
+kernel 0 000000 acpi irq0 used by override
+kernel 0 000000 acpi irq5 used by override
+kernel 0 000000 acpi irq9 used by override
+kernel 0 000000 acpi irq10 used by override
+kernel 0 000000 acpi irq11 used by override
+kernel 0 000000 using acpi madt for smp configuration information
+kernel 0 000000 acpi hpet id 0x8086a201 base 0xfed00000
+kernel 0 000000 smpboot allowing 15 cpus 14 hotplug cpus
+kernel 0 000000 pm registered nosave memory mem 0x00000000 0x00000fff
+kernel 0 000000 pm registered nosave memory mem 0x0009e000 0x0009ffff
+kernel 0 000000 pm registered nosave memory mem 0x000a0000 0x000dffff
+kernel 0 000000 pm registered nosave memory mem 0x000e0000 0x000fffff
+kernel 0 000000 e820 mem 0x40000000 0xfbffffff available for pci devices
+kernel 0 000000 booting paravirtualized kernel on xen hvm
+kernel 0 000000 clocksource refined jiffies mask 0xffffffff max cycles 0xffffffff max idle ns 7645519600211568 ns
+kernel 0 000000 setup percpu nr cpus 256 nr cpumask bits 256 nr cpu ids 15 nr node ids 1
+kernel 0 000000 percpu embedded 34 pages cpu ffff88003e200000 s99160 r8192 d31912 u262144
+kernel 0 000000 pcpu alloc s99160 r8192 d31912 u262144 alloc 1 2097152
+kernel 0 000000 pcpu alloc 0 00 01 02 03 04 05 06 07 0 08 09 10 11 12 13 14
+kernel 0 000000 xen pv spinlocks enabled
+kernel 0 000000 pv qspinlock hash table entries 256 order 0 4096 bytes
+kernel 0 000000 built 1 zonelists in node order mobility grouping on total pages 257928
+kernel 0 000000 policy zone dma32
+systemd modules load 396 inserted module iscsi tcp
+loadkeys 389 loading etc console setup cached kmap gz
+systemd 1 started uncomplicated firewall
+systemd 1 started remount root and kernel file systems
+systemd 1 started set console keymap
+systemd 1 started create list of required static device nodes for the current kernel
+systemd modules load 396 inserted module ib iser
+systemd 1 started nameserver information manager
+systemd 1 started load kernel modules
+systemd 1 started lvm2 metadata daemon
+systemd 1 starting apply kernel variables
+systemd 1 mounting fuse control file system
+systemd 1 starting create static device nodes in dev
+systemd 1 starting initial cloud init job pre networking
+systemd 1 starting udev coldplug all devices
+systemd 1 starting load save random seed
+systemd 1 starting flush journal to persistent storage
+systemd 1 mounted fuse control file system
+systemd 1 started apply kernel variables
+systemd 1 started create static device nodes in dev
+systemd 1 started load save random seed
+systemd 1 starting udev kernel device manager
+systemd 1 started flush journal to persistent storage
+systemd 1 started udev coldplug all devices
+systemd 1 started udev kernel device manager
+systemd 1 started dispatch password requests to console directory watch
+systemd 1 started monitoring of lvm2 mirrors snapshots etc using dmeventd or progress polling
+systemd 1 reached target local file systems pre
+systemd 1 reached target local file systems
+systemd 1 starting set console font and keymap
+systemd 1 starting lsb apparmor initialization
+systemd 1 starting create volatile files and directories
+systemd 1 starting tell plymouth to write out runtime data
+systemd tmpfiles 495 usr lib tmpfiles d var conf 14 duplicate line for path var log ignoring
+systemd 1 started create volatile files and directories
+systemd 1 started tell plymouth to write out runtime data
+systemd 1 found device dev ttys0
+systemd 1 starting update utmp about system boot shutdown
+systemd 1 starting network time synchronization
+apparmor 489 starting apparmor profiles
+systemd 1 started update utmp about system boot shutdown
+apparmor 489 skipping profile in etc apparmor d disable usr sbin rsyslogd
+apparmor 489 done
+systemd 1 started lsb apparmor initialization
+systemd 1 started network time synchronization
+systemd 1 reached target system time synchronized
+systemd 1 found device sys subsystem net devices eth0
+systemd 1 listening on load save rf kill switch status dev rfkill watch
+dhclient 818 internet systems consortium dhcp client 4 3 3
+dhclient 818 copyright 2004 2015 internet systems consortium
+dhclient 818 all rights reserved
+dhclient 818 for info please visit https www isc org software dhcp
+dhclient 818
+dhclient 818 listening on lpf eth0 02 d8 a9 4e 38 42
+dhclient 818 sending on lpf eth0 02 d8 a9 4e 38 42
+dhclient 818 sending on socket fallback
+dhclient 818 dhcpdiscover on eth0 to 255 255 255 255 port 67 interval 3 xid 0x8952d759
+dhclient 818 dhcprequest of 172 31 69 25 on eth0 to 255 255 255 255 port 67 xid 0x59d75289
+dhclient 818 dhcpoffer of 172 31 69 25 from 172 31 69 1
+dhclient 818 dhcpack of 172 31 69 25 from 172 31 69 1
+dhclient 818 bound to 172 31 69 25 renewal in 1492 seconds
+systemd 1 started set console font and keymap
+cloud init 453 cloud init v 17 1 running init local at wed 14 feb 2018 12 28 31 0000 up 5 49 seconds
+systemd 1 started initial cloud init job pre networking
+systemd 1 reached target network pre
+systemd 1 starting raise network interfaces
+systemd 1 started ifup for eth0
+dhclient 897 internet systems consortium dhcp client 4 3 3
+sh 882 internet systems consortium dhcp client 4 3 3
+dhclient 897 copyright 2004 2015 internet systems consortium
+sh 882 copyright 2004 2015 internet systems consortium
+dhclient 897 all rights reserved
+sh 882 all rights reserved
+dhclient 897 for info please visit https www isc org software dhcp
+sh 882 for info please visit https www isc org software dhcp
+dhclient 897
+dhclient 897 listening on lpf eth0 02 d8 a9 4e 38 42
+sh 882 listening on lpf eth0 02 d8 a9 4e 38 42
+sh 882 sending on lpf eth0 02 d8 a9 4e 38 42
+sh 882 sending on socket fallback
+sh 882 dhcpdiscover on eth0 to 255 255 255 255 port 67 interval 3 xid 0x5f57626f
+dhclient 897 sending on lpf eth0 02 d8 a9 4e 38 42
+dhclient 897 sending on socket fallback
+dhclient 897 dhcpdiscover on eth0 to 255 255 255 255 port 67 interval 3 xid 0x5f57626f
+dhclient 897 dhcprequest of 172 31 69 25 on eth0 to 255 255 255 255 port 67 xid 0x6f62575f
+sh 882 dhcprequest of 172 31 69 25 on eth0 to 255 255 255 255 port 67 xid 0x6f62575f
+sh 882 dhcpoffer of 172 31 69 25 from 172 31 69 1
+kernel 0 000000 kernel command line boot image boot vmlinuz 4 4 0 1049 aws root uuid ccee1a8d 0785 4b3a a578 812d59f5d3e1 ro console tty1 console ttys0 nvme io timeout 4294967295
+kernel 0 000000 pid hash table entries 4096 order 3 32768 bytes
+kernel 0 000000 calgary detecting calgary via bios ebda area
+kernel 0 000000 calgary unable to locate rio grande table in ebda bailing
+kernel 0 000000 memory 998628k 1048180k available 8320k kernel code 1276k rwdata 3872k rodata 1484k init 1288k bss 49552k reserved 0k cma reserved
+kernel 0 000000 slub hwalign 64 order 0 3 minobjects 0 cpus 15 nodes 1
+kernel 0 000000 kernel user page tables isolation enabled
+kernel 0 000000 hierarchical rcu implementation
+kernel 0 000000 build time adjustment of leaf fanout to 64
+kernel 0 000000 rcu restricting cpus from nr cpus 256 to nr cpu ids 15
+kernel 0 000000 rcu adjusting geometry for rcu fanout leaf 64 nr cpu ids 15
+kernel 0 000000 nr irqs 16640 nr irqs 952 16
+kernel 0 000000 xen events using 2 level abi
+kernel 0 000000 xen events xen hvm callback vector for event delivery is enabled
+kernel 0 000000 console colour vga 80x25
+kernel 0 000000 console tty1 enabled
+kernel 0 000000 cannot get hvm parameter console evtchn 18 22
+kernel 0 000000 console ttys0 enabled
+kernel 0 000000 clocksource hpet mask 0xffffffff max cycles 0xffffffff max idle ns 30580167144 ns
+kernel 0 000000 hpet clockevent registered
+kernel 0 000000 tsc detected 2400 050 mhz processor
+kernel 0 008000 calibrating delay loop skipped value calculated using timer frequency 4800 10 bogomips lpj 9600200
+kernel 0 012003 pid max default 32768 minimum 301
+kernel 0 014689 acpi core revision 20150930
+kernel 0 023726 acpi 3 acpi aml tables successfully acquired and loaded
+kernel 0 026984 security framework initialized
+kernel 0 028004 yama becoming mindful
+kernel 0 032026 apparmor apparmor initialized
+kernel 0 034562 dentry cache hash table entries 131072 order 8 1048576 bytes
+kernel 0 036178 inode cache hash table entries 65536 order 7 524288 bytes
+kernel 0 040095 mount cache hash table entries 2048 order 2 16384 bytes
+kernel 0 048007 mountpoint cache hash table entries 2048 order 2 16384 bytes
+kernel 0 052189 initializing cgroup subsys io
+kernel 0 054605 initializing cgroup subsys memory
+kernel 0 056014 initializing cgroup subsys devices
+kernel 0 060007 initializing cgroup subsys freezer
+kernel 0 062802 initializing cgroup subsys net cls
+kernel 0 064004 initializing cgroup subsys perf event
+kernel 0 068009 initializing cgroup subsys net prio
+kernel 0 070602 initializing cgroup subsys hugetlb
+kernel 0 072006 initializing cgroup subsys pids
+kernel 0 076067 cpu physical processor id 0
+kernel 0 078602 feature spec ctrl not present
+kernel 0 080776 mce cpu supports 2 mce banks
+kernel 0 084023 last level itlb entries 4kb 1024 2mb 1024 4mb 1024
+kernel 0 088005 last level dtlb entries 4kb 1024 2mb 1024 4mb 1024 1gb 4
+kernel 0 108479 ftrace allocating 31285 entries in 123 pages
+kernel 0 136093 smpboot apic 0 converting physical 0 to logical package 0
+kernel 0 140003 smpboot max logical packages 15
+kernel 0 144600 x2apic irq remapping doesn t support x2apic mode
+kernel 0 148005 switched apic routing to physical flat
+kernel 0 154070 timer vector 0x30 apic1 0 pin1 2 apic2 0 pin2 0
+kernel 0 156005 clocksource xen mask 0xffffffffffffffff max cycles 0x1cd42e4dffb max idle ns 881590591483 ns
+kernel 0 160009 xen using vcpuop timer interface
+kernel 0 160016 installing xen timer for cpu 0
+kernel 0 164069 smpboot cpu0 intel r xeon r cpu e5 2676 v3 2 40ghz family 0x6 model 0x3f stepping 0x2
+kernel 0 169335 cpu 0 spinlock event irq 53
+kernel 0 171634 performance events unsupported p6 cpu model 63 no pmu driver software events only
+kernel 0 176507 x86 booted up 1 node 1 cpus
+kernel 0 178946 smpboot total of 1 processors activated 4800 10 bogomips
+kernel 0 180012 nmi watchdog disabled cpu0 hardware events not enabled
+kernel 0 183470 nmi watchdog shutting down hard lockup detector on all cpus
+kernel 0 184349 devtmpfs initialized
+kernel 0 187831 evm security selinux
+kernel 0 188007 evm security smack64
+kernel 0 190110 evm security smack64exec
+kernel 0 192004 evm security smack64transmute
+kernel 0 194498 evm security smack64mmap
+kernel 0 196007 evm security ima
+kernel 0 197948 evm security capability
+kernel 0 200153 clocksource jiffies mask 0xffffffff max cycles 0xffffffff max idle ns 7645041785100000 ns
+kernel 0 204039 futex hash table entries 4096 order 6 262144 bytes
+kernel 0 207949 rtc time 12 28 26 date 02 14 18
+kernel 0 208140 net registered protocol family 16
+kernel 0 211291 cpuidle using governor ladder
+kernel 0 212010 cpuidle using governor menu
+kernel 0 214626 pcct header not found
+kernel 0 216083 acpi bus type pci registered
+kernel 0 218686 acpiphp acpi hot plug pci controller driver version 0 5
+kernel 0 220275 pci using configuration type 1 for base access
+kernel 0 225012 acpi added osi module device
+kernel 0 227498 acpi added osi processor device
+kernel 0 228004 acpi added osi 3 0 scp extensions
+kernel 0 230648 acpi added osi processor aggregator device
+kernel 0 232936 xen pirq 16 irq 9 gsi 9
+kernel 0 235358 acpi interpreter enabled
+kernel 0 236012 acpi supports s0 s4 s5
+kernel 0 238219 acpi using ioapic for interrupt routing
+kernel 0 240024 pci using host bridge windows from acpi if necessary use pci nocrs and report a bug
+kernel 0 284123 acpi pci root bridge pci0 domain 0000 bus 00 ff
+kernel 0 287527 acpi pnp0a03 00 osc os supports aspm clockpm segments msi
+kernel 0 288014 acpi pnp0a03 00 osc failed ae not found disabling aspm
+kernel 0 292017 acpi pnp0a03 00 fail to add mmconfig information can t access extended pci configuration space under this bridge
+kernel 0 296891 acpiphp slot 0 registered
+kernel 0 300075 acpiphp slot 3 registered
+kernel 0 302597 acpiphp slot 4 registered
+kernel 0 304252 acpiphp slot 5 registered
+kernel 0 306824 acpiphp slot 6 registered
+kernel 0 308246 acpiphp slot 7 registered
+kernel 0 311007 acpiphp slot 8 registered
+kernel 0 312280 acpiphp slot 9 registered
+kernel 0 315383 acpiphp slot 10 registered
+kernel 0 316232 acpiphp slot 11 registered
+kernel 0 318888 acpiphp slot 12 registered
+kernel 0 320272 acpiphp slot 13 registered
+kernel 0 323292 acpiphp slot 14 registered
+kernel 0 324332 acpiphp slot 15 registered
+kernel 0 327404 acpiphp slot 16 registered
+kernel 0 328278 acpiphp slot 17 registered
+kernel 0 331166 acpiphp slot 18 registered
+kernel 0 332259 acpiphp slot 19 registered
+kernel 0 335103 acpiphp slot 20 registered
+kernel 0 336259 acpiphp slot 21 registered
+kernel 0 339298 acpiphp slot 22 registered
+kernel 0 340368 acpiphp slot 23 registered
+kernel 0 344386 acpiphp slot 24 registered
+kernel 0 348389 acpiphp slot 25 registered
+kernel 0 352465 acpiphp slot 26 registered
+kernel 0 356392 acpiphp slot 27 registered
+kernel 0 360375 acpiphp slot 28 registered
+kernel 0 364393 acpiphp slot 29 registered
+kernel 0 368361 acpiphp slot 30 registered
+kernel 0 371966 acpiphp slot 31 registered
+kernel 0 372312 pci host bridge to bus 0000 00
+kernel 0 375746 pci bus 0000 00 root bus resource io 0x0000 0x0cf7 window
+kernel 0 376008 pci bus 0000 00 root bus resource io 0x0d00 0xffff window
+kernel 0 380007 pci bus 0000 00 root bus resource mem 0x000a0000 0x000bffff window
+kernel 0 384004 pci bus 0000 00 root bus resource mem 0xf0000000 0xfbffffff window
+kernel 0 388008 pci bus 0000 00 root bus resource bus 00 ff
+kernel 0 392170 pci 0000 00 00 0 8086 1237 type 00 class 0x060000
+kernel 0 394144 pci 0000 00 01 0 8086 7000 type 00 class 0x060100
+kernel 0 396745 pci 0000 00 01 1 8086 7010 type 00 class 0x010180
+kernel 0 398174 pci 0000 00 01 1 reg 0x20 io 0xc100 0xc10f
+kernel 0 398778 pci 0000 00 01 1 legacy ide quirk reg 0x10 io 0x01f0 0x01f7
+kernel 0 400007 pci 0000 00 01 1 legacy ide quirk reg 0x14 io 0x03f6
+kernel 0 404008 pci 0000 00 01 1 legacy ide quirk reg 0x18 io 0x0170 0x0177
+kernel 0 408006 pci 0000 00 01 1 legacy ide quirk reg 0x1c io 0x0376
+kernel 0 412647 pci 0000 00 01 3 8086 7113 type 00 class 0x068000
+kernel 0 412758 found pm timer bug on the chipset due to workarounds for a bug
+kernel 0 412758 this clock source is slow consider trying other clock sources
+kernel 0 417588 pci 0000 00 01 3 quirk io 0xb000 0xb03f claimed by piix4 acpi
+kernel 0 420973 pci 0000 00 02 0 1013 00b8 type 00 class 0x030000
+kernel 0 421367 pci 0000 00 02 0 reg 0x10 mem 0xf0000000 0xf1ffffff pref
+kernel 0 421643 pci 0000 00 02 0 reg 0x14 mem 0xf3000000 0xf3000fff
+kernel 0 423642 pci 0000 00 03 0 5853 0001 type 00 class 0xff8000
+kernel 0 424044 pci 0000 00 03 0 reg 0x10 io 0xc000 0xc0ff
+kernel 0 424299 pci 0000 00 03 0 reg 0x14 mem 0xf2000000 0xf2ffffff pref
+kernel 0 427333 acpi pci interrupt link lnka irqs 5 10 11
+kernel 0 431579 acpi pci interrupt link lnkb irqs 5 10 11
+kernel 0 435471 acpi pci interrupt link lnkc irqs 5 10 11
+kernel 0 439581 acpi pci interrupt link lnkd irqs 5 10 11
+kernel 0 460604 acpi enabled 2 gpes in block 00 to 0f
+kernel 0 464076 xen balloon initialising balloon driver
+kernel 0 472313 vgaarb setting as boot device pci 0000 00 02 0
+kernel 0 476000 vgaarb device added pci 0000 00 02 0 decodes io mem owns io mem locks none
+kernel 0 476014 vgaarb loaded
+kernel 0 478499 vgaarb bridge control possible 0000 00 02 0
+kernel 0 480230 scsi subsystem initialized
+kernel 0 484000 libata version 3 00 loaded
+kernel 0 484000 acpi bus type usb registered
+kernel 0 484025 usbcore registered new interface driver usbfs
+kernel 0 488019 usbcore registered new interface driver hub
+kernel 0 492021 usbcore registered new device driver usb
+kernel 0 496147 pci using acpi for irq routing
+kernel 0 499728 pci pci cache line size set to 64 bytes
+kernel 0 500126 e820 reserve ram buffer mem 0x0009e000 0x0009ffff
+kernel 0 500245 netlabel initializing
+kernel 0 503372 netlabel domain hash size 128
+kernel 0 504005 netlabel protocols unlabeled cipsov4
+kernel 0 508017 netlabel unlabeled traffic allowed by default
+kernel 0 512112 hpet 3 timers in total 0 timers will be used for per cpu timer
+kernel 0 516018 hpet0 at mmio 0xfed00000 irqs 2 8 0
+kernel 0 522380 hpet0 3 comparators 64 bit 62 500000 mhz counter
+kernel 0 526061 amd nb cannot enumerate amd northbridges
+kernel 0 528018 clocksource switched to clocksource xen
+kernel 0 537313 apparmor apparmor filesystem enabled
+kernel 0 540995 pnp pnp acpi init
+kernel 0 543793 system 00 00 mem 0x00000000 0x0009ffff could not be reserved
+kernel 0 548817 system 00 00 plug and play acpi device ids pnp0c02 active
+kernel 0 548894 system 00 01 io 0x08a0 0x08a3 has been reserved
+kernel 0 553431 system 00 01 io 0x0cc0 0x0ccf has been reserved
+kernel 0 557819 system 00 01 io 0x04d0 0x04d1 has been reserved
+kernel 0 562310 system 00 01 plug and play acpi device ids pnp0c02 active
+kernel 0 562337 xen pirq 17 irq 8 gsi 8
+kernel 0 562357 pnp 00 02 plug and play acpi device ids pnp0b00 active
+kernel 0 562378 xen pirq 18 irq 12 gsi 12
+kernel 0 562389 pnp 00 03 plug and play acpi device ids pnp0f13 active
+kernel 0 562404 xen pirq 19 irq 1 gsi 1
+kernel 0 562417 pnp 00 04 plug and play acpi device ids pnp0303 pnp030b active
+kernel 0 562432 xen pirq 20 irq 6 gsi 6
+kernel 0 562434 pnp 00 05 dma 2
+kernel 0 562446 pnp 00 05 plug and play acpi device ids pnp0700 active
+kernel 0 562467 xen pirq 21 irq 4 gsi 4
+kernel 0 562479 pnp 00 06 plug and play acpi device ids pnp0501 active
+kernel 0 562525 system 00 07 io 0x10c0 0x1141 has been reserved
+kernel 0 567052 system 00 07 io 0xb044 0xb047 has been reserved
+kernel 0 571656 system 00 07 plug and play acpi device ids pnp0c02 active
+kernel 0 589814 pnp pnp acpi found 8 devices
+kernel 0 598900 clocksource acpi pm mask 0xffffff max cycles 0xffffff max idle ns 2085701024 ns
+kernel 0 605557 pci bus 0000 00 resource 4 io 0x0000 0x0cf7 window
+kernel 0 605559 pci bus 0000 00 resource 5 io 0x0d00 0xffff window
+kernel 0 605560 pci bus 0000 00 resource 6 mem 0x000a0000 0x000bffff window
+kernel 0 605562 pci bus 0000 00 resource 7 mem 0xf0000000 0xfbffffff window
+kernel 0 605606 net registered protocol family 2
+kernel 0 609174 tcp established hash table entries 8192 order 4 65536 bytes
+kernel 0 614516 tcp bind hash table entries 8192 order 5 131072 bytes
+kernel 0 619450 tcp hash tables configured established 8192 bind 8192
+kernel 0 624537 udp hash table entries 512 order 2 16384 bytes
+kernel 0 629046 udp lite hash table entries 512 order 2 16384 bytes
+kernel 0 634299 net registered protocol family 1
+kernel 0 637829 pci 0000 00 00 0 limiting direct pci pci transfers
+kernel 0 642464 pci 0000 00 01 0 piix3 enabling passive release
+kernel 0 647204 pci 0000 00 01 0 activating isa dma hang workarounds
+kernel 0 652032 pci 0000 00 02 0 video device with shadowed rom
+kernel 0 652111 pci cls 0 bytes default 64
+kernel 0 652167 trying to unpack rootfs image as initramfs
+kernel 0 833760 freeing initrd memory 12308k
+kernel 0 837628 rapl pmu detected api unit is 2 32 joules 3 fixed counters 655360 ms ovfl timer
+kernel 0 844646 hw unit of domain pp0 core 2 14 joules
+kernel 0 848310 hw unit of domain package 2 14 joules
+kernel 0 851970 hw unit of domain dram 2 16 joules
+kernel 0 855622 scanning for low memory corruption every 60 seconds
+kernel 0 860283 audit initializing netlink subsys disabled
+kernel 0 864296 audit type 2000 audit 1518611306 953 1 initialized
+kernel 0 868985 initialise system trusted keyring
+kernel 0 872492 hugetlb registered 2 mb page size pre allocated 0 pages
+kernel 0 878283 zbud loaded
+kernel 0 880791 vfs disk quotas dquot 6 6 0
+kernel 0 884019 vfs dquot cache hash table entries 512 order 0 4096 bytes
+kernel 0 889164 squashfs version 4 0 2009 01 31 phillip lougher
+kernel 0 893666 fuse init api version 7 23
+kernel 0 896941 key type big key registered
+kernel 0 900213 allocating ima mok and blacklist keyrings
+kernel 0 904266 key type asymmetric registered
+kernel 0 907489 asymmetric key parser x509 registered
+kernel 0 911298 block layer scsi generic bsg driver version 0 4 loaded major 249
+kernel 0 917101 io scheduler noop registered
+kernel 0 920474 io scheduler deadline registered default
+kernel 0 924461 io scheduler cfq registered
+kernel 0 927619 pci hotplug pci hot plug pci core version 0 5
+kernel 0 931843 pciehp pci express hot plug controller driver version 0 4
+kernel 0 936737 intel idle does not run on family 6 model 63
+kernel 0 936808 input power button as devices lnxsystm 00 lnxpwrbn 00 input input0
+kernel 0 942509 acpi power button pwrf
+kernel 0 945509 input sleep button as devices lnxsystm 00 lnxslpbn 00 input input1
+kernel 0 951089 acpi sleep button slpf
+kernel 0 954502 xen pirq 22 irq 28 gsi 28
+kernel 0 954600 xen grant table grant tables using version 1 layout
+kernel 0 959106 grant table initialized
+kernel 0 962052 cannot get hvm parameter console evtchn 18 22
+kernel 0 966368 serial 8250 16550 driver 32 ports irq sharing enabled
+kernel 0 999049 00 06 ttys0 at i o 0x3f8 irq 4 base baud 115200 is a 16550a
+kernel 1 006831 linux agpgart interface v0 103
+kernel 1 012227 brd module loaded
+kernel 1 016470 loop module loaded
+kernel 1 019723 invalid max queues 4 will use default max 1
+kernel 1 025880 ata piix 0000 00 01 1 version 2 13
+kernel 1 029203 scsi host0 ata piix
+kernel 1 032761 scsi host1 ata piix
+kernel 1 036122 ata1 pata max mwdma2 cmd 0x1f0 ctl 0x3f6 bmdma 0xc100 irq 14
+kernel 1 041760 ata2 pata max mwdma2 cmd 0x170 ctl 0x376 bmdma 0xc108 irq 15
+kernel 1 053470 libphy fixed mdio bus probed
+kernel 1 057415 tun universal tun tap device driver 1 6
+kernel 1 061953 tun c 1999 2004 max krasnyansky maxk qualcomm com
+kernel 1 066484 ppp generic driver version 2 4 2
+kernel 1 070987 xen netfront initialising xen virtual ethernet driver
+kernel 1 078355 blkfront xvda barrier or flush disabled persistent grants disabled indirect descriptors enabled
+kernel 1 086602 ehci hcd usb 2 0 enhanced host controller ehci driver
+kernel 1 091343 ehci pci ehci pci platform driver
+kernel 1 094822 ehci platform ehci generic platform driver
+kernel 1 098684 ohci hcd usb 1 1 open host controller ohci driver
+kernel 1 103151 ohci pci ohci pci platform driver
+kernel 1 106733 ohci platform ohci generic platform driver
+kernel 1 110694 xvda xvda1
+kernel 1 113256 uhci hcd usb universal host controller interface driver
+kernel 1 118065 i8042 pnp ps 2 controller pnp0303 ps2k pnp0f13 ps2m at 0x60 0x64 irq 1 12
+kernel 1 126195 serio i8042 kbd port at 0x60 0x64 irq 1
+kernel 1 130230 serio i8042 aux port at 0x60 0x64 irq 12
+kernel 1 134425 mousedev ps 2 mouse device common for all mice
+kernel 1 139377 input at translated set 2 keyboard as devices platform i8042 serio0 input input2
+kernel 1 159601 rtc cmos 00 02 rtc core registered rtc cmos as rtc0
+kernel 1 164369 rtc cmos 00 02 alarms up to one day 114 bytes nvram hpet irqs
+kernel 1 169678 i2c dev entries driver
+kernel 1 172873 device mapper uevent version 1 0 3
+kernel 1 176706 device mapper ioctl 4 34 0 ioctl 2015 10 28 initialised dm devel redhat com
+kernel 1 184085 net registered protocol family 10
+kernel 1 188302 net registered protocol family 17
+kernel 1 191804 key type dns resolver registered
+kernel 1 195613 registered taskstats version 1
+kernel 1 199102 loading compiled in x 509 certificates
+kernel 1 203788 loaded x 509 cert build time autogenerated kernel key 3202f79a2fa321ecce3869d36458fe9267f31118
+kernel 1 212195 zswap loaded using pool lzo zbud
+kernel 1 217720 key type trusted registered
+kernel 1 223264 key type encrypted registered
+kernel 1 226879 apparmor apparmor sha1 policy hashing enabled
+kernel 1 231460 ima no tpm chip found activating tpm bypass
+kernel 1 236139 evm hmac attrs 0x1
+kernel 1 239537 magic number 6 225 481
+kernel 1 243176 ata device dev1 0 hash matches
+kernel 1 246962 dev1 0 hash matches
+kernel 1 250225 rtc cmos 00 02 setting system clock to 2018 02 14 12 28 27 utc 1518611307
+kernel 1 256941 bios edd facility v0 16 2004 jun 25 0 devices found
+kernel 1 261782 edd information not available
+kernel 1 265489 pm hibernation image not present or could not be loaded
+kernel 1 267369 freeing unused kernel memory 1484k
+kernel 1 271279 write protecting the kernel read only data 14336k
+kernel 1 279146 freeing unused kernel memory 1908k
+kernel 1 283903 freeing unused kernel memory 224k
+kernel 1 300293 random udevadm uninitialized urandom read 16 bytes read 9 bits of entropy available
+kernel 1 307550 random systemd udevd uninitialized urandom read 16 bytes read 9 bits of entropy available
+kernel 1 314891 random systemd udevd uninitialized urandom read 16 bytes read 9 bits of entropy available
+kernel 1 322249 random udevadm uninitialized urandom read 16 bytes read 9 bits of entropy available
+kernel 1 328990 random systemd udevd uninitialized urandom read 16 bytes read 9 bits of entropy available
+kernel 1 341202 random systemd udevd uninitialized urandom read 16 bytes read 9 bits of entropy available
+kernel 1 349407 random udevadm uninitialized urandom read 16 bytes read 9 bits of entropy available
+kernel 1 357000 random systemd udevd uninitialized urandom read 16 bytes read 9 bits of entropy available
+kernel 1 364286 random udevadm uninitialized urandom read 16 bytes read 9 bits of entropy available
+kernel 1 371137 random systemd udevd uninitialized urandom read 16 bytes read 9 bits of entropy available
+kernel 1 505072 avx2 version of gcm enc dec engaged
+kernel 1 508682 aes ctr mode by8 optimization enabled
+kernel 1 852106 tsc refined tsc clocksource calibration 2399 998 mhz
+kernel 1 855342 clocksource tsc mask 0xffffffffffffffff max cycles 0x229835b7123 max idle ns 440795242976 ns
+kernel 2 977894 md linear personality registered for level 1
+kernel 2 983334 md multipath personality registered for level 4
+kernel 2 988878 md raid0 personality registered for level 0
+kernel 2 994729 md raid1 personality registered for level 1
+kernel 3 048059 raid6 sse2x1 gen 8337 mb s
+kernel 3 096064 raid6 sse2x1 xor 6530 mb s
+kernel 3 144062 raid6 sse2x2 gen 10705 mb s
+kernel 3 196063 raid6 sse2x2 xor 7088 mb s
+kernel 3 244057 raid6 sse2x4 gen 12315 mb s
+kernel 3 292072 raid6 sse2x4 xor 8546 mb s
+kernel 3 344063 raid6 avx2x1 gen 16202 mb s
+kernel 3 392059 raid6 avx2x2 gen 19381 mb s
+kernel 3 440061 raid6 avx2x4 gen 22077 mb s
+kernel 3 442762 raid6 using algorithm avx2x4 gen 22077 mb s
+kernel 3 445962 raid6 using avx2x2 recovery algorithm
+kernel 3 450848 xor automatically using best checksumming function
+kernel 3 492061 avx 26237 000 mb sec
+kernel 3 496789 async tx api initialized async
+kernel 3 510679 md raid6 personality registered for level 6
+kernel 3 514154 md raid5 personality registered for level 5
+kernel 3 517449 md raid4 personality registered for level 4
+kernel 3 526185 md raid10 personality registered for level 10
+kernel 3 564210 btrfs loaded
+kernel 3 610282 ext4 fs xvda1 mounted filesystem with ordered data mode opts null
+kernel 4 151921 ext4 fs xvda1 re mounted opts discard
+kernel 4 212592 loading iscsi transport class v2 0 870
+kernel 4 249600 iscsi registered transport tcp
+kernel 4 320193 iscsi registered transport iser
+kernel 5 158437 audit type 1400 audit 1518611311 404 2 apparmor status operation profile load profile unconfined name lxc container default pid 597 comm apparmor parser
+kernel 5 158442 audit type 1400 audit 1518611311 404 3 apparmor status operation profile load profile unconfined name lxc container default cgns pid 597 comm apparmor parser
+kernel 5 158446 audit type 1400 audit 1518611311 404 4 apparmor status operation profile load profile unconfined name lxc container default with mounting pid 597 comm apparmor parser
+kernel 5 158449 audit type 1400 audit 1518611311 404 5 apparmor status operation profile load profile unconfined name lxc container default with nesting pid 597 comm apparmor parser
+kernel 5 171783 audit type 1400 audit 1518611311 416 6 apparmor status operation profile load profile unconfined name sbin dhclient pid 598 comm apparmor parser
+kernel 5 171791 audit type 1400 audit 1518611311 416 7 apparmor status operation profile load profile unconfined name usr lib networkmanager nm dhcp client action pid 598 comm apparmor parser
+kernel 5 171794 audit type 1400 audit 1518611311 416 8 apparmor status operation profile load profile unconfined name usr lib networkmanager nm dhcp helper pid 598 comm apparmor parser
+kernel 5 171796 audit type 1400 audit 1518611311 416 9 apparmor status operation profile load profile unconfined name usr lib connman scripts dhclient script pid 598 comm apparmor parser
+kernel 5 173615 audit type 1400 audit 1518611311 420 10 apparmor status operation profile load profile unconfined name usr bin lxc start pid 599 comm apparmor parser
+kernel 6 240731 ppdev user space parallel port driver
+kernel 8 002152 random nonblocking pool is initialized
+dhclient 897 dhcpoffer of 172 31 69 25 from 172 31 69 1
+dhclient 897 dhcpack of 172 31 69 25 from 172 31 69 1
+sh 882 dhcpack of 172 31 69 25 from 172 31 69 1
+dhclient 897 bound to 172 31 69 25 renewal in 1786 seconds
+sh 882 bound to 172 31 69 25 renewal in 1786 seconds
+systemd 1 created slice system getty slice
+systemd 1 started raise network interfaces
+systemd 1 starting initial cloud init job metadata service crawler
+systemd 1 reached target network
+cloud init 1054 cloud init v 17 1 running init at wed 14 feb 2018 12 28 33 0000 up 7 57 seconds
+cloud init 1054 ci info net device info
+cloud init 1054 ci info
+cloud init 1054 ci info device up address mask scope hw address
+cloud init 1054 ci info
+cloud init 1054 ci info eth0 true 172 31 69 25 255 255 255 224 02 d8 a9 4e 38 42
+cloud init 1054 ci info eth0 true fe80 d8 a9ff fe4e 3842 64 link 02 d8 a9 4e 38 42
+cloud init 1054 ci info lo true 127 0 0 1 255 0 0 0
+cloud init 1054 ci info lo true 1 128 host
+cloud init 1054 ci info
+cloud init 1054 ci info route ipv4 info
+cloud init 1054 ci info
+cloud init 1054 ci info route destination gateway genmask interface flags
+cloud init 1054 ci info
+cloud init 1054 ci info 0 0 0 0 0 172 31 69 1 0 0 0 0 eth0 ug
+cloud init 1054 ci info 1 172 31 69 0 0 0 0 0 255 255 255 224 eth0 u
+cloud init 1054 ci info
+systemd 1 started initial cloud init job metadata service crawler
+systemd 1 reached target network is online
+systemd 1 starting iscsi initiator daemon iscsid
+systemd 1 reached target cloud config availability
+systemd 1 reached target system initialization
+systemd 1 listening on uuid daemon activation socket
+systemd 1 listening on acpid listen socket
+systemd 1 starting lxd unix socket
+systemd 1 starting socket activation for snappy daemon
+systemd 1 started daily apt download activities
+systemd 1 listening on d bus system message bus socket
+systemd 1 started acpi events check
+systemd 1 reached target paths
+systemd 1 started daily apt upgrade and clean activities
+systemd 1 started timer to automatically refresh installed snaps
+systemd 1 started daily cleanup of temporary directories
+systemd 1 reached target timers
+systemd 1 listening on lxd unix socket
+systemd 1 listening on socket activation for snappy daemon
+iscsid iscsi logger with pid 1110 started
+iscsid iscsi daemon with pid 1111 started
+systemd 1 started iscsi initiator daemon iscsid
+systemd 1 starting login to default iscsi targets
+systemd 1 reached target sockets
+systemd 1 reached target basic system
+systemd 1 starting login service
+systemd 1 started deferred execution scheduler
+systemd 1 started acpi event daemon
+acpid starting up with netlink and the input layer
+acpid 1 rule loaded
+acpid waiting for events event logging is off
+systemd 1 starting system logging service
+systemd 1 starting accounts service
+systemd 1 starting the php 7 0 fastcgi process manager
+systemd 1 started regular background program processing daemon
+cron 1134 cron info pidfile fd 3
+cron 1134 cron info running reboot jobs
+systemd 1 starting lsb md monitoring daemon
+systemd 1 started d bus system message bus
+dbus 1144 system apparmor d bus mediation is enabled
+systemd 1 starting mysql community server
+systemd 1 started fuse filesystem for lxc
+systemd 1 starting snappy daemon
+systemd 1 starting openbsd secure shell server
+lxcfs 1153 hierarchies
+lxcfs 1153 0 fd 5 cpuset
+lxcfs 1153 1 fd 6 pids
+lxcfs 1153 2 fd 7 blkio
+lxcfs 1153 3 fd 8 devices
+lxcfs 1153 4 fd 9 hugetlb
+lxcfs 1153 5 fd 10 cpu cpuacct
+lxcfs 1153 6 fd 11 net cls net prio
+lxcfs 1153 7 fd 12 freezer
+lxcfs 1153 8 fd 13 perf event
+lxcfs 1153 9 fd 14 memory
+lxcfs 1153 10 fd 15 name systemd
+kernel 8 202496 cgroup new mount options do not match the existing superblock will be ignored
+systemd 1 started unattended upgrades shutdown
+dbus 1144 system activating via systemd service name org freedesktop policykit1 unit polkitd service
+systemd 1 starting lsb record successful boot for grub
+systemd 1 starting etc rc local compatibility
+systemd 1 starting lxd container startup shutdown
+systemd 1 starting apply the settings specified in cloud config
+systemd 1 started system logging service
+systemd 1 started etc rc local compatibility
+systemd 1 started openbsd secure shell server
+iscsiadm 1197 iscsiadm no records found
+systemd 1 started login to default iscsi targets
+mdadm 1140 starting md monitoring service mdadm monitor
+mdadm 1140 done
+systemd 1 started lsb md monitoring daemon
+kernel 8 393312 audit printk skb 18 callbacks suppressed
+kernel 8 393315 audit type 1400 audit 1518611314 640 17 apparmor denied operation open profile usr sbin mysqld name proc 1189 status pid 1189 comm mysqld requested mask r denied mask r fsuid 112 ouid 112
+kernel 8 393351 audit type 1400 audit 1518611314 640 18 apparmor denied operation open profile usr sbin mysqld name sys devices system node pid 1189 comm mysqld requested mask r denied mask r fsuid 112 ouid 0
+kernel 8 393382 audit type 1400 audit 1518611314 640 19 apparmor denied operation open profile usr sbin mysqld name proc 1189 status pid 1189 comm mysqld requested mask r denied mask r fsuid 112 ouid 112
+systemd 1 started lsb record successful boot for grub
+systemd 1 started login service
+systemd 1 starting authenticate and authorize users to run privileged tasks
+systemd 1 reached target remote file systems pre
+snapd 1162 apparmor status apparmor is enabled and all features are available
+systemd 1 reached target remote file systems
+systemd 1 starting lsb set the cpu frequency scaling governor to ondemand
+systemd 1 starting lsb daemon to balance interrupts for smp systems
+systemd 1 starting lsb apache2 web server
+systemd 1 starting permit user sessions
+systemd 1 starting lsb automatic crash report generation
+snapd 1162 2018 02 14 08 28 34 767813 daemon go 306 started snapd 2 29 4 2 series 16 classic ubuntu 16 04 amd64 linux 4 4 0 1049 aws
+systemd 1 started permit user sessions
+systemd 1 started snappy daemon
+systemd 1 started lxd container startup shutdown
+polkitd 1219 started daemon version 0 105 using authority implementation local version 0 105
+dbus 1144 system successfully activated service org freedesktop policykit1
+systemd 1 started authenticate and authorize users to run privileged tasks
+accounts daemon 1127 started daemon version 0 6 40
+systemd 1 started accounts service
+systemd 1 starting hold until boot process finishes up
+apache2 1233 starting apache httpd web server apache2
+systemd 1 starting terminate plymouth boot screen
+irqbalance 1226 starting smp irq balancer irqbalance
+apport 1244 starting automatic crash report generation apport
+systemd 1 started lsb set the cpu frequency scaling governor to ondemand
+systemd 1 started hold until boot process finishes up
+usr sbin irqbalance balancing is ineffective on systems with a single cpu shutting down
+systemd 1 started terminate plymouth boot screen
+irqbalance 1226 done
+systemd 1 started lsb daemon to balance interrupts for smp systems
+apport 1244 done
+systemd 1 started lsb automatic crash report generation
+systemd 1 started serial getty on ttys0
+systemd 1 starting set console scheme
+systemd 1 started getty on tty1
+systemd 1 reached target login prompts
+systemd 1 started set console scheme
+systemd 1 started the php 7 0 fastcgi process manager
+cloud init 1183 cloud init v 17 1 running modules config at wed 14 feb 2018 12 28 35 0000 up 9 10 seconds
+systemd 1 started apply the settings specified in cloud config
+systemd 1 started mysql community server
+apache2 1233
+systemd 1 started lsb apache2 web server
+systemd 1 reached target multi user system
+systemd 1 starting execute cloud user final scripts
+systemd 1 reached target graphical interface
+systemd 1 starting update utmp about system runlevel changes
+systemd 1 started update utmp about system runlevel changes
+cloud init 1357 cloud init v 17 1 running modules final at wed 14 feb 2018 12 28 36 0000 up 10 24 seconds
+cloud init 1357 cloud init v 17 1 finished at wed 14 feb 2018 12 28 36 0000 datasource datasourceec2local up 10 35 seconds
+systemd 1 started execute cloud user final scripts
+systemd 1 reached target cloud init target
+systemd 1 startup finished in 3 740s kernel 6 709s userspace 10 450s
+systemd 1 time has been changed
+systemd 1 starting daily apt download activities
+systemd timesyncd 522 synchronized to time server 91 189 94 4 123 ntp ubuntu com
+systemd 1 started daily apt download activities
+systemd 1 created slice user slice of ubuntu
+systemd 1 starting user manager for uid 1000
+systemd 1 started session 1 of user ubuntu
+systemd 1427 reached target sockets
+systemd 1427 reached target paths
+systemd 1427 reached target timers
+systemd 1427 reached target basic system
+systemd 1427 reached target default
+systemd 1427 startup finished in 23ms
+systemd 1 started user manager for uid 1000
+kernel 131 855199 netfilter messages via netlink v0 30
+kernel 131 861684 device eth0 entered promiscuous mode
+cron 1537 root cmd x usr lib php sessionclean usr lib php sessionclean
+systemd 1 starting cleanup of temporary directories
+systemd tmpfiles 1627 usr lib tmpfiles d var conf 14 duplicate line for path var log ignoring
+systemd 1 started cleanup of temporary directories
+dhclient 932 dhcprequest of 172 31 69 25 on eth0 to 172 31 69 1 port 67 xid 0x6f62575f
+dhclient 932 dhcpack of 172 31 69 25 from 172 31 69 1
+dhclient 932 bound to 172 31 69 25 renewal in 1606 seconds
+cron 1648 root cmd x usr lib php sessionclean usr lib php sessionclean
+cron 1733 root cmd cd run parts report etc cron hourly
+dhclient 932 dhcprequest of 172 31 69 25 on eth0 to 172 31 69 1 port 67 xid 0x6f62575f
+dhclient 932 dhcpack of 172 31 69 25 from 172 31 69 1
+dhclient 932 bound to 172 31 69 25 renewal in 1419 seconds
+cron 1758 root cmd x usr lib php sessionclean usr lib php sessionclean
+dhclient 932 dhcprequest of 172 31 69 25 on eth0 to 172 31 69 1 port 67 xid 0x6f62575f
+dhclient 932 dhcpack of 172 31 69 25 from 172 31 69 1
+dhclient 932 bound to 172 31 69 25 renewal in 1359 seconds
+cron 1855 root cmd x usr lib php sessionclean usr lib php sessionclean
+dhclient 932 dhcprequest of 172 31 69 25 on eth0 to 172 31 69 1 port 67 xid 0x6f62575f
+dhclient 932 dhcpack of 172 31 69 25 from 172 31 69 1
+dhclient 932 bound to 172 31 69 25 renewal in 1619 seconds
+cron 1952 root cmd cd run parts report etc cron hourly
+dhclient 932 dhcprequest of 172 31 69 25 on eth0 to 172 31 69 1 port 67 xid 0x6f62575f
+dhclient 932 dhcpack of 172 31 69 25 from 172 31 69 1
+dhclient 932 bound to 172 31 69 25 renewal in 1484 seconds
+cron 1969 root cmd x usr lib php sessionclean usr lib php sessionclean
+dhclient 932 dhcprequest of 172 31 69 25 on eth0 to 172 31 69 1 port 67 xid 0x6f62575f
+dhclient 932 dhcpack of 172 31 69 25 from 172 31 69 1
+dhclient 932 bound to 172 31 69 25 renewal in 1664 seconds
+cron 2069 root cmd x usr lib php sessionclean usr lib php sessionclean
+cron 2154 root cmd cd run parts report etc cron hourly
+dhclient 932 dhcprequest of 172 31 69 25 on eth0 to 172 31 69 1 port 67 xid 0x6f62575f
+dhclient 932 dhcpack of 172 31 69 25 from 172 31 69 1
+dhclient 932 bound to 172 31 69 25 renewal in 1541 seconds
+cron 2169 root cmd x usr lib php sessionclean usr lib php sessionclean
+dhclient 932 dhcprequest of 172 31 69 25 on eth0 to 172 31 69 1 port 67 xid 0x6f62575f
+dhclient 932 dhcpack of 172 31 69 25 from 172 31 69 1
+dhclient 932 bound to 172 31 69 25 renewal in 1625 seconds
+cron 2267 root cmd x usr lib php sessionclean usr lib php sessionclean
+cron 2367 root cmd cd run parts report etc cron hourly
+dhclient 932 dhcprequest of 172 31 69 25 on eth0 to 172 31 69 1 port 67 xid 0x6f62575f
+dhclient 932 dhcpack of 172 31 69 25 from 172 31 69 1
+dhclient 932 bound to 172 31 69 25 renewal in 1648 seconds
+cron 2383 root cmd x usr lib php sessionclean usr lib php sessionclean
+dhclient 932 dhcprequest of 172 31 69 25 on eth0 to 172 31 69 1 port 67 xid 0x6f62575f
+dhclient 932 dhcpack of 172 31 69 25 from 172 31 69 1
+dhclient 932 bound to 172 31 69 25 renewal in 1566 seconds
+cron 2484 root cmd x usr lib php sessionclean usr lib php sessionclean
+cron 2569 root cmd cd run parts report etc cron hourly
+dhclient 932 dhcprequest of 172 31 69 25 on eth0 to 172 31 69 1 port 67 xid 0x6f62575f
+dhclient 932 dhcpack of 172 31 69 25 from 172 31 69 1
+dhclient 932 bound to 172 31 69 25 renewal in 1588 seconds
+cron 2584 root cmd x usr lib php sessionclean usr lib php sessionclean
+dhclient 932 dhcprequest of 172 31 69 25 on eth0 to 172 31 69 1 port 67 xid 0x6f62575f
+dhclient 932 dhcpack of 172 31 69 25 from 172 31 69 1
+dhclient 932 bound to 172 31 69 25 renewal in 1711 seconds
+cron 17573 root cmd x usr lib php sessionclean usr lib php sessionclean
+dhclient 932 dhcprequest of 172 31 69 25 on eth0 to 172 31 69 1 port 67 xid 0x6f62575f
+dhclient 932 dhcpack of 172 31 69 25 from 172 31 69 1
+dhclient 932 bound to 172 31 69 25 renewal in 1685 seconds
+cron 1968 root cmd cd run parts report etc cron hourly
+cron 15348 root cmd x usr lib php sessionclean usr lib php sessionclean
+dhclient 932 dhcprequest of 172 31 69 25 on eth0 to 172 31 69 1 port 67 xid 0x6f62575f
+dhclient 932 dhcpack of 172 31 69 25 from 172 31 69 1
+dhclient 932 bound to 172 31 69 25 renewal in 1684 seconds
+dhclient 932 dhcprequest of 172 31 69 25 on eth0 to 172 31 69 1 port 67 xid 0x6f62575f
+dhclient 932 dhcpack of 172 31 69 25 from 172 31 69 1
+dhclient 932 bound to 172 31 69 25 renewal in 1374 seconds
+cron 12987 root cmd x usr lib php sessionclean usr lib php sessionclean
+cron 29684 root cmd cd run parts report etc cron hourly
+dhclient 932 dhcprequest of 172 31 69 25 on eth0 to 172 31 69 1 port 67 xid 0x6f62575f
+dhclient 932 dhcpack of 172 31 69 25 from 172 31 69 1
+dhclient 932 bound to 172 31 69 25 renewal in 1762 seconds
+cron 29562 root cmd x usr lib php sessionclean usr lib php sessionclean
+dhclient 932 dhcprequest of 172 31 69 25 on eth0 to 172 31 69 1 port 67 xid 0x6f62575f
+dhclient 932 dhcpack of 172 31 69 25 from 172 31 69 1
+dhclient 932 bound to 172 31 69 25 renewal in 1721 seconds
+cron 29661 root cmd x usr lib php sessionclean usr lib php sessionclean
+cron 29748 root cmd cd run parts report etc cron hourly
+dhclient 932 dhcprequest of 172 31 69 25 on eth0 to 172 31 69 1 port 67 xid 0x6f62575f
+dhclient 932 dhcpack of 172 31 69 25 from 172 31 69 1
+dhclient 932 bound to 172 31 69 25 renewal in 1668 seconds
+cron 29763 root cmd x usr lib php sessionclean usr lib php sessionclean
+dhclient 932 dhcprequest of 172 31 69 25 on eth0 to 172 31 69 1 port 67 xid 0x6f62575f
+dhclient 932 dhcpack of 172 31 69 25 from 172 31 69 1
+dhclient 932 bound to 172 31 69 25 renewal in 1785 seconds
+cron 29860 root cmd x usr lib php sessionclean usr lib php sessionclean
+cron 29945 root cmd cd run parts report etc cron hourly
+dhclient 932 dhcprequest of 172 31 69 25 on eth0 to 172 31 69 1 port 67 xid 0x6f62575f
+dhclient 932 dhcpack of 172 31 69 25 from 172 31 69 1
+dhclient 932 bound to 172 31 69 25 renewal in 1562 seconds
+dhclient 931 dhcprequest of 172 31 69 22 on eth0 to 172 31 69 1 port 67 xid 0x450e8c50
+dhclient 931 dhcpack of 172 31 69 22 from 172 31 69 1
+dhclient 931 bound to 172 31 69 22 renewal in 1773 seconds
+dhclient 931 dhcprequest of 172 31 69 22 on eth0 to 172 31 69 1 port 67 xid 0x450e8c50
+dhclient 931 dhcpack of 172 31 69 22 from 172 31 69 1
+dhclient 931 bound to 172 31 69 22 renewal in 1489 seconds
+cron 4944 root cmd cd run parts report etc cron hourly
+dhclient 931 dhcprequest of 172 31 69 22 on eth0 to 172 31 69 1 port 67 xid 0x450e8c50
+dhclient 931 dhcpack of 172 31 69 22 from 172 31 69 1
+dhclient 931 bound to 172 31 69 22 renewal in 1479 seconds
+dhclient 931 dhcprequest of 172 31 69 22 on eth0 to 172 31 69 1 port 67 xid 0x450e8c50
+dhclient 931 dhcpack of 172 31 69 22 from 172 31 69 1
+dhclient 931 bound to 172 31 69 22 renewal in 1577 seconds
+cron 4987 root cmd cd run parts report etc cron hourly
+dhclient 931 dhcprequest of 172 31 69 22 on eth0 to 172 31 69 1 port 67 xid 0x450e8c50
+dhclient 931 dhcpack of 172 31 69 22 from 172 31 69 1
+dhclient 931 bound to 172 31 69 22 renewal in 1477 seconds
+systemd 1 started session 60 of user ubuntu
+dhclient 931 dhcprequest of 172 31 69 22 on eth0 to 172 31 69 1 port 67 xid 0x450e8c50
+dhclient 931 dhcpack of 172 31 69 22 from 172 31 69 1
+dhclient 931 bound to 172 31 69 22 renewal in 1513 seconds
+systemd 1 starting cleanup of temporary directories
+systemd tmpfiles 5104 usr lib tmpfiles d var conf 14 duplicate line for path var log ignoring
+systemd 1 started cleanup of temporary directories
+dhclient 931 dhcprequest of 172 31 69 22 on eth0 to 172 31 69 1 port 67 xid 0x450e8c50
+dhclient 931 dhcpack of 172 31 69 22 from 172 31 69 1
+dhclient 931 bound to 172 31 69 22 renewal in 1663 seconds
+cron 5124 root cmd cd run parts report etc cron hourly
+dhclient 931 dhcprequest of 172 31 69 22 on eth0 to 172 31 69 1 port 67 xid 0x450e8c50
+dhclient 931 dhcpack of 172 31 69 22 from 172 31 69 1
+dhclient 931 bound to 172 31 69 22 renewal in 1364 seconds
+dhclient 931 dhcprequest of 172 31 69 22 on eth0 to 172 31 69 1 port 67 xid 0x450e8c50
+dhclient 931 dhcpack of 172 31 69 22 from 172 31 69 1
+dhclient 931 bound to 172 31 69 22 renewal in 1614 seconds
+cron 5159 root cmd cd run parts report etc cron hourly
+dhclient 931 dhcprequest of 172 31 69 22 on eth0 to 172 31 69 1 port 67 xid 0x450e8c50
+dhclient 931 dhcpack of 172 31 69 22 from 172 31 69 1
+dhclient 931 bound to 172 31 69 22 renewal in 1558 seconds
+dhclient 931 dhcprequest of 172 31 69 22 on eth0 to 172 31 69 1 port 67 xid 0x450e8c50
+dhclient 931 dhcpack of 172 31 69 22 from 172 31 69 1
+dhclient 931 bound to 172 31 69 22 renewal in 1680 seconds
+cron 5192 root cmd cd run parts report etc cron hourly
+dhclient 931 dhcprequest of 172 31 69 22 on eth0 to 172 31 69 1 port 67 xid 0x450e8c50
+dhclient 931 dhcpack of 172 31 69 22 from 172 31 69 1
+dhclient 931 bound to 172 31 69 22 renewal in 1764 seconds
+dhclient 931 dhcprequest of 172 31 69 22 on eth0 to 172 31 69 1 port 67 xid 0x450e8c50
+dhclient 931 dhcpack of 172 31 69 22 from 172 31 69 1
+dhclient 931 bound to 172 31 69 22 renewal in 1762 seconds
+cron 5227 root cmd cd run parts report etc cron hourly
+dhclient 931 dhcprequest of 172 31 69 22 on eth0 to 172 31 69 1 port 67 xid 0x450e8c50
+dhclient 931 dhcpack of 172 31 69 22 from 172 31 69 1
+dhclient 931 bound to 172 31 69 22 renewal in 1668 seconds
+dhclient 931 dhcprequest of 172 31 69 22 on eth0 to 172 31 69 1 port 67 xid 0x450e8c50
+dhclient 931 dhcpack of 172 31 69 22 from 172 31 69 1
+dhclient 931 bound to 172 31 69 22 renewal in 1795 seconds
+dhclient 931 dhcprequest of 172 31 69 22 on eth0 to 172 31 69 1 port 67 xid 0x450e8c50
+dhclient 931 dhcpack of 172 31 69 22 from 172 31 69 1
+dhclient 931 bound to 172 31 69 22 renewal in 1415 seconds
+cron 5276 root cmd cd run parts report etc cron hourly
+dhclient 931 dhcprequest of 172 31 69 22 on eth0 to 172 31 69 1 port 67 xid 0x450e8c50
+dhclient 931 dhcpack of 172 31 69 22 from 172 31 69 1
+dhclient 931 bound to 172 31 69 22 renewal in 1460 seconds
+cron 5295 root cmd nohup tcpdump home ubuntu capture dump hostname i
+dhclient 931 dhcprequest of 172 31 69 22 on eth0 to 172 31 69 1 port 67 xid 0x450e8c50
+dhclient 931 dhcpack of 172 31 69 22 from 172 31 69 1
+dhclient 931 bound to 172 31 69 22 renewal in 1501 seconds
+cron 5317 root cmd cd run parts report etc cron hourly
+dhclient 931 dhcprequest of 172 31 69 22 on eth0 to 172 31 69 1 port 67 xid 0x450e8c50
+dhclient 931 dhcpack of 172 31 69 22 from 172 31 69 1
+dhclient 931 bound to 172 31 69 22 renewal in 1380 seconds
+dhclient 931 dhcprequest of 172 31 69 22 on eth0 to 172 31 69 1 port 67 xid 0x450e8c50
+dhclient 931 dhcpack of 172 31 69 22 from 172 31 69 1
+dhclient 931 bound to 172 31 69 22 renewal in 1400 seconds
+dhclient 931 dhcprequest of 172 31 69 22 on eth0 to 172 31 69 1 port 67 xid 0x450e8c50
+dhclient 931 dhcpack of 172 31 69 22 from 172 31 69 1
+dhclient 931 bound to 172 31 69 22 renewal in 1464 seconds
+cron 5364 root cmd cd run parts report etc cron hourly
+dhclient 931 dhcprequest of 172 31 69 22 on eth0 to 172 31 69 1 port 67 xid 0x450e8c50
+dhclient 931 dhcpack of 172 31 69 22 from 172 31 69 1
+dhclient 931 bound to 172 31 69 22 renewal in 1426 seconds
+dhclient 931 dhcprequest of 172 31 69 22 on eth0 to 172 31 69 1 port 67 xid 0x450e8c50
+dhclient 931 dhcpack of 172 31 69 22 from 172 31 69 1
+dhclient 931 bound to 172 31 69 22 renewal in 1388 seconds
+cron 5402 root cmd cd run parts report etc cron hourly
+dhclient 931 dhcprequest of 172 31 69 22 on eth0 to 172 31 69 1 port 67 xid 0x450e8c50
+dhclient 931 dhcpack of 172 31 69 22 from 172 31 69 1
+dhclient 931 bound to 172 31 69 22 renewal in 1565 seconds
+dhclient 931 dhcprequest of 172 31 69 22 on eth0 to 172 31 69 1 port 67 xid 0x450e8c50
+dhclient 931 dhcpack of 172 31 69 22 from 172 31 69 1
+dhclient 931 bound to 172 31 69 22 renewal in 1544 seconds
+systemd 1 starting daily apt download activities
+systemd 1 started daily apt download activities
+cron 5482 root cmd cd run parts report etc cron hourly
+dhclient 931 dhcprequest of 172 31 69 22 on eth0 to 172 31 69 1 port 67 xid 0x450e8c50
+dhclient 931 dhcpack of 172 31 69 22 from 172 31 69 1
+dhclient 931 bound to 172 31 69 22 renewal in 1454 seconds
