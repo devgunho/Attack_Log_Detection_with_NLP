@@ -29,7 +29,7 @@ def get_hadoop_rand_word(line):
 
 
 if __name__ == "__main__":
-    file = open("../utils/cleaned_datasets/Windows_2k.log_clean.txt", "r")
+    file = open("../utils/cleaned_datasets/Hadoop_2k.log_clean.txt", "r")
     lines = file.readlines()
 
     trans_file_dir = "data/trans"
