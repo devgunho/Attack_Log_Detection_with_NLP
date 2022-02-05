@@ -171,7 +171,7 @@ from sklearn.model_selection import train_test_split
 
 X_train, X_test, y_train, y_test = train_test_split(
     # *load_and_clean_data(1, 20, []), test_size=0.25, random_state=4, shuffle=True
-    *load_and_clean_data(1, 20, []),
+    *load_and_clean_data(1, 1, []),
     test_size=0.25,
     random_state=4,
     shuffle=True,
@@ -545,6 +545,31 @@ history = full_model.fit(
 )
 
 print(history.history.keys())
+
+# Extract metrics from history
+acc = history.history["accuracy"]
+loss = history.history["loss"]
+val_acc = history.history["val_accuracy"]
+val_loss = history.history["val_loss"]
+
+# Create a table with the metrics
+table = np.column_stack((acc, loss, val_acc, val_loss))
+header = "Accuracy\t| Loss\t| Val Accuracy\t| Val Loss\n"
+table_str = "\n".join(["\t".join([str(cell) for cell in row]) for row in table])
+
+# Get the last row of the metrics table
+last_row = np.array([acc[-1], loss[-1], val_acc[-1], val_loss[-1]])
+
+# Format the numbers to four decimal places and as percentages
+last_row_formatted = np.around(last_row, decimals=4) * 100
+
+# Convert the last row to a string representation with formatted numbers
+last_row_str = "\t".join([f"{cell:.4f}%" for cell in last_row_formatted])
+
+# Save the last row to a text file
+with open(f"{config.RESULTS_DIR}metrics.txt", "w") as file:
+    file.write(header)
+    file.write(last_row_str)
 
 full_model.save(
     f"{config.MODELS_DIR}{simple_name}-N({len(X_train)})-{latent_dim}.best.h5"
