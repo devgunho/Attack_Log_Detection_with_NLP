@@ -171,7 +171,7 @@ from sklearn.model_selection import train_test_split
 
 X_train, X_test, y_train, y_test = train_test_split(
     # *load_and_clean_data(1, 20, []), test_size=0.25, random_state=4, shuffle=True
-    *load_and_clean_data(1, 1, []),
+    *load_and_clean_data(1, 10, []),
     test_size=0.25,
     random_state=4,
     shuffle=True,

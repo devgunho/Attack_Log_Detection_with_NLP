@@ -5,6 +5,16 @@ import pandas as pd
 import string
 import tensorflow as tf
 
+from tensorflow.keras.layers import (
+    Input,
+    LSTM,
+    Dense,
+    Concatenate,
+    TimeDistributed,
+    Bidirectional,
+)
+from tensorflow.keras.models import Model
+from tensorflow.keras.models import load_model
 
 class Config:
     PROJECT_DIR = os.getcwd()
@@ -400,22 +410,7 @@ class AttentionLayer(Layer):
         ]
 
 
-from tensorflow.keras.layers import (
-    Input,
-    LSTM,
-    GRU,
-    Dense,
-    Concatenate,
-    TimeDistributed,
-    Bidirectional,
-)
-from tensorflow.keras.models import Model, Sequential
-from tensorflow.keras.regularizers import L1L2
-from tensorflow.keras.optimizers.schedules import ExponentialDecay
-from tensorflow.keras.optimizers import SGD, Adam, RMSprop
-from tensorflow.keras.callbacks import EarlyStopping, TensorBoard, ModelCheckpoint
-from tensorflow.keras.preprocessing.text import Tokenizer
-from livelossplot import PlotLossesKeras
+
 
 latent_dim = 44
 batch_size = 48  # Batch size for training.
@@ -480,16 +475,6 @@ dense = Dense(num_decoder_tokens, activation="softmax", name="softmax_layer")
 decoder_pred = dense(decoder_concat_input)
 
 # Optimizer
-
-# opt = Adam(
-#     learning_rate=0.001,
-#     beta_1=0.9,
-#     beta_2=0.999,
-#     epsilon=1e-07,
-#     amsgrad=True,
-#     name="Adam",
-# )
-
 opt = tf.keras.optimizers.RMSprop(
     learning_rate=0.0015,
     rho=0.9,
@@ -615,12 +600,12 @@ def plot_attention_weights(
 
 
 #########################################################################################
-latent_dim = 44
+# latent_dim = 44
 
-full_model.load_weights(
-    f"{config.CHECKPOINT_DIR}weights-{simple_name}-N({len(X_train)})-{latent_dim}.best.hdf5"
-)
-loaded_model = full_model
+# full_model.load_weights(
+#     f"{config.CHECKPOINT_DIR}weights-{simple_name}-N({len(X_train)})-{latent_dim}.best.hdf5"
+# )
+# loaded_model = full_model
 
 #########################################################################################
 """ Encoder (Inference) model """
@@ -673,7 +658,6 @@ decoder_model = Model(
         decoder_inf_state_c,
     ],
 )
-
 #########################################################################################
 X_test = []
 file_path = "./data/test/X_test.txt"
