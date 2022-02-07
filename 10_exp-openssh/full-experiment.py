@@ -567,6 +567,8 @@ last_row_formatted = np.around(last_row, decimals=4) * 100
 last_row_str = "\t".join([f"{cell:.4f}%" for cell in last_row_formatted])
 
 # Save the last row to a text file
+if not os.path.exists(config.RESULTS_DIR):
+    os.makedirs(config.RESULTS_DIR)
 with open(f"{config.RESULTS_DIR}metrics.txt", "w") as file:
     file.write(header)
     file.write(last_row_str)
