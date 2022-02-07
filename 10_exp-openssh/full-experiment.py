@@ -5,16 +5,6 @@ import pandas as pd
 import string
 import tensorflow as tf
 
-from tensorflow.keras.layers import (
-    Input,
-    LSTM,
-    Dense,
-    Concatenate,
-    TimeDistributed,
-    Bidirectional,
-)
-from tensorflow.keras.models import Model
-from tensorflow.keras.models import load_model
 
 class Config:
     PROJECT_DIR = os.getcwd()
@@ -410,7 +400,22 @@ class AttentionLayer(Layer):
         ]
 
 
-
+from tensorflow.keras.layers import (
+    Input,
+    LSTM,
+    GRU,
+    Dense,
+    Concatenate,
+    TimeDistributed,
+    Bidirectional,
+)
+from tensorflow.keras.models import Model, Sequential
+from tensorflow.keras.regularizers import L1L2
+from tensorflow.keras.optimizers.schedules import ExponentialDecay
+from tensorflow.keras.optimizers import SGD, Adam, RMSprop
+from tensorflow.keras.callbacks import EarlyStopping, TensorBoard, ModelCheckpoint
+from tensorflow.keras.preprocessing.text import Tokenizer
+from livelossplot import PlotLossesKeras
 
 latent_dim = 44
 batch_size = 48  # Batch size for training.
@@ -475,6 +480,16 @@ dense = Dense(num_decoder_tokens, activation="softmax", name="softmax_layer")
 decoder_pred = dense(decoder_concat_input)
 
 # Optimizer
+
+# opt = Adam(
+#     learning_rate=0.001,
+#     beta_1=0.9,
+#     beta_2=0.999,
+#     epsilon=1e-07,
+#     amsgrad=True,
+#     name="Adam",
+# )
+
 opt = tf.keras.optimizers.RMSprop(
     learning_rate=0.0015,
     rho=0.9,
@@ -489,6 +504,76 @@ full_model = Model(inputs=[encoder_inputs, decoder_inputs], outputs=decoder_pred
 full_model.compile(optimizer=opt, loss="categorical_crossentropy", metrics=["accuracy"])
 
 full_model.summary()
+#########################################################################################
+import datetime
+
+log_dir = "logs/fit/" + datetime.datetime.now().strftime("%Y%m%d-%H%M%S")
+cp_path = f"{config.CHECKPOINT_DIR}weights-{simple_name}-N({len(X_train)})-{latent_dim}.best.hdf5"
+
+# Check if the directory exists, create if it doesn't
+cp_dir = os.path.dirname(cp_path)
+if not os.path.exists(cp_dir):
+    os.makedirs(cp_dir)
+
+try:
+    # Check if the checkpoint file exists
+    if not os.path.exists(cp_path):
+        print(f"Checkpoint file '{cp_path}' not found. Starting training from scratch.")
+    else:
+        # Load weights from the checkpoint file
+        full_model.load_weights(cp_path)
+        print(f"Checkpoint file '{cp_path}' loaded. Resuming training.")
+
+except Exception as e:
+    print(f"An error occurred while loading the checkpoint file: {str(e)}")
+
+# Callbacks
+early_stop = EarlyStopping(patience=2, monitor="val_loss", mode="min", verbose=1)
+checkpoint = ModelCheckpoint(
+    cp_path, save_weights_only=True, verbose=1, monitor="val_loss", save_best_only=True
+)
+
+# Start Training
+history = full_model.fit(
+    [encoder_input_data, decoder_input_data],
+    decoder_target_data,
+    batch_size=batch_size,
+    epochs=epochs,
+    validation_split=0.1,
+    shuffle=True,
+    callbacks=[early_stop, checkpoint],
+)
+
+print(history.history.keys())
+
+# Extract metrics from history
+acc = history.history["accuracy"]
+loss = history.history["loss"]
+val_acc = history.history["val_accuracy"]
+val_loss = history.history["val_loss"]
+
+# Create a table with the metrics
+table = np.column_stack((acc, loss, val_acc, val_loss))
+header = "Accuracy\t| Loss\t| Val Accuracy\t| Val Loss\n"
+table_str = "\n".join(["\t".join([str(cell) for cell in row]) for row in table])
+
+# Get the last row of the metrics table
+last_row = np.array([acc[-1], loss[-1], val_acc[-1], val_loss[-1]])
+
+# Format the numbers to four decimal places and as percentages
+last_row_formatted = np.around(last_row, decimals=4) * 100
+
+# Convert the last row to a string representation with formatted numbers
+last_row_str = "\t".join([f"{cell:.4f}%" for cell in last_row_formatted])
+
+# Save the last row to a text file
+with open(f"{config.RESULTS_DIR}metrics.txt", "w") as file:
+    file.write(header)
+    file.write(last_row_str)
+
+full_model.save(
+    f"{config.MODELS_DIR}{simple_name}-N({len(X_train)})-{latent_dim}.best.h5"
+)
 
 #########################################################################################
 reverse_input_char_index = dict((i, char) for char, i in input_token_index.items())
@@ -600,12 +685,12 @@ def plot_attention_weights(
 
 
 #########################################################################################
-# latent_dim = 44
+latent_dim = 44
 
-# full_model.load_weights(
-#     f"{config.CHECKPOINT_DIR}weights-{simple_name}-N({len(X_train)})-{latent_dim}.best.hdf5"
-# )
-# loaded_model = full_model
+full_model.load_weights(
+    f"{config.CHECKPOINT_DIR}weights-{simple_name}-N({len(X_train)})-{latent_dim}.best.hdf5"
+)
+loaded_model = full_model
 
 #########################################################################################
 """ Encoder (Inference) model """
@@ -658,6 +743,20 @@ decoder_model = Model(
         decoder_inf_state_c,
     ],
 )
+
+#########################################################################################
+from tensorflow.keras.models import load_model
+
+# Set these parameters (embedded in file name)
+latent_dim = 44
+
+loaded_model = load_model(
+    f"{config.MODELS_DIR}{simple_name}-N({len(X_train)})-{latent_dim}.best.h5",
+    custom_objects={"AttentionLayer": AttentionLayer},
+)
+
+print(loaded_model.summary())
+
 #########################################################################################
 X_test = []
 file_path = "./data/test/X_test.txt"
@@ -685,43 +784,36 @@ import sys
 
 np.set_printoptions(threshold=sys.maxsize)
 
-#########################################################################################
-### Write results to file
-result_file = open(os.path.join(config.RESULTS_DIR, "results.txt"), "w")
-true_cnt = 0
-false_cnt = 0
-line_cnt = 0
-
-for seq_index in range(0, len(X_test)):
+correct = 0
+checked = 0
+# for seq_index in range(0, len(X_test)):
+for seq_index in range(0, 10):
     test_X = X_test[seq_index]
     input_seq = encoder_test_data[seq_index : seq_index + 1]
 
     # Bi-LSTM
-    decoded_sentence, attention_weights = decode_sequence_bilstm_attn(
+    decoded_sentence, attn_weights = decode_sequence_bilstm_attn(
         encoder_model, decoder_model, input_seq, num_encoder_tokens, num_decoder_tokens
     )
 
-    origin_input = X_test[seq_index]
-    decoded_result = repr(decoded_sentence.rstrip())
-    w1 = decoded_result.split("_")[1].split("(")[0]
-    w2 = decoded_result.split("_")[2].split("(")[0]
-    print(w1, w2)
-    if w1 in origin_input or w2 in origin_input:
-        print(f"{seq_index}/{len(X_test)} [TRUE]: {origin_input} -> {decoded_result}")
-        result_file.write(
-            f"{seq_index}/{len(X_test)} [TRUE]: {origin_input} -> {decoded_result}\n"
-        )
-        true_cnt += 1
-    else:
-        print(f"{seq_index}/{len(X_test)} [FALSE]: {origin_input} -> {decoded_result}")
-        result_file.write(
-            f"{seq_index}/{len(X_test)} [FALSE]: {origin_input} -> {decoded_result}\n"
-        )
-        false_cnt += 1
-
-    line_cnt += 1
-
-print(f"True: {true_cnt}, False: {false_cnt}, Total: {line_cnt}")
-result_file.write(f"\n\n Final Result\n")
-result_file.write(f"True: {true_cnt}, False: {false_cnt}, Total: {line_cnt}\n")
-result_file.close()
+    # LSTM
+    # decoded_sentence = decode_sequence_lstm(input_seq)
+    plot_attention_weights(
+        input_seq,
+        attn_weights,
+        reverse_input_char_index,
+        reverse_target_char_index,
+        filename="result_{}.png".format(seq_index),
+        y_height=y_height,
+    )
+    print("-")
+    print("Input sentence:", X_test[seq_index])
+    print("Decoded sentence:", repr(decoded_sentence.rstrip()))
+    print("Real sentence:", repr(y_test[seq_index]))
+    print("CORRECT" if decoded_sentence.rstrip() == y_test[seq_index] else "INCORRECT")
+    correct += 1 if decoded_sentence.rstrip() == y_test[seq_index] else 0
+    checked += 1
+    print(f"Completed: {(checked / len(X_test)) * 100}%")
+    print(f"{checked}/{len(X_test)}")
+    print("Accuracy:")
+    print(f"{(correct / checked) * 100}%")
