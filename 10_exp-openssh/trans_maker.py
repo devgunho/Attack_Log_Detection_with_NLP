@@ -2,7 +2,7 @@ import os
 import random
 
 
-def get_hadoop_rand_word(line):
+def get_openssh_rand_word(line):
     """Get a random word from a line of text."""
     words = line.split()
     # remove timestamp
@@ -48,7 +48,7 @@ if __name__ == "__main__":
         for line in lines:
             target_line = line.strip()
 
-            ramdom_word = get_hadoop_rand_word(target_line)
+            ramdom_word = get_openssh_rand_word(target_line)
             result_file.write(
                 f"exists x1.(_{ramdom_word[0]}(x1) & exists x2.(_{ramdom_word[1]}(x2) & (x1 = x2)))"
                 + "\n"
