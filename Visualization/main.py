@@ -68,12 +68,47 @@ def plot_attention_weights(string1, string2, filename=None):
 plot_attention_weights(
     "logname  tty",
     "logname uid 0 euid 0 tty nodevssh ruser rhost ads",
-    filename="linux.png",
+    filename="01_linux.png",
 )
 
 # Execute with the string that the user wants
 plot_attention_weights(
     "sqm  servicing",
     "info cbs sqm failed to start upload with file pattern c windows servicing",
-    filename="windows.png",
+    filename="02_windows.png",
+)
+
+# Execute with the string that the user wants
+plot_attention_weights(
+    "apache  mapreduce",
+    "info rmcommunicator allocator org apache hadoop mapreduce v2 app rm",
+    filename="03_hadoop.png",
+)
+
+# Execute with the string that the user wants
+plot_attention_weights(
+    "server  9bc36dd9",
+    "info nova osapi compute wsgi server req 9bc36dd9",
+    filename="04_openstack.png",
+)
+
+# Execute with the string that the user wants
+plot_attention_weights(
+    "httpd  workers2",
+    "notice workerenv init ok etc httpd conf workers2 propertie",
+    filename="05_apache.png",
+)
+
+# Execute with the string that the user wants
+plot_attention_weights(
+    "unix  sshd",
+    "pam unix sshd auth check pass user unknow",
+    filename="06_openssh.png",
+)
+
+# Execute with the string that the user wants
+plot_attention_weights(
+    "dhclient  dhcpack",
+    "dhclient 981 dhcpack of 172.31.69.21 from 172.31.69.1",
+    filename="07_cicids.png",
 )
