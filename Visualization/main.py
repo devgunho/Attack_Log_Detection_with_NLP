@@ -41,7 +41,7 @@ def create_attention_map(string1, string2):
 def plot_attention_weights(string1, string2, filename=None):
     attention_map = create_attention_map(string1, string2)
 
-    fig, ax = plt.subplots(figsize=(32, 32))
+    fig, ax = plt.subplots(figsize=(48, 48))
     ax.imshow(attention_map)
 
     ax.set_xticks(np.arange(attention_map.shape[1]))
@@ -50,18 +50,24 @@ def plot_attention_weights(string1, string2, filename=None):
     ax.set_xticklabels(list(string2))
     ax.set_yticklabels(list(string1))
 
-    ax.tick_params(labelsize=24)
+    ax.tick_params(labelsize=48)
     ax.tick_params(axis="x")
 
-    ax.set_xlabel("Log sentence", fontsize=50, labelpad=20)  # Set x-axis label
-    ax.set_ylabel("Decoded words", fontsize=50, labelpad=20)  # Set y-axis label
+    ax.set_xlabel("Log sentence", fontsize=56, labelpad=20)  # Set x-axis label
+    ax.set_ylabel("Decoded words", fontsize=56, labelpad=20)  # Set y-axis label
 
     if not os.path.exists(RESULTS_DIR):
         os.mkdir(RESULTS_DIR)
     if filename is None:
-        plt.savefig(os.path.join(RESULTS_DIR, "attention.png"))
+        plt.savefig(
+            os.path.join(RESULTS_DIR, "figure.png"), bbox_inches="tight", pad_inches=1
+        )
     else:
-        plt.savefig(os.path.join(RESULTS_DIR, "{}".format(filename)))
+        plt.savefig(
+            os.path.join(RESULTS_DIR, "{}".format(filename)),
+            bbox_inches="tight",
+            pad_inches=1,
+        )
 
 
 # Execute with the string that the user wants
